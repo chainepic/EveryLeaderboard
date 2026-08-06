@@ -1,0 +1,59 @@
+{
+  "slug": "soccer-pl-table",
+  "title": "Premier League Table",
+  "title_zh": "英超积分榜",
+  "description": "English Premier League club standings by points.",
+  "description_zh": "英格兰超级联赛积分榜。",
+  "status": "planned",
+  "category": "sports",
+  "tags": [
+    "soccer",
+    "premier-league"
+  ],
+  "metric": {
+    "id": "points",
+    "label": "Points",
+    "unit": "pts",
+    "higher_is_better": true
+  },
+  "schedule": {
+    "cadence": "daily",
+    "cron_hint": "0 6 * * *",
+    "timezone": "Europe/London",
+    "source_lag_hours": 3,
+    "active_months": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "sources": [
+    {
+      "name": "football-data.org",
+      "url": "https://api.football-data.org/v4/competitions/PL/standings",
+      "kind": "public_api",
+      "notes": "Free tier requires API token."
+    }
+  ],
+  "methodology": "Use total standings table; rank by points, then goal difference, then goals for.",
+  "license": {
+    "data": "CC BY 4.0 (derived snapshot)",
+    "attribution": "football-data.org",
+    "notes": "Follow football-data.org terms."
+  },
+  "connector": {
+    "module": "sports.football_data_table",
+    "enabled": false,
+    "config": {
+      "competition": "PL"
+    }
+  },
+  "schema_version": "1.0.0"
+}

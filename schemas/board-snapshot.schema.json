@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/chainepic/EveryLeaderboard/schemas/board-snapshot.schema.json",
+  "title": "EveryLeaderboard board snapshot",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "slug",
+    "generated_at",
+    "as_of",
+    "period",
+    "metric",
+    "items",
+    "source_fetched"
+  ],
+  "properties": {
+    "schema_version": { "type": "string", "const": "1.0.0" },
+    "slug": { "type": "string" },
+    "generated_at": { "type": "string", "format": "date-time" },
+    "as_of": {
+      "type": "string",
+      "description": "The period the ranking represents (ISO date or datetime)."
+    },
+    "period": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["label"],
+      "properties": {
+        "label": { "type": "string" },
+        "start": { "type": "string" },
+        "end": { "type": "string" }
+      }
+    },
+    "metric": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "unit"],
+      "properties": {
+        "id": { "type": "string" },
+        "unit": { "type": "string" }
+      }
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["rank", "id", "name", "value"],
+        "properties": {
+          "rank": { "type": "integer", "minimum": 1 },
+          "id": { "type": "string" },
+          "name": { "type": "string" },
+          "value": { "type": ["number", "integer"] },
+          "unit": { "type": "string" },
+          "delta_rank": { "type": ["integer", "null"] },
+          "meta": { "type": "object" }
+        }
+      }
+    },
+    "source_fetched": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "url", "fetched_at"],
+        "properties": {
+          "name": { "type": "string" },
+          "url": { "type": "string" },
+          "fetched_at": { "type": "string", "format": "date-time" },
+          "http_status": { "type": "integer" }
+        }
+      }
+    },
+    "notes": { "type": "string" }
+  }
+}

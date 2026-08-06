@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/chainepic/EveryLeaderboard/schemas/catalog.schema.json",
+  "title": "EveryLeaderboard catalog index",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "generated_at", "boards"],
+  "properties": {
+    "schema_version": { "type": "string", "const": "1.0.0" },
+    "generated_at": { "type": "string", "format": "date-time" },
+    "repo": { "type": "string" },
+    "boards": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "slug",
+          "title",
+          "status",
+          "category",
+          "cadence",
+          "metric_id",
+          "meta_path",
+          "latest_path"
+        ],
+        "properties": {
+          "slug": { "type": "string" },
+          "title": { "type": "string" },
+          "title_zh": { "type": "string" },
+          "status": { "type": "string" },
+          "category": { "type": "string" },
+          "cadence": { "type": "string" },
+          "metric_id": { "type": "string" },
+          "tags": { "type": "array", "items": { "type": "string" } },
+          "meta_path": { "type": "string" },
+          "latest_path": { "type": "string" }
+        }
+      }
+    }
+  }
+}

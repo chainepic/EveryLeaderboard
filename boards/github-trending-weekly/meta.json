@@ -1,0 +1,47 @@
+{
+  "slug": "github-trending-weekly",
+  "title": "GitHub Trending (Weekly)",
+  "title_zh": "GitHub Trending 周榜",
+  "description": "Repositories listed on GitHub Trending for the weekly window.",
+  "description_zh": "GitHub Trending 周榜仓库。",
+  "status": "planned",
+  "category": "software",
+  "tags": [
+    "github",
+    "trending"
+  ],
+  "metric": {
+    "id": "stars_period",
+    "label": "Stars gained (period)",
+    "unit": "stars",
+    "higher_is_better": true
+  },
+  "schedule": {
+    "cadence": "weekly",
+    "weekday": 0,
+    "cron_hint": "0 2 * * 1",
+    "timezone": "UTC",
+    "source_lag_hours": 0
+  },
+  "sources": [
+    {
+      "name": "GitHub Trending",
+      "url": "https://github.com/trending?since=weekly",
+      "kind": "public_html"
+    }
+  ],
+  "methodology": "Parse trending page for since=weekly; rank order as shown.",
+  "license": {
+    "data": "CC BY 4.0 (derived snapshot)",
+    "attribution": "GitHub Trending",
+    "notes": "Unaffiliated with GitHub; respect rate limits."
+  },
+  "connector": {
+    "module": "software.github_trending",
+    "enabled": false,
+    "config": {
+      "since": "weekly"
+    }
+  },
+  "schema_version": "1.0.0"
+}

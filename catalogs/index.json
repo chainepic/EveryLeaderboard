@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-08-06T04:07:33Z",
+  "repo": "https://github.com/chainepic/EveryLeaderboard",
+  "boards": [
+    {
+      "slug": "box-office-weekend-us",
+      "title": "US Weekend Box Office",
+      "title_zh": "北美周末票房",
+      "status": "planned",
+      "category": "media",
+      "cadence": "weekly",
+      "metric_id": "revenue_usd",
+      "tags": [
+        "box-office",
+        "film"
+      ],
+      "meta_path": "boards/box-office-weekend-us/meta.json",
+      "latest_path": "boards/box-office-weekend-us/latest.json"
+    },
+    {
+      "slug": "china-nev-brand-sales",
+      "title": "China NEV Brand Monthly Sales",
+      "title_zh": "中国新能源车品牌月销量",
+      "status": "planned",
+      "category": "auto",
+      "cadence": "monthly",
+      "metric_id": "units",
+      "tags": [
+        "china",
+        "nev",
+        "sales"
+      ],
+      "meta_path": "boards/china-nev-brand-sales/meta.json",
+      "latest_path": "boards/china-nev-brand-sales/latest.json"
+    },
+    {
+      "slug": "china-passenger-car-sales",
+      "title": "China Passenger Car Model Monthly Sales",
+      "title_zh": "中国乘用车车型月销量",
+      "status": "planned",
+      "category": "auto",
+      "cadence": "monthly",
+      "metric_id": "units",
+      "tags": [
+        "china",
+        "auto",
+        "sales"
+      ],
+      "meta_path": "boards/china-passenger-car-sales/meta.json",
+      "latest_path": "boards/china-passenger-car-sales/latest.json"
+    },
+    {
+      "slug": "crypto-marketcap-top100",
+      "title": "Crypto Market Cap Top 100",
+      "title_zh": "全球加密货币市值 Top 100",
+      "status": "experimental",
+      "category": "crypto",
+      "cadence": "every_n_hours",
+      "metric_id": "market_cap_usd",
+      "tags": [
+        "crypto",
+        "market-cap"
+      ],
+      "meta_path": "boards/crypto-marketcap-top100/meta.json",
+      "latest_path": "boards/crypto-marketcap-top100/latest.json"
+    },
+    {
+      "slug": "github-trending-daily",
+      "title": "GitHub Trending (Daily)",
+      "title_zh": "GitHub Trending 日榜",
+      "status": "planned",
+      "category": "software",
+      "cadence": "daily",
+      "metric_id": "stars_period",
+      "tags": [
+        "github",
+        "trending"
+      ],
+      "meta_path": "boards/github-trending-daily/meta.json",
+      "latest_path": "boards/github-trending-daily/latest.json"
+    },
+    {
+      "slug": "github-trending-weekly",
+      "title": "GitHub Trending (Weekly)",
+      "title_zh": "GitHub Trending 周榜",
+      "status": "planned",
+      "category": "software",
+      "cadence": "weekly",
+      "metric_id": "stars_period",
+      "tags": [
+        "github",
+        "trending"
+      ],
+      "meta_path": "boards/github-trending-weekly/meta.json",
+      "latest_path": "boards/github-trending-weekly/latest.json"
+    },
+    {
+      "slug": "hf-models-trending",
+      "title": "Hugging Face Models Trending",
+      "title_zh": "Hugging Face 热门模型",
+      "status": "planned",
+      "category": "software",
+      "cadence": "daily",
+      "metric_id": "downloads",
+      "tags": [
+        "huggingface",
+        "ai"
+      ],
+      "meta_path": "boards/hf-models-trending/meta.json",
+      "latest_path": "boards/hf-models-trending/latest.json"
+    },
+    {
+      "slug": "imdb-top250",
+      "title": "IMDb Top 250 Movies",
+      "title_zh": "IMDb Top 250 电影",
+      "status": "planned",
+      "category": "media",
+      "cadence": "weekly",
+      "metric_id": "rating",
+      "tags": [
+        "imdb",
+        "film"
+      ],
+      "meta_path": "boards/imdb-top250/meta.json",
+      "latest_path": "boards/imdb-top250/latest.json"
+    },
+    {
+      "slug": "nba-standings",
+      "title": "NBA Conference Standings",
+      "title_zh": "NBA 东西部战绩榜",
+      "status": "planned",
+      "category": "sports",
+      "cadence": "daily",
+      "metric_id": "win_pct",
+      "tags": [
+        "nba",
+        "basketball"
+      ],
+      "meta_path": "boards/nba-standings/meta.json",
+      "latest_path": "boards/nba-standings/latest.json"
+    },
+    {
+      "slug": "npm-react-ecosystem",
+      "title": "npm React Ecosystem Weekly Downloads",
+      "title_zh": "npm React 生态周下载量",
+      "status": "planned",
+      "category": "software",
+      "cadence": "weekly",
+      "metric_id": "downloads_week",
+      "tags": [
+        "npm",
+        "javascript"
+      ],
+      "meta_path": "boards/npm-react-ecosystem/meta.json",
+      "latest_path": "boards/npm-react-ecosystem/latest.json"
+    },
+    {
+      "slug": "pypi-top-tracked",
+      "title": "PyPI Tracked Packages Downloads",
+      "title_zh": "PyPI 追踪包下载量",
+      "status": "planned",
+      "category": "software",
+      "cadence": "weekly",
+      "metric_id": "downloads_month",
+      "tags": [
+        "pypi",
+        "python"
+      ],
+      "meta_path": "boards/pypi-top-tracked/meta.json",
+      "latest_path": "boards/pypi-top-tracked/latest.json"
+    },
+    {
+      "slug": "soccer-pl-table",
+      "title": "Premier League Table",
+      "title_zh": "英超积分榜",
+      "status": "planned",
+      "category": "sports",
+      "cadence": "daily",
+      "metric_id": "points",
+      "tags": [
+        "soccer",
+        "premier-league"
+      ],
+      "meta_path": "boards/soccer-pl-table/meta.json",
+      "latest_path": "boards/soccer-pl-table/latest.json"
+    },
+    {
+      "slug": "soccer-ucl-table",
+      "title": "UEFA Champions League Table",
+      "title_zh": "欧冠积分榜",
+      "status": "planned",
+      "category": "sports",
+      "cadence": "daily",
+      "metric_id": "points",
+      "tags": [
+        "soccer",
+        "ucl"
+      ],
+      "meta_path": "boards/soccer-ucl-table/meta.json",
+      "latest_path": "boards/soccer-ucl-table/latest.json"
+    },
+    {
+      "slug": "steam-top-played",
+      "title": "Steam Top Played (CCU)",
+      "title_zh": "Steam 同时在线 Top",
+      "status": "planned",
+      "category": "gaming",
+      "cadence": "daily",
+      "metric_id": "ccu",
+      "tags": [
+        "steam",
+        "ccu"
+      ],
+      "meta_path": "boards/steam-top-played/meta.json",
+      "latest_path": "boards/steam-top-played/latest.json"
+    },
+    {
+      "slug": "wikipedia-pageviews-top",
+      "title": "Wikipedia Top Pageviews",
+      "title_zh": "维基百科浏览量 Top",
+      "status": "planned",
+      "category": "web",
+      "cadence": "daily",
+      "metric_id": "pageviews",
+      "tags": [
+        "wikipedia",
+        "pageviews"
+      ],
+      "meta_path": "boards/wikipedia-pageviews-top/meta.json",
+      "latest_path": "boards/wikipedia-pageviews-top/latest.json"
+    }
+  ]
+}

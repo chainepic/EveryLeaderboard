@@ -1,0 +1,46 @@
+{
+  "slug": "github-trending-daily",
+  "title": "GitHub Trending (Daily)",
+  "title_zh": "GitHub Trending 日榜",
+  "description": "Repositories listed on GitHub Trending for the daily window.",
+  "description_zh": "GitHub Trending 日榜仓库。",
+  "status": "planned",
+  "category": "software",
+  "tags": [
+    "github",
+    "trending"
+  ],
+  "metric": {
+    "id": "stars_period",
+    "label": "Stars gained (period)",
+    "unit": "stars",
+    "higher_is_better": true
+  },
+  "schedule": {
+    "cadence": "daily",
+    "cron_hint": "0 1 * * *",
+    "timezone": "UTC",
+    "source_lag_hours": 0
+  },
+  "sources": [
+    {
+      "name": "GitHub Trending",
+      "url": "https://github.com/trending?since=daily",
+      "kind": "public_html"
+    }
+  ],
+  "methodology": "Parse trending page for since=daily; rank order as shown; store language and stars_period.",
+  "license": {
+    "data": "CC BY 4.0 (derived snapshot)",
+    "attribution": "GitHub Trending",
+    "notes": "Unaffiliated with GitHub; respect rate limits."
+  },
+  "connector": {
+    "module": "software.github_trending",
+    "enabled": false,
+    "config": {
+      "since": "daily"
+    }
+  },
+  "schema_version": "1.0.0"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "npm-react-ecosystem",
+  "title": "npm React Ecosystem Weekly Downloads",
+  "title_zh": "npm React 生态周下载量",
+  "description": "Tracked React-ecosystem packages ranked by last-week downloads.",
+  "description_zh": "选定 React 生态包按近 7 日下载量排序。",
+  "status": "planned",
+  "category": "software",
+  "tags": [
+    "npm",
+    "javascript"
+  ],
+  "metric": {
+    "id": "downloads_week",
+    "label": "Downloads (7d)",
+    "unit": "downloads",
+    "higher_is_better": true
+  },
+  "schedule": {
+    "cadence": "weekly",
+    "weekday": 1,
+    "cron_hint": "0 3 * * 2",
+    "timezone": "UTC",
+    "source_lag_hours": 24
+  },
+  "sources": [
+    {
+      "name": "npm downloads API",
+      "url": "https://api.npmjs.org/downloads/point/last-week",
+      "kind": "official_api"
+    }
+  ],
+  "methodology": "Fixed watchlist in connector config; query last-week downloads; rank descending. Not global npm top.",
+  "license": {
+    "data": "CC BY 4.0 (derived snapshot)",
+    "attribution": "npm, Inc. download counts API",
+    "notes": "Package list is curated for reproducibility."
+  },
+  "connector": {
+    "module": "software.npm_watchlist",
+    "enabled": false,
+    "config": {
+      "period": "last-week",
+      "packages": [
+        "react",
+        "react-dom",
+        "next",
+        "vue",
+        "svelte",
+        "angular",
+        "@remix-run/react",
+        "nuxt"
+      ]
+    }
+  },
+  "schema_version": "1.0.0"
+}

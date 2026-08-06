@@ -1,0 +1,50 @@
+{
+  "slug": "wikipedia-pageviews-top",
+  "title": "Wikipedia Top Pageviews",
+  "title_zh": "维基百科浏览量 Top",
+  "description": "Top Wikipedia articles by pageviews for a recent day (en wiki default).",
+  "description_zh": "维基百科近期日浏览量 Top 条目（默认英文维基）。",
+  "status": "planned",
+  "category": "web",
+  "tags": [
+    "wikipedia",
+    "pageviews"
+  ],
+  "metric": {
+    "id": "pageviews",
+    "label": "Pageviews",
+    "unit": "views",
+    "higher_is_better": true
+  },
+  "schedule": {
+    "cadence": "daily",
+    "cron_hint": "0 5 * * *",
+    "timezone": "UTC",
+    "source_lag_hours": 36
+  },
+  "sources": [
+    {
+      "name": "Wikimedia Pageviews API",
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/",
+      "kind": "official_api"
+    }
+  ],
+  "methodology": "Use pageviews top endpoint for project en.wikipedia; skip special pages if filtered by API; rank by views.",
+  "license": {
+    "data": "CC0 / public domain per Wikimedia terms for pageview metrics reuse",
+    "attribution": "Wikimedia Foundation Pageviews API",
+    "notes": "Confirm current Wikimedia API ToS."
+  },
+  "connector": {
+    "module": "web.wikipedia_pageviews",
+    "enabled": false,
+    "config": {
+      "project": "en.wikipedia",
+      "top_n": 100
+    }
+  },
+  "limits": {
+    "top_n": 100
+  },
+  "schema_version": "1.0.0"
+}

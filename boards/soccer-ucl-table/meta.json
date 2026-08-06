@@ -1,0 +1,57 @@
+{
+  "slug": "soccer-ucl-table",
+  "title": "UEFA Champions League Table",
+  "title_zh": "欧冠积分榜",
+  "description": "UEFA Champions League league-phase or group standings by points.",
+  "description_zh": "欧足联冠军联赛积分榜（联赛阶段/小组阶段）。",
+  "status": "planned",
+  "category": "sports",
+  "tags": [
+    "soccer",
+    "ucl"
+  ],
+  "metric": {
+    "id": "points",
+    "label": "Points",
+    "unit": "pts",
+    "higher_is_better": true
+  },
+  "schedule": {
+    "cadence": "daily",
+    "cron_hint": "30 6 * * *",
+    "timezone": "Europe/Paris",
+    "source_lag_hours": 3,
+    "active_months": [
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "sources": [
+    {
+      "name": "football-data.org",
+      "url": "https://api.football-data.org/v4/competitions/CL/standings",
+      "kind": "public_api"
+    }
+  ],
+  "methodology": "Export the competition standings payload; preserve group/league-phase in item.meta when present.",
+  "license": {
+    "data": "CC BY 4.0 (derived snapshot)",
+    "attribution": "football-data.org",
+    "notes": "Follow football-data.org terms."
+  },
+  "connector": {
+    "module": "sports.football_data_table",
+    "enabled": false,
+    "config": {
+      "competition": "CL"
+    }
+  },
+  "schema_version": "1.0.0"
+}

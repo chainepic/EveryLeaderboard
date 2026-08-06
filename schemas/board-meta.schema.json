@@ -1,0 +1,166 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/chainepic/EveryLeaderboard/schemas/board-meta.schema.json",
+  "title": "EveryLeaderboard board meta",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "slug",
+    "title",
+    "description",
+    "status",
+    "category",
+    "metric",
+    "schedule",
+    "sources",
+    "methodology",
+    "license",
+    "connector"
+  ],
+  "properties": {
+    "schema_version": { "type": "string", "const": "1.0.0" },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "title": { "type": "string", "minLength": 1 },
+    "title_zh": { "type": "string" },
+    "description": { "type": "string", "minLength": 1 },
+    "description_zh": { "type": "string" },
+    "status": {
+      "type": "string",
+      "enum": ["planned", "experimental", "active", "paused"]
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "crypto",
+        "sports",
+        "gaming",
+        "software",
+        "auto",
+        "media",
+        "web",
+        "other"
+      ]
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "metric": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "label", "unit", "higher_is_better"],
+      "properties": {
+        "id": { "type": "string" },
+        "label": { "type": "string" },
+        "unit": { "type": "string" },
+        "higher_is_better": { "type": "boolean" }
+      }
+    },
+    "schedule": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["cadence", "timezone"],
+      "properties": {
+        "cadence": {
+          "type": "string",
+          "enum": ["hourly", "every_n_hours", "daily", "weekly", "monthly", "on_release"]
+        },
+        "every_n_hours": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 168
+        },
+        "cron_hint": {
+          "type": "string",
+          "description": "Human/ops hint; runner uses cadence rules, not cron parsing yet."
+        },
+        "timezone": { "type": "string" },
+        "source_lag_hours": {
+          "type": "number",
+          "minimum": 0,
+          "description": "Expected delay between source publish and a useful scrape."
+        },
+        "active_months": {
+          "type": "array",
+          "items": { "type": "integer", "minimum": 1, "maximum": 12 },
+          "description": "Optional season window (1-12). Empty/omitted = year-round."
+        },
+        "weekday": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 6,
+          "description": "For weekly cadence: 0=Monday … 6=Sunday (ISO-ish ops convention: Mon=0)."
+        },
+        "day_of_month_after": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 28,
+          "description": "For monthly: run on/after this day when source usually lands."
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": { "cadence": { "const": "every_n_hours" } },
+            "required": ["cadence"]
+          },
+          "then": { "required": ["every_n_hours"] }
+        }
+      ]
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "url", "kind"],
+        "properties": {
+          "name": { "type": "string" },
+          "url": { "type": "string" },
+          "kind": {
+            "type": "string",
+            "enum": ["official_api", "public_api", "public_html", "opendata", "mirror"]
+          },
+          "notes": { "type": "string" }
+        }
+      }
+    },
+    "methodology": { "type": "string", "minLength": 1 },
+    "license": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["data", "attribution"],
+      "properties": {
+        "data": { "type": "string" },
+        "attribution": { "type": "string" },
+        "notes": { "type": "string" }
+      }
+    },
+    "connector": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["module", "enabled"],
+      "properties": {
+        "module": {
+          "type": "string",
+          "description": "Python import path under connectors/, e.g. crypto.coingecko_markets"
+        },
+        "enabled": { "type": "boolean" },
+        "config": { "type": "object" }
+      }
+    },
+    "limits": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "top_n": { "type": "integer", "minimum": 1 },
+        "notes": { "type": "string" }
+      }
+    }
+  }
+}

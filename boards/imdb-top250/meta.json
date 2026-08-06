@@ -1,0 +1,48 @@
+{
+  "slug": "imdb-top250",
+  "title": "IMDb Top 250 Movies",
+  "title_zh": "IMDb Top 250 电影",
+  "description": "IMDb Top 250 titles by weighted user rating.",
+  "description_zh": "IMDb 评分加权 Top 250 电影。",
+  "status": "planned",
+  "category": "media",
+  "tags": [
+    "imdb",
+    "film"
+  ],
+  "metric": {
+    "id": "rating",
+    "label": "IMDb rating",
+    "unit": "score",
+    "higher_is_better": true
+  },
+  "schedule": {
+    "cadence": "weekly",
+    "weekday": 6,
+    "cron_hint": "0 9 * * 0",
+    "timezone": "UTC",
+    "source_lag_hours": 0
+  },
+  "sources": [
+    {
+      "name": "IMDb Top 250",
+      "url": "https://www.imdb.com/chart/top/",
+      "kind": "public_html"
+    }
+  ],
+  "methodology": "Preserve IMDb chart order; store rating and vote count in meta. Changes slowly — weekly is enough.",
+  "license": {
+    "data": "CC BY 4.0 (derived snapshot)",
+    "attribution": "IMDb",
+    "notes": "Unaffiliated; respect IMDb conditions of use."
+  },
+  "connector": {
+    "module": "media.imdb_top250",
+    "enabled": false,
+    "config": {}
+  },
+  "limits": {
+    "top_n": 250
+  },
+  "schema_version": "1.0.0"
+}

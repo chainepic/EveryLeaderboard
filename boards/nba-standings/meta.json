@@ -1,0 +1,56 @@
+{
+  "slug": "nba-standings",
+  "title": "NBA Conference Standings",
+  "title_zh": "NBA 东西部战绩榜",
+  "description": "Current NBA East/West standings by win percentage.",
+  "description_zh": "NBA 东西部按胜率排列的实时战绩。",
+  "status": "planned",
+  "category": "sports",
+  "tags": [
+    "nba",
+    "basketball"
+  ],
+  "metric": {
+    "id": "win_pct",
+    "label": "Win percentage",
+    "unit": "ratio",
+    "higher_is_better": true
+  },
+  "schedule": {
+    "cadence": "daily",
+    "cron_hint": "0 12 * * *",
+    "timezone": "America/New_York",
+    "source_lag_hours": 6,
+    "active_months": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "sources": [
+    {
+      "name": "NBA Stats / CDN standings endpoints",
+      "url": "https://www.nba.com/standings",
+      "kind": "public_api",
+      "notes": "Prefer official JSON CDN when stable; fall back documented in connector."
+    }
+  ],
+  "methodology": "Separate East/West tables; primary sort win_pct, then wins. Store conference in item.meta.",
+  "license": {
+    "data": "CC BY 4.0 (derived snapshot)",
+    "attribution": "Standings derived from NBA public data",
+    "notes": "Non-commercial redistribution; cite NBA."
+  },
+  "connector": {
+    "module": "sports.nba_standings",
+    "enabled": false,
+    "config": {}
+  },
+  "schema_version": "1.0.0"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "hf-models-trending",
+  "title": "Hugging Face Models Trending",
+  "title_zh": "Hugging Face 热门模型",
+  "description": "Hugging Face Hub models ranked by downloads (trending endpoint / search sort).",
+  "description_zh": "Hugging Face Hub 按下载量/热度排序的模型。",
+  "status": "planned",
+  "category": "software",
+  "tags": [
+    "huggingface",
+    "ai"
+  ],
+  "metric": {
+    "id": "downloads",
+    "label": "Downloads",
+    "unit": "downloads",
+    "higher_is_better": true
+  },
+  "schedule": {
+    "cadence": "daily",
+    "cron_hint": "0 4 * * *",
+    "timezone": "UTC",
+    "source_lag_hours": 0
+  },
+  "sources": [
+    {
+      "name": "Hugging Face Hub API",
+      "url": "https://huggingface.co/api/models",
+      "kind": "public_api"
+    }
+  ],
+  "methodology": "Query Hub API sorted by downloads; take top N; store likes and pipeline_tag in meta.",
+  "license": {
+    "data": "CC BY 4.0 (derived snapshot)",
+    "attribution": "Hugging Face Hub",
+    "notes": "Respect Hub API rate limits."
+  },
+  "connector": {
+    "module": "software.hf_models",
+    "enabled": false,
+    "config": {
+      "top_n": 50
+    }
+  },
+  "limits": {
+    "top_n": 50
+  },
+  "schema_version": "1.0.0"
+}

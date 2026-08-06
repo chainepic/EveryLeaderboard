@@ -1,0 +1,46 @@
+{
+  "slug": "box-office-weekend-us",
+  "title": "US Weekend Box Office",
+  "title_zh": "北美周末票房",
+  "description": "Top films by US weekend box office revenue.",
+  "description_zh": "北美周末票房收入排行。",
+  "status": "planned",
+  "category": "media",
+  "tags": [
+    "box-office",
+    "film"
+  ],
+  "metric": {
+    "id": "revenue_usd",
+    "label": "Weekend gross",
+    "unit": "USD",
+    "higher_is_better": true
+  },
+  "schedule": {
+    "cadence": "weekly",
+    "weekday": 0,
+    "cron_hint": "0 15 * * 1",
+    "timezone": "America/Los_Angeles",
+    "source_lag_hours": 12
+  },
+  "sources": [
+    {
+      "name": "Public box office charts",
+      "url": "https://www.boxofficemojo.com/weekend/",
+      "kind": "public_html",
+      "notes": "Pick the most stable public chart; document parser."
+    }
+  ],
+  "methodology": "Weekend chart for the most recently closed weekend; rank by weekend gross USD.",
+  "license": {
+    "data": "CC BY 4.0 (derived snapshot)",
+    "attribution": "Cite chart publisher + weekend dates",
+    "notes": "Derived table only."
+  },
+  "connector": {
+    "module": "media.box_office_weekend_us",
+    "enabled": false,
+    "config": {}
+  },
+  "schema_version": "1.0.0"
+}

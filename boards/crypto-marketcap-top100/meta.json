@@ -1,0 +1,52 @@
+{
+  "slug": "crypto-marketcap-top100",
+  "title": "Crypto Market Cap Top 100",
+  "title_zh": "全球加密货币市值 Top 100",
+  "description": "Top 100 cryptocurrencies by circulating market capitalization.",
+  "description_zh": "按流通市值排序的全球加密货币 Top 100。",
+  "status": "experimental",
+  "category": "crypto",
+  "tags": [
+    "crypto",
+    "market-cap"
+  ],
+  "metric": {
+    "id": "market_cap_usd",
+    "label": "Market cap",
+    "unit": "USD",
+    "higher_is_better": true
+  },
+  "schedule": {
+    "cadence": "every_n_hours",
+    "every_n_hours": 6,
+    "cron_hint": "0 */6 * * *",
+    "timezone": "UTC",
+    "source_lag_hours": 0
+  },
+  "sources": [
+    {
+      "name": "CoinGecko",
+      "url": "https://api.coingecko.com/api/v3/coins/markets",
+      "kind": "public_api",
+      "notes": "Demo plan rate limits apply; optional API key."
+    }
+  ],
+  "methodology": "Rank by market_cap descending from CoinGecko /coins/markets. Value is USD market cap as reported by the API.",
+  "license": {
+    "data": "CC BY 4.0 (derived snapshot)",
+    "attribution": "Data from CoinGecko",
+    "notes": "Respect CoinGecko API ToS."
+  },
+  "connector": {
+    "module": "crypto.coingecko_markets",
+    "enabled": true,
+    "config": {
+      "vs_currency": "usd",
+      "per_page": 100
+    }
+  },
+  "limits": {
+    "top_n": 100
+  },
+  "schema_version": "1.0.0"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "china-nev-brand-sales",
+  "title": "China NEV Brand Monthly Sales",
+  "title_zh": "中国新能源车品牌月销量",
+  "description": "Monthly new-energy vehicle brand sales ranking in China from public sales aggregators.",
+  "description_zh": "中国新能源车品牌月度销量排行（公开销量汇总源）。",
+  "status": "planned",
+  "category": "auto",
+  "tags": [
+    "china",
+    "nev",
+    "sales"
+  ],
+  "metric": {
+    "id": "units",
+    "label": "Units sold",
+    "unit": "vehicles",
+    "higher_is_better": true
+  },
+  "schedule": {
+    "cadence": "monthly",
+    "day_of_month_after": 8,
+    "cron_hint": "0 10 8-14 * *",
+    "timezone": "Asia/Shanghai",
+    "source_lag_hours": 72
+  },
+  "sources": [
+    {
+      "name": "Public China auto sales boards (e.g. xl.16888.com)",
+      "url": "https://xl.16888.com",
+      "kind": "public_html",
+      "notes": "Cross-check with CPCA/CAAM summaries when available."
+    }
+  ],
+  "methodology": "After month close, scrape/parse brand NEV sales for previous calendar month; rank by units. Document exclusions (imports, commercial) in notes.",
+  "license": {
+    "data": "CC BY 4.0 (derived snapshot)",
+    "attribution": "Cite upstream sales board + month",
+    "notes": "Derived ranking only; not an official CPCA release."
+  },
+  "connector": {
+    "module": "auto.china_nev_brand_sales",
+    "enabled": false,
+    "config": {}
+  },
+  "schema_version": "1.0.0"
+}
