@@ -1,89 +1,78 @@
 <div align="center">
 
-<img src="docs/assets/logo.svg" alt="EveryLeaderboard logo" width="96" height="96" />
+<img src="docs/assets/logo.svg" alt="EveryLeaderboard logo" width="88" height="88" />
 
 # EveryLeaderboard
 
-**Open catalog of objective, quantifiable leaderboards.**  
-Sales · standings · market caps · downloads — normalized JSON, per-board schedules, free to call.
+**Open catalog of objective, quantifiable leaderboards.**
+
+[English](README.md) · [简体中文](README.zh-CN.md)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-0ea5e9?style=flat-square)](LICENSE)
 [![Boards](https://img.shields.io/badge/boards-15-0284c7?style=flat-square)](catalogs/index.json)
 [![Schema](https://img.shields.io/badge/schema-v1.0.0-38bdf8?style=flat-square)](schemas/)
-[![Updates](https://img.shields.io/badge/updates-per--board%20schedule-0369a1?style=flat-square)](#per-board-schedules)
 [![GitHub stars](https://img.shields.io/github/stars/chainepic/EveryLeaderboard?style=flat-square)](https://github.com/chainepic/EveryLeaderboard/stargazers)
 
-[Catalog](#board-catalog) · [API](#api-zero-server) · [Quick start](#quick-start) · [Admission](#admission-rules) · [Contributing](#contributing)
+<br/>
+
+<img src="docs/assets/banner.png" alt="EveryLeaderboard banner" width="860" />
 
 </div>
 
 ---
 
 > [!IMPORTANT]
-> This project aggregates **measurable rankings with cited sources** — not editorial tier lists or subjective S/A/B opinions.
+> Measurable rankings with cited sources only — **not** editorial tier lists or subjective S/A/B opinions.
+
+## Preview
+
+Live board rendered from JSON → shareable PNG (auto-refreshed by Actions when snapshots update):
+
+<div align="center">
+  <img src="docs/assets/preview-crypto-top10.png" alt="Crypto Market Cap Top 10 preview" width="860" />
+  <p><sub>Crypto Market Cap Top 10 · generated from <code>boards/crypto-marketcap-top100/latest.json</code></sub></p>
+</div>
+
+Regenerate locally:
+
+```bash
+python scripts/render_preview.py
+```
 
 ## Why
 
-Rankings on the web are often trapped in paywalled PDFs or inconsistent blog HTML. EveryLeaderboard turns stable public sources into:
+Rankings are often locked in paywalled PDFs or messy blog HTML. This repo turns stable public sources into:
 
-| You get | How |
+| Deliverable | Path |
 | --- | --- |
-| A browsable **catalog** | [`catalogs/index.json`](catalogs/index.json) |
-| Call-ready **snapshots** | `boards/{slug}/latest.json` |
-| Diffable **history** | git commits + `boards/{slug}/history/` |
-| Honest **cadence** | each board declares its own update schedule |
+| Browsable catalog | [`catalogs/index.json`](catalogs/index.json) |
+| Call-ready snapshots | `boards/{slug}/latest.json` |
+| Diffable history | `boards/{slug}/history/` |
+| Shareable previews | [`docs/assets/`](docs/assets/) |
 
 ## Features
 
 | | |
 | --- | --- |
-| 📊 **Objective only** | Numeric metrics with units (USD, units sold, points, downloads…) |
-| ⏱️ **Per-board schedules** | Hourly / daily / weekly / monthly / on-release — not one global cron |
-| 🔌 **Connector model** | One adapter per source family under `connectors/` |
-| 🧾 **Provenance** | Every snapshot records sources, fetch time, and methodology via `meta.json` |
-| 🌐 **Zero-server API** | Consume via `raw.githubusercontent.com` or jsDelivr |
-| ✅ **Schema-validated** | JSON Schema for meta, snapshots, and catalog |
+| 📊 **Objective only** | Numeric metrics with units |
+| 🖼️ **Shareable images** | PNG previews rendered from snapshots |
+| ⏱️ **Per-board schedules** | Hourly / daily / weekly / monthly / on-release |
+| 🔌 **Connectors** | One adapter per source family |
+| 🧾 **Provenance** | Sources + methodology in each `meta.json` |
+| 🌐 **Zero-server API** | `raw.githubusercontent.com` / jsDelivr |
 
 ## API (zero server)
 
 ```bash
-# Full catalog
 curl -sL https://raw.githubusercontent.com/chainepic/EveryLeaderboard/main/catalogs/index.json
-
-# Latest snapshot
 curl -sL https://raw.githubusercontent.com/chainepic/EveryLeaderboard/main/boards/crypto-marketcap-top100/latest.json
-
-# Historical day (when archived)
-curl -sL https://raw.githubusercontent.com/chainepic/EveryLeaderboard/main/boards/crypto-marketcap-top100/history/2026-08-06.json
 ```
 
-CDN mirror:
+CDN:
 
 ```text
 https://cdn.jsdelivr.net/gh/chainepic/EveryLeaderboard@main/boards/{slug}/latest.json
 ```
-
-<details>
-<summary><strong>Snapshot shape (abridged)</strong></summary>
-
-```json
-{
-  "schema_version": "1.0.0",
-  "slug": "crypto-marketcap-top100",
-  "generated_at": "2026-08-06T04:08:20Z",
-  "as_of": "2026-08-06T04:08:20Z",
-  "period": { "label": "live" },
-  "metric": { "id": "market_cap_usd", "unit": "USD" },
-  "items": [
-    { "rank": 1, "id": "bitcoin", "name": "Bitcoin", "value": 1293260115894.0 }
-  ],
-  "source_fetched": [
-    { "name": "CoinGecko", "url": "https://api.coingecko.com/...", "fetched_at": "..." }
-  ]
-}
-```
-
-</details>
 
 ## Board catalog
 
@@ -107,35 +96,6 @@ https://cdn.jsdelivr.net/gh/chainepic/EveryLeaderboard@main/boards/{slug}/latest
 
 \* Season-aware (`active_months` in meta).
 
-| Status | Meaning |
-| --- | --- |
-| `planned` | Registered; connector not shipping yet |
-| `experimental` | Connector runs; expect breakage |
-| `active` | Trusted for consumers |
-| `paused` | Temporarily stopped |
-
-## Per-board schedules
-
-GitHub Actions may wake **hourly**; [`scripts/run_due.py`](scripts/run_due.py) only executes boards that are due.
-
-| Cadence | Typical use |
-| --- | --- |
-| `every_n_hours` | Fast markets (crypto) |
-| `daily` | Sports tables, trending charts |
-| `weekly` | Box office, weekly downloads |
-| `monthly` | Auto sales after month close |
-| `on_release` | Manual / source-publish window |
-
-## Admission rules
-
-A board ships only if:
-
-1. **Metric is numeric** (units, points, revenue, downloads, CCU, …)
-2. **Source is citable** and preferably automatable
-3. **Update cadence matches the source**
-4. **Methodology** is documented in `boards/<slug>/meta.json`
-5. **License / ToS** allow redistribution of the derived snapshot
-
 ## Quick start
 
 ```bash
@@ -143,67 +103,43 @@ git clone https://github.com/chainepic/EveryLeaderboard.git
 cd EveryLeaderboard
 python3 -m pip install -r requirements.txt
 
-# Validate catalog + meta + snapshots
 python scripts/validate.py
-
-# See which boards are due right now
 python scripts/run_due.py --dry-run
-
-# Run due (enabled) connectors
-python scripts/run_due.py
-
-# Force one board
-python scripts/run_due.py --slug crypto-marketcap-top100 --force --include-disabled
+python scripts/run_due.py --slug crypto-marketcap-top100 --force
+python scripts/render_preview.py
 ```
-
-Optional secrets (see [`.env.example`](.env.example)):
-
-| Variable | Used by |
-| --- | --- |
-| `COINGECKO_API_KEY` | Crypto market cap |
-| `FOOTBALL_DATA_API_KEY` | Premier League / UCL |
 
 ## Repository layout
 
 ```text
-catalogs/index.json          # machine-readable directory
-schemas/                     # JSON Schema (meta / snapshot / catalog)
-boards/<slug>/meta.json      # definition, sources, schedule
-boards/<slug>/latest.json    # newest snapshot
-boards/<slug>/history/       # dated archives
+boards/<slug>/latest.json    # data
+docs/assets/*.png            # shareable previews
+scripts/render_preview.py    # JSON → PNG
+scripts/run_due.py           # per-board schedule runner
 connectors/                  # source adapters
-scripts/run_due.py           # schedule gate + runner
-.github/workflows/update.yml # hourly wake → due boards only
 ```
 
 ```mermaid
 flowchart LR
   A[Public sources] --> B[Connectors]
-  B --> C[latest.json + history]
-  C --> D[GitHub raw / jsDelivr]
-  D --> E[Apps · notebooks · sites]
+  B --> C[latest.json]
+  C --> D[PNG previews]
+  C --> E[raw.githubusercontent / jsDelivr]
   F[GitHub Actions] -->|per-board cadence| B
 ```
 
 ## Contributing
 
-Ideas that fit:
-
-- New boards with **stable, objective, automatable** sources
-- Hardening experimental connectors toward `active`
-- Schema / validation improvements
-
-Please open an issue with: proposed slug, metric + unit, source URL, and intended cadence.
+Open an issue with: slug, metric + unit, source URL, cadence.  
+Subjective / unauditable lists will be rejected.
 
 ## License
 
-- **Code** (connectors, scripts, workflows): [MIT](LICENSE)
-- **Data snapshots**: each board declares `license` in its `meta.json` (often CC BY 4.0 for derived tables). Always respect upstream terms.
+- **Code**: [MIT](LICENSE)
+- **Data**: declared per board in `meta.json` — respect upstream terms
 
 ---
 
 <div align="center">
-
-Made for people who want rankings they can **measure**, **cite**, and **automate**.
-
+<sub>English · <a href="README.zh-CN.md">简体中文</a></sub>
 </div>

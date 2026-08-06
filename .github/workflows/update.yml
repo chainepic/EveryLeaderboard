@@ -34,11 +34,17 @@ jobs:
       - name: Rebuild catalog
         run: python scripts/rebuild_catalog.py
 
+      - name: Install CJK font for previews
+        run: sudo apt-get update && sudo apt-get install -y fonts-wqy-microhei
+
+      - name: Render shareable preview images
+        run: python scripts/render_preview.py
+
       - name: Commit snapshots
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add boards catalogs
+          git add boards catalogs docs/assets
           if git diff --staged --quiet; then
             echo "No data changes"
           else
