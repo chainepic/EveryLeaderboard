@@ -4,7 +4,7 @@
   "title_zh": "中国乘用车车型月销量",
   "description": "Monthly passenger-car model sales ranking in China from public aggregators.",
   "description_zh": "中国乘用车车型月度销量排行。",
-  "status": "planned",
+  "status": "experimental",
   "category": "auto",
   "tags": [
     "china",
@@ -27,9 +27,10 @@
   },
   "sources": [
     {
-      "name": "Public China auto sales boards",
-      "url": "https://xl.16888.com",
-      "kind": "public_html"
+      "name": "ChenyuHeee/chinese-car-watch",
+      "url": "https://github.com/ChenyuHeee/chinese-car-watch",
+      "kind": "mirror",
+      "notes": "CC BY 4.0 CSV snapshots"
     }
   ],
   "methodology": "Previous calendar month model ranking by retail/wholesale units as labeled by source; preserve source field names in meta.",
@@ -40,7 +41,7 @@
   },
   "connector": {
     "module": "auto.china_passenger_car_sales",
-    "enabled": false,
+    "enabled": true,
     "config": {}
   },
   "schema_version": "1.0.0"

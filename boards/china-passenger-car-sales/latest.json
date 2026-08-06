@@ -1,0 +1,624 @@
+{
+  "schema_version": "1.0.0",
+  "slug": "china-passenger-car-sales",
+  "generated_at": "2026-08-06T15:47:06Z",
+  "as_of": "202605",
+  "period": {
+    "label": "month:202605"
+  },
+  "metric": {
+    "id": "units",
+    "unit": "vehicles"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "id": "星愿",
+      "name": "星愿",
+      "value": 38751.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "6.48-9.48万"
+      }
+    },
+    {
+      "rank": 2,
+      "id": "Model Y",
+      "name": "Model Y",
+      "value": 28911.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "26.35-31.35万"
+      }
+    },
+    {
+      "rank": 3,
+      "id": "小米SU7",
+      "name": "小米SU7",
+      "value": 24023.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "21.99-30.39万"
+      }
+    },
+    {
+      "rank": 4,
+      "id": "零跑A10",
+      "name": "零跑A10",
+      "value": 22306.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "6.58-8.68万"
+      }
+    },
+    {
+      "rank": 5,
+      "id": "理想i6",
+      "name": "理想i6",
+      "value": 20878.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "24.98-26.98万"
+      }
+    },
+    {
+      "rank": 6,
+      "id": "海狮06",
+      "name": "海狮06",
+      "value": 18856.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "12.99-19.98万"
+      }
+    },
+    {
+      "rank": 7,
+      "id": "Model 3",
+      "name": "Model 3",
+      "value": 18370.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "23.55-33.95万"
+      }
+    },
+    {
+      "rank": 8,
+      "id": "宏光MINIEV",
+      "name": "宏光MINIEV",
+      "value": 18308.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "3.58-5.58万"
+      }
+    },
+    {
+      "rank": 9,
+      "id": "问界M6",
+      "name": "问界M6",
+      "value": 18148.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "25.98-29.98万"
+      }
+    },
+    {
+      "rank": 10,
+      "id": "钛7",
+      "name": "钛7",
+      "value": 17510.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "17.98-23.98万"
+      }
+    },
+    {
+      "rank": 11,
+      "id": "元UP",
+      "name": "元UP",
+      "value": 17043.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "7.48-11.98万"
+      }
+    },
+    {
+      "rank": 12,
+      "id": "长安启源Q05",
+      "name": "长安启源Q05",
+      "value": 15954.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "7.99-11.49万"
+      }
+    },
+    {
+      "rank": 13,
+      "id": "宋Pro新能源",
+      "name": "宋Pro新能源",
+      "value": 15497.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "10.28-13.38万"
+      }
+    },
+    {
+      "rank": 14,
+      "id": "MG4",
+      "name": "MG4",
+      "value": 15067.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "6.88-10.28万"
+      }
+    },
+    {
+      "rank": 15,
+      "id": "小鹏MONA M03",
+      "name": "小鹏MONA M03",
+      "value": 14160.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "11.98-15.18万"
+      }
+    },
+    {
+      "rank": 16,
+      "id": "缤果Pro",
+      "name": "缤果Pro",
+      "value": 13657.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "5.68-7.08万"
+      }
+    },
+    {
+      "rank": 17,
+      "id": "博越L",
+      "name": "博越L",
+      "value": 13395.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "9.99-14.97万"
+      }
+    },
+    {
+      "rank": 18,
+      "id": "朗逸",
+      "name": "朗逸",
+      "value": 13033.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "8.00-15.19万"
+      }
+    },
+    {
+      "rank": 19,
+      "id": "秦PLUS",
+      "name": "秦PLUS",
+      "value": 12971.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "7.98-17.98万"
+      }
+    },
+    {
+      "rank": 20,
+      "id": "轩逸",
+      "name": "轩逸",
+      "value": 12936.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "7.99-17.49万"
+      }
+    },
+    {
+      "rank": 21,
+      "id": "缤越",
+      "name": "缤越",
+      "value": 12841.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "6.68-9.78万"
+      }
+    },
+    {
+      "rank": 22,
+      "id": "海豚",
+      "name": "海豚",
+      "value": 12819.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "9.98-12.98万"
+      }
+    },
+    {
+      "rank": 23,
+      "id": "途观L",
+      "name": "途观L",
+      "value": 12503.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "18.68-26.68万"
+      }
+    },
+    {
+      "rank": 24,
+      "id": "凯美瑞",
+      "name": "凯美瑞",
+      "value": 12237.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "17.18-25.98万"
+      }
+    },
+    {
+      "rank": 25,
+      "id": "迈腾",
+      "name": "迈腾",
+      "value": 12170.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "17.49-24.69万"
+      }
+    },
+    {
+      "rank": 26,
+      "id": "蔚来ES8",
+      "name": "蔚来ES8",
+      "value": 11472.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "40.68-59.80万"
+      }
+    },
+    {
+      "rank": 27,
+      "id": "探岳",
+      "name": "探岳",
+      "value": 11425.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "19.89-25.99万"
+      }
+    },
+    {
+      "rank": 28,
+      "id": "星越L",
+      "name": "星越L",
+      "value": 11099.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "13.97-17.97万"
+      }
+    },
+    {
+      "rank": 29,
+      "id": "本田CR-V",
+      "name": "本田CR-V",
+      "value": 10744.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "18.59-24.99万"
+      }
+    },
+    {
+      "rank": 30,
+      "id": "帕萨特",
+      "name": "帕萨特",
+      "value": 10727.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "16.45-30.98万"
+      }
+    },
+    {
+      "rank": 31,
+      "id": "锋兰达",
+      "name": "锋兰达",
+      "value": 10725.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "12.88-18.48万"
+      }
+    },
+    {
+      "rank": 32,
+      "id": "深蓝S05",
+      "name": "深蓝S05",
+      "value": 10594.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "11.69-14.99万"
+      }
+    },
+    {
+      "rank": 33,
+      "id": "长安CS75PLUS",
+      "name": "长安CS75PLUS",
+      "value": 10103.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "10.89-14.39万"
+      }
+    },
+    {
+      "rank": 34,
+      "id": "秦L",
+      "name": "秦L",
+      "value": 10019.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "9.68-15.38万"
+      }
+    },
+    {
+      "rank": 35,
+      "id": "宋Ultra",
+      "name": "宋Ultra",
+      "value": 9961.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "12.99-17.99万"
+      }
+    },
+    {
+      "rank": 36,
+      "id": "RAV4荣放",
+      "name": "RAV4荣放",
+      "value": 9857.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "16.98-23.88万"
+      }
+    },
+    {
+      "rank": 37,
+      "id": "海鸥",
+      "name": "海鸥",
+      "value": 9822.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "6.98-8.59万"
+      }
+    },
+    {
+      "rank": 38,
+      "id": "宝马3系",
+      "name": "宝马3系",
+      "value": 9754.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "25.80-39.99万"
+      }
+    },
+    {
+      "rank": 39,
+      "id": "速腾",
+      "name": "速腾",
+      "value": 9554.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "9.38-16.49万"
+      }
+    },
+    {
+      "rank": 40,
+      "id": "AION i60",
+      "name": "AION i60",
+      "value": 9471.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "10.28-13.58万"
+      }
+    },
+    {
+      "rank": 41,
+      "id": "问界M7",
+      "name": "问界M7",
+      "value": 9199.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "24.98-38.98万"
+      }
+    },
+    {
+      "rank": 42,
+      "id": "极氪9X",
+      "name": "极氪9X",
+      "value": 9058.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "46.59-59.99万"
+      }
+    },
+    {
+      "rank": 43,
+      "id": "奔驰E级",
+      "name": "奔驰E级",
+      "value": 8928.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "37.88-59.98万"
+      }
+    },
+    {
+      "rank": 44,
+      "id": "小米YU7",
+      "name": "小米YU7",
+      "value": 8736.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "23.35-38.99万"
+      }
+    },
+    {
+      "rank": 45,
+      "id": "奥迪A6L",
+      "name": "奥迪A6L",
+      "value": 8709.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "32.29-55.89万"
+      }
+    },
+    {
+      "rank": 46,
+      "id": "星瑞",
+      "name": "星瑞",
+      "value": 8592.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "9.87-14.67万"
+      }
+    },
+    {
+      "rank": 47,
+      "id": "QQ3 EV",
+      "name": "QQ3 EV",
+      "value": 8523.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "5.89-7.89万"
+      }
+    },
+    {
+      "rank": 48,
+      "id": "海豹06",
+      "name": "海豹06",
+      "value": 8415.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "9.68-13.98万"
+      }
+    },
+    {
+      "rank": 49,
+      "id": "威兰达",
+      "name": "威兰达",
+      "value": 8056.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "16.98-26.48万"
+      }
+    },
+    {
+      "rank": 50,
+      "id": "哈弗大狗",
+      "name": "哈弗大狗",
+      "value": 7886.0,
+      "unit": "vehicles",
+      "meta": {
+        "month": "202605",
+        "type": "style",
+        "price_range": "12.39-14.99万"
+      }
+    }
+  ],
+  "source_fetched": [
+    {
+      "name": "chinese-car-watch",
+      "url": "https://raw.githubusercontent.com/ChenyuHeee/chinese-car-watch/main/data/sales/2026/202605_style.csv",
+      "fetched_at": "2026-08-06T15:47:06Z",
+      "http_status": 200
+    }
+  ],
+  "notes": "Derived from ChenyuHeee/chinese-car-watch CC BY 4.0 CSVs"
+}

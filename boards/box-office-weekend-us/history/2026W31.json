@@ -1,0 +1,223 @@
+{
+  "schema_version": "1.0.0",
+  "slug": "box-office-weekend-us",
+  "generated_at": "2026-08-06T15:47:04Z",
+  "as_of": "2026W31",
+  "period": {
+    "label": "2026W31"
+  },
+  "metric": {
+    "id": "revenue_usd",
+    "unit": "USD"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "id": "Spider-Man: Brand New Day",
+      "name": "Spider-Man: Brand New Day",
+      "value": 360091572.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 2,
+      "id": "The Odyssey",
+      "name": "The Odyssey",
+      "value": 51047820.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 3,
+      "id": "Toy Story 5",
+      "name": "Toy Story 5",
+      "value": 6768503.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 4,
+      "id": "Minions & Monsters",
+      "name": "Minions & Monsters",
+      "value": 6009270.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 5,
+      "id": "Moana",
+      "name": "Moana",
+      "value": 5609905.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 6,
+      "id": "Hadestown: The Musical",
+      "name": "Hadestown: The Musical",
+      "value": 2043857.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 7,
+      "id": "The Invite",
+      "name": "The Invite",
+      "value": 1244344.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 8,
+      "id": "Evil Dead Burn",
+      "name": "Evil Dead Burn",
+      "value": 750761.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 9,
+      "id": "I Want Your Sex",
+      "name": "I Want Your Sex",
+      "value": 634877.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 10,
+      "id": "Young Washington",
+      "name": "Young Washington",
+      "value": 505563.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 11,
+      "id": "Obsession",
+      "name": "Obsession",
+      "value": 503305.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 12,
+      "id": "Backrooms",
+      "name": "Backrooms",
+      "value": 331678.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 13,
+      "id": "Motor City",
+      "name": "Motor City",
+      "value": 271544.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 14,
+      "id": "Disclosure Day",
+      "name": "Disclosure Day",
+      "value": 176345.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 15,
+      "id": "Supergirl",
+      "name": "Supergirl",
+      "value": 95709.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 16,
+      "id": "Mary Oliver: Saved by the Beauty of the World",
+      "name": "Mary Oliver: Saved by the Beauty of the World",
+      "value": 70380.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 17,
+      "id": "The Samurai and the Prisoner",
+      "name": "The Samurai and the Prisoner",
+      "value": 64474.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 18,
+      "id": "Her Private Hell",
+      "name": "Her Private Hell",
+      "value": 55321.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 19,
+      "id": "Sheep in the Box",
+      "name": "Sheep in the Box",
+      "value": 53100.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 20,
+      "id": "Pinocchio: Unstrung",
+      "name": "Pinocchio: Unstrung",
+      "value": 50786.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 21,
+      "id": "Haunted Heist",
+      "name": "Haunted Heist",
+      "value": 30919.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 22,
+      "id": "American Pachuco: The Legend of Luis Valdez",
+      "name": "American Pachuco: The Legend of Luis Valdez",
+      "value": 25140.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 23,
+      "id": "Reading Lolita in Tehran",
+      "name": "Reading Lolita in Tehran",
+      "value": 25063.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 24,
+      "id": "Wild Inside",
+      "name": "Wild Inside",
+      "value": 19491.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 25,
+      "id": "Manhunter",
+      "name": "Manhunter",
+      "value": 19215.0,
+      "unit": "USD",
+      "meta": {}
+    }
+  ],
+  "source_fetched": [
+    {
+      "name": "Box Office Mojo",
+      "url": "https://www.boxofficemojo.com/weekend/2026W31/",
+      "fetched_at": "2026-08-06T15:47:04Z",
+      "http_status": 200
+    }
+  ]
+}

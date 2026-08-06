@@ -4,7 +4,7 @@
   "title_zh": "DeFi 协议 TVL 榜",
   "description": "DeFi protocols ranked by total value locked (USD) via DeFiLlama public API.",
   "description_zh": "按锁仓量（TVL）排序的 DeFi 协议榜（DeFiLlama 公开 API）。",
-  "status": "planned",
+  "status": "experimental",
   "category": "crypto",
   "tags": [
     "defi",
@@ -39,7 +39,7 @@
   },
   "connector": {
     "module": "crypto.defillama_tvl",
-    "enabled": false,
+    "enabled": true,
     "config": {
       "top_n": 50
     }

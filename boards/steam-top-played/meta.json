@@ -4,7 +4,7 @@
   "title_zh": "Steam 同时在线 Top",
   "description": "Games ranked by current concurrent players on Steam.",
   "description_zh": "按 Steam 当前同时在线人数排序的游戏榜。",
-  "status": "planned",
+  "status": "experimental",
   "category": "gaming",
   "tags": [
     "steam",
@@ -25,10 +25,9 @@
   },
   "sources": [
     {
-      "name": "Steam Charts / Steam store charts",
-      "url": "https://store.steampowered.com/charts/topselling/global",
-      "kind": "public_html",
-      "notes": "Prefer Steam Web API charts endpoints when available; document exact URL in connector."
+      "name": "Steam Web API ISteamChartsService",
+      "url": "https://api.steampowered.com/ISteamChartsService/GetGamesByConcurrentPlayers/v1/",
+      "kind": "official_api"
     }
   ],
   "methodology": "Capture top N by concurrent players at fetch time. as_of is fetch timestamp.",
@@ -39,9 +38,9 @@
   },
   "connector": {
     "module": "gaming.steam_top_played",
-    "enabled": false,
+    "enabled": true,
     "config": {
-      "top_n": 100
+      "top_n": 30
     }
   },
   "limits": {

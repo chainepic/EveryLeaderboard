@@ -4,7 +4,7 @@
   "title_zh": "维基百科浏览量 Top",
   "description": "Top Wikipedia articles by pageviews for a recent day (en wiki default).",
   "description_zh": "维基百科近期日浏览量 Top 条目（默认英文维基）。",
-  "status": "planned",
+  "status": "experimental",
   "category": "web",
   "tags": [
     "wikipedia",
@@ -38,7 +38,7 @@
   },
   "connector": {
     "module": "web.wikipedia_pageviews",
-    "enabled": false,
+    "enabled": true,
     "config": {
       "project": "en.wikipedia",
       "top_n": 100

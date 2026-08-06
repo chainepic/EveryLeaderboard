@@ -4,7 +4,7 @@
   "title_zh": "GitHub Trending 月榜",
   "description": "Repositories listed on GitHub Trending for the monthly window.",
   "description_zh": "GitHub Trending 月榜仓库。",
-  "status": "planned",
+  "status": "experimental",
   "category": "software",
   "tags": [
     "github",
@@ -40,7 +40,7 @@
   },
   "connector": {
     "module": "software.github_trending",
-    "enabled": false,
+    "enabled": true,
     "config": {
       "since": "monthly",
       "prefer_mirror": "isboyjc/github-trending-api"

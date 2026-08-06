@@ -4,7 +4,7 @@
   "title_zh": "英超积分榜",
   "description": "English Premier League club standings by points.",
   "description_zh": "英格兰超级联赛积分榜。",
-  "status": "planned",
+  "status": "experimental",
   "category": "sports",
   "tags": [
     "soccer",
@@ -37,10 +37,10 @@
   },
   "sources": [
     {
-      "name": "football-data.org",
-      "url": "https://api.football-data.org/v4/competitions/PL/standings",
+      "name": "ESPN Soccer Standings API",
+      "url": "https://site.web.api.espn.com/apis/v2/sports/soccer/",
       "kind": "public_api",
-      "notes": "Free tier requires API token."
+      "notes": "Uses site.web.api; auto-selects a season with played matches."
     }
   ],
   "methodology": "Use total standings table; rank by points, then goal difference, then goals for.",
@@ -51,9 +51,10 @@
   },
   "connector": {
     "module": "sports.football_data_table",
-    "enabled": false,
+    "enabled": true,
     "config": {
-      "competition": "PL"
+      "competition": "PL",
+      "espn_league": "eng.1"
     }
   },
   "schema_version": "1.0.0"

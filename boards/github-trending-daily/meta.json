@@ -4,7 +4,7 @@
   "title_zh": "GitHub Trending 日榜",
   "description": "Repositories listed on GitHub Trending for the daily window.",
   "description_zh": "GitHub Trending 日榜仓库。",
-  "status": "planned",
+  "status": "experimental",
   "category": "software",
   "tags": [
     "github",
@@ -44,7 +44,7 @@
   },
   "connector": {
     "module": "software.github_trending",
-    "enabled": false,
+    "enabled": true,
     "config": {
       "since": "daily"
     }

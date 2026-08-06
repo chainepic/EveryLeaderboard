@@ -4,7 +4,7 @@
   "title_zh": "GitHub 日 Star 净增榜",
   "description": "Repositories ranked by daily net star growth from continuous snapshot datasets.",
   "description_zh": "按日 Star 净增排序的仓库榜（连续快照数据集）。",
-  "status": "planned",
+  "status": "experimental",
   "category": "software",
   "tags": [
     "github",
@@ -39,7 +39,7 @@
   },
   "connector": {
     "module": "software.github_star_delta",
-    "enabled": false,
+    "enabled": true,
     "config": {
       "window": "1d"
     }

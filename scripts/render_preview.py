@@ -212,8 +212,9 @@ def render_hero_banner(
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--slug", default="crypto-marketcap-top100")
+    parser.add_argument("--slug", action="append", help="Board slug(s); default renders a curated set")
     parser.add_argument("--top", type=int, default=10)
+    parser.add_argument("--all-live", action="store_true", help="Render every board with latest.json")
     args = parser.parse_args()
 
     ASSETS.mkdir(parents=True, exist_ok=True)
@@ -227,38 +228,83 @@ def main() -> int:
         cta="可直接调用 JSON",
     )
 
-    snap_path = ROOT / "boards" / args.slug / "latest.json"
-    if not snap_path.exists():
-        print(f"skip board preview: missing {snap_path}")
-        return 0
+    curated = {
+        "crypto-marketcap-top100": (
+            ("Crypto Market Cap Top 10", "Circulating market capitalization · CoinGecko", False),
+            ("全球加密货币市值 Top 10", "流通市值 · 数据来源 CoinGecko", True),
+        ),
+        "steam-top-played": (
+            ("Steam Top Played", "Current concurrent players · Steam Web API", False),
+            ("Steam 同时在线 Top", "当前同时在线 · Steam Web API", True),
+        ),
+        "nba-standings": (
+            ("NBA Standings", "Win percentage · ESPN", False),
+            ("NBA 战绩榜", "胜率 · ESPN", True),
+        ),
+        "chess-com-blitz": (
+            ("Chess.com Blitz", "Live blitz ratings · Chess.com", False),
+            ("Chess.com 闪电棋排位", "闪电棋等级分 · Chess.com", True),
+        ),
+        "china-nev-brand-sales": (
+            ("China Auto Brand Sales", "Monthly units · chinese-car-watch", False),
+            ("中国汽车品牌月销量", "月销量 · chinese-car-watch", True),
+        ),
+        "soccer-pl-table": (
+            ("Premier League Table", "Points · ESPN", False),
+            ("英超积分榜", "积分 · ESPN", True),
+        ),
+    }
 
-    snap = json.loads(snap_path.read_text(encoding="utf-8"))
-    if args.slug == "crypto-marketcap-top100":
-        render_top_n(
-            snap,
-            title="Crypto Market Cap Top 10",
-            subtitle="Circulating market capitalization · CoinGecko",
-            out=ASSETS / "preview-crypto-top10.png",
-            top_n=args.top,
-        )
-        render_top_n(
-            snap,
-            title="全球加密货币市值 Top 10",
-            subtitle="流通市值 · 数据来源 CoinGecko",
-            out=ASSETS / "preview-crypto-top10.zh-CN.png",
-            top_n=args.top,
-            cjk=True,
-            as_of_label="数据日期",
-            footer="客观榜单 · JSON API · github.com/chainepic/EveryLeaderboard",
-        )
+    if args.all_live:
+        slugs = sorted(p.parent.name for p in (ROOT / "boards").glob("*/latest.json"))
+    elif args.slug:
+        slugs = args.slug
     else:
-        render_top_n(
-            snap,
-            title=args.slug,
-            subtitle="EveryLeaderboard snapshot",
-            out=ASSETS / f"preview-{args.slug}.png",
-            top_n=args.top,
-        )
+        slugs = list(curated.keys())
+
+    for slug in slugs:
+        snap_path = ROOT / "boards" / slug / "latest.json"
+        meta_path = ROOT / "boards" / slug / "meta.json"
+        if not snap_path.exists():
+            print(f"skip {slug}: missing latest.json")
+            continue
+        snap = json.loads(snap_path.read_text(encoding="utf-8"))
+        meta = json.loads(meta_path.read_text(encoding="utf-8")) if meta_path.exists() else {}
+        variants = curated.get(slug)
+        if not variants:
+            variants = (
+                (meta.get("title") or slug, "EveryLeaderboard snapshot", False),
+                (meta.get("title_zh") or meta.get("title") or slug, "EveryLeaderboard 快照", True),
+            )
+            # normalize to tuple-of-tuples
+            if isinstance(variants[0], str):
+                variants = (variants,)
+        for title, subtitle, cjk in variants:
+            # stable short names for README embeds
+            short_map = {
+                "crypto-marketcap-top100": "crypto-top10",
+                "steam-top-played": "steam-top10",
+                "nba-standings": "nba-top10",
+                "chess-com-blitz": "chess-blitz-top10",
+                "china-nev-brand-sales": "china-brand-top10",
+                "soccer-pl-table": "epl-top10",
+            }
+            short = short_map.get(slug, slug)
+            out = ASSETS / (f"preview-{short}.zh-CN.png" if cjk else f"preview-{short}.png")
+            render_top_n(
+                snap,
+                title=title,
+                subtitle=subtitle,
+                out=out,
+                top_n=args.top,
+                cjk=cjk,
+                as_of_label="数据日期" if cjk else "as of",
+                footer=(
+                    "客观榜单 · JSON API · github.com/chainepic/EveryLeaderboard"
+                    if cjk
+                    else "Objective rankings · JSON API · github.com/chainepic/EveryLeaderboard"
+                ),
+            )
 
     for name in sorted(p.name for p in ASSETS.glob("*.png")):
         print(f"wrote docs/assets/{name}")

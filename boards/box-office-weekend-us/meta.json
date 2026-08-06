@@ -4,7 +4,7 @@
   "title_zh": "北美周末票房",
   "description": "Top films by US weekend box office revenue.",
   "description_zh": "北美周末票房收入排行。",
-  "status": "planned",
+  "status": "experimental",
   "category": "media",
   "tags": [
     "box-office",
@@ -40,7 +40,7 @@
   },
   "connector": {
     "module": "media.box_office_weekend_us",
-    "enabled": false,
+    "enabled": true,
     "config": {}
   },
   "schema_version": "1.0.0"

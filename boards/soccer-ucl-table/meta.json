@@ -4,7 +4,7 @@
   "title_zh": "欧冠积分榜",
   "description": "UEFA Champions League league-phase or group standings by points.",
   "description_zh": "欧足联冠军联赛积分榜（联赛阶段/小组阶段）。",
-  "status": "planned",
+  "status": "experimental",
   "category": "sports",
   "tags": [
     "soccer",
@@ -36,9 +36,10 @@
   },
   "sources": [
     {
-      "name": "football-data.org",
-      "url": "https://api.football-data.org/v4/competitions/CL/standings",
-      "kind": "public_api"
+      "name": "ESPN Soccer Standings API",
+      "url": "https://site.web.api.espn.com/apis/v2/sports/soccer/",
+      "kind": "public_api",
+      "notes": "Uses site.web.api; auto-selects a season with played matches."
     }
   ],
   "methodology": "Export the competition standings payload; preserve group/league-phase in item.meta when present.",
@@ -49,9 +50,10 @@
   },
   "connector": {
     "module": "sports.football_data_table",
-    "enabled": false,
+    "enabled": true,
     "config": {
-      "competition": "CL"
+      "competition": "CL",
+      "espn_league": "uefa.champions"
     }
   },
   "schema_version": "1.0.0"

@@ -4,7 +4,7 @@
   "title_zh": "NBA 东西部战绩榜",
   "description": "Current NBA East/West standings by win percentage.",
   "description_zh": "NBA 东西部按胜率排列的实时战绩。",
-  "status": "planned",
+  "status": "experimental",
   "category": "sports",
   "tags": [
     "nba",
@@ -36,10 +36,9 @@
   },
   "sources": [
     {
-      "name": "NBA Stats / CDN standings endpoints",
-      "url": "https://www.nba.com/standings",
-      "kind": "public_api",
-      "notes": "Prefer official JSON CDN when stable; fall back documented in connector."
+      "name": "ESPN NBA Standings API",
+      "url": "https://site.web.api.espn.com/apis/v2/sports/basketball/nba/standings",
+      "kind": "public_api"
     }
   ],
   "methodology": "Separate East/West tables; primary sort win_pct, then wins. Store conference in item.meta.",
@@ -50,7 +49,7 @@
   },
   "connector": {
     "module": "sports.nba_standings",
-    "enabled": false,
+    "enabled": true,
     "config": {}
   },
   "schema_version": "1.0.0"

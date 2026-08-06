@@ -1,3 +1,1 @@
-from connectors._placeholder import _todo
-
-fetch = _todo("china_passenger_car_sales")
+from connectors.auto.china_sales import fetch_models as fetch

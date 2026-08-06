@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0.0",
+  "slug": "chess-com-blitz",
+  "title": "Chess.com Live Blitz Leaderboard",
+  "title_zh": "Chess.com 闪电棋排位榜",
+  "description": "Global Chess.com live blitz ratings leaderboard.",
+  "description_zh": "Chess.com 全球闪电棋（blitz）公开排位。",
+  "status": "experimental",
+  "category": "sports",
+  "tags": [
+    "chess",
+    "rating"
+  ],
+  "metric": {
+    "id": "rating",
+    "label": "Rating",
+    "label_zh": "等级分",
+    "unit": "rating",
+    "higher_is_better": true
+  },
+  "schedule": {
+    "cadence": "daily",
+    "cron_hint": "0 7 * * *",
+    "timezone": "UTC",
+    "source_lag_hours": 0
+  },
+  "sources": [
+    {
+      "name": "Chess.com Published Data API",
+      "url": "https://api.chess.com/pub/leaderboards",
+      "kind": "official_api"
+    }
+  ],
+  "methodology": "Use live_blitz leaderboard scores as published by Chess.com.",
+  "license": {
+    "data": "CC BY 4.0 (derived snapshot)",
+    "attribution": "Chess.com",
+    "notes": "Respect Chess.com API etiquette."
+  },
+  "connector": {
+    "module": "sports.chess_com_leaderboard",
+    "enabled": true,
+    "config": {
+      "category": "live_blitz",
+      "top_n": 50
+    }
+  },
+  "limits": {
+    "top_n": 50
+  }
+}

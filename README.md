@@ -9,7 +9,7 @@
 [English](README.md) · [简体中文](README.zh-CN.md)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-0ea5e9?style=flat-square)](LICENSE)
-[![Boards](https://img.shields.io/badge/boards-20-0284c7?style=flat-square)](catalogs/index.json)
+[![Boards](https://img.shields.io/badge/boards-22-0284c7?style=flat-square)](catalogs/index.json)
 [![Schema](https://img.shields.io/badge/schema-v1.0.0-38bdf8?style=flat-square)](schemas/)
 [![GitHub stars](https://img.shields.io/github/stars/chainepic/EveryLeaderboard?style=flat-square)](https://github.com/chainepic/EveryLeaderboard/stargazers)
 
@@ -32,6 +32,12 @@ Live board rendered from JSON → shareable PNG (auto-refreshed by Actions when 
   <img src="docs/assets/preview-crypto-top10.png" alt="Crypto Market Cap Top 10 preview" width="860" />
   <p><sub>Crypto Market Cap Top 10 · generated from <code>boards/crypto-marketcap-top100/latest.json</code></sub></p>
 </div>
+
+<div align="center">
+  <img src="docs/assets/preview-steam-top10.png" alt="Steam Top Played" width="860" />
+  <p><sub>Steam Top Played · from <code>boards/steam-top-played/latest.json</code></sub></p>
+</div>
+
 
 Regenerate locally:
 
@@ -78,28 +84,30 @@ https://cdn.jsdelivr.net/gh/chainepic/EveryLeaderboard@main/boards/{slug}/latest
 
 | Board | Slug | Cadence | Status | Metric |
 | --- | --- | --- | --- | --- |
-| [US Weekend Box Office](boards/box-office-weekend-us/meta.json) | `box-office-weekend-us` | weekly | planned | Weekend gross |
-| [China NEV Brand Monthly Sales](boards/china-nev-brand-sales/meta.json) | `china-nev-brand-sales` | monthly | planned | Units sold |
-| [China Passenger Car Model Monthly Sales](boards/china-passenger-car-sales/meta.json) | `china-passenger-car-sales` | monthly | planned | Units sold |
-| [Crypto Market Cap Top 100](boards/crypto-marketcap-top100/meta.json) | `crypto-marketcap-top100` | every 6h | experimental | Market cap |
-| [DeFiLlama Protocol TVL Top](boards/defillama-tvl-top/meta.json) | `defillama-tvl-top` | every 6h | planned | TVL |
-| [GitHub Repositories by Stars](boards/github-repos-stars/meta.json) | `github-repos-stars` | daily | planned | Stars |
-| [GitHub Daily Star Net Growth](boards/github-star-delta-daily/meta.json) | `github-star-delta-daily` | daily | planned | Net star growth |
-| [GitHub Trending (Daily)](boards/github-trending-daily/meta.json) | `github-trending-daily` | daily | planned | Stars gained (period) |
-| [GitHub Trending (Monthly)](boards/github-trending-monthly/meta.json) | `github-trending-monthly` | weekly | planned | Stars gained (period) |
-| [GitHub Trending (Weekly)](boards/github-trending-weekly/meta.json) | `github-trending-weekly` | weekly | planned | Stars gained (period) |
-| [GitHub Users by Followers](boards/github-users-followers/meta.json) | `github-users-followers` | daily | planned | Followers |
+| [US Weekend Box Office](boards/box-office-weekend-us/meta.json) | `box-office-weekend-us` | weekly | experimental ✅ | Weekend gross |
+| [Chess.com Live Blitz Leaderboard](boards/chess-com-blitz/meta.json) | `chess-com-blitz` | daily | experimental ✅ | Rating |
+| [Chess.com Live Rapid Leaderboard](boards/chess-com-rapid/meta.json) | `chess-com-rapid` | daily | experimental ✅ | Rating |
+| [China NEV Brand Monthly Sales](boards/china-nev-brand-sales/meta.json) | `china-nev-brand-sales` | monthly | experimental ✅ | Units sold |
+| [China Passenger Car Model Monthly Sales](boards/china-passenger-car-sales/meta.json) | `china-passenger-car-sales` | monthly | experimental ✅ | Units sold |
+| [Crypto Market Cap Top 100](boards/crypto-marketcap-top100/meta.json) | `crypto-marketcap-top100` | every 6h | experimental ✅ | Market cap |
+| [DeFiLlama Protocol TVL Top](boards/defillama-tvl-top/meta.json) | `defillama-tvl-top` | every 6h | experimental ✅ | TVL |
+| [GitHub Repositories by Stars](boards/github-repos-stars/meta.json) | `github-repos-stars` | daily | experimental ✅ | Stars |
+| [GitHub Daily Star Net Growth](boards/github-star-delta-daily/meta.json) | `github-star-delta-daily` | daily | experimental ✅ | Net star growth |
+| [GitHub Trending (Daily)](boards/github-trending-daily/meta.json) | `github-trending-daily` | daily | experimental ✅ | Stars gained (period) |
+| [GitHub Trending (Monthly)](boards/github-trending-monthly/meta.json) | `github-trending-monthly` | weekly | experimental ✅ | Stars gained (period) |
+| [GitHub Trending (Weekly)](boards/github-trending-weekly/meta.json) | `github-trending-weekly` | weekly | experimental ✅ | Stars gained (period) |
+| [GitHub Users by Followers](boards/github-users-followers/meta.json) | `github-users-followers` | daily | experimental ✅ | Followers |
 | [Hugging Face Models Trending](boards/hf-models-trending/meta.json) | `hf-models-trending` | daily | planned | Downloads |
 | [IMDb Top 250 Movies](boards/imdb-top250/meta.json) | `imdb-top250` | weekly | planned | IMDb rating |
-| [NBA Conference Standings](boards/nba-standings/meta.json) | `nba-standings` | daily* | planned | Win percentage |
+| [NBA Conference Standings](boards/nba-standings/meta.json) | `nba-standings` | daily* | experimental ✅ | Win percentage |
 | [npm React Ecosystem Weekly Downloads](boards/npm-react-ecosystem/meta.json) | `npm-react-ecosystem` | weekly | planned | Downloads (7d) |
 | [PyPI Tracked Packages Downloads](boards/pypi-top-tracked/meta.json) | `pypi-top-tracked` | weekly | planned | Downloads (30d) |
-| [Premier League Table](boards/soccer-pl-table/meta.json) | `soccer-pl-table` | daily* | planned | Points |
-| [UEFA Champions League Table](boards/soccer-ucl-table/meta.json) | `soccer-ucl-table` | daily* | planned | Points |
-| [Steam Top Played (CCU)](boards/steam-top-played/meta.json) | `steam-top-played` | daily | planned | Current players |
-| [Wikipedia Top Pageviews](boards/wikipedia-pageviews-top/meta.json) | `wikipedia-pageviews-top` | daily | planned | Pageviews |
+| [Premier League Table](boards/soccer-pl-table/meta.json) | `soccer-pl-table` | daily* | experimental ✅ | Points |
+| [UEFA Champions League Table](boards/soccer-ucl-table/meta.json) | `soccer-ucl-table` | daily* | experimental ✅ | Points |
+| [Steam Top Played (CCU)](boards/steam-top-played/meta.json) | `steam-top-played` | daily | experimental ✅ | Current players |
+| [Wikipedia Top Pageviews](boards/wikipedia-pageviews-top/meta.json) | `wikipedia-pageviews-top` | daily | experimental ✅ | Pageviews |
 
-\* Season-aware (`active_months` in meta).
+\* Season-aware (`active_months` in meta). ✅ = `latest.json` present.
 
 ## Quick start
 

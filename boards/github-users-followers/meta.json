@@ -4,7 +4,7 @@
   "title_zh": "GitHub 用户粉丝榜",
   "description": "Public ranking of GitHub users by follower count from community Actions datasets.",
   "description_zh": "按粉丝数排列的 GitHub 用户公开榜（社区 Actions 数据集）。",
-  "status": "planned",
+  "status": "experimental",
   "category": "software",
   "tags": [
     "github",
@@ -39,7 +39,7 @@
   },
   "connector": {
     "module": "software.github_rank_users",
-    "enabled": false,
+    "enabled": true,
     "config": {}
   },
   "limits": {

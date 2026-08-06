@@ -8,8 +8,16 @@ def utc_now() -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
-def base_snapshot(meta: dict[str, Any], *, as_of: str, period_label: str, items: list[dict], sources: list[dict]) -> dict:
-    return {
+def base_snapshot(
+    meta: dict[str, Any],
+    *,
+    as_of: str,
+    period_label: str,
+    items: list[dict],
+    sources: list[dict],
+    notes: str | None = None,
+) -> dict:
+    out = {
         "schema_version": "1.0.0",
         "slug": meta["slug"],
         "generated_at": utc_now(),
@@ -19,3 +27,6 @@ def base_snapshot(meta: dict[str, Any], *, as_of: str, period_label: str, items:
         "items": items,
         "source_fetched": sources,
     }
+    if notes:
+        out["notes"] = notes
+    return out
