@@ -1,0 +1,51 @@
+{
+  "slug": "defillama-tvl-top",
+  "title": "DeFiLlama Protocol TVL Top",
+  "title_zh": "DeFi 协议 TVL 榜",
+  "description": "DeFi protocols ranked by total value locked (USD) via DeFiLlama public API.",
+  "description_zh": "按锁仓量（TVL）排序的 DeFi 协议榜（DeFiLlama 公开 API）。",
+  "status": "planned",
+  "category": "crypto",
+  "tags": [
+    "defi",
+    "tvl"
+  ],
+  "metric": {
+    "id": "tvl_usd",
+    "label": "TVL",
+    "unit": "USD",
+    "higher_is_better": true,
+    "label_zh": "锁仓量 (USD)"
+  },
+  "schedule": {
+    "cadence": "every_n_hours",
+    "every_n_hours": 6,
+    "cron_hint": "20 */6 * * *",
+    "timezone": "UTC",
+    "source_lag_hours": 0
+  },
+  "sources": [
+    {
+      "name": "DeFiLlama API",
+      "url": "https://api.llama.fi/protocols",
+      "kind": "public_api"
+    }
+  ],
+  "methodology": "Sort protocols by TVL descending; exclude null TVL.",
+  "license": {
+    "data": "CC BY 4.0 (derived snapshot)",
+    "attribution": "DeFiLlama",
+    "notes": "Respect API terms."
+  },
+  "connector": {
+    "module": "crypto.defillama_tvl",
+    "enabled": false,
+    "config": {
+      "top_n": 50
+    }
+  },
+  "limits": {
+    "top_n": 50
+  },
+  "schema_version": "1.0.0"
+}

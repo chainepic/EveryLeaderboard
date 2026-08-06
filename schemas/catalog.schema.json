@@ -24,18 +24,21 @@
           "meta_path",
           "latest_path"
         ],
-        "properties": {
-          "slug": { "type": "string" },
-          "title": { "type": "string" },
-          "title_zh": { "type": "string" },
-          "status": { "type": "string" },
-          "category": { "type": "string" },
-          "cadence": { "type": "string" },
-          "metric_id": { "type": "string" },
-          "tags": { "type": "array", "items": { "type": "string" } },
-          "meta_path": { "type": "string" },
-          "latest_path": { "type": "string" }
-        }
+          "properties": {
+            "slug": { "type": "string" },
+            "title": { "type": "string" },
+            "title_zh": { "type": "string" },
+            "status": { "type": "string" },
+            "category": { "type": "string" },
+            "cadence": { "type": "string" },
+            "every_n_hours": { "type": ["integer", "null"] },
+            "metric_id": { "type": "string" },
+            "metric_label": { "type": "string" },
+            "metric_label_zh": { "type": "string" },
+            "tags": { "type": "array", "items": { "type": "string" } },
+            "meta_path": { "type": "string" },
+            "latest_path": { "type": "string" }
+          }
       }
     }
   }

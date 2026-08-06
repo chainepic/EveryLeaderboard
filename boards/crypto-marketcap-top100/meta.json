@@ -14,7 +14,8 @@
     "id": "market_cap_usd",
     "label": "Market cap",
     "unit": "USD",
-    "higher_is_better": true
+    "higher_is_better": true,
+    "label_zh": "流通市值 (USD)"
   },
   "schedule": {
     "cadence": "every_n_hours",

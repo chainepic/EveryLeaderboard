@@ -14,7 +14,8 @@
     "id": "stars_period",
     "label": "Stars gained (period)",
     "unit": "stars",
-    "higher_is_better": true
+    "higher_is_better": true,
+    "label_zh": "周期 Star 增量"
   },
   "schedule": {
     "cadence": "daily",
@@ -23,6 +24,12 @@
     "source_lag_hours": 0
   },
   "sources": [
+    {
+      "name": "isboyjc/github-trending-api",
+      "url": "https://github.com/isboyjc/github-trending-api",
+      "kind": "mirror",
+      "notes": "Prefer mirror: isboyjc/github-trending-api data/daily/all.json"
+    },
     {
       "name": "GitHub Trending",
       "url": "https://github.com/trending?since=daily",

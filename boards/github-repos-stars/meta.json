@@ -1,0 +1,49 @@
+{
+  "slug": "github-repos-stars",
+  "title": "GitHub Repositories by Stars",
+  "title_zh": "GitHub 仓库 Star 榜",
+  "description": "Public ranking of GitHub repositories by star count from community Actions datasets.",
+  "description_zh": "按 Star 数排列的 GitHub 仓库公开榜（社区 Actions 数据集）。",
+  "status": "planned",
+  "category": "software",
+  "tags": [
+    "github",
+    "repos"
+  ],
+  "metric": {
+    "id": "stars_total",
+    "label": "Stars",
+    "unit": "stars",
+    "higher_is_better": true,
+    "label_zh": "累计 Star"
+  },
+  "schedule": {
+    "cadence": "daily",
+    "cron_hint": "15 3 * * *",
+    "timezone": "UTC",
+    "source_lag_hours": 6
+  },
+  "sources": [
+    {
+      "name": "jaywcjlove/github-rank",
+      "url": "https://github.com/jaywcjlove/github-rank",
+      "kind": "mirror",
+      "notes": "Consume dist/repos.json"
+    }
+  ],
+  "methodology": "Import upstream repos ranking; map stargazers_count to value.",
+  "license": {
+    "data": "CC BY 4.0 (derived snapshot)",
+    "attribution": "jaywcjlove/github-rank",
+    "notes": "Cite upstream project."
+  },
+  "connector": {
+    "module": "software.github_rank_repos",
+    "enabled": false,
+    "config": {}
+  },
+  "limits": {
+    "top_n": 100
+  },
+  "schema_version": "1.0.0"
+}

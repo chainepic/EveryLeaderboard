@@ -1,0 +1,51 @@
+{
+  "slug": "github-star-delta-daily",
+  "title": "GitHub Daily Star Net Growth",
+  "title_zh": "GitHub 日 Star 净增榜",
+  "description": "Repositories ranked by daily net star growth from continuous snapshot datasets.",
+  "description_zh": "按日 Star 净增排序的仓库榜（连续快照数据集）。",
+  "status": "planned",
+  "category": "software",
+  "tags": [
+    "github",
+    "growth"
+  ],
+  "metric": {
+    "id": "stars_delta",
+    "label": "Net star growth",
+    "unit": "stars",
+    "higher_is_better": true,
+    "label_zh": "Star 净增"
+  },
+  "schedule": {
+    "cadence": "daily",
+    "cron_hint": "30 4 * * *",
+    "timezone": "Asia/Shanghai",
+    "source_lag_hours": 2
+  },
+  "sources": [
+    {
+      "name": "open-source-star-rank",
+      "url": "https://github.com/728792899-create/open-source-star-rank",
+      "kind": "mirror",
+      "notes": "Prefer their published JSON under GitHub Pages /data/"
+    }
+  ],
+  "methodology": "Consume daily net-growth ranking JSON; do not re-scrape GitHub Search.",
+  "license": {
+    "data": "CC BY 4.0 (derived snapshot)",
+    "attribution": "open-source-star-rank",
+    "notes": "Respect upstream schema and license."
+  },
+  "connector": {
+    "module": "software.github_star_delta",
+    "enabled": false,
+    "config": {
+      "window": "1d"
+    }
+  },
+  "limits": {
+    "top_n": 100
+  },
+  "schema_version": "1.0.0"
+}

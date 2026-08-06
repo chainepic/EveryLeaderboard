@@ -9,7 +9,7 @@
 [English](README.md) · [简体中文](README.zh-CN.md)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-0ea5e9?style=flat-square)](LICENSE)
-[![Boards](https://img.shields.io/badge/boards-15-0284c7?style=flat-square)](catalogs/index.json)
+[![Boards](https://img.shields.io/badge/boards-20-0284c7?style=flat-square)](catalogs/index.json)
 [![Schema](https://img.shields.io/badge/schema-v1.0.0-38bdf8?style=flat-square)](schemas/)
 [![GitHub stars](https://img.shields.io/github/stars/chainepic/EveryLeaderboard?style=flat-square)](https://github.com/chainepic/EveryLeaderboard/stargazers)
 
@@ -76,23 +76,28 @@ https://cdn.jsdelivr.net/gh/chainepic/EveryLeaderboard@main/boards/{slug}/latest
 
 ## Board catalog
 
-| Board | Cadence | Status | Metric |
-| --- | --- | --- | --- |
-| [crypto-marketcap-top100](boards/crypto-marketcap-top100/meta.json) | every 6h | experimental | market_cap_usd |
-| [nba-standings](boards/nba-standings/meta.json) | daily* | planned | win_pct |
-| [soccer-pl-table](boards/soccer-pl-table/meta.json) | daily* | planned | points |
-| [soccer-ucl-table](boards/soccer-ucl-table/meta.json) | daily* | planned | points |
-| [steam-top-played](boards/steam-top-played/meta.json) | daily | planned | ccu |
-| [github-trending-daily](boards/github-trending-daily/meta.json) | daily | planned | stars_period |
-| [github-trending-weekly](boards/github-trending-weekly/meta.json) | weekly | planned | stars_period |
-| [hf-models-trending](boards/hf-models-trending/meta.json) | daily | planned | downloads |
-| [npm-react-ecosystem](boards/npm-react-ecosystem/meta.json) | weekly | planned | downloads_week |
-| [pypi-top-tracked](boards/pypi-top-tracked/meta.json) | weekly | planned | downloads_month |
-| [wikipedia-pageviews-top](boards/wikipedia-pageviews-top/meta.json) | daily | planned | pageviews |
-| [china-nev-brand-sales](boards/china-nev-brand-sales/meta.json) | monthly | planned | units |
-| [china-passenger-car-sales](boards/china-passenger-car-sales/meta.json) | monthly | planned | units |
-| [box-office-weekend-us](boards/box-office-weekend-us/meta.json) | weekly | planned | revenue_usd |
-| [imdb-top250](boards/imdb-top250/meta.json) | weekly | planned | rating |
+| Board | Slug | Cadence | Status | Metric |
+| --- | --- | --- | --- | --- |
+| [US Weekend Box Office](boards/box-office-weekend-us/meta.json) | `box-office-weekend-us` | weekly | planned | Weekend gross |
+| [China NEV Brand Monthly Sales](boards/china-nev-brand-sales/meta.json) | `china-nev-brand-sales` | monthly | planned | Units sold |
+| [China Passenger Car Model Monthly Sales](boards/china-passenger-car-sales/meta.json) | `china-passenger-car-sales` | monthly | planned | Units sold |
+| [Crypto Market Cap Top 100](boards/crypto-marketcap-top100/meta.json) | `crypto-marketcap-top100` | every 6h | experimental | Market cap |
+| [DeFiLlama Protocol TVL Top](boards/defillama-tvl-top/meta.json) | `defillama-tvl-top` | every 6h | planned | TVL |
+| [GitHub Repositories by Stars](boards/github-repos-stars/meta.json) | `github-repos-stars` | daily | planned | Stars |
+| [GitHub Daily Star Net Growth](boards/github-star-delta-daily/meta.json) | `github-star-delta-daily` | daily | planned | Net star growth |
+| [GitHub Trending (Daily)](boards/github-trending-daily/meta.json) | `github-trending-daily` | daily | planned | Stars gained (period) |
+| [GitHub Trending (Monthly)](boards/github-trending-monthly/meta.json) | `github-trending-monthly` | weekly | planned | Stars gained (period) |
+| [GitHub Trending (Weekly)](boards/github-trending-weekly/meta.json) | `github-trending-weekly` | weekly | planned | Stars gained (period) |
+| [GitHub Users by Followers](boards/github-users-followers/meta.json) | `github-users-followers` | daily | planned | Followers |
+| [Hugging Face Models Trending](boards/hf-models-trending/meta.json) | `hf-models-trending` | daily | planned | Downloads |
+| [IMDb Top 250 Movies](boards/imdb-top250/meta.json) | `imdb-top250` | weekly | planned | IMDb rating |
+| [NBA Conference Standings](boards/nba-standings/meta.json) | `nba-standings` | daily* | planned | Win percentage |
+| [npm React Ecosystem Weekly Downloads](boards/npm-react-ecosystem/meta.json) | `npm-react-ecosystem` | weekly | planned | Downloads (7d) |
+| [PyPI Tracked Packages Downloads](boards/pypi-top-tracked/meta.json) | `pypi-top-tracked` | weekly | planned | Downloads (30d) |
+| [Premier League Table](boards/soccer-pl-table/meta.json) | `soccer-pl-table` | daily* | planned | Points |
+| [UEFA Champions League Table](boards/soccer-ucl-table/meta.json) | `soccer-ucl-table` | daily* | planned | Points |
+| [Steam Top Played (CCU)](boards/steam-top-played/meta.json) | `steam-top-played` | daily | planned | Current players |
+| [Wikipedia Top Pageviews](boards/wikipedia-pageviews-top/meta.json) | `wikipedia-pageviews-top` | daily | planned | Pageviews |
 
 \* Season-aware (`active_months` in meta).
 
@@ -132,6 +137,8 @@ flowchart LR
 
 Open an issue with: slug, metric + unit, source URL, cadence.  
 Subjective / unauditable lists will be rejected.
+
+See also: [Expansion roadmap](docs/EXPANSION.md) (GitHub-first data sources).
 
 ## License
 

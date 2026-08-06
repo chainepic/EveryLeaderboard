@@ -9,7 +9,7 @@
 [English](README.md) · [简体中文](README.zh-CN.md)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-0ea5e9?style=flat-square)](LICENSE)
-[![Boards](https://img.shields.io/badge/boards-15-0284c7?style=flat-square)](catalogs/index.json)
+[![Boards](https://img.shields.io/badge/boards-20-0284c7?style=flat-square)](catalogs/index.json)
 [![Schema](https://img.shields.io/badge/schema-v1.0.0-38bdf8?style=flat-square)](schemas/)
 [![GitHub stars](https://img.shields.io/github/stars/chainepic/EveryLeaderboard?style=flat-square)](https://github.com/chainepic/EveryLeaderboard/stargazers)
 
@@ -76,25 +76,32 @@ https://cdn.jsdelivr.net/gh/chainepic/EveryLeaderboard@main/boards/{slug}/latest
 
 ## 榜单目录
 
-| 榜单 | 更新节奏 | 状态 | 指标 |
-| --- | --- | --- | --- |
-| [crypto-marketcap-top100](boards/crypto-marketcap-top100/meta.json) | 每 6 小时 | experimental | market_cap_usd |
-| [nba-standings](boards/nba-standings/meta.json) | 每日* | planned | win_pct |
-| [soccer-pl-table](boards/soccer-pl-table/meta.json) | 每日* | planned | points |
-| [soccer-ucl-table](boards/soccer-ucl-table/meta.json) | 每日* | planned | points |
-| [steam-top-played](boards/steam-top-played/meta.json) | 每日 | planned | ccu |
-| [github-trending-daily](boards/github-trending-daily/meta.json) | 每日 | planned | stars_period |
-| [github-trending-weekly](boards/github-trending-weekly/meta.json) | 每周 | planned | stars_period |
-| [hf-models-trending](boards/hf-models-trending/meta.json) | 每日 | planned | downloads |
-| [npm-react-ecosystem](boards/npm-react-ecosystem/meta.json) | 每周 | planned | downloads_week |
-| [pypi-top-tracked](boards/pypi-top-tracked/meta.json) | 每周 | planned | downloads_month |
-| [wikipedia-pageviews-top](boards/wikipedia-pageviews-top/meta.json) | 每日 | planned | pageviews |
-| [china-nev-brand-sales](boards/china-nev-brand-sales/meta.json) | 每月 | planned | units |
-| [china-passenger-car-sales](boards/china-passenger-car-sales/meta.json) | 每月 | planned | units |
-| [box-office-weekend-us](boards/box-office-weekend-us/meta.json) | 每周 | planned | revenue_usd |
-| [imdb-top250](boards/imdb-top250/meta.json) | 每周 | planned | rating |
+| 榜单 | 标识 (slug) | 更新节奏 | 状态 | 指标 |
+| --- | --- | --- | --- | --- |
+| [北美周末票房](boards/box-office-weekend-us/meta.json) | `box-office-weekend-us` | 每周 | 规划中 | 票房 (USD) |
+| [中国新能源车品牌月销量](boards/china-nev-brand-sales/meta.json) | `china-nev-brand-sales` | 每月 | 规划中 | 销量（辆） |
+| [中国乘用车车型月销量](boards/china-passenger-car-sales/meta.json) | `china-passenger-car-sales` | 每月 | 规划中 | 销量（辆） |
+| [全球加密货币市值 Top 100](boards/crypto-marketcap-top100/meta.json) | `crypto-marketcap-top100` | 每 6 小时 | 试验中 | 流通市值 (USD) |
+| [DeFi 协议 TVL 榜](boards/defillama-tvl-top/meta.json) | `defillama-tvl-top` | 每 6 小时 | 规划中 | 锁仓量 (USD) |
+| [GitHub 仓库 Star 榜](boards/github-repos-stars/meta.json) | `github-repos-stars` | 每日 | 规划中 | 累计 Star |
+| [GitHub 日 Star 净增榜](boards/github-star-delta-daily/meta.json) | `github-star-delta-daily` | 每日 | 规划中 | Star 净增 |
+| [GitHub Trending 日榜](boards/github-trending-daily/meta.json) | `github-trending-daily` | 每日 | 规划中 | 周期 Star 增量 |
+| [GitHub Trending 月榜](boards/github-trending-monthly/meta.json) | `github-trending-monthly` | 每周 | 规划中 | 周期 Star 增量 |
+| [GitHub Trending 周榜](boards/github-trending-weekly/meta.json) | `github-trending-weekly` | 每周 | 规划中 | 周期 Star 增量 |
+| [GitHub 用户粉丝榜](boards/github-users-followers/meta.json) | `github-users-followers` | 每日 | 规划中 | 粉丝数 |
+| [Hugging Face 热门模型](boards/hf-models-trending/meta.json) | `hf-models-trending` | 每日 | 规划中 | 下载量 |
+| [IMDb Top 250 电影](boards/imdb-top250/meta.json) | `imdb-top250` | 每周 | 规划中 | 评分 |
+| [NBA 东西部战绩榜](boards/nba-standings/meta.json) | `nba-standings` | 每日* | 规划中 | 胜率 |
+| [npm React 生态周下载量](boards/npm-react-ecosystem/meta.json) | `npm-react-ecosystem` | 每周 | 规划中 | 近 7 日下载量 |
+| [PyPI 追踪包下载量](boards/pypi-top-tracked/meta.json) | `pypi-top-tracked` | 每周 | 规划中 | 近 30 日下载量 |
+| [英超积分榜](boards/soccer-pl-table/meta.json) | `soccer-pl-table` | 每日* | 规划中 | 积分 |
+| [欧冠积分榜](boards/soccer-ucl-table/meta.json) | `soccer-ucl-table` | 每日* | 规划中 | 积分 |
+| [Steam 同时在线 Top](boards/steam-top-played/meta.json) | `steam-top-played` | 每日 | 规划中 | 同时在线人数 |
+| [维基百科浏览量 Top](boards/wikipedia-pageviews-top/meta.json) | `wikipedia-pageviews-top` | 每日 | 规划中 | 浏览量 |
 
 \* 受赛季月份限制（见各榜 `active_months`）。
+
+状态说明：`规划中` = 已登记未接通；`试验中` = 已跑通但可能不稳定；`已上线` = 可放心消费。
 
 ## 本地跑起来
 
@@ -132,6 +139,8 @@ flowchart LR
 
 提 Issue 时请写清：slug、指标与单位、数据源 URL、更新节奏。  
 主观榜、无法核对的「人气榜」不会收录。
+
+扩展候选与 GitHub 持续更新源清单见：[扩展规划](docs/EXPANSION.md)。
 
 ## 许可证
 

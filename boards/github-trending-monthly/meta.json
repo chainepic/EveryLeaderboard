@@ -1,9 +1,9 @@
 {
-  "slug": "github-trending-weekly",
-  "title": "GitHub Trending (Weekly)",
-  "title_zh": "GitHub Trending 周榜",
-  "description": "Repositories listed on GitHub Trending for the weekly window.",
-  "description_zh": "GitHub Trending 周榜仓库。",
+  "slug": "github-trending-monthly",
+  "title": "GitHub Trending (Monthly)",
+  "title_zh": "GitHub Trending 月榜",
+  "description": "Repositories listed on GitHub Trending for the monthly window.",
+  "description_zh": "GitHub Trending 月榜仓库。",
   "status": "planned",
   "category": "software",
   "tags": [
@@ -29,25 +29,21 @@
       "name": "isboyjc/github-trending-api",
       "url": "https://github.com/isboyjc/github-trending-api",
       "kind": "mirror",
-      "notes": "Prefer mirror: isboyjc/github-trending-api data/weekly/all.json"
-    },
-    {
-      "name": "GitHub Trending",
-      "url": "https://github.com/trending?since=weekly",
-      "kind": "public_html"
+      "notes": "Prefer consuming their Actions-updated JSON: data/monthly/all.json"
     }
   ],
-  "methodology": "Parse trending page for since=weekly; rank order as shown.",
+  "methodology": "Normalize upstream trending JSON into EveryLeaderboard snapshot schema; rank order preserved.",
   "license": {
     "data": "CC BY 4.0 (derived snapshot)",
-    "attribution": "GitHub Trending",
-    "notes": "Unaffiliated with GitHub; respect rate limits."
+    "attribution": "GitHub Trending via isboyjc/github-trending-api",
+    "notes": "Upstream MIT code; respect GitHub ToS."
   },
   "connector": {
     "module": "software.github_trending",
     "enabled": false,
     "config": {
-      "since": "weekly"
+      "since": "monthly",
+      "prefer_mirror": "isboyjc/github-trending-api"
     }
   },
   "schema_version": "1.0.0"

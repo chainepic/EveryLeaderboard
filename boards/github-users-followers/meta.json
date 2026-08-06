@@ -1,0 +1,49 @@
+{
+  "slug": "github-users-followers",
+  "title": "GitHub Users by Followers",
+  "title_zh": "GitHub 用户粉丝榜",
+  "description": "Public ranking of GitHub users by follower count from community Actions datasets.",
+  "description_zh": "按粉丝数排列的 GitHub 用户公开榜（社区 Actions 数据集）。",
+  "status": "planned",
+  "category": "software",
+  "tags": [
+    "github",
+    "users"
+  ],
+  "metric": {
+    "id": "followers",
+    "label": "Followers",
+    "unit": "followers",
+    "higher_is_better": true,
+    "label_zh": "粉丝数"
+  },
+  "schedule": {
+    "cadence": "daily",
+    "cron_hint": "0 3 * * *",
+    "timezone": "UTC",
+    "source_lag_hours": 6
+  },
+  "sources": [
+    {
+      "name": "jaywcjlove/github-rank",
+      "url": "https://github.com/jaywcjlove/github-rank",
+      "kind": "mirror",
+      "notes": "Consume dist/users.json via unpkg/jsDelivr when available."
+    }
+  ],
+  "methodology": "Import upstream users ranking JSON; map follower counts to value; keep rank.",
+  "license": {
+    "data": "CC BY 4.0 (derived snapshot)",
+    "attribution": "jaywcjlove/github-rank",
+    "notes": "Cite upstream project."
+  },
+  "connector": {
+    "module": "software.github_rank_users",
+    "enabled": false,
+    "config": {}
+  },
+  "limits": {
+    "top_n": 100
+  },
+  "schema_version": "1.0.0"
+}

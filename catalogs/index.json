@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-08-06T13:03:47Z",
+  "generated_at": "2026-08-06T14:54:50Z",
   "repo": "https://github.com/chainepic/EveryLeaderboard",
   "boards": [
     {
@@ -10,7 +10,10 @@
       "status": "planned",
       "category": "media",
       "cadence": "weekly",
+      "every_n_hours": null,
       "metric_id": "revenue_usd",
+      "metric_label": "Weekend gross",
+      "metric_label_zh": "票房 (USD)",
       "tags": [
         "box-office",
         "film"
@@ -25,7 +28,10 @@
       "status": "planned",
       "category": "auto",
       "cadence": "monthly",
+      "every_n_hours": null,
       "metric_id": "units",
+      "metric_label": "Units sold",
+      "metric_label_zh": "销量（辆）",
       "tags": [
         "china",
         "nev",
@@ -41,7 +47,10 @@
       "status": "planned",
       "category": "auto",
       "cadence": "monthly",
+      "every_n_hours": null,
       "metric_id": "units",
+      "metric_label": "Units sold",
+      "metric_label_zh": "销量（辆）",
       "tags": [
         "china",
         "auto",
@@ -57,7 +66,10 @@
       "status": "experimental",
       "category": "crypto",
       "cadence": "every_n_hours",
+      "every_n_hours": 6,
       "metric_id": "market_cap_usd",
+      "metric_label": "Market cap",
+      "metric_label_zh": "流通市值 (USD)",
       "tags": [
         "crypto",
         "market-cap"
@@ -66,13 +78,70 @@
       "latest_path": "boards/crypto-marketcap-top100/latest.json"
     },
     {
+      "slug": "defillama-tvl-top",
+      "title": "DeFiLlama Protocol TVL Top",
+      "title_zh": "DeFi 协议 TVL 榜",
+      "status": "planned",
+      "category": "crypto",
+      "cadence": "every_n_hours",
+      "every_n_hours": 6,
+      "metric_id": "tvl_usd",
+      "metric_label": "TVL",
+      "metric_label_zh": "锁仓量 (USD)",
+      "tags": [
+        "defi",
+        "tvl"
+      ],
+      "meta_path": "boards/defillama-tvl-top/meta.json",
+      "latest_path": "boards/defillama-tvl-top/latest.json"
+    },
+    {
+      "slug": "github-repos-stars",
+      "title": "GitHub Repositories by Stars",
+      "title_zh": "GitHub 仓库 Star 榜",
+      "status": "planned",
+      "category": "software",
+      "cadence": "daily",
+      "every_n_hours": null,
+      "metric_id": "stars_total",
+      "metric_label": "Stars",
+      "metric_label_zh": "累计 Star",
+      "tags": [
+        "github",
+        "repos"
+      ],
+      "meta_path": "boards/github-repos-stars/meta.json",
+      "latest_path": "boards/github-repos-stars/latest.json"
+    },
+    {
+      "slug": "github-star-delta-daily",
+      "title": "GitHub Daily Star Net Growth",
+      "title_zh": "GitHub 日 Star 净增榜",
+      "status": "planned",
+      "category": "software",
+      "cadence": "daily",
+      "every_n_hours": null,
+      "metric_id": "stars_delta",
+      "metric_label": "Net star growth",
+      "metric_label_zh": "Star 净增",
+      "tags": [
+        "github",
+        "growth"
+      ],
+      "meta_path": "boards/github-star-delta-daily/meta.json",
+      "latest_path": "boards/github-star-delta-daily/latest.json"
+    },
+    {
       "slug": "github-trending-daily",
       "title": "GitHub Trending (Daily)",
       "title_zh": "GitHub Trending 日榜",
       "status": "planned",
       "category": "software",
       "cadence": "daily",
+      "every_n_hours": null,
       "metric_id": "stars_period",
+      "metric_label": "Stars gained (period)",
+      "metric_label_zh": "周期 Star 增量",
       "tags": [
         "github",
         "trending"
@@ -81,13 +150,34 @@
       "latest_path": "boards/github-trending-daily/latest.json"
     },
     {
+      "slug": "github-trending-monthly",
+      "title": "GitHub Trending (Monthly)",
+      "title_zh": "GitHub Trending 月榜",
+      "status": "planned",
+      "category": "software",
+      "cadence": "weekly",
+      "every_n_hours": null,
+      "metric_id": "stars_period",
+      "metric_label": "Stars gained (period)",
+      "metric_label_zh": "周期 Star 增量",
+      "tags": [
+        "github",
+        "trending"
+      ],
+      "meta_path": "boards/github-trending-monthly/meta.json",
+      "latest_path": "boards/github-trending-monthly/latest.json"
+    },
+    {
       "slug": "github-trending-weekly",
       "title": "GitHub Trending (Weekly)",
       "title_zh": "GitHub Trending 周榜",
       "status": "planned",
       "category": "software",
       "cadence": "weekly",
+      "every_n_hours": null,
       "metric_id": "stars_period",
+      "metric_label": "Stars gained (period)",
+      "metric_label_zh": "周期 Star 增量",
       "tags": [
         "github",
         "trending"
@@ -96,13 +186,34 @@
       "latest_path": "boards/github-trending-weekly/latest.json"
     },
     {
+      "slug": "github-users-followers",
+      "title": "GitHub Users by Followers",
+      "title_zh": "GitHub 用户粉丝榜",
+      "status": "planned",
+      "category": "software",
+      "cadence": "daily",
+      "every_n_hours": null,
+      "metric_id": "followers",
+      "metric_label": "Followers",
+      "metric_label_zh": "粉丝数",
+      "tags": [
+        "github",
+        "users"
+      ],
+      "meta_path": "boards/github-users-followers/meta.json",
+      "latest_path": "boards/github-users-followers/latest.json"
+    },
+    {
       "slug": "hf-models-trending",
       "title": "Hugging Face Models Trending",
       "title_zh": "Hugging Face 热门模型",
       "status": "planned",
       "category": "software",
       "cadence": "daily",
+      "every_n_hours": null,
       "metric_id": "downloads",
+      "metric_label": "Downloads",
+      "metric_label_zh": "下载量",
       "tags": [
         "huggingface",
         "ai"
@@ -117,7 +228,10 @@
       "status": "planned",
       "category": "media",
       "cadence": "weekly",
+      "every_n_hours": null,
       "metric_id": "rating",
+      "metric_label": "IMDb rating",
+      "metric_label_zh": "评分",
       "tags": [
         "imdb",
         "film"
@@ -132,7 +246,10 @@
       "status": "planned",
       "category": "sports",
       "cadence": "daily",
+      "every_n_hours": null,
       "metric_id": "win_pct",
+      "metric_label": "Win percentage",
+      "metric_label_zh": "胜率",
       "tags": [
         "nba",
         "basketball"
@@ -147,7 +264,10 @@
       "status": "planned",
       "category": "software",
       "cadence": "weekly",
+      "every_n_hours": null,
       "metric_id": "downloads_week",
+      "metric_label": "Downloads (7d)",
+      "metric_label_zh": "近 7 日下载量",
       "tags": [
         "npm",
         "javascript"
@@ -162,7 +282,10 @@
       "status": "planned",
       "category": "software",
       "cadence": "weekly",
+      "every_n_hours": null,
       "metric_id": "downloads_month",
+      "metric_label": "Downloads (30d)",
+      "metric_label_zh": "近 30 日下载量",
       "tags": [
         "pypi",
         "python"
@@ -177,7 +300,10 @@
       "status": "planned",
       "category": "sports",
       "cadence": "daily",
+      "every_n_hours": null,
       "metric_id": "points",
+      "metric_label": "Points",
+      "metric_label_zh": "积分",
       "tags": [
         "soccer",
         "premier-league"
@@ -192,7 +318,10 @@
       "status": "planned",
       "category": "sports",
       "cadence": "daily",
+      "every_n_hours": null,
       "metric_id": "points",
+      "metric_label": "Points",
+      "metric_label_zh": "积分",
       "tags": [
         "soccer",
         "ucl"
@@ -207,7 +336,10 @@
       "status": "planned",
       "category": "gaming",
       "cadence": "daily",
+      "every_n_hours": null,
       "metric_id": "ccu",
+      "metric_label": "Current players",
+      "metric_label_zh": "同时在线人数",
       "tags": [
         "steam",
         "ccu"
@@ -222,7 +354,10 @@
       "status": "planned",
       "category": "web",
       "cadence": "daily",
+      "every_n_hours": null,
       "metric_id": "pageviews",
+      "metric_label": "Pageviews",
+      "metric_label_zh": "浏览量",
       "tags": [
         "wikipedia",
         "pageviews"
