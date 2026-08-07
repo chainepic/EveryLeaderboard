@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-07T00:17:03Z",
-  "as_of": "2026-08-07T00:17:03Z",
+  "generated_at": "2026-08-07T03:20:59Z",
+  "as_of": "2026-08-07T03:20:59Z",
   "period": {
     "label": "live_blitz"
   },
@@ -52,19 +52,6 @@
     },
     {
       "rank": 4,
-      "id": "mishanick",
-      "name": "Aleksei Sarana",
-      "value": 3322.0,
-      "unit": "rating",
-      "meta": {
-        "username": "mishanick",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RS",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 5,
       "id": "gurelediz",
       "name": "Ediz Gürel",
       "value": 3313.0,
@@ -77,7 +64,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "GHANDEEVAM2003",
       "name": "Arjun Erigaisi",
       "value": 3311.0,
@@ -86,6 +73,19 @@
         "username": "GHANDEEVAM2003",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 6,
+      "id": "mishanick",
+      "name": "Aleksei Sarana",
+      "value": 3310.0,
+      "unit": "rating",
+      "meta": {
+        "username": "mishanick",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RS",
         "category": "live_blitz"
       }
     },
@@ -392,7 +392,7 @@
       "rank": 30,
       "id": "Fedoseev-Vladimir",
       "name": "Vladimir Fedoseev",
-      "value": 3222.0,
+      "value": 3220.0,
       "unit": "rating",
       "meta": {
         "username": "Fedoseev-Vladimir",
@@ -403,6 +403,19 @@
     },
     {
       "rank": 31,
+      "id": "jefferyx",
+      "name": "Jeffery Xiong",
+      "value": 3219.0,
+      "unit": "rating",
+      "meta": {
+        "username": "jefferyx",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 32,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 3211.0,
@@ -415,7 +428,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": "Javokhir_Sindarov05",
       "name": "Javokhir Sindarov",
       "value": 3210.0,
@@ -424,19 +437,6 @@
         "username": "Javokhir_Sindarov05",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/UZ",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 33,
-      "id": "jefferyx",
-      "name": "Jeffery Xiong",
-      "value": 3206.0,
-      "unit": "rating",
-      "meta": {
-        "username": "jefferyx",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
@@ -559,6 +559,19 @@
     },
     {
       "rank": 43,
+      "id": "bubeliang",
+      "name": "Havard Haug",
+      "value": 3199.0,
+      "unit": "rating",
+      "meta": {
+        "username": "bubeliang",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/NO",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 44,
       "id": "AnishGiri",
       "name": "AnishGiri",
       "value": 3198.0,
@@ -571,7 +584,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": "Jospem",
       "name": "Jose Martinez",
       "value": 3196.0,
@@ -580,19 +593,6 @@
         "username": "Jospem",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/MX",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 45,
-      "id": "bubeliang",
-      "name": "Havard Haug",
-      "value": 3192.0,
-      "unit": "rating",
-      "meta": {
-        "username": "bubeliang",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/NO",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-07T00:17:03Z",
+      "fetched_at": "2026-08-07T03:20:59Z",
       "http_status": 200
     }
   ]
