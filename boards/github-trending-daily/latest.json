@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "github-trending-daily",
-  "generated_at": "2026-08-07T13:41:23Z",
-  "as_of": "2026-08-07T13:41:23Z",
+  "generated_at": "2026-08-07T15:10:36Z",
+  "as_of": "2026-08-07T15:10:36Z",
   "period": {
     "label": "daily"
   },
@@ -13,16 +13,16 @@
   "items": [
     {
       "rank": 1,
-      "id": "TencentCloud/TencentDB-Agent-Memory",
-      "name": "TencentCloud/TencentDB-Agent-Memory",
-      "value": 1057.0,
+      "id": "PrimeIntellect-ai/prime-agent",
+      "name": "PrimeIntellect-ai/prime-agent",
+      "value": 2271.0,
       "unit": "stars",
       "meta": {
-        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
         "language": "TypeScript",
-        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "total_stars": 16923.0,
-        "forks": 1520.0,
+        "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+        "total_stars": 5438.0,
+        "forks": 438.0,
         "since": "daily"
       }
     },
@@ -30,14 +30,14 @@
       "rank": 2,
       "id": "addyosmani/agent-skills",
       "name": "addyosmani/agent-skills",
-      "value": 593.0,
+      "value": 1131.0,
       "unit": "stars",
       "meta": {
         "description": "Production-grade engineering skills for AI coding agents.",
         "language": "JavaScript",
         "url": "https://github.com/addyosmani/agent-skills",
-        "total_stars": 83254.0,
-        "forks": 8915.0,
+        "total_stars": 83508.0,
+        "forks": 8935.0,
         "since": "daily"
       }
     },
@@ -45,14 +45,14 @@
       "rank": 3,
       "id": "cloudflare/computer",
       "name": "cloudflare/computer",
-      "value": 2802.0,
+      "value": 894.0,
       "unit": "stars",
       "meta": {
         "description": "Give your agent a computer 👾",
         "language": "TypeScript",
         "url": "https://github.com/cloudflare/computer",
-        "total_stars": 5080.0,
-        "forks": 257.0,
+        "total_stars": 5293.0,
+        "forks": 267.0,
         "since": "daily"
       }
     },
@@ -60,149 +60,209 @@
       "rank": 4,
       "id": "mattpocock/skills",
       "name": "mattpocock/skills",
-      "value": 1873.0,
+      "value": 2180.0,
       "unit": "stars",
       "meta": {
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "language": "Shell",
         "url": "https://github.com/mattpocock/skills",
-        "total_stars": 207775.0,
-        "forks": 17941.0,
+        "total_stars": 208250.0,
+        "forks": 17969.0,
         "since": "daily"
       }
     },
     {
       "rank": 5,
-      "id": "goauthentik/authentik",
-      "name": "goauthentik/authentik",
-      "value": 138.0,
-      "unit": "stars",
-      "meta": {
-        "description": "The authentication glue you need.",
-        "language": "Python",
-        "url": "https://github.com/goauthentik/authentik",
-        "total_stars": 23277.0,
-        "forks": 1783.0,
-        "since": "daily"
-      }
-    },
-    {
-      "rank": 6,
-      "id": "huangruiteng/loopx",
-      "name": "huangruiteng/loopx",
-      "value": 847.0,
-      "unit": "stars",
-      "meta": {
-        "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
-        "language": "Python",
-        "url": "https://github.com/huangruiteng/loopx",
-        "total_stars": 3125.0,
-        "forks": 233.0,
-        "since": "daily"
-      }
-    },
-    {
-      "rank": 7,
-      "id": "google/guava",
-      "name": "google/guava",
-      "value": 13.0,
-      "unit": "stars",
-      "meta": {
-        "description": "Google core libraries for Java",
-        "language": "Java",
-        "url": "https://github.com/google/guava",
-        "total_stars": 51683.0,
-        "forks": 11167.0,
-        "since": "daily"
-      }
-    },
-    {
-      "rank": 8,
-      "id": "TapXWorld/ChinaTextbook",
-      "name": "TapXWorld/ChinaTextbook",
-      "value": 134.0,
-      "unit": "stars",
-      "meta": {
-        "description": "所有小初高、大学PDF教材。",
-        "language": "Roff",
-        "url": "https://github.com/TapXWorld/ChinaTextbook",
-        "total_stars": 77448.0,
-        "forks": 17487.0,
-        "since": "daily"
-      }
-    },
-    {
-      "rank": 9,
-      "id": "Significant-Gravitas/AutoGPT",
-      "name": "Significant-Gravitas/AutoGPT",
-      "value": 37.0,
-      "unit": "stars",
-      "meta": {
-        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-        "language": "Python",
-        "url": "https://github.com/Significant-Gravitas/AutoGPT",
-        "total_stars": 186134.0,
-        "forks": 46057.0,
-        "since": "daily"
-      }
-    },
-    {
-      "rank": 10,
-      "id": "tirth8205/code-review-graph",
-      "name": "tirth8205/code-review-graph",
-      "value": 237.0,
-      "unit": "stars",
-      "meta": {
-        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-        "language": "Python",
-        "url": "https://github.com/tirth8205/code-review-graph",
-        "total_stars": 29206.0,
-        "forks": 2689.0,
-        "since": "daily"
-      }
-    },
-    {
-      "rank": 11,
-      "id": "esengine/DeepSeek-Reasonix",
-      "name": "esengine/DeepSeek-Reasonix",
-      "value": 888.0,
-      "unit": "stars",
-      "meta": {
-        "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-        "language": "Go",
-        "url": "https://github.com/esengine/DeepSeek-Reasonix",
-        "total_stars": 32685.0,
-        "forks": 2107.0,
-        "since": "daily"
-      }
-    },
-    {
-      "rank": 12,
       "id": "obra/superpowers",
       "name": "obra/superpowers",
-      "value": 858.0,
+      "value": 794.0,
       "unit": "stars",
       "meta": {
         "description": "An agentic skills framework & software development methodology that works.",
         "language": "Shell",
         "url": "https://github.com/obra/superpowers",
-        "total_stars": 268343.0,
-        "forks": 23974.0,
+        "total_stars": 268540.0,
+        "forks": 23987.0,
+        "since": "daily"
+      }
+    },
+    {
+      "rank": 6,
+      "id": "goauthentik/authentik",
+      "name": "goauthentik/authentik",
+      "value": 544.0,
+      "unit": "stars",
+      "meta": {
+        "description": "The authentication glue you need.",
+        "language": "Python",
+        "url": "https://github.com/goauthentik/authentik",
+        "total_stars": 23388.0,
+        "forks": 1790.0,
+        "since": "daily"
+      }
+    },
+    {
+      "rank": 7,
+      "id": "semantica-agi/semantica",
+      "name": "semantica-agi/semantica",
+      "value": 118.0,
+      "unit": "stars",
+      "meta": {
+        "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+        "language": "Python",
+        "url": "https://github.com/semantica-agi/semantica",
+        "total_stars": 2196.0,
+        "forks": 296.0,
+        "since": "daily"
+      }
+    },
+    {
+      "rank": 8,
+      "id": "666ghj/MiroFish",
+      "name": "666ghj/MiroFish",
+      "value": 126.0,
+      "unit": "stars",
+      "meta": {
+        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "language": "Python",
+        "url": "https://github.com/666ghj/MiroFish",
+        "total_stars": 70298.0,
+        "forks": 10981.0,
+        "since": "daily"
+      }
+    },
+    {
+      "rank": 9,
+      "id": "chenyme/grok2api",
+      "name": "chenyme/grok2api",
+      "value": 43.0,
+      "unit": "stars",
+      "meta": {
+        "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+        "language": "Go",
+        "url": "https://github.com/chenyme/grok2api",
+        "total_stars": 7088.0,
+        "forks": 2159.0,
+        "since": "daily"
+      }
+    },
+    {
+      "rank": 10,
+      "id": "jdx/mise",
+      "name": "jdx/mise",
+      "value": 258.0,
+      "unit": "stars",
+      "meta": {
+        "description": "dev tools, env vars, task runner",
+        "language": "Rust",
+        "url": "https://github.com/jdx/mise",
+        "total_stars": 31982.0,
+        "forks": 1325.0,
+        "since": "daily"
+      }
+    },
+    {
+      "rank": 11,
+      "id": "Significant-Gravitas/AutoGPT",
+      "name": "Significant-Gravitas/AutoGPT",
+      "value": 363.0,
+      "unit": "stars",
+      "meta": {
+        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+        "language": "Python",
+        "url": "https://github.com/Significant-Gravitas/AutoGPT",
+        "total_stars": 186218.0,
+        "forks": 46056.0,
+        "since": "daily"
+      }
+    },
+    {
+      "rank": 12,
+      "id": "google/guava",
+      "name": "google/guava",
+      "value": 156.0,
+      "unit": "stars",
+      "meta": {
+        "description": "Google core libraries for Java",
+        "language": "Java",
+        "url": "https://github.com/google/guava",
+        "total_stars": 51712.0,
+        "forks": 11168.0,
         "since": "daily"
       }
     },
     {
       "rank": 13,
-      "id": "firecrawl/pdf-inspector",
-      "name": "firecrawl/pdf-inspector",
-      "value": 1190.0,
+      "id": "unclebob/swarm-forge",
+      "name": "unclebob/swarm-forge",
+      "value": 85.0,
       "unit": "stars",
       "meta": {
-        "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+        "description": "A simple tool for coordinating several AI agents.",
+        "language": "Clojure",
+        "url": "https://github.com/unclebob/swarm-forge",
+        "total_stars": 1722.0,
+        "forks": 190.0,
+        "since": "daily"
+      }
+    },
+    {
+      "rank": 14,
+      "id": "denoland/celld",
+      "name": "denoland/celld",
+      "value": 546.0,
+      "unit": "stars",
+      "meta": {
+        "description": "self-hosted, distributed Durable Objects",
         "language": "Rust",
-        "url": "https://github.com/firecrawl/pdf-inspector",
-        "total_stars": 12731.0,
-        "forks": 857.0,
+        "url": "https://github.com/denoland/celld",
+        "total_stars": 1986.0,
+        "forks": 53.0,
+        "since": "daily"
+      }
+    },
+    {
+      "rank": 15,
+      "id": "K2SOsint/Legendary_OSINT",
+      "name": "K2SOsint/Legendary_OSINT",
+      "value": 64.0,
+      "unit": "stars",
+      "meta": {
+        "description": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+        "language": "",
+        "url": "https://github.com/K2SOsint/Legendary_OSINT",
+        "total_stars": 1192.0,
+        "forks": 176.0,
+        "since": "daily"
+      }
+    },
+    {
+      "rank": 16,
+      "id": "pranshuparmar/witr",
+      "name": "pranshuparmar/witr",
+      "value": 427.0,
+      "unit": "stars",
+      "meta": {
+        "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+        "language": "Go",
+        "url": "https://github.com/pranshuparmar/witr",
+        "total_stars": 19424.0,
+        "forks": 631.0,
+        "since": "daily"
+      }
+    },
+    {
+      "rank": 17,
+      "id": "google/skills",
+      "name": "google/skills",
+      "value": 305.0,
+      "unit": "stars",
+      "meta": {
+        "description": "Agent Skills for Google products and technologies",
+        "language": "Python",
+        "url": "https://github.com/google/skills",
+        "total_stars": 16025.0,
+        "forks": 1276.0,
         "since": "daily"
       }
     }
@@ -211,7 +271,7 @@
     {
       "name": "isboyjc/github-trending-api",
       "url": "https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/daily/all.json",
-      "fetched_at": "2026-08-07T13:41:23Z",
+      "fetched_at": "2026-08-07T15:10:36Z",
       "http_status": 200
     }
   ]
