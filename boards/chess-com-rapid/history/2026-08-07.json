@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-07T11:59:02Z",
-  "as_of": "2026-08-07T11:59:02Z",
+  "generated_at": "2026-08-07T13:41:22Z",
+  "as_of": "2026-08-07T13:41:22Z",
   "period": {
     "label": "live_rapid"
   },
@@ -455,6 +455,19 @@
     },
     {
       "rank": 35,
+      "id": "FandiMazen",
+      "name": "Mazen Fandi",
+      "value": 2719.0,
+      "unit": "rating",
+      "meta": {
+        "username": "FandiMazen",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/SY",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 36,
       "id": "Berardino",
       "name": "Diego Berardino",
       "value": 2717.0,
@@ -467,7 +480,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 37,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 2713.0,
@@ -480,7 +493,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 38,
       "id": "KNVB",
       "name": "Aman Hambleton",
       "value": 2707.0,
@@ -493,7 +506,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 39,
       "id": "dual_flurry",
       "name": "Jerad Docena",
       "value": 2704.0,
@@ -502,19 +515,6 @@
         "username": "dual_flurry",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/PH",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 39,
-      "id": "FandiMazen",
-      "name": "Mazen Fandi",
-      "value": 2704.0,
-      "unit": "rating",
-      "meta": {
-        "username": "FandiMazen",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/SY",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-07T11:59:02Z",
+      "fetched_at": "2026-08-07T13:41:22Z",
       "http_status": 200
     }
   ]
