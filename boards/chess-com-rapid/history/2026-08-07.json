@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-07T11:11:05Z",
-  "as_of": "2026-08-07T11:11:05Z",
+  "generated_at": "2026-08-07T11:59:02Z",
+  "as_of": "2026-08-07T11:59:02Z",
   "period": {
     "label": "live_rapid"
   },
@@ -442,6 +442,19 @@
     },
     {
       "rank": 34,
+      "id": "Szparu",
+      "name": "Miłosz Szpar",
+      "value": 2719.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Szparu",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/PL",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 35,
       "id": "Berardino",
       "name": "Diego Berardino",
       "value": 2717.0,
@@ -450,19 +463,6 @@
         "username": "Berardino",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/BR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 35,
-      "id": "Szparu",
-      "name": "Miłosz Szpar",
-      "value": 2716.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Szparu",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/PL",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-07T11:11:05Z",
+      "fetched_at": "2026-08-07T11:59:02Z",
       "http_status": 200
     }
   ]
