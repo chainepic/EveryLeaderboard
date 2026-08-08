@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-08T04:29:50Z",
-  "as_of": "2026-08-08T04:29:50Z",
+  "generated_at": "2026-08-08T05:58:11Z",
+  "as_of": "2026-08-08T05:58:11Z",
   "period": {
     "label": "live_blitz"
   },
@@ -41,7 +41,7 @@
       "rank": 3,
       "id": "MagnusCarlsen",
       "name": "Magnus Carlsen",
-      "value": 3352.0,
+      "value": 3354.0,
       "unit": "rating",
       "meta": {
         "username": "MagnusCarlsen",
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-08T04:29:50Z",
+      "fetched_at": "2026-08-08T05:58:11Z",
       "http_status": 200
     }
   ]
