@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-08T05:58:11Z",
-  "as_of": "2026-08-08T05:58:11Z",
+  "generated_at": "2026-08-08T07:17:03Z",
+  "as_of": "2026-08-08T07:17:03Z",
   "period": {
     "label": "live_blitz"
   },
@@ -247,19 +247,6 @@
     },
     {
       "rank": 19,
-      "id": "artooon",
-      "name": "Pranesh M",
-      "value": 3238.0,
-      "unit": "rating",
-      "meta": {
-        "username": "artooon",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/XX",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 20,
       "id": "FaustinoOro",
       "name": "Faustino Oro",
       "value": 3237.0,
@@ -272,13 +259,26 @@
       }
     },
     {
-      "rank": 21,
+      "rank": 20,
       "id": "Volodar_Murzin",
       "name": "Volodar Murzin",
       "value": 3236.0,
       "unit": "rating",
       "meta": {
         "username": "Volodar_Murzin",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/XX",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 21,
+      "id": "artooon",
+      "name": "Pranesh M",
+      "value": 3234.0,
+      "unit": "rating",
+      "meta": {
+        "username": "artooon",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/XX",
         "category": "live_blitz"
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-08T05:58:11Z",
+      "fetched_at": "2026-08-08T07:17:03Z",
       "http_status": 200
     }
   ]
