@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-08T16:54:10Z",
-  "as_of": "2026-08-08T16:54:10Z",
+  "generated_at": "2026-08-08T17:47:23Z",
+  "as_of": "2026-08-08T17:47:23Z",
   "period": {
     "label": "live_blitz"
   },
@@ -585,6 +585,19 @@
     },
     {
       "rank": 45,
+      "id": "Salem-AR",
+      "name": "Salem AR Saleh",
+      "value": 3193.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Salem-AR",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/AE",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 46,
       "id": "Msb2",
       "name": "Matthias Bluebaum",
       "value": 3192.0,
@@ -593,19 +606,6 @@
         "username": "Msb2",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/DE",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 46,
-      "id": "Dr_Tyger",
-      "name": "Haowen Xue",
-      "value": 3191.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Dr_Tyger",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/CN",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-08T16:54:10Z",
+      "fetched_at": "2026-08-08T17:47:23Z",
       "http_status": 200
     }
   ]
