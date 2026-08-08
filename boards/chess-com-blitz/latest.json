@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-08T11:44:50Z",
-  "as_of": "2026-08-08T11:44:50Z",
+  "generated_at": "2026-08-08T13:13:59Z",
+  "as_of": "2026-08-08T13:13:59Z",
   "period": {
     "label": "live_blitz"
   },
@@ -208,6 +208,19 @@
     },
     {
       "rank": 16,
+      "id": "Sina-Movahed",
+      "name": "Sina Movahed",
+      "value": 3246.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Sina-Movahed",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 17,
       "id": "LevonAronian",
       "name": "Levon Aronian",
       "value": 3246.0,
@@ -220,7 +233,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "HansOnTwitch",
       "name": "Hans Niemann",
       "value": 3244.0,
@@ -233,7 +246,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": "GMWSO",
       "name": "Wesley So",
       "value": 3243.0,
@@ -246,7 +259,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": "artooon",
       "name": "Pranesh M",
       "value": 3240.0,
@@ -259,7 +272,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 21,
       "id": "FaustinoOro",
       "name": "Faustino Oro",
       "value": 3237.0,
@@ -272,7 +285,7 @@
       }
     },
     {
-      "rank": 21,
+      "rank": 22,
       "id": "Volodar_Murzin",
       "name": "Volodar Murzin",
       "value": 3236.0,
@@ -285,7 +298,7 @@
       }
     },
     {
-      "rank": 22,
+      "rank": 23,
       "id": "Firouzja2003",
       "name": "Alireza Firouzja",
       "value": 3232.0,
@@ -298,7 +311,7 @@
       }
     },
     {
-      "rank": 23,
+      "rank": 24,
       "id": "DenLaz",
       "name": "Denis Lazavik",
       "value": 3231.0,
@@ -307,19 +320,6 @@
         "username": "DenLaz",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/BY",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 24,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
-      "value": 3228.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sina-Movahed",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-08T11:44:50Z",
+      "fetched_at": "2026-08-08T13:13:59Z",
       "http_status": 200
     }
   ]
