@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-08T20:49:41Z",
-  "as_of": "2026-08-08T20:49:41Z",
+  "generated_at": "2026-08-08T21:47:13Z",
+  "as_of": "2026-08-08T21:47:13Z",
   "period": {
     "label": "live_blitz"
   },
@@ -559,19 +559,6 @@
     },
     {
       "rank": 43,
-      "id": "lachesisQ",
-      "name": "Ian Nepomniachtchi",
-      "value": 3196.0,
-      "unit": "rating",
-      "meta": {
-        "username": "lachesisQ",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 44,
       "id": "Jospem",
       "name": "Jose Martinez",
       "value": 3196.0,
@@ -580,6 +567,19 @@
         "username": "Jospem",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/MX",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 44,
+      "id": "lachesisQ",
+      "name": "Ian Nepomniachtchi",
+      "value": 3194.0,
+      "unit": "rating",
+      "meta": {
+        "username": "lachesisQ",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-08T20:49:41Z",
+      "fetched_at": "2026-08-08T21:47:13Z",
       "http_status": 200
     }
   ]
