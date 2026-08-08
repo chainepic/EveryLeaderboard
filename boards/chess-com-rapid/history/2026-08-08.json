@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-08T22:48:39Z",
-  "as_of": "2026-08-08T22:48:39Z",
+  "generated_at": "2026-08-08T23:46:25Z",
+  "as_of": "2026-08-08T23:46:25Z",
   "period": {
     "label": "live_rapid"
   },
@@ -507,19 +507,6 @@
     },
     {
       "rank": 39,
-      "id": "LikeWater",
-      "name": "Alexander Velikanov",
-      "value": 2705.0,
-      "unit": "rating",
-      "meta": {
-        "username": "LikeWater",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 40,
       "id": "dual_flurry",
       "name": "Jerad Docena",
       "value": 2704.0,
@@ -532,7 +519,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 40,
       "id": "elefante33",
       "name": "Felipe El Debs",
       "value": 2704.0,
@@ -545,7 +532,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 41,
       "id": "Liindseeyy",
       "name": "Liindseeyy",
       "value": 2702.0,
@@ -558,7 +545,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 42,
       "id": "CKJY2796",
       "name": "Jason Yeung",
       "value": 2702.0,
@@ -571,7 +558,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 43,
       "id": "mmgchess",
       "name": "Marcos Gonzalez",
       "value": 2701.0,
@@ -579,6 +566,19 @@
       "meta": {
         "username": "mmgchess",
         "title": "NM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 44,
+      "id": "LikeWater",
+      "name": "Alexander Velikanov",
+      "value": 2701.0,
+      "unit": "rating",
+      "meta": {
+        "username": "LikeWater",
+        "title": "IM",
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-08T22:48:39Z",
+      "fetched_at": "2026-08-08T23:46:25Z",
       "http_status": 200
     }
   ]

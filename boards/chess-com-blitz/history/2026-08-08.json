@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-08T22:48:39Z",
-  "as_of": "2026-08-08T22:48:39Z",
+  "generated_at": "2026-08-08T23:46:25Z",
+  "as_of": "2026-08-08T23:46:25Z",
   "period": {
     "label": "live_blitz"
   },
@@ -598,6 +598,19 @@
     },
     {
       "rank": 46,
+      "id": "ChristopherYoo",
+      "name": "Christopher Woojin Yoo",
+      "value": 3192.0,
+      "unit": "rating",
+      "meta": {
+        "username": "ChristopherYoo",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/TV",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 47,
       "id": "FabianoCaruana",
       "name": "Fabiano Caruana",
       "value": 3188.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3187.0,
@@ -619,19 +632,6 @@
         "username": "Andreikka",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 48,
-      "id": "ChristopherYoo",
-      "name": "Christopher Woojin Yoo",
-      "value": 3186.0,
-      "unit": "rating",
-      "meta": {
-        "username": "ChristopherYoo",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/TV",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-08T22:48:39Z",
+      "fetched_at": "2026-08-08T23:46:25Z",
       "http_status": 200
     }
   ]
