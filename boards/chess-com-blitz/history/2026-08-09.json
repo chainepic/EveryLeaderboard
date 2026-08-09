@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-09T14:54:01Z",
-  "as_of": "2026-08-09T14:54:01Z",
+  "generated_at": "2026-08-09T15:48:20Z",
+  "as_of": "2026-08-09T15:48:20Z",
   "period": {
     "label": "live_blitz"
   },
@@ -572,6 +572,19 @@
     },
     {
       "rank": 44,
+      "id": "lachesisQ",
+      "name": "Ian Nepomniachtchi",
+      "value": 3196.0,
+      "unit": "rating",
+      "meta": {
+        "username": "lachesisQ",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 45,
       "id": "Jospem",
       "name": "Jose Martinez",
       "value": 3196.0,
@@ -584,7 +597,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "Salem-AR",
       "name": "Salem AR Saleh",
       "value": 3193.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "Msb2",
       "name": "Matthias Bluebaum",
       "value": 3192.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
       "value": 3192.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "FabianoCaruana",
       "name": "Fabiano Caruana",
       "value": 3188.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3187.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "lachesisQ",
-      "name": "Ian Nepomniachtchi",
-      "value": 3184.0,
-      "unit": "rating",
-      "meta": {
-        "username": "lachesisQ",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-09T14:54:01Z",
+      "fetched_at": "2026-08-09T15:48:20Z",
       "http_status": 200
     }
   ]
