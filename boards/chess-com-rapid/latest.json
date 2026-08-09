@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-09T15:48:20Z",
-  "as_of": "2026-08-09T15:48:20Z",
+  "generated_at": "2026-08-09T16:56:19Z",
+  "as_of": "2026-08-09T16:56:19Z",
   "period": {
     "label": "live_rapid"
   },
@@ -637,19 +637,6 @@
     },
     {
       "rank": 49,
-      "id": "QuCaNi99",
-      "name": "QuCaNi99",
-      "value": 2688.0,
-      "unit": "rating",
-      "meta": {
-        "username": "QuCaNi99",
-        "title": null,
-        "country_url": "https://api.chess.com/pub/country/DE",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 50,
       "id": "Tomoe_nage",
       "name": "Nicholas Bruha",
       "value": 2688.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
+    },
+    {
+      "rank": 50,
+      "id": "RaunakSadhwani2005",
+      "name": "Raunak Sadhwani",
+      "value": 2686.0,
+      "unit": "rating",
+      "meta": {
+        "username": "RaunakSadhwani2005",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IN",
+        "category": "live_rapid"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-09T15:48:20Z",
+      "fetched_at": "2026-08-09T16:56:19Z",
       "http_status": 200
     }
   ]
