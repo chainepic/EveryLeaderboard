@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-09T13:17:19Z",
-  "as_of": "2026-08-09T13:17:19Z",
+  "generated_at": "2026-08-09T14:54:01Z",
+  "as_of": "2026-08-09T14:54:01Z",
   "period": {
     "label": "live_blitz"
   },
@@ -208,6 +208,19 @@
     },
     {
       "rank": 16,
+      "id": "FaustinoOro",
+      "name": "Faustino Oro",
+      "value": 3248.0,
+      "unit": "rating",
+      "meta": {
+        "username": "FaustinoOro",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/AR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 17,
       "id": "PursuitOfHappyness2",
       "name": "Abhimanyu Mishra",
       "value": 3246.0,
@@ -220,7 +233,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "LevonAronian",
       "name": "Levon Aronian",
       "value": 3246.0,
@@ -233,7 +246,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": "HansOnTwitch",
       "name": "Hans Niemann",
       "value": 3244.0,
@@ -246,7 +259,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": "GMWSO",
       "name": "Wesley So",
       "value": 3243.0,
@@ -259,7 +272,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 21,
       "id": "artooon",
       "name": "Pranesh M",
       "value": 3240.0,
@@ -268,19 +281,6 @@
         "username": "artooon",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/XX",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 21,
-      "id": "FaustinoOro",
-      "name": "Faustino Oro",
-      "value": 3237.0,
-      "unit": "rating",
-      "meta": {
-        "username": "FaustinoOro",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/AR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-09T13:17:19Z",
+      "fetched_at": "2026-08-09T14:54:01Z",
       "http_status": 200
     }
   ]
