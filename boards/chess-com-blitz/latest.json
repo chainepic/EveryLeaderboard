@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-09T17:48:58Z",
-  "as_of": "2026-08-09T17:48:58Z",
+  "generated_at": "2026-08-09T19:03:00Z",
+  "as_of": "2026-08-09T19:03:00Z",
   "period": {
     "label": "live_blitz"
   },
@@ -156,14 +156,14 @@
     },
     {
       "rank": 12,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
+      "id": "Fedoseev-Vladimir",
+      "name": "Vladimir Fedoseev",
       "value": 3261.0,
       "unit": "rating",
       "meta": {
-        "username": "Sina-Movahed",
+        "username": "Fedoseev-Vladimir",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
+        "country_url": "https://api.chess.com/pub/country/SI",
         "category": "live_blitz"
       }
     },
@@ -182,14 +182,14 @@
     },
     {
       "rank": 14,
-      "id": "Fedoseev-Vladimir",
-      "name": "Vladimir Fedoseev",
+      "id": "Sina-Movahed",
+      "name": "Sina Movahed",
       "value": 3250.0,
       "unit": "rating",
       "meta": {
-        "username": "Fedoseev-Vladimir",
+        "username": "Sina-Movahed",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/SI",
+        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-09T17:48:58Z",
+      "fetched_at": "2026-08-09T19:03:00Z",
       "http_status": 200
     }
   ]
