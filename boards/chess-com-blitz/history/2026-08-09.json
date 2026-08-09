@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-09T19:03:00Z",
-  "as_of": "2026-08-09T19:03:00Z",
+  "generated_at": "2026-08-09T19:49:40Z",
+  "as_of": "2026-08-09T19:49:40Z",
   "period": {
     "label": "live_blitz"
   },
@@ -156,14 +156,14 @@
     },
     {
       "rank": 12,
-      "id": "Fedoseev-Vladimir",
-      "name": "Vladimir Fedoseev",
-      "value": 3261.0,
+      "id": "Sina-Movahed",
+      "name": "Sina Movahed",
+      "value": 3258.0,
       "unit": "rating",
       "meta": {
-        "username": "Fedoseev-Vladimir",
+        "username": "Sina-Movahed",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/SI",
+        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -182,14 +182,14 @@
     },
     {
       "rank": 14,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
-      "value": 3250.0,
+      "id": "Fedoseev-Vladimir",
+      "name": "Vladimir Fedoseev",
+      "value": 3253.0,
       "unit": "rating",
       "meta": {
-        "username": "Sina-Movahed",
+        "username": "Fedoseev-Vladimir",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
+        "country_url": "https://api.chess.com/pub/country/SI",
         "category": "live_blitz"
       }
     },
@@ -377,6 +377,19 @@
     },
     {
       "rank": 29,
+      "id": "lachesisQ",
+      "name": "Ian Nepomniachtchi",
+      "value": 3225.0,
+      "unit": "rating",
+      "meta": {
+        "username": "lachesisQ",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 30,
       "id": "Sibelephant",
       "name": "Vladislav Artemiev",
       "value": 3224.0,
@@ -389,7 +402,7 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 31,
       "id": "Zhuu96",
       "name": "Zhamsaran Tsydypov",
       "value": 3224.0,
@@ -402,7 +415,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": "jefferyx",
       "name": "Jeffery Xiong",
       "value": 3219.0,
@@ -411,19 +424,6 @@
         "username": "jefferyx",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 32,
-      "id": "lachesisQ",
-      "name": "Ian Nepomniachtchi",
-      "value": 3218.0,
-      "unit": "rating",
-      "meta": {
-        "username": "lachesisQ",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-09T19:03:00Z",
+      "fetched_at": "2026-08-09T19:49:40Z",
       "http_status": 200
     }
   ]
