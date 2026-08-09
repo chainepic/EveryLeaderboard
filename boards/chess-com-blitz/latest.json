@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-09T09:04:22Z",
-  "as_of": "2026-08-09T09:04:22Z",
+  "generated_at": "2026-08-09T09:58:22Z",
+  "as_of": "2026-08-09T09:58:22Z",
   "period": {
     "label": "live_blitz"
   },
@@ -156,6 +156,19 @@
     },
     {
       "rank": 12,
+      "id": "Sina-Movahed",
+      "name": "Sina Movahed",
+      "value": 3260.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Sina-Movahed",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 13,
       "id": "spicycaterpillar",
       "name": "Ray Robson",
       "value": 3255.0,
@@ -164,19 +177,6 @@
         "username": "spicycaterpillar",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 13,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
-      "value": 3254.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sina-Movahed",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-09T09:04:22Z",
+      "fetched_at": "2026-08-09T09:58:22Z",
       "http_status": 200
     }
   ]
