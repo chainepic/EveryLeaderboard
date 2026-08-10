@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-10T08:52:14Z",
-  "as_of": "2026-08-10T08:52:14Z",
+  "generated_at": "2026-08-10T10:37:29Z",
+  "as_of": "2026-08-10T10:37:29Z",
   "period": {
     "label": "live_blitz"
   },
@@ -494,6 +494,19 @@
     },
     {
       "rank": 38,
+      "id": "Msb2",
+      "name": "Matthias Bluebaum",
+      "value": 3204.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Msb2",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/DE",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 39,
       "id": "legendisback1",
       "name": "Yagiz Kaan Erdogmus",
       "value": 3204.0,
@@ -506,7 +519,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 40,
       "id": "ManuDavid2910",
       "name": "Manu David",
       "value": 3203.0,
@@ -519,7 +532,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": "GMBrewChess",
       "name": "Brewington Hardaway",
       "value": 3201.0,
@@ -532,7 +545,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "VincentKeymer",
       "name": "Vincent Keymer",
       "value": 3200.0,
@@ -545,7 +558,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 43,
       "id": "bubeliang",
       "name": "Havard Haug",
       "value": 3200.0,
@@ -558,7 +571,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 44,
       "id": "AnishGiri",
       "name": "AnishGiri",
       "value": 3198.0,
@@ -571,7 +584,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": "Jospem",
       "name": "Jose Martinez",
       "value": 3196.0,
@@ -584,7 +597,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "Salem-AR",
       "name": "Salem AR Saleh",
       "value": 3193.0,
@@ -593,19 +606,6 @@
         "username": "Salem-AR",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/AE",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 46,
-      "id": "Msb2",
-      "name": "Matthias Bluebaum",
-      "value": 3192.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Msb2",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/DE",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-10T08:52:14Z",
+      "fetched_at": "2026-08-10T10:37:29Z",
       "http_status": 200
     }
   ]
