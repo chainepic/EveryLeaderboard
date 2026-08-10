@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-10T13:46:50Z",
-  "as_of": "2026-08-10T13:46:50Z",
+  "generated_at": "2026-08-10T15:18:39Z",
+  "as_of": "2026-08-10T15:18:39Z",
   "period": {
     "label": "live_blitz"
   },
@@ -54,7 +54,7 @@
       "rank": 4,
       "id": "mishanick",
       "name": "Aleksei Sarana",
-      "value": 3329.0,
+      "value": 3334.0,
       "unit": "rating",
       "meta": {
         "username": "mishanick",
@@ -208,6 +208,19 @@
     },
     {
       "rank": 16,
+      "id": "artooon",
+      "name": "Pranesh M",
+      "value": 3246.0,
+      "unit": "rating",
+      "meta": {
+        "username": "artooon",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/XX",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 17,
       "id": "PursuitOfHappyness2",
       "name": "Abhimanyu Mishra",
       "value": 3246.0,
@@ -220,7 +233,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "LevonAronian",
       "name": "Levon Aronian",
       "value": 3246.0,
@@ -233,7 +246,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": "HansOnTwitch",
       "name": "Hans Niemann",
       "value": 3244.0,
@@ -246,7 +259,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": "GMWSO",
       "name": "Wesley So",
       "value": 3243.0,
@@ -255,19 +268,6 @@
         "username": "GMWSO",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 20,
-      "id": "artooon",
-      "name": "Pranesh M",
-      "value": 3240.0,
-      "unit": "rating",
-      "meta": {
-        "username": "artooon",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/XX",
         "category": "live_blitz"
       }
     },
@@ -624,14 +624,14 @@
     },
     {
       "rank": 48,
-      "id": "MichaelRoiz",
-      "name": "Michael Roiz",
+      "id": "Salem-AR",
+      "name": "Salem AR Saleh",
       "value": 3188.0,
       "unit": "rating",
       "meta": {
-        "username": "MichaelRoiz",
+        "username": "Salem-AR",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
+        "country_url": "https://api.chess.com/pub/country/AE",
         "category": "live_blitz"
       }
     },
@@ -650,14 +650,14 @@
     },
     {
       "rank": 50,
-      "id": "Salem-AR",
-      "name": "Salem AR Saleh",
+      "id": "MichaelRoiz",
+      "name": "Michael Roiz",
       "value": 3187.0,
       "unit": "rating",
       "meta": {
-        "username": "Salem-AR",
+        "username": "MichaelRoiz",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/AE",
+        "country_url": "https://api.chess.com/pub/country/IL",
         "category": "live_blitz"
       }
     }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-10T13:46:50Z",
+      "fetched_at": "2026-08-10T15:18:39Z",
       "http_status": 200
     }
   ]
