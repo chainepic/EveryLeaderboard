@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-10T12:00:30Z",
-  "as_of": "2026-08-10T12:00:30Z",
+  "generated_at": "2026-08-10T13:46:50Z",
+  "as_of": "2026-08-10T13:46:50Z",
   "period": {
     "label": "live_blitz"
   },
@@ -598,19 +598,6 @@
     },
     {
       "rank": 46,
-      "id": "Salem-AR",
-      "name": "Salem AR Saleh",
-      "value": 3193.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Salem-AR",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/AE",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 47,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
       "value": 3192.0,
@@ -623,7 +610,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": "Annawel",
       "name": "Jules Moussard",
       "value": 3191.0,
@@ -632,6 +619,19 @@
         "username": "Annawel",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/FR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 48,
+      "id": "MichaelRoiz",
+      "name": "Michael Roiz",
+      "value": 3188.0,
+      "unit": "rating",
+      "meta": {
+        "username": "MichaelRoiz",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IL",
         "category": "live_blitz"
       }
     },
@@ -650,14 +650,14 @@
     },
     {
       "rank": 50,
-      "id": "Andreikka",
-      "name": "Andrey Esipenko",
+      "id": "Salem-AR",
+      "name": "Salem AR Saleh",
       "value": 3187.0,
       "unit": "rating",
       "meta": {
-        "username": "Andreikka",
+        "username": "Salem-AR",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
+        "country_url": "https://api.chess.com/pub/country/AE",
         "category": "live_blitz"
       }
     }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-10T12:00:30Z",
+      "fetched_at": "2026-08-10T13:46:50Z",
       "http_status": 200
     }
   ]
