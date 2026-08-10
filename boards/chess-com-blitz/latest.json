@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-10T06:43:17Z",
-  "as_of": "2026-08-10T06:43:17Z",
+  "generated_at": "2026-08-10T08:52:14Z",
+  "as_of": "2026-08-10T08:52:14Z",
   "period": {
     "label": "live_blitz"
   },
@@ -520,19 +520,6 @@
     },
     {
       "rank": 40,
-      "id": "Annawel",
-      "name": "Jules Moussard",
-      "value": 3203.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Annawel",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/FR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 41,
       "id": "GMBrewChess",
       "name": "Brewington Hardaway",
       "value": 3201.0,
@@ -545,7 +532,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 41,
       "id": "VincentKeymer",
       "name": "Vincent Keymer",
       "value": 3200.0,
@@ -558,7 +545,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 42,
       "id": "bubeliang",
       "name": "Havard Haug",
       "value": 3200.0,
@@ -571,7 +558,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 43,
       "id": "AnishGiri",
       "name": "AnishGiri",
       "value": 3198.0,
@@ -584,7 +571,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 44,
       "id": "Jospem",
       "name": "Jose Martinez",
       "value": 3196.0,
@@ -597,7 +584,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": "Salem-AR",
       "name": "Salem AR Saleh",
       "value": 3193.0,
@@ -610,7 +597,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": "Msb2",
       "name": "Matthias Bluebaum",
       "value": 3192.0,
@@ -623,7 +610,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
       "value": 3192.0,
@@ -632,6 +619,19 @@
         "username": "ChristopherYoo",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/TV",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 48,
+      "id": "Annawel",
+      "name": "Jules Moussard",
+      "value": 3191.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Annawel",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/FR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-10T06:43:17Z",
+      "fetched_at": "2026-08-10T08:52:14Z",
       "http_status": 200
     }
   ]
