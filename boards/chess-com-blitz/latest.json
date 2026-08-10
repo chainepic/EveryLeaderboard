@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-10T19:18:54Z",
-  "as_of": "2026-08-10T19:18:54Z",
+  "generated_at": "2026-08-10T21:03:36Z",
+  "as_of": "2026-08-10T21:03:36Z",
   "period": {
     "label": "live_blitz"
   },
@@ -312,6 +312,19 @@
     },
     {
       "rank": 24,
+      "id": "lachesisQ",
+      "name": "Ian Nepomniachtchi",
+      "value": 3230.0,
+      "unit": "rating",
+      "meta": {
+        "username": "lachesisQ",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 25,
       "id": "FaustinoOro",
       "name": "Faustino Oro",
       "value": 3228.0,
@@ -324,7 +337,7 @@
       }
     },
     {
-      "rank": 25,
+      "rank": 26,
       "id": "TRadjabov",
       "name": "Teimour Radjabov",
       "value": 3228.0,
@@ -337,7 +350,7 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 27,
       "id": "nihalsarin",
       "name": "Nihal Sarin",
       "value": 3227.0,
@@ -350,7 +363,7 @@
       }
     },
     {
-      "rank": 27,
+      "rank": 28,
       "id": "Mykola-Bortnyk",
       "name": "Mykola Bortnyk",
       "value": 3226.0,
@@ -363,7 +376,7 @@
       }
     },
     {
-      "rank": 28,
+      "rank": 29,
       "id": "FairChess_on_YouTube",
       "name": "Dmitry Andreikin",
       "value": 3226.0,
@@ -376,7 +389,7 @@
       }
     },
     {
-      "rank": 29,
+      "rank": 30,
       "id": "Sibelephant",
       "name": "Vladislav Artemiev",
       "value": 3224.0,
@@ -389,7 +402,7 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 31,
       "id": "Zhuu96",
       "name": "Zhamsaran Tsydypov",
       "value": 3224.0,
@@ -402,7 +415,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": "bubeliang",
       "name": "Havard Haug",
       "value": 3220.0,
@@ -415,7 +428,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": "jefferyx",
       "name": "Jeffery Xiong",
       "value": 3219.0,
@@ -424,19 +437,6 @@
         "username": "jefferyx",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 33,
-      "id": "lachesisQ",
-      "name": "Ian Nepomniachtchi",
-      "value": 3213.0,
-      "unit": "rating",
-      "meta": {
-        "username": "lachesisQ",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-10T19:18:54Z",
+      "fetched_at": "2026-08-10T21:03:36Z",
       "http_status": 200
     }
   ]
