@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-10T18:05:11Z",
-  "as_of": "2026-08-10T18:05:11Z",
+  "generated_at": "2026-08-10T19:18:54Z",
+  "as_of": "2026-08-10T19:18:54Z",
   "period": {
     "label": "live_rapid"
   },
@@ -158,7 +158,7 @@
       "rank": 12,
       "id": "Kacparov",
       "name": "Kacper Drozdowski",
-      "value": 2775.0,
+      "value": 2777.0,
       "unit": "rating",
       "meta": {
         "username": "Kacparov",
@@ -247,6 +247,19 @@
     },
     {
       "rank": 19,
+      "id": "astralpulse",
+      "name": "Alex Goldin",
+      "value": 2749.0,
+      "unit": "rating",
+      "meta": {
+        "username": "astralpulse",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 20,
       "id": "Evandro_Barbosa",
       "name": "Evandro Amorim Barbosa",
       "value": 2746.0,
@@ -259,7 +272,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 21,
       "id": "2007checkmate",
       "name": "Vyom Vidyarthi",
       "value": 2746.0,
@@ -272,7 +285,7 @@
       }
     },
     {
-      "rank": 21,
+      "rank": 22,
       "id": "LOVEVAE",
       "name": "Wei Yi",
       "value": 2745.0,
@@ -285,20 +298,20 @@
       }
     },
     {
-      "rank": 22,
-      "id": "astralpulse",
-      "name": "Alex Goldin",
-      "value": 2744.0,
+      "rank": 23,
+      "id": "GMKrikor",
+      "name": "Krikor Sevag Mekhitarian",
+      "value": 2745.0,
       "unit": "rating",
       "meta": {
-        "username": "astralpulse",
+        "username": "GMKrikor",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
+        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
     {
-      "rank": 23,
+      "rank": 24,
       "id": "FabianoCaruana",
       "name": "Fabiano Caruana",
       "value": 2743.0,
@@ -307,19 +320,6 @@
         "username": "FabianoCaruana",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 24,
-      "id": "GMKrikor",
-      "name": "Krikor Sevag Mekhitarian",
-      "value": 2738.0,
-      "unit": "rating",
-      "meta": {
-        "username": "GMKrikor",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-10T18:05:11Z",
+      "fetched_at": "2026-08-10T19:18:54Z",
       "http_status": 200
     }
   ]
