@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-11T06:06:06Z",
-  "as_of": "2026-08-11T06:06:06Z",
+  "generated_at": "2026-08-11T07:39:14Z",
+  "as_of": "2026-08-11T07:39:14Z",
   "period": {
     "label": "live_blitz"
   },
@@ -15,7 +15,7 @@
       "rank": 1,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
-      "value": 3453.0,
+      "value": 3454.0,
       "unit": "rating",
       "meta": {
         "username": "Hikaru",
@@ -650,14 +650,14 @@
     },
     {
       "rank": 50,
-      "id": "ChristopherYoo",
-      "name": "Christopher Woojin Yoo",
-      "value": 3182.0,
+      "id": "Njal28",
+      "name": "Aram Hakobyan",
+      "value": 3181.0,
       "unit": "rating",
       "meta": {
-        "username": "ChristopherYoo",
+        "username": "Njal28",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/TV",
+        "country_url": "https://api.chess.com/pub/country/AM",
         "category": "live_blitz"
       }
     }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-11T06:06:06Z",
+      "fetched_at": "2026-08-11T07:39:14Z",
       "http_status": 200
     }
   ]
