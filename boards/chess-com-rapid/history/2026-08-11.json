@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-11T11:08:01Z",
-  "as_of": "2026-08-11T11:08:01Z",
+  "generated_at": "2026-08-11T11:59:05Z",
+  "as_of": "2026-08-11T11:59:05Z",
   "period": {
     "label": "live_rapid"
   },
@@ -247,6 +247,19 @@
     },
     {
       "rank": 19,
+      "id": "LOVEVAE",
+      "name": "Wei Yi",
+      "value": 2751.0,
+      "unit": "rating",
+      "meta": {
+        "username": "LOVEVAE",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/CN",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 20,
       "id": "astralpulse",
       "name": "Alex Goldin",
       "value": 2749.0,
@@ -259,7 +272,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 21,
       "id": "Evandro_Barbosa",
       "name": "Evandro Amorim Barbosa",
       "value": 2746.0,
@@ -272,7 +285,7 @@
       }
     },
     {
-      "rank": 21,
+      "rank": 22,
       "id": "2007checkmate",
       "name": "Vyom Vidyarthi",
       "value": 2746.0,
@@ -281,19 +294,6 @@
         "username": "2007checkmate",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 22,
-      "id": "LOVEVAE",
-      "name": "Wei Yi",
-      "value": 2745.0,
-      "unit": "rating",
-      "meta": {
-        "username": "LOVEVAE",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/CN",
         "category": "live_rapid"
       }
     },
@@ -325,6 +325,19 @@
     },
     {
       "rank": 25,
+      "id": "Oleksandr_Bortnyk",
+      "name": "Oleksandr Bortnyk",
+      "value": 2735.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Oleksandr_Bortnyk",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 26,
       "id": "Duhless",
       "name": "Daniil Dubov",
       "value": 2735.0,
@@ -337,7 +350,7 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 27,
       "id": "lethalspider7",
       "name": "lethalspider7",
       "value": 2733.0,
@@ -350,7 +363,7 @@
       }
     },
     {
-      "rank": 27,
+      "rank": 28,
       "id": "TheVish",
       "name": "Viswanathan Anand",
       "value": 2731.0,
@@ -363,7 +376,7 @@
       }
     },
     {
-      "rank": 28,
+      "rank": 29,
       "id": "viditchess",
       "name": "Vidit Gujrathi",
       "value": 2729.0,
@@ -376,7 +389,7 @@
       }
     },
     {
-      "rank": 29,
+      "rank": 30,
       "id": "Khvicha_Supatashvili",
       "name": "Khvicha Supatashvili",
       "value": 2729.0,
@@ -385,19 +398,6 @@
         "username": "Khvicha_Supatashvili",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/GE",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 30,
-      "id": "Oleksandr_Bortnyk",
-      "name": "Oleksandr Bortnyk",
-      "value": 2729.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Oleksandr_Bortnyk",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
     },
@@ -468,19 +468,6 @@
     },
     {
       "rank": 36,
-      "id": "Andreikka",
-      "name": "Andrey Esipenko",
-      "value": 2713.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Andreikka",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 37,
       "id": "KNVB",
       "name": "Aman Hambleton",
       "value": 2707.0,
@@ -489,6 +476,19 @@
         "username": "KNVB",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/CA",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 37,
+      "id": "Andreikka",
+      "name": "Andrey Esipenko",
+      "value": 2707.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Andreikka",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-11T11:08:01Z",
+      "fetched_at": "2026-08-11T11:59:05Z",
       "http_status": 200
     }
   ]
