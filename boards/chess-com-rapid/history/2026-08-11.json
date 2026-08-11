@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-11T07:39:14Z",
-  "as_of": "2026-08-11T07:39:14Z",
+  "generated_at": "2026-08-11T09:15:30Z",
+  "as_of": "2026-08-11T09:15:30Z",
   "period": {
     "label": "live_rapid"
   },
@@ -429,6 +429,19 @@
     },
     {
       "rank": 33,
+      "id": "FandiMazen",
+      "name": "Mazen Fandi",
+      "value": 2725.0,
+      "unit": "rating",
+      "meta": {
+        "username": "FandiMazen",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/SY",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 34,
       "id": "Szparu",
       "name": "Miłosz Szpar",
       "value": 2719.0,
@@ -441,7 +454,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 35,
       "id": "Berardino",
       "name": "Diego Berardino",
       "value": 2717.0,
@@ -454,7 +467,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 36,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 2713.0,
@@ -463,19 +476,6 @@
         "username": "Andreikka",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 36,
-      "id": "FandiMazen",
-      "name": "Mazen Fandi",
-      "value": 2712.0,
-      "unit": "rating",
-      "meta": {
-        "username": "FandiMazen",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/SY",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-11T07:39:14Z",
+      "fetched_at": "2026-08-11T09:15:30Z",
       "http_status": 200
     }
   ]
