@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-11T16:13:59Z",
-  "as_of": "2026-08-11T16:13:59Z",
+  "generated_at": "2026-08-11T17:15:48Z",
+  "as_of": "2026-08-11T17:15:48Z",
   "period": {
     "label": "live_rapid"
   },
@@ -247,19 +247,6 @@
     },
     {
       "rank": 19,
-      "id": "Sibelephant",
-      "name": "Vladislav Artemiev",
-      "value": 2749.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sibelephant",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 20,
       "id": "astralpulse",
       "name": "Alex Goldin",
       "value": 2749.0,
@@ -272,7 +259,7 @@
       }
     },
     {
-      "rank": 21,
+      "rank": 20,
       "id": "Evandro_Barbosa",
       "name": "Evandro Amorim Barbosa",
       "value": 2746.0,
@@ -285,7 +272,7 @@
       }
     },
     {
-      "rank": 22,
+      "rank": 21,
       "id": "2007checkmate",
       "name": "Vyom Vidyarthi",
       "value": 2746.0,
@@ -298,7 +285,7 @@
       }
     },
     {
-      "rank": 23,
+      "rank": 22,
       "id": "GMKrikor",
       "name": "Krikor Sevag Mekhitarian",
       "value": 2745.0,
@@ -311,7 +298,7 @@
       }
     },
     {
-      "rank": 24,
+      "rank": 23,
       "id": "FabianoCaruana",
       "name": "Fabiano Caruana",
       "value": 2743.0,
@@ -320,6 +307,19 @@
         "username": "FabianoCaruana",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 24,
+      "id": "Sibelephant",
+      "name": "Vladislav Artemiev",
+      "value": 2740.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Sibelephant",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_rapid"
       }
     },
@@ -416,6 +416,19 @@
     },
     {
       "rank": 32,
+      "id": "Andreikka",
+      "name": "Andrey Esipenko",
+      "value": 2722.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Andreikka",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 33,
       "id": "Szparu",
       "name": "Miłosz Szpar",
       "value": 2719.0,
@@ -428,7 +441,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 34,
       "id": "Berardino",
       "name": "Diego Berardino",
       "value": 2717.0,
@@ -437,19 +450,6 @@
         "username": "Berardino",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/BR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 34,
-      "id": "Andreikka",
-      "name": "Andrey Esipenko",
-      "value": 2713.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Andreikka",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-11T16:13:59Z",
+      "fetched_at": "2026-08-11T17:15:48Z",
       "http_status": 200
     }
   ]
