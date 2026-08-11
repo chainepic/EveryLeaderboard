@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-11T15:17:18Z",
-  "as_of": "2026-08-11T15:17:18Z",
+  "generated_at": "2026-08-11T16:13:59Z",
+  "as_of": "2026-08-11T16:13:59Z",
   "period": {
     "label": "live_rapid"
   },
@@ -169,6 +169,19 @@
     },
     {
       "rank": 13,
+      "id": "LOVEVAE",
+      "name": "Wei Yi",
+      "value": 2774.0,
+      "unit": "rating",
+      "meta": {
+        "username": "LOVEVAE",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/CN",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 14,
       "id": "GigaQuparadze",
       "name": "Giga Quparadze",
       "value": 2766.0,
@@ -177,19 +190,6 @@
         "username": "GigaQuparadze",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/GE",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 14,
-      "id": "LOVEVAE",
-      "name": "Wei Yi",
-      "value": 2766.0,
-      "unit": "rating",
-      "meta": {
-        "username": "LOVEVAE",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/CN",
         "category": "live_rapid"
       }
     },
@@ -208,19 +208,6 @@
     },
     {
       "rank": 16,
-      "id": "Sibelephant",
-      "name": "Vladislav Artemiev",
-      "value": 2757.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sibelephant",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 17,
       "id": "g3god",
       "name": "Sasikiran Krishnan",
       "value": 2756.0,
@@ -233,7 +220,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "id": "GHANDEEVAM2003",
       "name": "Arjun Erigaisi",
       "value": 2756.0,
@@ -246,7 +233,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "id": "Chasing_Checkmate",
       "name": "Corey Acor",
       "value": 2754.0,
@@ -255,6 +242,19 @@
         "username": "Chasing_Checkmate",
         "title": "FM",
         "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 19,
+      "id": "Sibelephant",
+      "name": "Vladislav Artemiev",
+      "value": 2749.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Sibelephant",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_rapid"
       }
     },
@@ -444,7 +444,7 @@
       "rank": 34,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
-      "value": 2714.0,
+      "value": 2713.0,
       "unit": "rating",
       "meta": {
         "username": "Andreikka",
@@ -483,7 +483,7 @@
       "rank": 37,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
-      "value": 2708.0,
+      "value": 2709.0,
       "unit": "rating",
       "meta": {
         "username": "Parhamov",
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-11T15:17:18Z",
+      "fetched_at": "2026-08-11T16:13:59Z",
       "http_status": 200
     }
   ]
