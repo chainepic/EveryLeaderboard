@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-11T13:44:41Z",
-  "as_of": "2026-08-11T13:44:41Z",
+  "generated_at": "2026-08-11T15:17:18Z",
+  "as_of": "2026-08-11T15:17:18Z",
   "period": {
     "label": "live_rapid"
   },
@@ -416,19 +416,6 @@
     },
     {
       "rank": 32,
-      "id": "Oleksandr_Bortnyk",
-      "name": "Oleksandr Bortnyk",
-      "value": 2720.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Oleksandr_Bortnyk",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 33,
       "id": "Szparu",
       "name": "Miłosz Szpar",
       "value": 2719.0,
@@ -441,20 +428,7 @@
       }
     },
     {
-      "rank": 34,
-      "id": "Grischuk",
-      "name": "Alexander Grischuk",
-      "value": 2719.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Grischuk",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 35,
+      "rank": 33,
       "id": "Berardino",
       "name": "Diego Berardino",
       "value": 2717.0,
@@ -467,7 +441,59 @@
       }
     },
     {
+      "rank": 34,
+      "id": "Andreikka",
+      "name": "Andrey Esipenko",
+      "value": 2714.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Andreikka",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 35,
+      "id": "Oleksandr_Bortnyk",
+      "name": "Oleksandr Bortnyk",
+      "value": 2712.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Oleksandr_Bortnyk",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
       "rank": 36,
+      "id": "Grischuk",
+      "name": "Alexander Grischuk",
+      "value": 2711.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Grischuk",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 37,
+      "id": "Parhamov",
+      "name": "Parham Maghsoodloo",
+      "value": 2708.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Parhamov",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 38,
       "id": "KNVB",
       "name": "Aman Hambleton",
       "value": 2707.0,
@@ -480,20 +506,7 @@
       }
     },
     {
-      "rank": 37,
-      "id": "Andreikka",
-      "name": "Andrey Esipenko",
-      "value": 2706.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Andreikka",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 38,
+      "rank": 39,
       "id": "dual_flurry",
       "name": "Jerad Docena",
       "value": 2704.0,
@@ -506,7 +519,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 40,
       "id": "elefante33",
       "name": "Felipe El Debs",
       "value": 2704.0,
@@ -519,7 +532,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": "Liindseeyy",
       "name": "Liindseeyy",
       "value": 2702.0,
@@ -528,19 +541,6 @@
         "username": "Liindseeyy",
         "title": null,
         "country_url": "https://api.chess.com/pub/country/FR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 41,
-      "id": "Parhamov",
-      "name": "Parham Maghsoodloo",
-      "value": 2702.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Parhamov",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-11T13:44:41Z",
+      "fetched_at": "2026-08-11T15:17:18Z",
       "http_status": 200
     }
   ]
