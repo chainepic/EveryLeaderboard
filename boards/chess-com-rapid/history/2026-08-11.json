@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-11T10:14:50Z",
-  "as_of": "2026-08-11T10:14:50Z",
+  "generated_at": "2026-08-11T11:08:01Z",
+  "as_of": "2026-08-11T11:08:01Z",
   "period": {
     "label": "live_rapid"
   },
@@ -236,7 +236,7 @@
       "rank": 18,
       "id": "Sibelephant",
       "name": "Vladislav Artemiev",
-      "value": 2753.0,
+      "value": 2751.0,
       "unit": "rating",
       "meta": {
         "username": "Sibelephant",
@@ -403,19 +403,6 @@
     },
     {
       "rank": 31,
-      "id": "Grischuk",
-      "name": "Alexander Grischuk",
-      "value": 2729.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Grischuk",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 32,
       "id": "mishanick",
       "name": "Aleksei Sarana",
       "value": 2726.0,
@@ -428,7 +415,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 32,
       "id": "FandiMazen",
       "name": "Mazen Fandi",
       "value": 2725.0,
@@ -437,6 +424,19 @@
         "username": "FandiMazen",
         "title": "FM",
         "country_url": "https://api.chess.com/pub/country/SY",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 33,
+      "id": "Grischuk",
+      "name": "Alexander Grischuk",
+      "value": 2725.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Grischuk",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_rapid"
       }
     },
@@ -587,7 +587,7 @@
       "rank": 45,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
-      "value": 2693.0,
+      "value": 2695.0,
       "unit": "rating",
       "meta": {
         "username": "Parhamov",
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-11T10:14:50Z",
+      "fetched_at": "2026-08-11T11:08:01Z",
       "http_status": 200
     }
   ]
