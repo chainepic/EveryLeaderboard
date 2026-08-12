@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-12T15:16:02Z",
-  "as_of": "2026-08-12T15:16:02Z",
+  "generated_at": "2026-08-12T16:13:32Z",
+  "as_of": "2026-08-12T16:13:32Z",
   "period": {
     "label": "live_rapid"
   },
@@ -80,7 +80,7 @@
       "rank": 6,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
-      "value": 2843.0,
+      "value": 2847.0,
       "unit": "rating",
       "meta": {
         "username": "Hikaru",
@@ -249,7 +249,7 @@
       "rank": 19,
       "id": "DenLaz",
       "name": "Denis Lazavik",
-      "value": 2776.0,
+      "value": 2772.0,
       "unit": "rating",
       "meta": {
         "username": "DenLaz",
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-12T15:16:02Z",
+      "fetched_at": "2026-08-12T16:13:32Z",
       "http_status": 200
     }
   ]
