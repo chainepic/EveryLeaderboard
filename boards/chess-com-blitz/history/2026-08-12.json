@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-12T16:13:32Z",
-  "as_of": "2026-08-12T16:13:32Z",
+  "generated_at": "2026-08-12T17:15:34Z",
+  "as_of": "2026-08-12T17:15:34Z",
   "period": {
     "label": "live_blitz"
   },
@@ -546,6 +546,19 @@
     },
     {
       "rank": 42,
+      "id": "bubeliang",
+      "name": "Havard Haug",
+      "value": 3199.0,
+      "unit": "rating",
+      "meta": {
+        "username": "bubeliang",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/NO",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 43,
       "id": "AnishGiri",
       "name": "AnishGiri",
       "value": 3198.0,
@@ -558,7 +571,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 44,
       "id": "Jospem",
       "name": "Jose Martinez",
       "value": 3196.0,
@@ -571,7 +584,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": "rezamahdavi2008",
       "name": "Reza Mahdavi",
       "value": 3193.0,
@@ -580,19 +593,6 @@
         "username": "rezamahdavi2008",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 45,
-      "id": "bubeliang",
-      "name": "Havard Haug",
-      "value": 3190.0,
-      "unit": "rating",
-      "meta": {
-        "username": "bubeliang",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/NO",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-12T16:13:32Z",
+      "fetched_at": "2026-08-12T17:15:34Z",
       "http_status": 200
     }
   ]
