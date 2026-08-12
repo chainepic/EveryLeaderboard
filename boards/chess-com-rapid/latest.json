@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-12T13:49:35Z",
-  "as_of": "2026-08-12T13:49:35Z",
+  "generated_at": "2026-08-12T15:16:02Z",
+  "as_of": "2026-08-12T15:16:02Z",
   "period": {
     "label": "live_rapid"
   },
@@ -67,7 +67,7 @@
       "rank": 5,
       "id": "Polish_fighter3000",
       "name": "Jan-Krzysztof Duda",
-      "value": 2866.0,
+      "value": 2847.0,
       "unit": "rating",
       "meta": {
         "username": "Polish_fighter3000",
@@ -93,7 +93,7 @@
       "rank": 7,
       "id": "Firouzja2003",
       "name": "Alireza Firouzja",
-      "value": 2840.0,
+      "value": 2836.0,
       "unit": "rating",
       "meta": {
         "username": "Firouzja2003",
@@ -156,14 +156,14 @@
     },
     {
       "rank": 12,
-      "id": "lachesisQ",
-      "name": "Ian Nepomniachtchi",
-      "value": 2809.0,
+      "id": "ChessWarrior7197",
+      "name": "Nodirbek Abdusattorov",
+      "value": 2811.0,
       "unit": "rating",
       "meta": {
-        "username": "lachesisQ",
+        "username": "ChessWarrior7197",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
+        "country_url": "https://api.chess.com/pub/country/UZ",
         "category": "live_rapid"
       }
     },
@@ -182,14 +182,14 @@
     },
     {
       "rank": 14,
-      "id": "ChessWarrior7197",
-      "name": "Nodirbek Abdusattorov",
-      "value": 2792.0,
+      "id": "lachesisQ",
+      "name": "Ian Nepomniachtchi",
+      "value": 2799.0,
       "unit": "rating",
       "meta": {
-        "username": "ChessWarrior7197",
+        "username": "lachesisQ",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/UZ",
+        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_rapid"
       }
     },
@@ -221,6 +221,19 @@
     },
     {
       "rank": 17,
+      "id": "GHANDEEVAM2003",
+      "name": "Arjun Erigaisi",
+      "value": 2777.0,
+      "unit": "rating",
+      "meta": {
+        "username": "GHANDEEVAM2003",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IN",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 18,
       "id": "Kacparov",
       "name": "Kacper Drozdowski",
       "value": 2777.0,
@@ -233,7 +246,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": "DenLaz",
       "name": "Denis Lazavik",
       "value": 2776.0,
@@ -242,19 +255,6 @@
         "username": "DenLaz",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/BY",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 19,
-      "id": "GHANDEEVAM2003",
-      "name": "Arjun Erigaisi",
-      "value": 2773.0,
-      "unit": "rating",
-      "meta": {
-        "username": "GHANDEEVAM2003",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IN",
         "category": "live_rapid"
       }
     },
@@ -559,6 +559,19 @@
     },
     {
       "rank": 43,
+      "id": "HansOnTwitch",
+      "name": "Hans Niemann",
+      "value": 2709.0,
+      "unit": "rating",
+      "meta": {
+        "username": "HansOnTwitch",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 44,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 2709.0,
@@ -571,7 +584,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": "KNVB",
       "name": "Aman Hambleton",
       "value": 2707.0,
@@ -584,7 +597,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "dual_flurry",
       "name": "Jerad Docena",
       "value": 2704.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "elefante33",
       "name": "Felipe El Debs",
       "value": 2704.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "Liindseeyy",
       "name": "Liindseeyy",
       "value": 2702.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "CKJY2796",
       "name": "Jason Yeung",
       "value": 2702.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "mmgchess",
       "name": "Marcos Gonzalez",
       "value": 2701.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
-    },
-    {
-      "rank": 50,
-      "id": "LikeWater",
-      "name": "Alexander Velikanov",
-      "value": 2701.0,
-      "unit": "rating",
-      "meta": {
-        "username": "LikeWater",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-12T13:49:35Z",
+      "fetched_at": "2026-08-12T15:16:02Z",
       "http_status": 200
     }
   ]
