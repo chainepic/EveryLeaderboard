@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-13T16:13:23Z",
-  "as_of": "2026-08-13T16:13:23Z",
+  "generated_at": "2026-08-13T17:15:08Z",
+  "as_of": "2026-08-13T17:15:08Z",
   "period": {
     "label": "live_rapid"
   },
@@ -184,7 +184,7 @@
       "rank": 14,
       "id": "lachesisQ",
       "name": "Ian Nepomniachtchi",
-      "value": 2803.0,
+      "value": 2793.0,
       "unit": "rating",
       "meta": {
         "username": "lachesisQ",
@@ -208,6 +208,19 @@
     },
     {
       "rank": 16,
+      "id": "DenLaz",
+      "name": "Denis Lazavik",
+      "value": 2782.0,
+      "unit": "rating",
+      "meta": {
+        "username": "DenLaz",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BY",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 17,
       "id": "CaptainJames",
       "name": "Arkadij Naiditsch",
       "value": 2781.0,
@@ -220,7 +233,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "LOVEVAE",
       "name": "Wei Yi",
       "value": 2778.0,
@@ -233,7 +246,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": "Kacparov",
       "name": "Kacper Drozdowski",
       "value": 2777.0,
@@ -246,7 +259,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": "nihalsarin",
       "name": "Nihal Sarin",
       "value": 2774.0,
@@ -255,19 +268,6 @@
         "username": "nihalsarin",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/CL",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 20,
-      "id": "DenLaz",
-      "name": "Denis Lazavik",
-      "value": 2772.0,
-      "unit": "rating",
-      "meta": {
-        "username": "DenLaz",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BY",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-13T16:13:23Z",
+      "fetched_at": "2026-08-13T17:15:08Z",
       "http_status": 200
     }
   ]
