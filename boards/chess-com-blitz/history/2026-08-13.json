@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-13T06:46:56Z",
-  "as_of": "2026-08-13T06:46:56Z",
+  "generated_at": "2026-08-13T08:45:11Z",
+  "as_of": "2026-08-13T08:45:11Z",
   "period": {
     "label": "live_blitz"
   },
@@ -169,19 +169,6 @@
     },
     {
       "rank": 13,
-      "id": "rednova1729",
-      "name": "Awonder Liang",
-      "value": 3256.0,
-      "unit": "rating",
-      "meta": {
-        "username": "rednova1729",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 14,
       "id": "spicycaterpillar",
       "name": "Ray Robson",
       "value": 3255.0,
@@ -194,7 +181,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "id": "nihalsarin",
       "name": "Nihal Sarin",
       "value": 3248.0,
@@ -207,7 +194,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "id": "artooon",
       "name": "Pranesh M",
       "value": 3246.0,
@@ -220,7 +207,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "id": "PursuitOfHappyness2",
       "name": "Abhimanyu Mishra",
       "value": 3246.0,
@@ -233,7 +220,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "id": "LevonAronian",
       "name": "Levon Aronian",
       "value": 3246.0,
@@ -246,7 +233,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "id": "GMWSO",
       "name": "Wesley So",
       "value": 3243.0,
@@ -259,7 +246,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "id": "Volodar_Murzin",
       "name": "Volodar Murzin",
       "value": 3236.0,
@@ -272,7 +259,7 @@
       }
     },
     {
-      "rank": 21,
+      "rank": 20,
       "id": "Firouzja2003",
       "name": "Alireza Firouzja",
       "value": 3232.0,
@@ -285,7 +272,7 @@
       }
     },
     {
-      "rank": 22,
+      "rank": 21,
       "id": "DenLaz",
       "name": "Denis Lazavik",
       "value": 3231.0,
@@ -294,6 +281,19 @@
         "username": "DenLaz",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/BY",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 22,
+      "id": "rednova1729",
+      "name": "Awonder Liang",
+      "value": 3230.0,
+      "unit": "rating",
+      "meta": {
+        "username": "rednova1729",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-13T06:46:56Z",
+      "fetched_at": "2026-08-13T08:45:11Z",
       "http_status": 200
     }
   ]
