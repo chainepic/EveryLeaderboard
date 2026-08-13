@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-13T15:16:53Z",
-  "as_of": "2026-08-13T15:16:53Z",
+  "generated_at": "2026-08-13T16:13:23Z",
+  "as_of": "2026-08-13T16:13:23Z",
   "period": {
     "label": "live_rapid"
   },
@@ -392,7 +392,7 @@
       "rank": 30,
       "id": "Evandro_Barbosa",
       "name": "Evandro Amorim Barbosa",
-      "value": 2736.0,
+      "value": 2738.0,
       "unit": "rating",
       "meta": {
         "username": "Evandro_Barbosa",
@@ -520,6 +520,19 @@
     },
     {
       "rank": 40,
+      "id": "HansOnTwitch",
+      "name": "Hans Niemann",
+      "value": 2716.0,
+      "unit": "rating",
+      "meta": {
+        "username": "HansOnTwitch",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 41,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 2712.0,
@@ -532,7 +545,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 2711.0,
@@ -541,19 +554,6 @@
         "username": "Grischuk",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 42,
-      "id": "HansOnTwitch",
-      "name": "Hans Niemann",
-      "value": 2709.0,
-      "unit": "rating",
-      "meta": {
-        "username": "HansOnTwitch",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-13T15:16:53Z",
+      "fetched_at": "2026-08-13T16:13:23Z",
       "http_status": 200
     }
   ]
