@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-12T23:03:40Z",
-  "as_of": "2026-08-12T23:03:40Z",
+  "generated_at": "2026-08-12T23:59:43Z",
+  "as_of": "2026-08-12T23:59:43Z",
   "period": {
     "label": "live_blitz"
   },
@@ -390,6 +390,19 @@
     },
     {
       "rank": 30,
+      "id": "rednova1729",
+      "name": "Awonder Liang",
+      "value": 3224.0,
+      "unit": "rating",
+      "meta": {
+        "username": "rednova1729",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 31,
       "id": "ChessWarrior7197",
       "name": "Nodirbek Abdusattorov",
       "value": 3224.0,
@@ -402,7 +415,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 3211.0,
@@ -415,7 +428,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": "Javokhir_Sindarov05",
       "name": "Javokhir Sindarov",
       "value": 3210.0,
@@ -428,7 +441,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 34,
       "id": "IMaster_01",
       "name": "Arda Camlar",
       "value": 3205.0,
@@ -437,19 +450,6 @@
         "username": "IMaster_01",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/TR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 34,
-      "id": "rednova1729",
-      "name": "Awonder Liang",
-      "value": 3205.0,
-      "unit": "rating",
-      "meta": {
-        "username": "rednova1729",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-12T23:03:40Z",
+      "fetched_at": "2026-08-12T23:59:43Z",
       "http_status": 200
     }
   ]
