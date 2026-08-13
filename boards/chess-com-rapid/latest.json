@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-13T12:01:00Z",
-  "as_of": "2026-08-13T12:01:00Z",
+  "generated_at": "2026-08-13T13:50:28Z",
+  "as_of": "2026-08-13T13:50:28Z",
   "period": {
     "label": "live_rapid"
   },
@@ -65,19 +65,6 @@
     },
     {
       "rank": 5,
-      "id": "Polish_fighter3000",
-      "name": "Jan-Krzysztof Duda",
-      "value": 2847.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Polish_fighter3000",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/PL",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 6,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
       "value": 2847.0,
@@ -86,6 +73,19 @@
         "username": "Hikaru",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 6,
+      "id": "Polish_fighter3000",
+      "name": "Jan-Krzysztof Duda",
+      "value": 2845.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Polish_fighter3000",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/PL",
         "category": "live_rapid"
       }
     },
@@ -184,7 +184,7 @@
       "rank": 14,
       "id": "lachesisQ",
       "name": "Ian Nepomniachtchi",
-      "value": 2799.0,
+      "value": 2803.0,
       "unit": "rating",
       "meta": {
         "username": "lachesisQ",
@@ -275,7 +275,7 @@
       "rank": 21,
       "id": "nihalsarin",
       "name": "Nihal Sarin",
-      "value": 2762.0,
+      "value": 2764.0,
       "unit": "rating",
       "meta": {
         "username": "nihalsarin",
@@ -442,6 +442,19 @@
     },
     {
       "rank": 34,
+      "id": "Evandro_Barbosa",
+      "name": "Evandro Amorim Barbosa",
+      "value": 2728.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Evandro_Barbosa",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 35,
       "id": "FandiMazen",
       "name": "Mazen Fandi",
       "value": 2725.0,
@@ -454,23 +467,10 @@
       }
     },
     {
-      "rank": 35,
-      "id": "Evandro_Barbosa",
-      "name": "Evandro Amorim Barbosa",
-      "value": 2724.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Evandro_Barbosa",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
-        "category": "live_rapid"
-      }
-    },
-    {
       "rank": 36,
       "id": "mishanick",
       "name": "Aleksei Sarana",
-      "value": 2722.0,
+      "value": 2721.0,
       "unit": "rating",
       "meta": {
         "username": "mishanick",
@@ -481,19 +481,6 @@
     },
     {
       "rank": 37,
-      "id": "Andreikka",
-      "name": "Andrey Esipenko",
-      "value": 2722.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Andreikka",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 38,
       "id": "Szparu",
       "name": "Miłosz Szpar",
       "value": 2719.0,
@@ -502,6 +489,19 @@
         "username": "Szparu",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/PL",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 38,
+      "id": "Andreikka",
+      "name": "Andrey Esipenko",
+      "value": 2718.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Andreikka",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-13T12:01:00Z",
+      "fetched_at": "2026-08-13T13:50:28Z",
       "http_status": 200
     }
   ]
