@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-14T19:59:15Z",
-  "as_of": "2026-08-14T19:59:15Z",
+  "generated_at": "2026-08-14T20:47:17Z",
+  "as_of": "2026-08-14T20:47:17Z",
   "period": {
     "label": "live_blitz"
   },
@@ -624,19 +624,6 @@
     },
     {
       "rank": 48,
-      "id": "LPSupi",
-      "name": "Luis Paulo Supi",
-      "value": 3184.0,
-      "unit": "rating",
-      "meta": {
-        "username": "LPSupi",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 49,
       "id": "MITerryble",
       "name": "Renato Terry",
       "value": 3182.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "Dolphin_2010",
       "name": "Aleksandr Usov",
       "value": 3178.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
+    },
+    {
+      "rank": 50,
+      "id": "Njal28",
+      "name": "Aram Hakobyan",
+      "value": 3178.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Njal28",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/AM",
+        "category": "live_blitz"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-14T19:59:15Z",
+      "fetched_at": "2026-08-14T20:47:17Z",
       "http_status": 200
     }
   ]
