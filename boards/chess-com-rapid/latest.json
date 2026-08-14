@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-14T16:07:26Z",
-  "as_of": "2026-08-14T16:07:26Z",
+  "generated_at": "2026-08-14T17:13:05Z",
+  "as_of": "2026-08-14T17:13:05Z",
   "period": {
     "label": "live_rapid"
   },
@@ -41,7 +41,7 @@
       "rank": 3,
       "id": "MagnusCarlsen",
       "name": "Magnus Carlsen",
-      "value": 2919.0,
+      "value": 2917.0,
       "unit": "rating",
       "meta": {
         "username": "MagnusCarlsen",
@@ -80,7 +80,7 @@
       "rank": 6,
       "id": "Firouzja2003",
       "name": "Alireza Firouzja",
-      "value": 2832.0,
+      "value": 2834.0,
       "unit": "rating",
       "meta": {
         "username": "Firouzja2003",
@@ -91,19 +91,6 @@
     },
     {
       "rank": 7,
-      "id": "Hikaru",
-      "name": "Hikaru Nakamura",
-      "value": 2831.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Hikaru",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 8,
       "id": "Giorgi-Sibashvili",
       "name": "Giorgi Sibashvili",
       "value": 2829.0,
@@ -116,7 +103,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "Fabsid",
       "name": "Fabian Doettling",
       "value": 2822.0,
@@ -125,6 +112,19 @@
         "username": "Fabsid",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/DE",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 9,
+      "id": "Hikaru",
+      "name": "Hikaru Nakamura",
+      "value": 2822.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Hikaru",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
     },
@@ -156,6 +156,19 @@
     },
     {
       "rank": 12,
+      "id": "DenLaz",
+      "name": "Denis Lazavik",
+      "value": 2807.0,
+      "unit": "rating",
+      "meta": {
+        "username": "DenLaz",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BY",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 13,
       "id": "ChessWarrior7197",
       "name": "Nodirbek Abdusattorov",
       "value": 2807.0,
@@ -168,7 +181,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": "LPSupi",
       "name": "Luis Paulo Supi",
       "value": 2805.0,
@@ -177,19 +190,6 @@
         "username": "LPSupi",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/BR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 14,
-      "id": "DenLaz",
-      "name": "Denis Lazavik",
-      "value": 2798.0,
-      "unit": "rating",
-      "meta": {
-        "username": "DenLaz",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BY",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-14T16:07:26Z",
+      "fetched_at": "2026-08-14T17:13:05Z",
       "http_status": 200
     }
   ]
