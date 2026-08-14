@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-14T11:59:04Z",
-  "as_of": "2026-08-14T11:59:04Z",
+  "generated_at": "2026-08-14T13:45:48Z",
+  "as_of": "2026-08-14T13:45:48Z",
   "period": {
     "label": "live_rapid"
   },
@@ -41,7 +41,7 @@
       "rank": 3,
       "id": "MagnusCarlsen",
       "name": "Magnus Carlsen",
-      "value": 2912.0,
+      "value": 2922.0,
       "unit": "rating",
       "meta": {
         "username": "MagnusCarlsen",
@@ -67,7 +67,7 @@
       "rank": 5,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
-      "value": 2845.0,
+      "value": 2843.0,
       "unit": "rating",
       "meta": {
         "username": "Hikaru",
@@ -78,19 +78,6 @@
     },
     {
       "rank": 6,
-      "id": "Firouzja2003",
-      "name": "Alireza Firouzja",
-      "value": 2836.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Firouzja2003",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/FR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 7,
       "id": "Polish_fighter3000",
       "name": "Jan-Krzysztof Duda",
       "value": 2835.0,
@@ -99,6 +86,19 @@
         "username": "Polish_fighter3000",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/PL",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 7,
+      "id": "Firouzja2003",
+      "name": "Alireza Firouzja",
+      "value": 2835.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Firouzja2003",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/FR",
         "category": "live_rapid"
       }
     },
@@ -158,7 +158,7 @@
       "rank": 12,
       "id": "ChessWarrior7197",
       "name": "Nodirbek Abdusattorov",
-      "value": 2809.0,
+      "value": 2807.0,
       "unit": "rating",
       "meta": {
         "username": "ChessWarrior7197",
@@ -197,7 +197,7 @@
       "rank": 15,
       "id": "GHANDEEVAM2003",
       "name": "Arjun Erigaisi",
-      "value": 2789.0,
+      "value": 2791.0,
       "unit": "rating",
       "meta": {
         "username": "GHANDEEVAM2003",
@@ -210,7 +210,7 @@
       "rank": 16,
       "id": "DenLaz",
       "name": "Denis Lazavik",
-      "value": 2784.0,
+      "value": 2786.0,
       "unit": "rating",
       "meta": {
         "username": "DenLaz",
@@ -260,19 +260,6 @@
     },
     {
       "rank": 20,
-      "id": "nihalsarin",
-      "name": "Nihal Sarin",
-      "value": 2774.0,
-      "unit": "rating",
-      "meta": {
-        "username": "nihalsarin",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/CL",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 21,
       "id": "GigaQuparadze",
       "name": "Giga Quparadze",
       "value": 2766.0,
@@ -281,6 +268,19 @@
         "username": "GigaQuparadze",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/GE",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 21,
+      "id": "nihalsarin",
+      "name": "Nihal Sarin",
+      "value": 2764.0,
+      "unit": "rating",
+      "meta": {
+        "username": "nihalsarin",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/CL",
         "category": "live_rapid"
       }
     },
@@ -377,19 +377,6 @@
     },
     {
       "rank": 29,
-      "id": "Evandro_Barbosa",
-      "name": "Evandro Amorim Barbosa",
-      "value": 2740.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Evandro_Barbosa",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 30,
       "id": "Sibelephant",
       "name": "Vladislav Artemiev",
       "value": 2740.0,
@@ -402,7 +389,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 30,
       "id": "Duhless",
       "name": "Daniil Dubov",
       "value": 2735.0,
@@ -415,7 +402,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 31,
       "id": "lethalspider7",
       "name": "lethalspider7",
       "value": 2733.0,
@@ -428,7 +415,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 32,
       "id": "TheVish",
       "name": "Viswanathan Anand",
       "value": 2731.0,
@@ -441,7 +428,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 33,
       "id": "viditchess",
       "name": "Vidit Gujrathi",
       "value": 2729.0,
@@ -454,7 +441,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 34,
       "id": "FandiMazen",
       "name": "Mazen Fandi",
       "value": 2725.0,
@@ -467,7 +454,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 35,
       "id": "mishanick",
       "name": "Aleksei Sarana",
       "value": 2721.0,
@@ -480,7 +467,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 36,
       "id": "Szparu",
       "name": "Miłosz Szpar",
       "value": 2719.0,
@@ -493,7 +480,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 37,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 2718.0,
@@ -502,6 +489,19 @@
         "username": "Andreikka",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 38,
+      "id": "HansOnTwitch",
+      "name": "Hans Niemann",
+      "value": 2717.0,
+      "unit": "rating",
+      "meta": {
+        "username": "HansOnTwitch",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
     },
@@ -520,14 +520,14 @@
     },
     {
       "rank": 40,
-      "id": "HansOnTwitch",
-      "name": "Hans Niemann",
-      "value": 2716.0,
+      "id": "Evandro_Barbosa",
+      "name": "Evandro Amorim Barbosa",
+      "value": 2713.0,
       "unit": "rating",
       "meta": {
-        "username": "HansOnTwitch",
+        "username": "Evandro_Barbosa",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
+        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-14T11:59:04Z",
+      "fetched_at": "2026-08-14T13:45:48Z",
       "http_status": 200
     }
   ]
