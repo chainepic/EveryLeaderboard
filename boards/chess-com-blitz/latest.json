@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-14T22:42:14Z",
-  "as_of": "2026-08-14T22:42:14Z",
+  "generated_at": "2026-08-14T23:39:16Z",
+  "as_of": "2026-08-14T23:39:16Z",
   "period": {
     "label": "live_blitz"
   },
@@ -104,6 +104,19 @@
     },
     {
       "rank": 8,
+      "id": "Parhamov",
+      "name": "Parham Maghsoodloo",
+      "value": 3284.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Parhamov",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 9,
       "id": "GHANDEEVAM2003",
       "name": "Arjun Erigaisi",
       "value": 3280.0,
@@ -116,26 +129,13 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "Sina-Movahed",
       "name": "Sina Movahed",
       "value": 3279.0,
       "unit": "rating",
       "meta": {
         "username": "Sina-Movahed",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 10,
-      "id": "Parhamov",
-      "name": "Parham Maghsoodloo",
-      "value": 3279.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Parhamov",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
@@ -494,6 +494,19 @@
     },
     {
       "rank": 38,
+      "id": "Oleksandr_Bortnyk",
+      "name": "Oleksandr Bortnyk",
+      "value": 3203.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Oleksandr_Bortnyk",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 39,
       "id": "Zhuu96",
       "name": "Zhamsaran Tsydypov",
       "value": 3202.0,
@@ -506,7 +519,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 40,
       "id": "GMBrewChess",
       "name": "Brewington Hardaway",
       "value": 3200.0,
@@ -519,7 +532,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": "VincentKeymer",
       "name": "Vincent Keymer",
       "value": 3200.0,
@@ -532,7 +545,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "Annawel",
       "name": "Jules Moussard",
       "value": 3200.0,
@@ -545,7 +558,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 43,
       "id": "AnishGiri",
       "name": "AnishGiri",
       "value": 3198.0,
@@ -558,7 +571,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 44,
       "id": "Jospem",
       "name": "Jose Martinez",
       "value": 3196.0,
@@ -571,7 +584,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3194.0,
@@ -584,7 +597,20 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
+      "id": "bubeliang",
+      "name": "Havard Haug",
+      "value": 3193.0,
+      "unit": "rating",
+      "meta": {
+        "username": "bubeliang",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/NO",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 47,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
       "value": 3191.0,
@@ -593,32 +619,6 @@
         "username": "ChristopherYoo",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/TV",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 46,
-      "id": "Oleksandr_Bortnyk",
-      "name": "Oleksandr Bortnyk",
-      "value": 3188.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Oleksandr_Bortnyk",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 47,
-      "id": "bubeliang",
-      "name": "Havard Haug",
-      "value": 3186.0,
-      "unit": "rating",
-      "meta": {
-        "username": "bubeliang",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/NO",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-14T22:42:14Z",
+      "fetched_at": "2026-08-14T23:39:16Z",
       "http_status": 200
     }
   ]
