@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-14T18:08:19Z",
-  "as_of": "2026-08-14T18:08:19Z",
+  "generated_at": "2026-08-14T19:15:50Z",
+  "as_of": "2026-08-14T19:15:50Z",
   "period": {
     "label": "live_rapid"
   },
@@ -41,7 +41,7 @@
       "rank": 3,
       "id": "MagnusCarlsen",
       "name": "Magnus Carlsen",
-      "value": 2927.0,
+      "value": 2933.0,
       "unit": "rating",
       "meta": {
         "username": "MagnusCarlsen",
@@ -91,19 +91,6 @@
     },
     {
       "rank": 7,
-      "id": "Firouzja2003",
-      "name": "Alireza Firouzja",
-      "value": 2824.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Firouzja2003",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/FR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 8,
       "id": "Fabsid",
       "name": "Fabian Doettling",
       "value": 2822.0,
@@ -116,7 +103,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
       "value": 2822.0,
@@ -125,6 +112,19 @@
         "username": "Hikaru",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 9,
+      "id": "Firouzja2003",
+      "name": "Alireza Firouzja",
+      "value": 2818.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Firouzja2003",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/FR",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-14T18:08:19Z",
+      "fetched_at": "2026-08-14T19:15:50Z",
       "http_status": 200
     }
   ]
