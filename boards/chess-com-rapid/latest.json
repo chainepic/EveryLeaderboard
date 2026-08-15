@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-15T09:42:22Z",
-  "as_of": "2026-08-15T09:42:22Z",
+  "generated_at": "2026-08-15T10:41:43Z",
+  "as_of": "2026-08-15T10:41:43Z",
   "period": {
     "label": "live_rapid"
   },
@@ -585,6 +585,19 @@
     },
     {
       "rank": 45,
+      "id": "LikeWater",
+      "name": "Alexander Velikanov",
+      "value": 2705.0,
+      "unit": "rating",
+      "meta": {
+        "username": "LikeWater",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 46,
       "id": "dual_flurry",
       "name": "Jerad Docena",
       "value": 2704.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "elefante33",
       "name": "Felipe El Debs",
       "value": 2704.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "Liindseeyy",
       "name": "Liindseeyy",
       "value": 2702.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "CKJY2796",
       "name": "Jason Yeung",
       "value": 2702.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "mmgchess",
       "name": "Marcos Gonzalez",
       "value": 2701.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
-    },
-    {
-      "rank": 50,
-      "id": "LikeWater",
-      "name": "Alexander Velikanov",
-      "value": 2701.0,
-      "unit": "rating",
-      "meta": {
-        "username": "LikeWater",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-15T09:42:22Z",
+      "fetched_at": "2026-08-15T10:41:43Z",
       "http_status": 200
     }
   ]
