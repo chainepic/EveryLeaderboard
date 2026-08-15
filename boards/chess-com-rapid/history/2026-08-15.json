@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-15T16:42:44Z",
-  "as_of": "2026-08-15T16:42:44Z",
+  "generated_at": "2026-08-15T17:37:13Z",
+  "as_of": "2026-08-15T17:37:13Z",
   "period": {
     "label": "live_rapid"
   },
@@ -143,19 +143,6 @@
     },
     {
       "rank": 11,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2805.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 12,
       "id": "LPSupi",
       "name": "Luis Paulo Supi",
       "value": 2805.0,
@@ -168,7 +155,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "id": "Firouzja2003",
       "name": "Alireza Firouzja",
       "value": 2802.0,
@@ -181,7 +168,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "id": "DenLaz",
       "name": "Denis Lazavik",
       "value": 2799.0,
@@ -190,6 +177,19 @@
         "username": "DenLaz",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/BY",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 14,
+      "id": "Swiss_Fighter",
+      "name": "Gabriel Gähwiler",
+      "value": 2794.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Swiss_Fighter",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/CH",
         "category": "live_rapid"
       }
     },
@@ -262,7 +262,7 @@
       "rank": 20,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
-      "value": 2768.0,
+      "value": 2770.0,
       "unit": "rating",
       "meta": {
         "username": "ChristopherYoo",
@@ -351,19 +351,6 @@
     },
     {
       "rank": 27,
-      "id": "mishanick",
-      "name": "Aleksei Sarana",
-      "value": 2748.0,
-      "unit": "rating",
-      "meta": {
-        "username": "mishanick",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RS",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 28,
       "id": "2007checkmate",
       "name": "Vyom Vidyarthi",
       "value": 2746.0,
@@ -376,7 +363,7 @@
       }
     },
     {
-      "rank": 29,
+      "rank": 28,
       "id": "GMKrikor",
       "name": "Krikor Sevag Mekhitarian",
       "value": 2745.0,
@@ -389,7 +376,7 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 29,
       "id": "FabianoCaruana",
       "name": "Fabiano Caruana",
       "value": 2743.0,
@@ -402,7 +389,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 30,
       "id": "Sibelephant",
       "name": "Vladislav Artemiev",
       "value": 2740.0,
@@ -411,6 +398,19 @@
         "username": "Sibelephant",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 31,
+      "id": "mishanick",
+      "name": "Aleksei Sarana",
+      "value": 2738.0,
+      "unit": "rating",
+      "meta": {
+        "username": "mishanick",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RS",
         "category": "live_rapid"
       }
     },
@@ -598,14 +598,14 @@
     },
     {
       "rank": 46,
-      "id": "wqws",
-      "name": "Kaivalya Sandip Nagare",
-      "value": 2706.0,
+      "id": "Tikhon_Popov",
+      "name": "Tikhon Popov",
+      "value": 2707.0,
       "unit": "rating",
       "meta": {
-        "username": "wqws",
+        "username": "Tikhon_Popov",
         "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/IN",
+        "country_url": "https://api.chess.com/pub/country/XX",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-15T16:42:44Z",
+      "fetched_at": "2026-08-15T17:37:13Z",
       "http_status": 200
     }
   ]
