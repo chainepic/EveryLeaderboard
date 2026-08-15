@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-15T08:46:36Z",
-  "as_of": "2026-08-15T08:46:36Z",
+  "generated_at": "2026-08-15T09:42:22Z",
+  "as_of": "2026-08-15T09:42:22Z",
   "period": {
     "label": "live_blitz"
   },
@@ -208,6 +208,19 @@
     },
     {
       "rank": 16,
+      "id": "FaustinoOro",
+      "name": "Faustino Oro",
+      "value": 3247.0,
+      "unit": "rating",
+      "meta": {
+        "username": "FaustinoOro",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/AR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 17,
       "id": "PursuitOfHappyness2",
       "name": "Abhimanyu Mishra",
       "value": 3246.0,
@@ -220,7 +233,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "LevonAronian",
       "name": "Levon Aronian",
       "value": 3246.0,
@@ -233,7 +246,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": "GMWSO",
       "name": "Wesley So",
       "value": 3243.0,
@@ -242,19 +255,6 @@
         "username": "GMWSO",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 19,
-      "id": "FaustinoOro",
-      "name": "Faustino Oro",
-      "value": 3238.0,
-      "unit": "rating",
-      "meta": {
-        "username": "FaustinoOro",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/AR",
         "category": "live_blitz"
       }
     },
@@ -507,6 +507,19 @@
     },
     {
       "rank": 39,
+      "id": "bubeliang",
+      "name": "Havard Haug",
+      "value": 3203.0,
+      "unit": "rating",
+      "meta": {
+        "username": "bubeliang",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/NO",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 40,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 3203.0,
@@ -519,7 +532,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": "Zhuu96",
       "name": "Zhamsaran Tsydypov",
       "value": 3202.0,
@@ -532,7 +545,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "VincentKeymer",
       "name": "Vincent Keymer",
       "value": 3200.0,
@@ -545,7 +558,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 43,
       "id": "Annawel",
       "name": "Jules Moussard",
       "value": 3200.0,
@@ -558,7 +571,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 44,
       "id": "AnishGiri",
       "name": "AnishGiri",
       "value": 3198.0,
@@ -571,7 +584,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": "Jospem",
       "name": "Jose Martinez",
       "value": 3196.0,
@@ -584,7 +597,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3194.0,
@@ -593,19 +606,6 @@
         "username": "Andreikka",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 46,
-      "id": "bubeliang",
-      "name": "Havard Haug",
-      "value": 3192.0,
-      "unit": "rating",
-      "meta": {
-        "username": "bubeliang",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/NO",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-15T08:46:36Z",
+      "fetched_at": "2026-08-15T09:42:22Z",
       "http_status": 200
     }
   ]
