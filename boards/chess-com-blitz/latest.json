@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-15T20:41:10Z",
-  "as_of": "2026-08-15T20:41:10Z",
+  "generated_at": "2026-08-15T21:36:07Z",
+  "as_of": "2026-08-15T21:36:07Z",
   "period": {
     "label": "live_blitz"
   },
@@ -455,6 +455,19 @@
     },
     {
       "rank": 35,
+      "id": "VincentKeymer",
+      "name": "Vincent Keymer",
+      "value": 3207.0,
+      "unit": "rating",
+      "meta": {
+        "username": "VincentKeymer",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/DE",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 36,
       "id": "bubeliang",
       "name": "Havard Haug",
       "value": 3206.0,
@@ -467,7 +480,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 37,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3206.0,
@@ -480,7 +493,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 38,
       "id": "IMaster_01",
       "name": "Arda Camlar",
       "value": 3205.0,
@@ -493,7 +506,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 39,
       "id": "legendisback1",
       "name": "Yagiz Kaan Erdogmus",
       "value": 3204.0,
@@ -506,7 +519,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 40,
       "id": "ManuDavid2910",
       "name": "Manu David",
       "value": 3203.0,
@@ -519,7 +532,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": "Fedoseev-Vladimir",
       "name": "Vladimir Fedoseev",
       "value": 3203.0,
@@ -532,7 +545,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 3203.0,
@@ -545,7 +558,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 43,
       "id": "Zhuu96",
       "name": "Zhamsaran Tsydypov",
       "value": 3202.0,
@@ -554,19 +567,6 @@
         "username": "Zhuu96",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 43,
-      "id": "VincentKeymer",
-      "name": "Vincent Keymer",
-      "value": 3200.0,
-      "unit": "rating",
-      "meta": {
-        "username": "VincentKeymer",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/DE",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-15T20:41:10Z",
+      "fetched_at": "2026-08-15T21:36:07Z",
       "http_status": 200
     }
   ]
