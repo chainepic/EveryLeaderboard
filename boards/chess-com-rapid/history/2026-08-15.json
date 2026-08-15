@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-15T22:39:52Z",
-  "as_of": "2026-08-15T22:39:52Z",
+  "generated_at": "2026-08-15T23:35:56Z",
+  "as_of": "2026-08-15T23:35:56Z",
   "period": {
     "label": "live_rapid"
   },
@@ -611,19 +611,6 @@
     },
     {
       "rank": 47,
-      "id": "LikeWater",
-      "name": "Alexander Velikanov",
-      "value": 2705.0,
-      "unit": "rating",
-      "meta": {
-        "username": "LikeWater",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 48,
       "id": "dual_flurry",
       "name": "Jerad Docena",
       "value": 2704.0,
@@ -636,7 +623,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": "elefante33",
       "name": "Felipe El Debs",
       "value": 2704.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "Liindseeyy",
       "name": "Liindseeyy",
       "value": 2702.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/FR",
         "category": "live_rapid"
       }
+    },
+    {
+      "rank": 50,
+      "id": "CKJY2796",
+      "name": "Jason Yeung",
+      "value": 2702.0,
+      "unit": "rating",
+      "meta": {
+        "username": "CKJY2796",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/SR",
+        "category": "live_rapid"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-15T22:39:52Z",
+      "fetched_at": "2026-08-15T23:35:56Z",
       "http_status": 200
     }
   ]
