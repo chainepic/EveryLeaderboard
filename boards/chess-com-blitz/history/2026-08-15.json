@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-15T15:36:38Z",
-  "as_of": "2026-08-15T15:36:38Z",
+  "generated_at": "2026-08-15T16:42:44Z",
+  "as_of": "2026-08-15T16:42:44Z",
   "period": {
     "label": "live_blitz"
   },
@@ -468,6 +468,19 @@
     },
     {
       "rank": 36,
+      "id": "LiemLe",
+      "name": "Liem Le",
+      "value": 3206.0,
+      "unit": "rating",
+      "meta": {
+        "username": "LiemLe",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/VN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 37,
       "id": "IMaster_01",
       "name": "Arda Camlar",
       "value": 3205.0,
@@ -480,7 +493,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 38,
       "id": "legendisback1",
       "name": "Yagiz Kaan Erdogmus",
       "value": 3204.0,
@@ -493,7 +506,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 39,
       "id": "ManuDavid2910",
       "name": "Manu David",
       "value": 3203.0,
@@ -506,7 +519,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 40,
       "id": "Fedoseev-Vladimir",
       "name": "Vladimir Fedoseev",
       "value": 3203.0,
@@ -519,7 +532,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 3203.0,
@@ -532,7 +545,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "Zhuu96",
       "name": "Zhamsaran Tsydypov",
       "value": 3202.0,
@@ -545,7 +558,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 43,
       "id": "VincentKeymer",
       "name": "Vincent Keymer",
       "value": 3200.0,
@@ -558,7 +571,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 44,
       "id": "Annawel",
       "name": "Jules Moussard",
       "value": 3200.0,
@@ -571,7 +584,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": "AnishGiri",
       "name": "AnishGiri",
       "value": 3198.0,
@@ -584,7 +597,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "Jospem",
       "name": "Jose Martinez",
       "value": 3196.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3194.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
       "value": 3191.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "Dolphin_2010",
       "name": "Aleksandr Usov",
       "value": 3185.0,
@@ -632,19 +645,6 @@
         "username": "Dolphin_2010",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 49,
-      "id": "LiemLe",
-      "name": "Liem Le",
-      "value": 3185.0,
-      "unit": "rating",
-      "meta": {
-        "username": "LiemLe",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-15T15:36:38Z",
+      "fetched_at": "2026-08-15T16:42:44Z",
       "http_status": 200
     }
   ]
