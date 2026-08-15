@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-15T13:45:00Z",
-  "as_of": "2026-08-15T13:45:00Z",
+  "generated_at": "2026-08-15T14:41:15Z",
+  "as_of": "2026-08-15T14:41:15Z",
   "period": {
     "label": "live_rapid"
   },
@@ -41,7 +41,7 @@
       "rank": 3,
       "id": "MagnusCarlsen",
       "name": "Magnus Carlsen",
-      "value": 2933.0,
+      "value": 2932.0,
       "unit": "rating",
       "meta": {
         "username": "MagnusCarlsen",
@@ -145,7 +145,7 @@
       "rank": 11,
       "id": "DenLaz",
       "name": "Denis Lazavik",
-      "value": 2807.0,
+      "value": 2808.0,
       "unit": "rating",
       "meta": {
         "username": "DenLaz",
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-15T13:45:00Z",
+      "fetched_at": "2026-08-15T14:41:15Z",
       "http_status": 200
     }
   ]
