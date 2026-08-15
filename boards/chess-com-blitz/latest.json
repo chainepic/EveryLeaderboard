@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-15T14:41:15Z",
-  "as_of": "2026-08-15T14:41:15Z",
+  "generated_at": "2026-08-15T15:36:38Z",
+  "as_of": "2026-08-15T15:36:38Z",
   "period": {
     "label": "live_blitz"
   },
@@ -637,6 +637,19 @@
     },
     {
       "rank": 49,
+      "id": "LiemLe",
+      "name": "Liem Le",
+      "value": 3185.0,
+      "unit": "rating",
+      "meta": {
+        "username": "LiemLe",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/VN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 50,
       "id": "MITerryble",
       "name": "Renato Terry",
       "value": 3182.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/PE",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "LiemLe",
-      "name": "Liem Le",
-      "value": 3178.0,
-      "unit": "rating",
-      "meta": {
-        "username": "LiemLe",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/VN",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-15T14:41:15Z",
+      "fetched_at": "2026-08-15T15:36:38Z",
       "http_status": 200
     }
   ]
