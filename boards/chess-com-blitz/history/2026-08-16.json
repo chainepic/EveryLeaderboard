@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-16T09:43:39Z",
-  "as_of": "2026-08-16T09:43:39Z",
+  "generated_at": "2026-08-16T10:42:17Z",
+  "as_of": "2026-08-16T10:42:17Z",
   "period": {
     "label": "live_blitz"
   },
@@ -598,6 +598,19 @@
     },
     {
       "rank": 46,
+      "id": "Dolphin_2010",
+      "name": "Aleksandr Usov",
+      "value": 3197.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Dolphin_2010",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 47,
       "id": "Jospem",
       "name": "Jose Martinez",
       "value": 3196.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
       "value": 3195.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3194.0,
@@ -631,19 +644,6 @@
       "meta": {
         "username": "Andreikka",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 49,
-      "id": "Dolphin_2010",
-      "name": "Aleksandr Usov",
-      "value": 3185.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Dolphin_2010",
-        "title": "IM",
         "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-16T09:43:39Z",
+      "fetched_at": "2026-08-16T10:42:17Z",
       "http_status": 200
     }
   ]
