@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-16T01:58:48Z",
-  "as_of": "2026-08-16T01:58:48Z",
+  "generated_at": "2026-08-16T03:14:01Z",
+  "as_of": "2026-08-16T03:14:01Z",
   "period": {
     "label": "live_blitz"
   },
@@ -611,6 +611,19 @@
     },
     {
       "rank": 47,
+      "id": "ChristopherYoo",
+      "name": "Christopher Woojin Yoo",
+      "value": 3195.0,
+      "unit": "rating",
+      "meta": {
+        "username": "ChristopherYoo",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/TV",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 48,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3194.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "Dolphin_2010",
       "name": "Aleksandr Usov",
       "value": 3185.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "MITerryble",
       "name": "Renato Terry",
       "value": 3182.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/PE",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "ChristopherYoo",
-      "name": "Christopher Woojin Yoo",
-      "value": 3181.0,
-      "unit": "rating",
-      "meta": {
-        "username": "ChristopherYoo",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/TV",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-16T01:58:48Z",
+      "fetched_at": "2026-08-16T03:14:01Z",
       "http_status": 200
     }
   ]
