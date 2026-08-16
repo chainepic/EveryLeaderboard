@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-16T11:35:56Z",
-  "as_of": "2026-08-16T11:35:56Z",
+  "generated_at": "2026-08-16T13:02:29Z",
+  "as_of": "2026-08-16T13:02:29Z",
   "period": {
     "label": "live_blitz"
   },
@@ -54,7 +54,7 @@
       "rank": 4,
       "id": "gurelediz",
       "name": "Ediz Gürel",
-      "value": 3313.0,
+      "value": 3315.0,
       "unit": "rating",
       "meta": {
         "username": "gurelediz",
@@ -585,6 +585,19 @@
     },
     {
       "rank": 45,
+      "id": "artin10862",
+      "name": "Artin Ashraf",
+      "value": 3198.0,
+      "unit": "rating",
+      "meta": {
+        "username": "artin10862",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/TR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 46,
       "id": "AnishGiri",
       "name": "AnishGiri",
       "value": 3198.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "Jospem",
       "name": "Jose Martinez",
       "value": 3196.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
       "value": 3195.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3194.0,
@@ -632,19 +645,6 @@
         "username": "Andreikka",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 49,
-      "id": "artin10862",
-      "name": "Artin Ashraf",
-      "value": 3183.0,
-      "unit": "rating",
-      "meta": {
-        "username": "artin10862",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/TR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-16T11:35:56Z",
+      "fetched_at": "2026-08-16T13:02:29Z",
       "http_status": 200
     }
   ]
