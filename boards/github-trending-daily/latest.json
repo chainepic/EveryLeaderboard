@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "github-trending-daily",
-  "generated_at": "2026-08-16T13:46:05Z",
-  "as_of": "2026-08-16T13:46:05Z",
+  "generated_at": "2026-08-16T14:41:12Z",
+  "as_of": "2026-08-16T14:41:12Z",
   "period": {
     "label": "daily"
   },
@@ -15,74 +15,74 @@
       "rank": 1,
       "id": "cordiverse/cordis",
       "name": "cordiverse/cordis",
-      "value": 599.0,
+      "value": 719.0,
       "unit": "stars",
       "meta": {
         "description": "Meta-Framework of Spatiotemporal Composability",
         "language": "TypeScript",
         "url": "https://github.com/cordiverse/cordis",
-        "total_stars": 4284.0,
-        "forks": 211.0,
+        "total_stars": 4463.0,
+        "forks": 225.0,
         "since": "daily"
       }
     },
     {
       "rank": 2,
-      "id": "cathrynlavery/diagram-design",
-      "name": "cathrynlavery/diagram-design",
-      "value": 1607.0,
+      "id": "basecamp/omarchy",
+      "name": "basecamp/omarchy",
+      "value": 225.0,
       "unit": "stars",
       "meta": {
-        "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-        "language": "HTML",
-        "url": "https://github.com/cathrynlavery/diagram-design",
-        "total_stars": 18927.0,
-        "forks": 1148.0,
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "url": "https://github.com/basecamp/omarchy",
+        "total_stars": 25124.0,
+        "forks": 2559.0,
         "since": "daily"
       }
     },
     {
       "rank": 3,
-      "id": "cursor/plugins",
-      "name": "cursor/plugins",
-      "value": 149.0,
-      "unit": "stars",
-      "meta": {
-        "description": "Cursor plugin specification and official plugins",
-        "language": "TypeScript",
-        "url": "https://github.com/cursor/plugins",
-        "total_stars": 3001.0,
-        "forks": 241.0,
-        "since": "daily"
-      }
-    },
-    {
-      "rank": 4,
-      "id": "cactus-compute/needle",
-      "name": "cactus-compute/needle",
-      "value": 547.0,
-      "unit": "stars",
-      "meta": {
-        "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-        "language": "Python",
-        "url": "https://github.com/cactus-compute/needle",
-        "total_stars": 6180.0,
-        "forks": 411.0,
-        "since": "daily"
-      }
-    },
-    {
-      "rank": 5,
       "id": "unslothai/unsloth",
       "name": "unslothai/unsloth",
-      "value": 434.0,
+      "value": 580.0,
       "unit": "stars",
       "meta": {
         "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
         "language": "Python",
         "url": "https://github.com/unslothai/unsloth",
-        "total_stars": 72181.0,
-        "forks": 6503.0,
+        "total_stars": 72287.0,
+        "forks": 6510.0,
+        "since": "daily"
+      }
+    },
+    {
+      "rank": 4,
+      "id": "OpenCut-app/OpenCut",
+      "name": "OpenCut-app/OpenCut",
+      "value": 134.0,
+      "unit": "stars",
+      "meta": {
+        "description": "The open-source CapCut alternative",
+        "language": "TypeScript",
+        "url": "https://github.com/OpenCut-app/OpenCut",
+        "total_stars": 83567.0,
+        "forks": 8265.0,
+        "since": "daily"
+      }
+    },
+    {
+      "rank": 5,
+      "id": "akitaonrails/ai-memory",
+      "name": "akitaonrails/ai-memory",
+      "value": 41.0,
+      "unit": "stars",
+      "meta": {
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "language": "Rust",
+        "url": "https://github.com/akitaonrails/ai-memory",
+        "total_stars": 1572.0,
+        "forks": 167.0,
         "since": "daily"
       }
     },
@@ -90,119 +90,44 @@
       "rank": 6,
       "id": "public-apis/public-apis",
       "name": "public-apis/public-apis",
-      "value": 2260.0,
+      "value": 1583.0,
       "unit": "stars",
       "meta": {
         "description": "A collective list of free APIs",
         "language": "Python",
         "url": "https://github.com/public-apis/public-apis",
-        "total_stars": 460553.0,
-        "forks": 50883.0,
+        "total_stars": 460926.0,
+        "forks": 50918.0,
         "since": "daily"
       }
     },
     {
       "rank": 7,
-      "id": "MakazhanAlpamys/Soup",
-      "name": "MakazhanAlpamys/Soup",
-      "value": 297.0,
-      "unit": "stars",
-      "meta": {
-        "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-        "language": "Python",
-        "url": "https://github.com/MakazhanAlpamys/Soup",
-        "total_stars": 1801.0,
-        "forks": 273.0,
-        "since": "daily"
-      }
-    },
-    {
-      "rank": 8,
-      "id": "github/spec-kit",
-      "name": "github/spec-kit",
-      "value": 892.0,
-      "unit": "stars",
-      "meta": {
-        "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-        "language": "Python",
-        "url": "https://github.com/github/spec-kit",
-        "total_stars": 129309.0,
-        "forks": 11564.0,
-        "since": "daily"
-      }
-    },
-    {
-      "rank": 9,
-      "id": "megadose/holehe",
-      "name": "megadose/holehe",
-      "value": 382.0,
-      "unit": "stars",
-      "meta": {
-        "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-        "language": "Python",
-        "url": "https://github.com/megadose/holehe",
-        "total_stars": 13187.0,
-        "forks": 1746.0,
-        "since": "daily"
-      }
-    },
-    {
-      "rank": 10,
-      "id": "altic-dev/FluidVoice",
-      "name": "altic-dev/FluidVoice",
-      "value": 104.0,
-      "unit": "stars",
-      "meta": {
-        "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp",
-        "language": "Swift",
-        "url": "https://github.com/altic-dev/FluidVoice",
-        "total_stars": 10401.0,
-        "forks": 703.0,
-        "since": "daily"
-      }
-    },
-    {
-      "rank": 11,
       "id": "ToolJet/ToolJet",
       "name": "ToolJet/ToolJet",
-      "value": 544.0,
+      "value": 446.0,
       "unit": "stars",
       "meta": {
         "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
         "language": "JavaScript",
         "url": "https://github.com/ToolJet/ToolJet",
-        "total_stars": 39661.0,
-        "forks": 5307.0,
+        "total_stars": 39770.0,
+        "forks": 5315.0,
         "since": "daily"
       }
     },
     {
-      "rank": 12,
-      "id": "HKUDS/CLI-Anything",
-      "name": "HKUDS/CLI-Anything",
-      "value": 118.0,
+      "rank": 8,
+      "id": "cactus-compute/needle",
+      "name": "cactus-compute/needle",
+      "value": 447.0,
       "unit": "stars",
       "meta": {
-        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
         "language": "Python",
-        "url": "https://github.com/HKUDS/CLI-Anything",
-        "total_stars": 47493.0,
-        "forks": 4398.0,
-        "since": "daily"
-      }
-    },
-    {
-      "rank": 13,
-      "id": "citrolabs/ego-lite",
-      "name": "citrolabs/ego-lite",
-      "value": 545.0,
-      "unit": "stars",
-      "meta": {
-        "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-        "language": "JavaScript",
-        "url": "https://github.com/citrolabs/ego-lite",
-        "total_stars": 11164.0,
-        "forks": 569.0,
+        "url": "https://github.com/cactus-compute/needle",
+        "total_stars": 6308.0,
+        "forks": 420.0,
         "since": "daily"
       }
     }
@@ -211,7 +136,7 @@
     {
       "name": "isboyjc/github-trending-api",
       "url": "https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/daily/all.json",
-      "fetched_at": "2026-08-16T13:46:05Z",
+      "fetched_at": "2026-08-16T14:41:12Z",
       "http_status": 200
     }
   ]

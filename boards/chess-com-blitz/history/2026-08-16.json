@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-16T13:46:04Z",
-  "as_of": "2026-08-16T13:46:04Z",
+  "generated_at": "2026-08-16T14:41:09Z",
+  "as_of": "2026-08-16T14:41:09Z",
   "period": {
     "label": "live_blitz"
   },
@@ -325,6 +325,19 @@
     },
     {
       "rank": 25,
+      "id": "TRadjabov",
+      "name": "Teimour Radjabov",
+      "value": 3230.0,
+      "unit": "rating",
+      "meta": {
+        "username": "TRadjabov",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/AZ",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 26,
       "id": "HansOnTwitch",
       "name": "Hans Niemann",
       "value": 3229.0,
@@ -333,19 +346,6 @@
         "username": "HansOnTwitch",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 26,
-      "id": "TRadjabov",
-      "name": "Teimour Radjabov",
-      "value": 3227.0,
-      "unit": "rating",
-      "meta": {
-        "username": "TRadjabov",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/AZ",
         "category": "live_blitz"
       }
     },
@@ -585,19 +585,6 @@
     },
     {
       "rank": 45,
-      "id": "artin10862",
-      "name": "Artin Ashraf",
-      "value": 3198.0,
-      "unit": "rating",
-      "meta": {
-        "username": "artin10862",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/TR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 46,
       "id": "AnishGiri",
       "name": "AnishGiri",
       "value": 3198.0,
@@ -610,7 +597,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": "Jospem",
       "name": "Jose Martinez",
       "value": 3196.0,
@@ -623,7 +610,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
       "value": 3195.0,
@@ -636,7 +623,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3194.0,
@@ -645,6 +632,19 @@
         "username": "Andreikka",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 49,
+      "id": "artin10862",
+      "name": "Artin Ashraf",
+      "value": 3190.0,
+      "unit": "rating",
+      "meta": {
+        "username": "artin10862",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/TR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-16T13:46:04Z",
+      "fetched_at": "2026-08-16T14:41:09Z",
       "http_status": 200
     }
   ]
