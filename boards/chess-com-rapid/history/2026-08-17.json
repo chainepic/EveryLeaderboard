@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-17T21:42:57Z",
-  "as_of": "2026-08-17T21:42:57Z",
+  "generated_at": "2026-08-17T22:43:14Z",
+  "as_of": "2026-08-17T22:43:14Z",
   "period": {
     "label": "live_rapid"
   },
@@ -143,19 +143,6 @@
     },
     {
       "rank": 11,
-      "id": "LPSupi",
-      "name": "Luis Paulo Supi",
-      "value": 2805.0,
-      "unit": "rating",
-      "meta": {
-        "username": "LPSupi",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 12,
       "id": "Firouzja2003",
       "name": "Alireza Firouzja",
       "value": 2802.0,
@@ -168,7 +155,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "id": "Swiss_Fighter",
       "name": "Gabriel Gähwiler",
       "value": 2800.0,
@@ -181,7 +168,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "id": "DenLaz",
       "name": "Denis Lazavik",
       "value": 2799.0,
@@ -194,7 +181,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "id": "lachesisQ",
       "name": "Ian Nepomniachtchi",
       "value": 2793.0,
@@ -207,7 +194,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "id": "GHANDEEVAM2003",
       "name": "Arjun Erigaisi",
       "value": 2791.0,
@@ -216,6 +203,19 @@
         "username": "GHANDEEVAM2003",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IN",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 16,
+      "id": "LPSupi",
+      "name": "Luis Paulo Supi",
+      "value": 2791.0,
+      "unit": "rating",
+      "meta": {
+        "username": "LPSupi",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
@@ -351,6 +351,19 @@
     },
     {
       "rank": 27,
+      "id": "GMKrikor",
+      "name": "Krikor Sevag Mekhitarian",
+      "value": 2747.0,
+      "unit": "rating",
+      "meta": {
+        "username": "GMKrikor",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 28,
       "id": "2007checkmate",
       "name": "Vyom Vidyarthi",
       "value": 2746.0,
@@ -359,19 +372,6 @@
         "username": "2007checkmate",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 28,
-      "id": "GMKrikor",
-      "name": "Krikor Sevag Mekhitarian",
-      "value": 2745.0,
-      "unit": "rating",
-      "meta": {
-        "username": "GMKrikor",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-17T21:42:57Z",
+      "fetched_at": "2026-08-17T22:43:14Z",
       "http_status": 200
     }
   ]
