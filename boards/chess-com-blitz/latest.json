@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-17T09:59:20Z",
-  "as_of": "2026-08-17T09:59:20Z",
+  "generated_at": "2026-08-17T10:49:17Z",
+  "as_of": "2026-08-17T10:49:17Z",
   "period": {
     "label": "live_blitz"
   },
@@ -546,6 +546,19 @@
     },
     {
       "rank": 42,
+      "id": "Dolphin_2010",
+      "name": "Aleksandr Usov",
+      "value": 3202.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Dolphin_2010",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 43,
       "id": "Zhuu96",
       "name": "Zhamsaran Tsydypov",
       "value": 3202.0,
@@ -558,7 +571,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 44,
       "id": "Annawel",
       "name": "Jules Moussard",
       "value": 3200.0,
@@ -567,19 +580,6 @@
         "username": "Annawel",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/FR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 44,
-      "id": "Dolphin_2010",
-      "name": "Aleksandr Usov",
-      "value": 3198.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Dolphin_2010",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     },
@@ -637,6 +637,19 @@
     },
     {
       "rank": 49,
+      "id": "GMBrewChess",
+      "name": "Brewington Hardaway",
+      "value": 3192.0,
+      "unit": "rating",
+      "meta": {
+        "username": "GMBrewChess",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 50,
       "id": "MITerryble",
       "name": "Renato Terry",
       "value": 3182.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/PE",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "GMBrewChess",
-      "name": "Brewington Hardaway",
-      "value": 3180.0,
-      "unit": "rating",
-      "meta": {
-        "username": "GMBrewChess",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-17T09:59:20Z",
+      "fetched_at": "2026-08-17T10:49:17Z",
       "http_status": 200
     }
   ]

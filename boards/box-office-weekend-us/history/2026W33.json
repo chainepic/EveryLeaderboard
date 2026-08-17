@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "slug": "box-office-weekend-us",
-  "generated_at": "2026-08-17T09:59:20Z",
+  "generated_at": "2026-08-17T10:49:16Z",
   "as_of": "2026W33",
   "period": {
     "label": "2026W33"
@@ -15,7 +15,7 @@
       "rank": 1,
       "id": "Spider-Man: Brand New Day",
       "name": "Spider-Man: Brand New Day",
-      "value": 70000000.0,
+      "value": 48290000.0,
       "unit": "USD",
       "meta": {}
     },
@@ -93,14 +93,6 @@
     },
     {
       "rank": 11,
-      "id": "Your Name.",
-      "name": "Your Name.",
-      "value": 1578609.0,
-      "unit": "USD",
-      "meta": {}
-    },
-    {
-      "rank": 12,
       "id": "Minions & Monsters",
       "name": "Minions & Monsters",
       "value": 1500000.0,
@@ -108,10 +100,18 @@
       "meta": {}
     },
     {
-      "rank": 13,
+      "rank": 12,
       "id": "Super Troopers 3",
       "name": "Super Troopers 3",
       "value": 1400000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 13,
+      "id": "Your Name.",
+      "name": "Your Name.",
+      "value": 1203609.0,
       "unit": "USD",
       "meta": {}
     },
@@ -216,7 +216,7 @@
     {
       "name": "Box Office Mojo",
       "url": "https://www.boxofficemojo.com/weekend/2026W33/",
-      "fetched_at": "2026-08-17T09:59:20Z",
+      "fetched_at": "2026-08-17T10:49:16Z",
       "http_status": 200
     }
   ]
