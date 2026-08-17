@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "github-trending-monthly",
-  "generated_at": "2026-08-17T13:54:49Z",
-  "as_of": "2026-08-17T13:54:49Z",
+  "generated_at": "2026-08-17T16:47:53Z",
+  "as_of": "2026-08-17T16:47:53Z",
   "period": {
     "label": "monthly"
   },
@@ -13,6 +13,21 @@
   "items": [
     {
       "rank": 1,
+      "id": "ayghri/i-have-adhd",
+      "name": "ayghri/i-have-adhd",
+      "value": 20897.0,
+      "unit": "stars",
+      "meta": {
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "language": "Python",
+        "url": "https://github.com/ayghri/i-have-adhd",
+        "total_stars": 21277.0,
+        "forks": 1349.0,
+        "since": "monthly"
+      }
+    },
+    {
+      "rank": 2,
       "id": "bojieli/ai-agent-book",
       "name": "bojieli/ai-agent-book",
       "value": 37110.0,
@@ -21,13 +36,13 @@
         "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
         "language": "Python",
         "url": "https://github.com/bojieli/ai-agent-book",
-        "total_stars": 38168.0,
-        "forks": 4201.0,
+        "total_stars": 38395.0,
+        "forks": 4234.0,
         "since": "monthly"
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "diegosouzapw/OmniRoute",
       "name": "diegosouzapw/OmniRoute",
       "value": 31374.0,
@@ -36,13 +51,13 @@
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
         "language": "TypeScript",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "total_stars": 49358.0,
-        "forks": 6729.0,
+        "total_stars": 49568.0,
+        "forks": 6747.0,
         "since": "monthly"
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "koala73/worldmonitor",
       "name": "koala73/worldmonitor",
       "value": 20810.0,
@@ -51,23 +66,8 @@
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "language": "TypeScript",
         "url": "https://github.com/koala73/worldmonitor",
-        "total_stars": 82505.0,
-        "forks": 12317.0,
-        "since": "monthly"
-      }
-    },
-    {
-      "rank": 4,
-      "id": "1jehuang/jcode",
-      "name": "1jehuang/jcode",
-      "value": 9481.0,
-      "unit": "stars",
-      "meta": {
-        "description": "The most RAM efficient harness",
-        "language": "Rust",
-        "url": "https://github.com/1jehuang/jcode",
-        "total_stars": 17776.0,
-        "forks": 1999.0,
+        "total_stars": 82587.0,
+        "forks": 12323.0,
         "since": "monthly"
       }
     },
@@ -81,13 +81,28 @@
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
         "language": "TypeScript",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "total_stars": 22401.0,
-        "forks": 2042.0,
+        "total_stars": 22519.0,
+        "forks": 2056.0,
         "since": "monthly"
       }
     },
     {
       "rank": 6,
+      "id": "1jehuang/jcode",
+      "name": "1jehuang/jcode",
+      "value": 9481.0,
+      "unit": "stars",
+      "meta": {
+        "description": "The most RAM efficient harness",
+        "language": "Rust",
+        "url": "https://github.com/1jehuang/jcode",
+        "total_stars": 17811.0,
+        "forks": 1998.0,
+        "since": "monthly"
+      }
+    },
+    {
+      "rank": 7,
       "id": "zhaoxuya520/reverse-skill",
       "name": "zhaoxuya520/reverse-skill",
       "value": 17554.0,
@@ -96,13 +111,13 @@
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
         "language": "PowerShell",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "total_stars": 25827.0,
-        "forks": 3497.0,
+        "total_stars": 25922.0,
+        "forks": 3517.0,
         "since": "monthly"
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "pingdotgg/t3code",
       "name": "pingdotgg/t3code",
       "value": 5027.0,
@@ -111,13 +126,28 @@
         "description": "",
         "language": "TypeScript",
         "url": "https://github.com/pingdotgg/t3code",
-        "total_stars": 18995.0,
-        "forks": 4408.0,
+        "total_stars": 19032.0,
+        "forks": 4423.0,
         "since": "monthly"
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "id": "microsoft/AI-For-Beginners",
+      "name": "microsoft/AI-For-Beginners",
+      "value": 12920.0,
+      "unit": "stars",
+      "meta": {
+        "description": "12 Weeks, 24 Lessons, AI for All!",
+        "language": "Jupyter Notebook",
+        "url": "https://github.com/microsoft/AI-For-Beginners",
+        "total_stars": 65128.0,
+        "forks": 12644.0,
+        "since": "monthly"
+      }
+    },
+    {
+      "rank": 10,
       "id": "earendil-works/pi",
       "name": "earendil-works/pi",
       "value": 19903.0,
@@ -126,38 +156,8 @@
         "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
         "language": "TypeScript",
         "url": "https://github.com/earendil-works/pi",
-        "total_stars": 91915.0,
-        "forks": 11390.0,
-        "since": "monthly"
-      }
-    },
-    {
-      "rank": 9,
-      "id": "every-app/open-seo",
-      "name": "every-app/open-seo",
-      "value": 7870.0,
-      "unit": "stars",
-      "meta": {
-        "description": "Open source alternative to Semrush and Ahrefs",
-        "language": "TypeScript",
-        "url": "https://github.com/every-app/open-seo",
-        "total_stars": 12264.0,
-        "forks": 1398.0,
-        "since": "monthly"
-      }
-    },
-    {
-      "rank": 10,
-      "id": "mattpocock/skills",
-      "name": "mattpocock/skills",
-      "value": 46346.0,
-      "unit": "stars",
-      "meta": {
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "url": "https://github.com/mattpocock/skills",
-        "total_stars": 219639.0,
-        "forks": 18912.0,
+        "total_stars": 92174.0,
+        "forks": 11416.0,
         "since": "monthly"
       }
     },
@@ -171,13 +171,28 @@
         "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
         "language": "Python",
         "url": "https://github.com/virgiliojr94/book-to-skill",
-        "total_stars": 22349.0,
-        "forks": 2359.0,
+        "total_stars": 22446.0,
+        "forks": 2364.0,
         "since": "monthly"
       }
     },
     {
       "rank": 12,
+      "id": "mattpocock/skills",
+      "name": "mattpocock/skills",
+      "value": 46346.0,
+      "unit": "stars",
+      "meta": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "url": "https://github.com/mattpocock/skills",
+        "total_stars": 219965.0,
+        "forks": 18941.0,
+        "since": "monthly"
+      }
+    },
+    {
+      "rank": 13,
       "id": "stablyai/orca",
       "name": "stablyai/orca",
       "value": 26429.0,
@@ -186,13 +201,28 @@
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
         "language": "TypeScript",
         "url": "https://github.com/stablyai/orca",
-        "total_stars": 46866.0,
-        "forks": 3267.0,
+        "total_stars": 47110.0,
+        "forks": 3280.0,
         "since": "monthly"
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
+      "id": "every-app/open-seo",
+      "name": "every-app/open-seo",
+      "value": 7870.0,
+      "unit": "stars",
+      "meta": {
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "language": "TypeScript",
+        "url": "https://github.com/every-app/open-seo",
+        "total_stars": 12315.0,
+        "forks": 1403.0,
+        "since": "monthly"
+      }
+    },
+    {
+      "rank": 15,
       "id": "HKUDS/DeepTutor",
       "name": "HKUDS/DeepTutor",
       "value": 9425.0,
@@ -201,28 +231,13 @@
         "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
         "language": "Python",
         "url": "https://github.com/HKUDS/DeepTutor",
-        "total_stars": 36015.0,
-        "forks": 4536.0,
+        "total_stars": 36080.0,
+        "forks": 4541.0,
         "since": "monthly"
       }
     },
     {
-      "rank": 14,
-      "id": "tirth8205/code-review-graph",
-      "name": "tirth8205/code-review-graph",
-      "value": 10934.0,
-      "unit": "stars",
-      "meta": {
-        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-        "language": "Python",
-        "url": "https://github.com/tirth8205/code-review-graph",
-        "total_stars": 30387.0,
-        "forks": 2777.0,
-        "since": "monthly"
-      }
-    },
-    {
-      "rank": 15,
+      "rank": 16,
       "id": "agegr/pi-web",
       "name": "agegr/pi-web",
       "value": 3175.0,
@@ -231,28 +246,28 @@
         "description": "Web UI for the pi coding agent",
         "language": "TypeScript",
         "url": "https://github.com/agegr/pi-web",
-        "total_stars": 4514.0,
-        "forks": 627.0,
-        "since": "monthly"
-      }
-    },
-    {
-      "rank": 16,
-      "id": "Nutlope/hallmark",
-      "name": "Nutlope/hallmark",
-      "value": 15143.0,
-      "unit": "stars",
-      "meta": {
-        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "language": "CSS",
-        "url": "https://github.com/Nutlope/hallmark",
-        "total_stars": 25401.0,
-        "forks": 1292.0,
+        "total_stars": 4568.0,
+        "forks": 633.0,
         "since": "monthly"
       }
     },
     {
       "rank": 17,
+      "id": "tirth8205/code-review-graph",
+      "name": "tirth8205/code-review-graph",
+      "value": 10934.0,
+      "unit": "stars",
+      "meta": {
+        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+        "language": "Python",
+        "url": "https://github.com/tirth8205/code-review-graph",
+        "total_stars": 30412.0,
+        "forks": 2778.0,
+        "since": "monthly"
+      }
+    },
+    {
+      "rank": 18,
       "id": "lyogavin/airllm",
       "name": "lyogavin/airllm",
       "value": 8712.0,
@@ -261,28 +276,28 @@
         "description": "AirLLM 70B inference with single 4GB GPU",
         "language": "Jupyter Notebook",
         "url": "https://github.com/lyogavin/airllm",
-        "total_stars": 31393.0,
-        "forks": 3331.0,
-        "since": "monthly"
-      }
-    },
-    {
-      "rank": 18,
-      "id": "different-ai/openwork",
-      "name": "different-ai/openwork",
-      "value": 5703.0,
-      "unit": "stars",
-      "meta": {
-        "description": "The open-source alternative to Claude Cowork (powered by opencode)",
-        "language": "TypeScript",
-        "url": "https://github.com/different-ai/openwork",
-        "total_stars": 22489.0,
-        "forks": 2223.0,
+        "total_stars": 31436.0,
+        "forks": 3337.0,
         "since": "monthly"
       }
     },
     {
       "rank": 19,
+      "id": "Nutlope/hallmark",
+      "name": "Nutlope/hallmark",
+      "value": 15143.0,
+      "unit": "stars",
+      "meta": {
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "url": "https://github.com/Nutlope/hallmark",
+        "total_stars": 25461.0,
+        "forks": 1293.0,
+        "since": "monthly"
+      }
+    },
+    {
+      "rank": 20,
       "id": "megadose/holehe",
       "name": "megadose/holehe",
       "value": 1588.0,
@@ -291,23 +306,38 @@
         "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "language": "Python",
         "url": "https://github.com/megadose/holehe",
-        "total_stars": 13335.0,
-        "forks": 1764.0,
+        "total_stars": 13379.0,
+        "forks": 1767.0,
         "since": "monthly"
       }
     },
     {
-      "rank": 20,
-      "id": "tt-a1i/archify",
-      "name": "tt-a1i/archify",
-      "value": 7964.0,
+      "rank": 21,
+      "id": "different-ai/openwork",
+      "name": "different-ai/openwork",
+      "value": 5703.0,
       "unit": "stars",
       "meta": {
-        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-        "language": "HTML",
-        "url": "https://github.com/tt-a1i/archify",
-        "total_stars": 13627.0,
-        "forks": 999.0,
+        "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+        "language": "TypeScript",
+        "url": "https://github.com/different-ai/openwork",
+        "total_stars": 22517.0,
+        "forks": 2224.0,
+        "since": "monthly"
+      }
+    },
+    {
+      "rank": 22,
+      "id": "opengeos/GeoLibre",
+      "name": "opengeos/GeoLibre",
+      "value": 4492.0,
+      "unit": "stars",
+      "meta": {
+        "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+        "language": "TypeScript",
+        "url": "https://github.com/opengeos/GeoLibre",
+        "total_stars": 6263.0,
+        "forks": 628.0,
         "since": "monthly"
       }
     }
@@ -316,7 +346,7 @@
     {
       "name": "isboyjc/github-trending-api",
       "url": "https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/monthly/all.json",
-      "fetched_at": "2026-08-17T13:54:49Z",
+      "fetched_at": "2026-08-17T16:47:53Z",
       "http_status": 200
     }
   ]
