@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-17T17:47:05Z",
-  "as_of": "2026-08-17T17:47:05Z",
+  "generated_at": "2026-08-17T18:59:09Z",
+  "as_of": "2026-08-17T18:59:09Z",
   "period": {
     "label": "live_rapid"
   },
@@ -481,6 +481,19 @@
     },
     {
       "rank": 37,
+      "id": "Evandro_Barbosa",
+      "name": "Evandro Amorim Barbosa",
+      "value": 2723.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Evandro_Barbosa",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 38,
       "id": "Szparu",
       "name": "Miłosz Szpar",
       "value": 2722.0,
@@ -489,19 +502,6 @@
         "username": "Szparu",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/PL",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 38,
-      "id": "Evandro_Barbosa",
-      "name": "Evandro Amorim Barbosa",
-      "value": 2721.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Evandro_Barbosa",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-17T17:47:05Z",
+      "fetched_at": "2026-08-17T18:59:09Z",
       "http_status": 200
     }
   ]
