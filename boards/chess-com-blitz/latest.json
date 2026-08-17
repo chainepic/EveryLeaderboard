@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-17T10:49:17Z",
-  "as_of": "2026-08-17T10:49:17Z",
+  "generated_at": "2026-08-17T11:42:51Z",
+  "as_of": "2026-08-17T11:42:51Z",
   "period": {
     "label": "live_blitz"
   },
@@ -572,6 +572,19 @@
     },
     {
       "rank": 44,
+      "id": "GMBrewChess",
+      "name": "Brewington Hardaway",
+      "value": 3200.0,
+      "unit": "rating",
+      "meta": {
+        "username": "GMBrewChess",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 45,
       "id": "Annawel",
       "name": "Jules Moussard",
       "value": 3200.0,
@@ -584,7 +597,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "AnishGiri",
       "name": "AnishGiri",
       "value": 3198.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "Jospem",
       "name": "Jose Martinez",
       "value": 3196.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
       "value": 3195.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3194.0,
@@ -632,19 +645,6 @@
         "username": "Andreikka",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 49,
-      "id": "GMBrewChess",
-      "name": "Brewington Hardaway",
-      "value": 3192.0,
-      "unit": "rating",
-      "meta": {
-        "username": "GMBrewChess",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-17T10:49:17Z",
+      "fetched_at": "2026-08-17T11:42:51Z",
       "http_status": 200
     }
   ]

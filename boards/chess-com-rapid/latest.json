@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-17T10:49:17Z",
-  "as_of": "2026-08-17T10:49:17Z",
+  "generated_at": "2026-08-17T11:42:51Z",
+  "as_of": "2026-08-17T11:42:51Z",
   "period": {
     "label": "live_rapid"
   },
@@ -481,6 +481,19 @@
     },
     {
       "rank": 37,
+      "id": "Szparu",
+      "name": "Miłosz Szpar",
+      "value": 2722.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Szparu",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/PL",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 38,
       "id": "HansOnTwitch",
       "name": "Hans Niemann",
       "value": 2720.0,
@@ -489,19 +502,6 @@
         "username": "HansOnTwitch",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 38,
-      "id": "Szparu",
-      "name": "Miłosz Szpar",
-      "value": 2719.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Szparu",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/PL",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-17T10:49:17Z",
+      "fetched_at": "2026-08-17T11:42:51Z",
       "http_status": 200
     }
   ]
