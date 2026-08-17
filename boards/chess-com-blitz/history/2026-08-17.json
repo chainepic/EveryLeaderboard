@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-17T20:45:45Z",
-  "as_of": "2026-08-17T20:45:45Z",
+  "generated_at": "2026-08-17T21:42:57Z",
+  "as_of": "2026-08-17T21:42:57Z",
   "period": {
     "label": "live_blitz"
   },
@@ -91,19 +91,6 @@
     },
     {
       "rank": 7,
-      "id": "mishanick",
-      "name": "Aleksei Sarana",
-      "value": 3289.0,
-      "unit": "rating",
-      "meta": {
-        "username": "mishanick",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RS",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 8,
       "id": "vi_pranav",
       "name": "Pranav V",
       "value": 3288.0,
@@ -116,7 +103,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "Sina-Movahed",
       "name": "Sina Movahed",
       "value": 3281.0,
@@ -129,7 +116,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "GHANDEEVAM2003",
       "name": "Arjun Erigaisi",
       "value": 3280.0,
@@ -138,6 +125,19 @@
         "username": "GHANDEEVAM2003",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 10,
+      "id": "mishanick",
+      "name": "Aleksei Sarana",
+      "value": 3278.0,
+      "unit": "rating",
+      "meta": {
+        "username": "mishanick",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RS",
         "category": "live_blitz"
       }
     },
@@ -403,6 +403,19 @@
     },
     {
       "rank": 31,
+      "id": "GMBrewChess",
+      "name": "Brewington Hardaway",
+      "value": 3214.0,
+      "unit": "rating",
+      "meta": {
+        "username": "GMBrewChess",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 32,
       "id": "ChessWarrior7197",
       "name": "Nodirbek Abdusattorov",
       "value": 3214.0,
@@ -415,26 +428,13 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": "jefferyx",
       "name": "Jeffery Xiong",
       "value": 3213.0,
       "unit": "rating",
       "meta": {
         "username": "jefferyx",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 33,
-      "id": "GMBrewChess",
-      "name": "Brewington Hardaway",
-      "value": 3212.0,
-      "unit": "rating",
-      "meta": {
-        "username": "GMBrewChess",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-17T20:45:45Z",
+      "fetched_at": "2026-08-17T21:42:57Z",
       "http_status": 200
     }
   ]
