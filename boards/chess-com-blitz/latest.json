@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-17T11:42:51Z",
-  "as_of": "2026-08-17T11:42:51Z",
+  "generated_at": "2026-08-17T13:07:52Z",
+  "as_of": "2026-08-17T13:07:52Z",
   "period": {
     "label": "live_blitz"
   },
@@ -468,6 +468,19 @@
     },
     {
       "rank": 36,
+      "id": "Dolphin_2010",
+      "name": "Aleksandr Usov",
+      "value": 3206.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Dolphin_2010",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 37,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3206.0,
@@ -480,7 +493,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 38,
       "id": "VincentKeymer",
       "name": "Vincent Keymer",
       "value": 3204.0,
@@ -493,7 +506,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 39,
       "id": "legendisback1",
       "name": "Yagiz Kaan Erdogmus",
       "value": 3204.0,
@@ -506,7 +519,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 40,
       "id": "ManuDavid2910",
       "name": "Manu David",
       "value": 3203.0,
@@ -519,7 +532,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": "Fedoseev-Vladimir",
       "name": "Vladimir Fedoseev",
       "value": 3203.0,
@@ -532,7 +545,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 3203.0,
@@ -541,19 +554,6 @@
         "username": "Oleksandr_Bortnyk",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 42,
-      "id": "Dolphin_2010",
-      "name": "Aleksandr Usov",
-      "value": 3202.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Dolphin_2010",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-17T11:42:51Z",
+      "fetched_at": "2026-08-17T13:07:52Z",
       "http_status": 200
     }
   ]
