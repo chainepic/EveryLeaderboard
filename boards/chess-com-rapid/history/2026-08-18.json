@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-18T17:45:25Z",
-  "as_of": "2026-08-18T17:45:25Z",
+  "generated_at": "2026-08-18T19:41:56Z",
+  "as_of": "2026-08-18T19:41:56Z",
   "period": {
     "label": "live_rapid"
   },
@@ -572,6 +572,19 @@
     },
     {
       "rank": 44,
+      "id": "KNVB",
+      "name": "Aman Hambleton",
+      "value": 2710.0,
+      "unit": "rating",
+      "meta": {
+        "username": "KNVB",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/CA",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 45,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 2709.0,
@@ -580,19 +593,6 @@
         "username": "Parhamov",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 45,
-      "id": "KNVB",
-      "name": "Aman Hambleton",
-      "value": 2707.0,
-      "unit": "rating",
-      "meta": {
-        "username": "KNVB",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/CA",
         "category": "live_rapid"
       }
     },
@@ -624,19 +624,6 @@
     },
     {
       "rank": 48,
-      "id": "elefante33",
-      "name": "Felipe El Debs",
-      "value": 2704.0,
-      "unit": "rating",
-      "meta": {
-        "username": "elefante33",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 49,
       "id": "Liindseeyy",
       "name": "Liindseeyy",
       "value": 2702.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "CKJY2796",
       "name": "Jason Yeung",
       "value": 2702.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/SR",
         "category": "live_rapid"
       }
+    },
+    {
+      "rank": 50,
+      "id": "mmgchess",
+      "name": "Marcos Gonzalez",
+      "value": 2701.0,
+      "unit": "rating",
+      "meta": {
+        "username": "mmgchess",
+        "title": "NM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-18T17:45:25Z",
+      "fetched_at": "2026-08-18T19:41:56Z",
       "http_status": 200
     }
   ]
