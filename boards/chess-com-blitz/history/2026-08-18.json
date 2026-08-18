@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-18T13:58:37Z",
-  "as_of": "2026-08-18T13:58:37Z",
+  "generated_at": "2026-08-18T14:54:13Z",
+  "as_of": "2026-08-18T14:54:13Z",
   "period": {
     "label": "live_blitz"
   },
@@ -67,7 +67,7 @@
       "rank": 5,
       "id": "Sina-Movahed",
       "name": "Sina Movahed",
-      "value": 3301.0,
+      "value": 3313.0,
       "unit": "rating",
       "meta": {
         "username": "Sina-Movahed",
@@ -481,6 +481,19 @@
     },
     {
       "rank": 37,
+      "id": "Zhuu96",
+      "name": "Zhamsaran Tsydypov",
+      "value": 3206.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Zhuu96",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 38,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3206.0,
@@ -493,7 +506,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 39,
       "id": "VincentKeymer",
       "name": "Vincent Keymer",
       "value": 3204.0,
@@ -506,7 +519,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 40,
       "id": "legendisback1",
       "name": "Yagiz Kaan Erdogmus",
       "value": 3204.0,
@@ -519,7 +532,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": "ManuDavid2910",
       "name": "Manu David",
       "value": 3203.0,
@@ -532,7 +545,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "Fedoseev-Vladimir",
       "name": "Vladimir Fedoseev",
       "value": 3203.0,
@@ -545,7 +558,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 43,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 3203.0,
@@ -554,19 +567,6 @@
         "username": "Oleksandr_Bortnyk",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 43,
-      "id": "Zhuu96",
-      "name": "Zhamsaran Tsydypov",
-      "value": 3202.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Zhuu96",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-18T13:58:37Z",
+      "fetched_at": "2026-08-18T14:54:13Z",
       "http_status": 200
     }
   ]
