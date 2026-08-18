@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-18T05:47:03Z",
-  "as_of": "2026-08-18T05:47:03Z",
+  "generated_at": "2026-08-18T07:05:54Z",
+  "as_of": "2026-08-18T07:05:54Z",
   "period": {
     "label": "live_blitz"
   },
@@ -104,19 +104,6 @@
     },
     {
       "rank": 8,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
-      "value": 3281.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sina-Movahed",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 9,
       "id": "GHANDEEVAM2003",
       "name": "Arjun Erigaisi",
       "value": 3280.0,
@@ -125,6 +112,19 @@
         "username": "GHANDEEVAM2003",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 9,
+      "id": "Sina-Movahed",
+      "name": "Sina Movahed",
+      "value": 3277.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Sina-Movahed",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-18T05:47:03Z",
+      "fetched_at": "2026-08-18T07:05:54Z",
       "http_status": 200
     }
   ]
