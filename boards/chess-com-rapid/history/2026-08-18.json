@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-18T19:41:56Z",
-  "as_of": "2026-08-18T19:41:56Z",
+  "generated_at": "2026-08-18T20:42:04Z",
+  "as_of": "2026-08-18T20:42:04Z",
   "period": {
     "label": "live_rapid"
   },
@@ -143,6 +143,19 @@
     },
     {
       "rank": 11,
+      "id": "Swiss_Fighter",
+      "name": "Gabriel Gähwiler",
+      "value": 2802.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Swiss_Fighter",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/CH",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 12,
       "id": "Firouzja2003",
       "name": "Alireza Firouzja",
       "value": 2802.0,
@@ -151,19 +164,6 @@
         "username": "Firouzja2003",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/FR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 12,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2800.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-18T19:41:56Z",
+      "fetched_at": "2026-08-18T20:42:04Z",
       "http_status": 200
     }
   ]
