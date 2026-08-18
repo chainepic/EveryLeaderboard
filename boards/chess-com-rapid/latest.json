@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-18T14:54:14Z",
-  "as_of": "2026-08-18T14:54:14Z",
+  "generated_at": "2026-08-18T16:49:32Z",
+  "as_of": "2026-08-18T16:49:32Z",
   "period": {
     "label": "live_rapid"
   },
@@ -507,6 +507,19 @@
     },
     {
       "rank": 39,
+      "id": "Evandro_Barbosa",
+      "name": "Evandro Amorim Barbosa",
+      "value": 2718.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Evandro_Barbosa",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 40,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 2718.0,
@@ -519,7 +532,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": "Berardino",
       "name": "Diego Berardino",
       "value": 2717.0,
@@ -527,19 +540,6 @@
       "meta": {
         "username": "Berardino",
         "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/BR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 41,
-      "id": "Evandro_Barbosa",
-      "name": "Evandro Amorim Barbosa",
-      "value": 2714.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Evandro_Barbosa",
-        "title": "GM",
         "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-18T14:54:14Z",
+      "fetched_at": "2026-08-18T16:49:32Z",
       "http_status": 200
     }
   ]
