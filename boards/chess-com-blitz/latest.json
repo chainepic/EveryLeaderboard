@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-19T05:47:35Z",
-  "as_of": "2026-08-19T05:47:35Z",
+  "generated_at": "2026-08-19T07:06:51Z",
+  "as_of": "2026-08-19T07:06:51Z",
   "period": {
     "label": "live_blitz"
   },
@@ -533,6 +533,19 @@
     },
     {
       "rank": 41,
+      "id": "wonderfultime",
+      "name": "Tuan Minh Le",
+      "value": 3200.0,
+      "unit": "rating",
+      "meta": {
+        "username": "wonderfultime",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/VN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 42,
       "id": "AnishGiri",
       "name": "AnishGiri",
       "value": 3198.0,
@@ -541,19 +554,6 @@
         "username": "AnishGiri",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/NL",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 42,
-      "id": "wonderfultime",
-      "name": "Tuan Minh Le",
-      "value": 3195.0,
-      "unit": "rating",
-      "meta": {
-        "username": "wonderfultime",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-19T05:47:35Z",
+      "fetched_at": "2026-08-19T07:06:51Z",
       "http_status": 200
     }
   ]
