@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-19T04:53:28Z",
-  "as_of": "2026-08-19T04:53:28Z",
+  "generated_at": "2026-08-19T05:47:35Z",
+  "as_of": "2026-08-19T05:47:35Z",
   "period": {
     "label": "live_blitz"
   },
@@ -546,6 +546,19 @@
     },
     {
       "rank": 42,
+      "id": "wonderfultime",
+      "name": "Tuan Minh Le",
+      "value": 3195.0,
+      "unit": "rating",
+      "meta": {
+        "username": "wonderfultime",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/VN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 43,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3195.0,
@@ -558,7 +571,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 44,
       "id": "Zhuu96",
       "name": "Zhamsaran Tsydypov",
       "value": 3194.0,
@@ -571,7 +584,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3192.0,
@@ -584,7 +597,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "ChessFighter_2011",
       "name": "Dau Khuong Duy",
       "value": 3188.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "Arseniy_Nesterov",
       "name": "Arseniy Nesterov",
       "value": 3186.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 3186.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "LPSupi",
       "name": "Luis Paulo Supi",
       "value": 3186.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "Annawel",
       "name": "Jules Moussard",
       "value": 3185.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/FR",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "Jospem",
-      "name": "Jose Martinez",
-      "value": 3185.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Jospem",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/MX",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-19T04:53:28Z",
+      "fetched_at": "2026-08-19T05:47:35Z",
       "http_status": 200
     }
   ]
