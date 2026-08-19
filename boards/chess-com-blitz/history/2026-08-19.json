@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-19T22:43:55Z",
-  "as_of": "2026-08-19T22:43:55Z",
+  "generated_at": "2026-08-19T23:39:35Z",
+  "as_of": "2026-08-19T23:39:35Z",
   "period": {
     "label": "live_blitz"
   },
@@ -28,7 +28,7 @@
       "rank": 2,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
-      "value": 3384.0,
+      "value": 3383.0,
       "unit": "rating",
       "meta": {
         "username": "Hikaru",
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-19T22:43:55Z",
+      "fetched_at": "2026-08-19T23:39:35Z",
       "http_status": 200
     }
   ]
