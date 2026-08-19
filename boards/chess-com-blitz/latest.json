@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-19T21:42:51Z",
-  "as_of": "2026-08-19T21:42:51Z",
+  "generated_at": "2026-08-19T22:43:55Z",
+  "as_of": "2026-08-19T22:43:55Z",
   "period": {
     "label": "live_blitz"
   },
@@ -28,7 +28,7 @@
       "rank": 2,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
-      "value": 3382.0,
+      "value": 3384.0,
       "unit": "rating",
       "meta": {
         "username": "Hikaru",
@@ -559,6 +559,19 @@
     },
     {
       "rank": 43,
+      "id": "LPSupi",
+      "name": "Luis Paulo Supi",
+      "value": 3184.0,
+      "unit": "rating",
+      "meta": {
+        "username": "LPSupi",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 44,
       "id": "Annawel",
       "name": "Jules Moussard",
       "value": 3183.0,
@@ -571,7 +584,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": "FairChess_on_YouTube",
       "name": "Dmitry Andreikin",
       "value": 3183.0,
@@ -584,7 +597,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "NikoTheodorou",
       "name": "Nikolas Theodorou",
       "value": 3183.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "joppie2",
       "name": "Jorden Van Foreest",
       "value": 3182.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "Arseniy_Nesterov",
       "name": "Arseniy Nesterov",
       "value": 3182.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "Njal28",
       "name": "Aram Hakobyan",
       "value": 3178.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "GMBrewChess",
       "name": "Brewington Hardaway",
       "value": 3177.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "Oleksandr_Bortnyk",
-      "name": "Oleksandr Bortnyk",
-      "value": 3172.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Oleksandr_Bortnyk",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-19T21:42:51Z",
+      "fetched_at": "2026-08-19T22:43:55Z",
       "http_status": 200
     }
   ]
