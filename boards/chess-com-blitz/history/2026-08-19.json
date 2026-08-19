@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-19T01:54:24Z",
-  "as_of": "2026-08-19T01:54:24Z",
+  "generated_at": "2026-08-19T03:12:20Z",
+  "as_of": "2026-08-19T03:12:20Z",
   "period": {
     "label": "live_blitz"
   },
@@ -585,6 +585,19 @@
     },
     {
       "rank": 45,
+      "id": "ChessFighter_2011",
+      "name": "Dau Khuong Duy",
+      "value": 3188.0,
+      "unit": "rating",
+      "meta": {
+        "username": "ChessFighter_2011",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/VN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 46,
       "id": "Arseniy_Nesterov",
       "name": "Arseniy Nesterov",
       "value": 3186.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 3186.0,
@@ -610,20 +623,20 @@
       }
     },
     {
-      "rank": 47,
-      "id": "joppie2",
-      "name": "Jorden Van Foreest",
-      "value": 3185.0,
+      "rank": 48,
+      "id": "LPSupi",
+      "name": "Luis Paulo Supi",
+      "value": 3186.0,
       "unit": "rating",
       "meta": {
-        "username": "joppie2",
+        "username": "LPSupi",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/NL",
+        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_blitz"
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "Annawel",
       "name": "Jules Moussard",
       "value": 3185.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "Jospem",
       "name": "Jose Martinez",
       "value": 3185.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/MX",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "ChessFighter_2011",
-      "name": "Dau Khuong Duy",
-      "value": 3184.0,
-      "unit": "rating",
-      "meta": {
-        "username": "ChessFighter_2011",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/VN",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-19T01:54:24Z",
+      "fetched_at": "2026-08-19T03:12:20Z",
       "http_status": 200
     }
   ]
