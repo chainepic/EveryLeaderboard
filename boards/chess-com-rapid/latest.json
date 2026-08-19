@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-19T17:42:36Z",
-  "as_of": "2026-08-19T17:42:36Z",
+  "generated_at": "2026-08-19T18:55:03Z",
+  "as_of": "2026-08-19T18:55:03Z",
   "period": {
     "label": "live_rapid"
   },
@@ -93,7 +93,7 @@
       "rank": 7,
       "id": "Giorgi-Sibashvili",
       "name": "Giorgi Sibashvili",
-      "value": 2827.0,
+      "value": 2833.0,
       "unit": "rating",
       "meta": {
         "username": "Giorgi-Sibashvili",
@@ -416,6 +416,19 @@
     },
     {
       "rank": 32,
+      "id": "Evandro_Barbosa",
+      "name": "Evandro Amorim Barbosa",
+      "value": 2735.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Evandro_Barbosa",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 33,
       "id": "Duhless",
       "name": "Daniil Dubov",
       "value": 2735.0,
@@ -424,19 +437,6 @@
         "username": "Duhless",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 33,
-      "id": "Evandro_Barbosa",
-      "name": "Evandro Amorim Barbosa",
-      "value": 2733.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Evandro_Barbosa",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-19T17:42:36Z",
+      "fetched_at": "2026-08-19T18:55:03Z",
       "http_status": 200
     }
   ]
