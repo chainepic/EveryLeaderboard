@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-19T20:47:21Z",
-  "as_of": "2026-08-19T20:47:21Z",
+  "generated_at": "2026-08-19T21:42:51Z",
+  "as_of": "2026-08-19T21:42:51Z",
   "period": {
     "label": "live_blitz"
   },
@@ -143,6 +143,19 @@
     },
     {
       "rank": 11,
+      "id": "Firouzja2003",
+      "name": "Alireza Firouzja",
+      "value": 3279.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Firouzja2003",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/FR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 12,
       "id": "artooon",
       "name": "Pranesh M",
       "value": 3272.0,
@@ -151,19 +164,6 @@
         "username": "artooon",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/XX",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 12,
-      "id": "Firouzja2003",
-      "name": "Alireza Firouzja",
-      "value": 3265.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Firouzja2003",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/FR",
         "category": "live_blitz"
       }
     },
@@ -338,19 +338,6 @@
     },
     {
       "rank": 26,
-      "id": "Grischuk",
-      "name": "Alexander Grischuk",
-      "value": 3228.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Grischuk",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 27,
       "id": "Mykola-Bortnyk",
       "name": "Mykola Bortnyk",
       "value": 3226.0,
@@ -363,7 +350,7 @@
       }
     },
     {
-      "rank": 28,
+      "rank": 27,
       "id": "IMaster_01",
       "name": "Arda Camlar",
       "value": 3222.0,
@@ -372,6 +359,19 @@
         "username": "IMaster_01",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/TR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 28,
+      "id": "Grischuk",
+      "name": "Alexander Grischuk",
+      "value": 3220.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Grischuk",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-19T20:47:21Z",
+      "fetched_at": "2026-08-19T21:42:51Z",
       "http_status": 200
     }
   ]
