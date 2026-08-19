@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-19T07:55:07Z",
-  "as_of": "2026-08-19T07:55:07Z",
+  "generated_at": "2026-08-19T08:55:36Z",
+  "as_of": "2026-08-19T08:55:36Z",
   "period": {
     "label": "live_blitz"
   },
@@ -364,19 +364,6 @@
     },
     {
       "rank": 28,
-      "id": "IMaster_01",
-      "name": "Arda Camlar",
-      "value": 3225.0,
-      "unit": "rating",
-      "meta": {
-        "username": "IMaster_01",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/TR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 29,
       "id": "GMBrewChess",
       "name": "Brewington Hardaway",
       "value": 3220.0,
@@ -385,6 +372,19 @@
         "username": "GMBrewChess",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 29,
+      "id": "IMaster_01",
+      "name": "Arda Camlar",
+      "value": 3215.0,
+      "unit": "rating",
+      "meta": {
+        "username": "IMaster_01",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/TR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-19T07:55:07Z",
+      "fetched_at": "2026-08-19T08:55:36Z",
       "http_status": 200
     }
   ]
