@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-20T19:01:19Z",
-  "as_of": "2026-08-20T19:01:19Z",
+  "generated_at": "2026-08-20T19:47:14Z",
+  "as_of": "2026-08-20T19:47:14Z",
   "period": {
     "label": "live_blitz"
   },
@@ -585,19 +585,6 @@
     },
     {
       "rank": 45,
-      "id": "GMBrewChess",
-      "name": "Brewington Hardaway",
-      "value": 3184.0,
-      "unit": "rating",
-      "meta": {
-        "username": "GMBrewChess",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 46,
       "id": "LPSupi",
       "name": "Luis Paulo Supi",
       "value": 3184.0,
@@ -610,7 +597,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": "Njal28",
       "name": "Aram Hakobyan",
       "value": 3184.0,
@@ -623,7 +610,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": "Annawel",
       "name": "Jules Moussard",
       "value": 3183.0,
@@ -636,7 +623,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": "NikoTheodorou",
       "name": "Nikolas Theodorou",
       "value": 3183.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "Arseniy_Nesterov",
       "name": "Arseniy Nesterov",
       "value": 3182.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
+    },
+    {
+      "rank": 50,
+      "id": "Andreikka",
+      "name": "Andrey Esipenko",
+      "value": 3178.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Andreikka",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-20T19:01:19Z",
+      "fetched_at": "2026-08-20T19:47:14Z",
       "http_status": 200
     }
   ]
