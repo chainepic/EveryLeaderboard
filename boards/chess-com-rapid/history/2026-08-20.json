@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-20T14:01:13Z",
-  "as_of": "2026-08-20T14:01:13Z",
+  "generated_at": "2026-08-20T14:56:24Z",
+  "as_of": "2026-08-20T14:56:24Z",
   "period": {
     "label": "live_rapid"
   },
@@ -338,6 +338,19 @@
     },
     {
       "rank": 26,
+      "id": "Evandro_Barbosa",
+      "name": "Evandro Amorim Barbosa",
+      "value": 2752.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Evandro_Barbosa",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 27,
       "id": "astralpulse",
       "name": "Alex Goldin",
       "value": 2749.0,
@@ -350,7 +363,7 @@
       }
     },
     {
-      "rank": 27,
+      "rank": 28,
       "id": "GMKrikor",
       "name": "Krikor Sevag Mekhitarian",
       "value": 2747.0,
@@ -363,7 +376,7 @@
       }
     },
     {
-      "rank": 28,
+      "rank": 29,
       "id": "2007checkmate",
       "name": "Vyom Vidyarthi",
       "value": 2746.0,
@@ -372,19 +385,6 @@
         "username": "2007checkmate",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 29,
-      "id": "Evandro_Barbosa",
-      "name": "Evandro Amorim Barbosa",
-      "value": 2745.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Evandro_Barbosa",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-20T14:01:13Z",
+      "fetched_at": "2026-08-20T14:56:24Z",
       "http_status": 200
     }
   ]
