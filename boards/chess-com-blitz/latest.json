@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-20T13:12:14Z",
-  "as_of": "2026-08-20T13:12:14Z",
+  "generated_at": "2026-08-20T14:01:13Z",
+  "as_of": "2026-08-20T14:01:13Z",
   "period": {
     "label": "live_blitz"
   },
@@ -650,14 +650,14 @@
     },
     {
       "rank": 50,
-      "id": "chess_master_8820",
-      "name": "Radin Yadegar",
-      "value": 3178.0,
+      "id": "GMBrewChess",
+      "name": "Brewington Hardaway",
+      "value": 3177.0,
       "unit": "rating",
       "meta": {
-        "username": "chess_master_8820",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/IR",
+        "username": "GMBrewChess",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-20T13:12:14Z",
+      "fetched_at": "2026-08-20T14:01:13Z",
       "http_status": 200
     }
   ]
