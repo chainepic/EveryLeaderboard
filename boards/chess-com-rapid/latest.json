@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-20T08:57:42Z",
-  "as_of": "2026-08-20T08:57:42Z",
+  "generated_at": "2026-08-20T09:51:20Z",
+  "as_of": "2026-08-20T09:51:20Z",
   "period": {
     "label": "live_rapid"
   },
@@ -91,19 +91,6 @@
     },
     {
       "rank": 7,
-      "id": "Giorgi-Sibashvili",
-      "name": "Giorgi Sibashvili",
-      "value": 2835.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Giorgi-Sibashvili",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/GE",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 8,
       "id": "Fabsid",
       "name": "Fabian Doettling",
       "value": 2822.0,
@@ -112,6 +99,19 @@
         "username": "Fabsid",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/DE",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 8,
+      "id": "Giorgi-Sibashvili",
+      "name": "Giorgi Sibashvili",
+      "value": 2821.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Giorgi-Sibashvili",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/GE",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-20T08:57:42Z",
+      "fetched_at": "2026-08-20T09:51:20Z",
       "http_status": 200
     }
   ]

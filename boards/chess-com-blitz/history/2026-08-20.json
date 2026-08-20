@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-20T08:57:42Z",
-  "as_of": "2026-08-20T08:57:42Z",
+  "generated_at": "2026-08-20T09:51:20Z",
+  "as_of": "2026-08-20T09:51:20Z",
   "period": {
     "label": "live_blitz"
   },
@@ -41,7 +41,7 @@
       "rank": 3,
       "id": "nihalsarin",
       "name": "Nihal Sarin",
-      "value": 3326.0,
+      "value": 3305.0,
       "unit": "rating",
       "meta": {
         "username": "nihalsarin",
@@ -260,19 +260,6 @@
     },
     {
       "rank": 20,
-      "id": "IMaster_01",
-      "name": "Arda Camlar",
-      "value": 3240.0,
-      "unit": "rating",
-      "meta": {
-        "username": "IMaster_01",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/TR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 21,
       "id": "Volodar_Murzin",
       "name": "Volodar Murzin",
       "value": 3236.0,
@@ -281,6 +268,19 @@
         "username": "Volodar_Murzin",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/XX",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 21,
+      "id": "IMaster_01",
+      "name": "Arda Camlar",
+      "value": 3232.0,
+      "unit": "rating",
+      "meta": {
+        "username": "IMaster_01",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/TR",
         "category": "live_blitz"
       }
     },
@@ -351,19 +351,6 @@
     },
     {
       "rank": 27,
-      "id": "Dolphin_2010",
-      "name": "Aleksandr Usov",
-      "value": 3225.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Dolphin_2010",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 28,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 3220.0,
@@ -376,7 +363,7 @@
       }
     },
     {
-      "rank": 29,
+      "rank": 28,
       "id": "FaustinoOro",
       "name": "Faustino Oro",
       "value": 3219.0,
@@ -385,6 +372,19 @@
         "username": "FaustinoOro",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/AR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 29,
+      "id": "Dolphin_2010",
+      "name": "Aleksandr Usov",
+      "value": 3217.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Dolphin_2010",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     },
@@ -637,6 +637,19 @@
     },
     {
       "rank": 49,
+      "id": "Njal28",
+      "name": "Aram Hakobyan",
+      "value": 3181.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Njal28",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/AM",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 50,
       "id": "GMBrewChess",
       "name": "Brewington Hardaway",
       "value": 3177.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "Oleksandr_Bortnyk",
-      "name": "Oleksandr Bortnyk",
-      "value": 3172.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Oleksandr_Bortnyk",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-20T08:57:42Z",
+      "fetched_at": "2026-08-20T09:51:20Z",
       "http_status": 200
     }
   ]
