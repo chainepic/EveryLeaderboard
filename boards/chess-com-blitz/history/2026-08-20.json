@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-20T05:48:05Z",
-  "as_of": "2026-08-20T05:48:05Z",
+  "generated_at": "2026-08-20T07:07:39Z",
+  "as_of": "2026-08-20T07:07:39Z",
   "period": {
     "label": "live_blitz"
   },
@@ -260,6 +260,19 @@
     },
     {
       "rank": 20,
+      "id": "Dolphin_2010",
+      "name": "Aleksandr Usov",
+      "value": 3240.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Dolphin_2010",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 21,
       "id": "Volodar_Murzin",
       "name": "Volodar Murzin",
       "value": 3236.0,
@@ -268,19 +281,6 @@
         "username": "Volodar_Murzin",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/XX",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 21,
-      "id": "Dolphin_2010",
-      "name": "Aleksandr Usov",
-      "value": 3230.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Dolphin_2010",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     },
@@ -520,19 +520,6 @@
     },
     {
       "rank": 40,
-      "id": "joppie2",
-      "name": "Jorden Van Foreest",
-      "value": 3194.0,
-      "unit": "rating",
-      "meta": {
-        "username": "joppie2",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/NL",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 41,
       "id": "Zhuu96",
       "name": "Zhamsaran Tsydypov",
       "value": 3194.0,
@@ -545,7 +532,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 41,
       "id": "wonderfultime",
       "name": "Tuan Minh Le",
       "value": 3192.0,
@@ -554,6 +541,19 @@
         "username": "wonderfultime",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/VN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 42,
+      "id": "joppie2",
+      "name": "Jorden Van Foreest",
+      "value": 3191.0,
+      "unit": "rating",
+      "meta": {
+        "username": "joppie2",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/NL",
         "category": "live_blitz"
       }
     },
@@ -574,7 +574,7 @@
       "rank": 44,
       "id": "bubeliang",
       "name": "Havard Haug",
-      "value": 3186.0,
+      "value": 3190.0,
       "unit": "rating",
       "meta": {
         "username": "bubeliang",
@@ -650,14 +650,14 @@
     },
     {
       "rank": 50,
-      "id": "Njal28",
-      "name": "Aram Hakobyan",
-      "value": 3178.0,
+      "id": "GMBrewChess",
+      "name": "Brewington Hardaway",
+      "value": 3177.0,
       "unit": "rating",
       "meta": {
-        "username": "Njal28",
+        "username": "GMBrewChess",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/AM",
+        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-20T05:48:05Z",
+      "fetched_at": "2026-08-20T07:07:39Z",
       "http_status": 200
     }
   ]
