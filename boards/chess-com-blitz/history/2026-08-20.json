@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-20T10:49:19Z",
-  "as_of": "2026-08-20T10:49:19Z",
+  "generated_at": "2026-08-20T11:44:55Z",
+  "as_of": "2026-08-20T11:44:55Z",
   "period": {
     "label": "live_blitz"
   },
@@ -52,6 +52,19 @@
     },
     {
       "rank": 4,
+      "id": "gurelediz",
+      "name": "Ediz Gürel",
+      "value": 3303.0,
+      "unit": "rating",
+      "meta": {
+        "username": "gurelediz",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/TR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 5,
       "id": "nihalsarin",
       "name": "Nihal Sarin",
       "value": 3302.0,
@@ -60,19 +73,6 @@
         "username": "nihalsarin",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/CL",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 5,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
-      "value": 3302.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sina-Movahed",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -91,19 +91,6 @@
     },
     {
       "rank": 7,
-      "id": "gurelediz",
-      "name": "Ediz Gürel",
-      "value": 3298.0,
-      "unit": "rating",
-      "meta": {
-        "username": "gurelediz",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/TR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 8,
       "id": "rpragchess",
       "name": "Praggnanandhaa Rameshbabu",
       "value": 3296.0,
@@ -116,7 +103,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "LyonBeast",
       "name": "Maxime Vachier-Lagrave",
       "value": 3295.0,
@@ -129,10 +116,23 @@
       }
     },
     {
+      "rank": 9,
+      "id": "Sina-Movahed",
+      "name": "Sina Movahed",
+      "value": 3290.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Sina-Movahed",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
       "rank": 10,
       "id": "vi_pranav",
       "name": "Pranav V",
-      "value": 3279.0,
+      "value": 3285.0,
       "unit": "rating",
       "meta": {
         "username": "vi_pranav",
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-20T10:49:19Z",
+      "fetched_at": "2026-08-20T11:44:55Z",
       "http_status": 200
     }
   ]
