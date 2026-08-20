@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-20T15:49:49Z",
-  "as_of": "2026-08-20T15:49:49Z",
+  "generated_at": "2026-08-20T16:52:40Z",
+  "as_of": "2026-08-20T16:52:40Z",
   "period": {
     "label": "live_blitz"
   },
@@ -28,7 +28,7 @@
       "rank": 2,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
-      "value": 3383.0,
+      "value": 3377.0,
       "unit": "rating",
       "meta": {
         "username": "Hikaru",
@@ -156,14 +156,14 @@
     },
     {
       "rank": 12,
-      "id": "vi_pranav",
-      "name": "Pranav V",
-      "value": 3266.0,
+      "id": "mishanick",
+      "name": "Aleksei Sarana",
+      "value": 3268.0,
       "unit": "rating",
       "meta": {
-        "username": "vi_pranav",
+        "username": "mishanick",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IN",
+        "country_url": "https://api.chess.com/pub/country/RS",
         "category": "live_blitz"
       }
     },
@@ -208,19 +208,6 @@
     },
     {
       "rank": 16,
-      "id": "mishanick",
-      "name": "Aleksei Sarana",
-      "value": 3248.0,
-      "unit": "rating",
-      "meta": {
-        "username": "mishanick",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RS",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 17,
       "id": "LevonAronian",
       "name": "Levon Aronian",
       "value": 3246.0,
@@ -229,6 +216,19 @@
         "username": "LevonAronian",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 17,
+      "id": "vi_pranav",
+      "name": "Pranav V",
+      "value": 3245.0,
+      "unit": "rating",
+      "meta": {
+        "username": "vi_pranav",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IN",
         "category": "live_blitz"
       }
     },
@@ -286,6 +286,19 @@
     },
     {
       "rank": 22,
+      "id": "wonderfultime",
+      "name": "Tuan Minh Le",
+      "value": 3232.0,
+      "unit": "rating",
+      "meta": {
+        "username": "wonderfultime",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/VN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 23,
       "id": "rednova1729",
       "name": "Awonder Liang",
       "value": 3230.0,
@@ -298,7 +311,7 @@
       }
     },
     {
-      "rank": 23,
+      "rank": 24,
       "id": "lachesisQ",
       "name": "Ian Nepomniachtchi",
       "value": 3230.0,
@@ -311,7 +324,7 @@
       }
     },
     {
-      "rank": 24,
+      "rank": 25,
       "id": "TRadjabov",
       "name": "Teimour Radjabov",
       "value": 3230.0,
@@ -324,7 +337,7 @@
       }
     },
     {
-      "rank": 25,
+      "rank": 26,
       "id": "HansOnTwitch",
       "name": "Hans Niemann",
       "value": 3229.0,
@@ -337,7 +350,33 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 27,
+      "id": "Parhamov",
+      "name": "Parham Maghsoodloo",
+      "value": 3229.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Parhamov",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 28,
+      "id": "FaustinoOro",
+      "name": "Faustino Oro",
+      "value": 3226.0,
+      "unit": "rating",
+      "meta": {
+        "username": "FaustinoOro",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/AR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 29,
       "id": "Mykola-Bortnyk",
       "name": "Mykola Bortnyk",
       "value": 3226.0,
@@ -350,20 +389,7 @@
       }
     },
     {
-      "rank": 27,
-      "id": "Parhamov",
-      "name": "Parham Maghsoodloo",
-      "value": 3224.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Parhamov",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 28,
+      "rank": 30,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 3220.0,
@@ -376,20 +402,7 @@
       }
     },
     {
-      "rank": 29,
-      "id": "FaustinoOro",
-      "name": "Faustino Oro",
-      "value": 3218.0,
-      "unit": "rating",
-      "meta": {
-        "username": "FaustinoOro",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/AR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 30,
+      "rank": 31,
       "id": "ChessWarrior7197",
       "name": "Nodirbek Abdusattorov",
       "value": 3214.0,
@@ -402,7 +415,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": "jefferyx",
       "name": "Jeffery Xiong",
       "value": 3214.0,
@@ -415,7 +428,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": "Javokhir_Sindarov05",
       "name": "Javokhir Sindarov",
       "value": 3210.0,
@@ -424,19 +437,6 @@
         "username": "Javokhir_Sindarov05",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/UZ",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 33,
-      "id": "wonderfultime",
-      "name": "Tuan Minh Le",
-      "value": 3208.0,
-      "unit": "rating",
-      "meta": {
-        "username": "wonderfultime",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
     },
@@ -548,7 +548,7 @@
       "rank": 42,
       "id": "FairChess_on_YouTube",
       "name": "Dmitry Andreikin",
-      "value": 3192.0,
+      "value": 3194.0,
       "unit": "rating",
       "meta": {
         "username": "FairChess_on_YouTube",
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-20T15:49:49Z",
+      "fetched_at": "2026-08-20T16:52:40Z",
       "http_status": 200
     }
   ]
