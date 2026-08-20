@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-20T07:58:21Z",
-  "as_of": "2026-08-20T07:58:21Z",
+  "generated_at": "2026-08-20T08:57:42Z",
+  "as_of": "2026-08-20T08:57:42Z",
   "period": {
     "label": "live_blitz"
   },
@@ -41,7 +41,7 @@
       "rank": 3,
       "id": "nihalsarin",
       "name": "Nihal Sarin",
-      "value": 3337.0,
+      "value": 3326.0,
       "unit": "rating",
       "meta": {
         "username": "nihalsarin",
@@ -52,19 +52,6 @@
     },
     {
       "rank": 4,
-      "id": "MagnusCarlsen",
-      "name": "Magnus Carlsen",
-      "value": 3303.0,
-      "unit": "rating",
-      "meta": {
-        "username": "MagnusCarlsen",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/NO",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 5,
       "id": "Sina-Movahed",
       "name": "Sina Movahed",
       "value": 3302.0,
@@ -77,7 +64,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "GHANDEEVAM2003",
       "name": "Arjun Erigaisi",
       "value": 3302.0,
@@ -86,6 +73,19 @@
         "username": "GHANDEEVAM2003",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 6,
+      "id": "MagnusCarlsen",
+      "name": "Magnus Carlsen",
+      "value": 3301.0,
+      "unit": "rating",
+      "meta": {
+        "username": "MagnusCarlsen",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/NO",
         "category": "live_blitz"
       }
     },
@@ -260,6 +260,19 @@
     },
     {
       "rank": 20,
+      "id": "IMaster_01",
+      "name": "Arda Camlar",
+      "value": 3240.0,
+      "unit": "rating",
+      "meta": {
+        "username": "IMaster_01",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/TR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 21,
       "id": "Volodar_Murzin",
       "name": "Volodar Murzin",
       "value": 3236.0,
@@ -272,33 +285,7 @@
       }
     },
     {
-      "rank": 21,
-      "id": "Dolphin_2010",
-      "name": "Aleksandr Usov",
-      "value": 3233.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Dolphin_2010",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
       "rank": 22,
-      "id": "IMaster_01",
-      "name": "Arda Camlar",
-      "value": 3231.0,
-      "unit": "rating",
-      "meta": {
-        "username": "IMaster_01",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/TR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 23,
       "id": "rednova1729",
       "name": "Awonder Liang",
       "value": 3230.0,
@@ -311,7 +298,7 @@
       }
     },
     {
-      "rank": 24,
+      "rank": 23,
       "id": "lachesisQ",
       "name": "Ian Nepomniachtchi",
       "value": 3230.0,
@@ -324,7 +311,7 @@
       }
     },
     {
-      "rank": 25,
+      "rank": 24,
       "id": "TRadjabov",
       "name": "Teimour Radjabov",
       "value": 3230.0,
@@ -337,7 +324,7 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 25,
       "id": "HansOnTwitch",
       "name": "Hans Niemann",
       "value": 3229.0,
@@ -350,7 +337,7 @@
       }
     },
     {
-      "rank": 27,
+      "rank": 26,
       "id": "Mykola-Bortnyk",
       "name": "Mykola Bortnyk",
       "value": 3226.0,
@@ -359,6 +346,19 @@
         "username": "Mykola-Bortnyk",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 27,
+      "id": "Dolphin_2010",
+      "name": "Aleksandr Usov",
+      "value": 3225.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Dolphin_2010",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-20T07:58:21Z",
+      "fetched_at": "2026-08-20T08:57:42Z",
       "http_status": 200
     }
   ]
