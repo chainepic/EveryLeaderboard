@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-21T07:59:00Z",
-  "as_of": "2026-08-21T07:59:00Z",
+  "generated_at": "2026-08-21T08:59:40Z",
+  "as_of": "2026-08-21T08:59:40Z",
   "period": {
     "label": "live_blitz"
   },
@@ -78,19 +78,6 @@
     },
     {
       "rank": 6,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
-      "value": 3301.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sina-Movahed",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 7,
       "id": "rpragchess",
       "name": "Praggnanandhaa Rameshbabu",
       "value": 3296.0,
@@ -103,7 +90,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "id": "gurelediz",
       "name": "Ediz Gürel",
       "value": 3295.0,
@@ -116,7 +103,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "LyonBeast",
       "name": "Maxime Vachier-Lagrave",
       "value": 3295.0,
@@ -125,6 +112,19 @@
         "username": "LyonBeast",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/FR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 9,
+      "id": "Sina-Movahed",
+      "name": "Sina Movahed",
+      "value": 3294.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Sina-Movahed",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -624,19 +624,6 @@
     },
     {
       "rank": 48,
-      "id": "Njal28",
-      "name": "Aram Hakobyan",
-      "value": 3184.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Njal28",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/AM",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 49,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 3183.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "NikoTheodorou",
       "name": "Nikolas Theodorou",
       "value": 3183.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/GR",
         "category": "live_blitz"
       }
+    },
+    {
+      "rank": 50,
+      "id": "Arseniy_Nesterov",
+      "name": "Arseniy Nesterov",
+      "value": 3182.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Arseniy_Nesterov",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-21T07:59:00Z",
+      "fetched_at": "2026-08-21T08:59:40Z",
       "http_status": 200
     }
   ]
