@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-21T19:39:07Z",
-  "as_of": "2026-08-21T19:39:07Z",
+  "generated_at": "2026-08-21T20:42:34Z",
+  "as_of": "2026-08-21T20:42:34Z",
   "period": {
     "label": "live_blitz"
   },
@@ -585,6 +585,19 @@
     },
     {
       "rank": 45,
+      "id": "Arseniy_Nesterov",
+      "name": "Arseniy Nesterov",
+      "value": 3188.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Arseniy_Nesterov",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 46,
       "id": "MITerryble",
       "name": "Renato Terry",
       "value": 3187.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "Jospem",
       "name": "Jose Martinez",
       "value": 3186.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3186.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "FairChess_on_YouTube",
       "name": "Dmitry Andreikin",
       "value": 3185.0,
@@ -632,19 +645,6 @@
         "username": "FairChess_on_YouTube",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/GE",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 49,
-      "id": "Arseniy_Nesterov",
-      "name": "Arseniy Nesterov",
-      "value": 3184.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Arseniy_Nesterov",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-21T19:39:07Z",
+      "fetched_at": "2026-08-21T20:42:34Z",
       "http_status": 200
     }
   ]
