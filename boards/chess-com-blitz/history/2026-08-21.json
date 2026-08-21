@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-21T14:54:51Z",
-  "as_of": "2026-08-21T14:54:51Z",
+  "generated_at": "2026-08-21T15:50:01Z",
+  "as_of": "2026-08-21T15:50:01Z",
   "period": {
     "label": "live_blitz"
   },
@@ -418,7 +418,7 @@
       "rank": 32,
       "id": "TRadjabov",
       "name": "Teimour Radjabov",
-      "value": 3210.0,
+      "value": 3207.0,
       "unit": "rating",
       "meta": {
         "username": "TRadjabov",
@@ -533,19 +533,6 @@
     },
     {
       "rank": 41,
-      "id": "Njal28",
-      "name": "Aram Hakobyan",
-      "value": 3195.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Njal28",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/AM",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 42,
       "id": "Zhuu96",
       "name": "Zhamsaran Tsydypov",
       "value": 3194.0,
@@ -558,7 +545,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 42,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
       "value": 3194.0,
@@ -571,7 +558,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 43,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3189.0,
@@ -584,7 +571,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 44,
       "id": "MITerryble",
       "name": "Renato Terry",
       "value": 3187.0,
@@ -597,7 +584,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": "Jospem",
       "name": "Jose Martinez",
       "value": 3186.0,
@@ -610,7 +597,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3186.0,
@@ -623,7 +610,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": "FairChess_on_YouTube",
       "name": "Dmitry Andreikin",
       "value": 3185.0,
@@ -636,7 +623,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 3183.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "NikoTheodorou",
       "name": "Nikolas Theodorou",
       "value": 3183.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/GR",
         "category": "live_blitz"
       }
+    },
+    {
+      "rank": 50,
+      "id": "Annawel",
+      "name": "Jules Moussard",
+      "value": 3181.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Annawel",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/FR",
+        "category": "live_blitz"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-21T14:54:51Z",
+      "fetched_at": "2026-08-21T15:50:01Z",
       "http_status": 200
     }
   ]
