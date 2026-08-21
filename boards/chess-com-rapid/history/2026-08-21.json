@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-21T14:00:02Z",
-  "as_of": "2026-08-21T14:00:02Z",
+  "generated_at": "2026-08-21T14:54:51Z",
+  "as_of": "2026-08-21T14:54:51Z",
   "period": {
     "label": "live_rapid"
   },
@@ -169,6 +169,19 @@
     },
     {
       "rank": 13,
+      "id": "LPSupi",
+      "name": "Luis Paulo Supi",
+      "value": 2796.0,
+      "unit": "rating",
+      "meta": {
+        "username": "LPSupi",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 14,
       "id": "Swiss_Fighter",
       "name": "Gabriel Gähwiler",
       "value": 2795.0,
@@ -181,7 +194,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "id": "lachesisQ",
       "name": "Ian Nepomniachtchi",
       "value": 2793.0,
@@ -194,7 +207,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": "GHANDEEVAM2003",
       "name": "Arjun Erigaisi",
       "value": 2791.0,
@@ -207,7 +220,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": "CaptainJames",
       "name": "Arkadij Naiditsch",
       "value": 2781.0,
@@ -216,19 +229,6 @@
         "username": "CaptainJames",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/DE",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 17,
-      "id": "LPSupi",
-      "name": "Luis Paulo Supi",
-      "value": 2780.0,
-      "unit": "rating",
-      "meta": {
-        "username": "LPSupi",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-21T14:00:02Z",
+      "fetched_at": "2026-08-21T14:54:51Z",
       "http_status": 200
     }
   ]

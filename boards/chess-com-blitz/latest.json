@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-21T14:00:02Z",
-  "as_of": "2026-08-21T14:00:02Z",
+  "generated_at": "2026-08-21T14:54:51Z",
+  "as_of": "2026-08-21T14:54:51Z",
   "period": {
     "label": "live_blitz"
   },
@@ -299,19 +299,6 @@
     },
     {
       "rank": 23,
-      "id": "TRadjabov",
-      "name": "Teimour Radjabov",
-      "value": 3230.0,
-      "unit": "rating",
-      "meta": {
-        "username": "TRadjabov",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/AZ",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 24,
       "id": "HansOnTwitch",
       "name": "Hans Niemann",
       "value": 3229.0,
@@ -324,7 +311,7 @@
       }
     },
     {
-      "rank": 25,
+      "rank": 24,
       "id": "Mykola-Bortnyk",
       "name": "Mykola Bortnyk",
       "value": 3226.0,
@@ -337,7 +324,7 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 25,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 3220.0,
@@ -350,7 +337,7 @@
       }
     },
     {
-      "rank": 27,
+      "rank": 26,
       "id": "wonderfultime",
       "name": "Tuan Minh Le",
       "value": 3220.0,
@@ -363,7 +350,7 @@
       }
     },
     {
-      "rank": 28,
+      "rank": 27,
       "id": "mishanick",
       "name": "Aleksei Sarana",
       "value": 3216.0,
@@ -376,7 +363,7 @@
       }
     },
     {
-      "rank": 29,
+      "rank": 28,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 3215.0,
@@ -389,7 +376,7 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 29,
       "id": "ChessWarrior7197",
       "name": "Nodirbek Abdusattorov",
       "value": 3214.0,
@@ -402,7 +389,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 30,
       "id": "FaustinoOro",
       "name": "Faustino Oro",
       "value": 3210.0,
@@ -415,7 +402,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 31,
       "id": "Javokhir_Sindarov05",
       "name": "Javokhir Sindarov",
       "value": 3210.0,
@@ -424,6 +411,19 @@
         "username": "Javokhir_Sindarov05",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/UZ",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 32,
+      "id": "TRadjabov",
+      "name": "Teimour Radjabov",
+      "value": 3210.0,
+      "unit": "rating",
+      "meta": {
+        "username": "TRadjabov",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/AZ",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-21T14:00:02Z",
+      "fetched_at": "2026-08-21T14:54:51Z",
       "http_status": 200
     }
   ]
