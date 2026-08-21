@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-21T20:42:34Z",
-  "as_of": "2026-08-21T20:42:34Z",
+  "generated_at": "2026-08-21T21:41:23Z",
+  "as_of": "2026-08-21T21:41:23Z",
   "period": {
     "label": "live_blitz"
   },
@@ -416,6 +416,19 @@
     },
     {
       "rank": 32,
+      "id": "artin10862",
+      "name": "Artin Ashraf",
+      "value": 3207.0,
+      "unit": "rating",
+      "meta": {
+        "username": "artin10862",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/TR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 33,
       "id": "TRadjabov",
       "name": "Teimour Radjabov",
       "value": 3207.0,
@@ -428,7 +441,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 34,
       "id": "VincentKeymer",
       "name": "Vincent Keymer",
       "value": 3204.0,
@@ -441,7 +454,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 35,
       "id": "legendisback1",
       "name": "Yagiz Kaan Erdogmus",
       "value": 3204.0,
@@ -454,7 +467,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 36,
       "id": "ManuDavid2910",
       "name": "Manu David",
       "value": 3203.0,
@@ -463,19 +476,6 @@
         "username": "ManuDavid2910",
         "title": "FM",
         "country_url": "https://api.chess.com/pub/country/IN",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 36,
-      "id": "artin10862",
-      "name": "Artin Ashraf",
-      "value": 3203.0,
-      "unit": "rating",
-      "meta": {
-        "username": "artin10862",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/TR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-21T20:42:34Z",
+      "fetched_at": "2026-08-21T21:41:23Z",
       "http_status": 200
     }
   ]
