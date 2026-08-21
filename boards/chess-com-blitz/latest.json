@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-21T21:41:23Z",
-  "as_of": "2026-08-21T21:41:23Z",
+  "generated_at": "2026-08-21T22:43:24Z",
+  "as_of": "2026-08-21T22:43:24Z",
   "period": {
     "label": "live_blitz"
   },
@@ -403,6 +403,19 @@
     },
     {
       "rank": 31,
+      "id": "artin10862",
+      "name": "Artin Ashraf",
+      "value": 3213.0,
+      "unit": "rating",
+      "meta": {
+        "username": "artin10862",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/TR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 32,
       "id": "Javokhir_Sindarov05",
       "name": "Javokhir Sindarov",
       "value": 3210.0,
@@ -411,19 +424,6 @@
         "username": "Javokhir_Sindarov05",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/UZ",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 32,
-      "id": "artin10862",
-      "name": "Artin Ashraf",
-      "value": 3207.0,
-      "unit": "rating",
-      "meta": {
-        "username": "artin10862",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/TR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-21T21:41:23Z",
+      "fetched_at": "2026-08-21T22:43:24Z",
       "http_status": 200
     }
   ]
