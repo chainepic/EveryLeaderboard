@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-22T21:37:38Z",
-  "as_of": "2026-08-22T21:37:38Z",
+  "generated_at": "2026-08-22T22:40:46Z",
+  "as_of": "2026-08-22T22:40:46Z",
   "period": {
     "label": "live_blitz"
   },
@@ -390,19 +390,6 @@
     },
     {
       "rank": 30,
-      "id": "mishanick",
-      "name": "Aleksei Sarana",
-      "value": 3212.0,
-      "unit": "rating",
-      "meta": {
-        "username": "mishanick",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RS",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 31,
       "id": "TRadjabov",
       "name": "Teimour Radjabov",
       "value": 3211.0,
@@ -411,6 +398,19 @@
         "username": "TRadjabov",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/AZ",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 31,
+      "id": "mishanick",
+      "name": "Aleksei Sarana",
+      "value": 3211.0,
+      "unit": "rating",
+      "meta": {
+        "username": "mishanick",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RS",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-22T21:37:38Z",
+      "fetched_at": "2026-08-22T22:40:46Z",
       "http_status": 200
     }
   ]
