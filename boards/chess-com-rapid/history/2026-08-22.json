@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-22T15:36:53Z",
-  "as_of": "2026-08-22T15:36:53Z",
+  "generated_at": "2026-08-22T16:42:42Z",
+  "as_of": "2026-08-22T16:42:42Z",
   "period": {
     "label": "live_rapid"
   },
@@ -494,19 +494,6 @@
     },
     {
       "rank": 38,
-      "id": "mishanick",
-      "name": "Aleksei Sarana",
-      "value": 2721.0,
-      "unit": "rating",
-      "meta": {
-        "username": "mishanick",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RS",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 39,
       "id": "HansOnTwitch",
       "name": "Hans Niemann",
       "value": 2720.0,
@@ -515,6 +502,19 @@
         "username": "HansOnTwitch",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 39,
+      "id": "mishanick",
+      "name": "Aleksei Sarana",
+      "value": 2718.0,
+      "unit": "rating",
+      "meta": {
+        "username": "mishanick",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RS",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-22T15:36:53Z",
+      "fetched_at": "2026-08-22T16:42:42Z",
       "http_status": 200
     }
   ]
