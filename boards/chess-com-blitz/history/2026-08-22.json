@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-22T05:44:35Z",
-  "as_of": "2026-08-22T05:44:35Z",
+  "generated_at": "2026-08-22T07:01:10Z",
+  "as_of": "2026-08-22T07:01:10Z",
   "period": {
     "label": "live_blitz"
   },
@@ -156,6 +156,19 @@
     },
     {
       "rank": 12,
+      "id": "Sina-Movahed",
+      "name": "Sina Movahed",
+      "value": 3264.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Sina-Movahed",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 13,
       "id": "spicycaterpillar",
       "name": "Ray Robson",
       "value": 3255.0,
@@ -168,7 +181,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": "PursuitOfHappyness2",
       "name": "Abhimanyu Mishra",
       "value": 3252.0,
@@ -177,19 +190,6 @@
         "username": "PursuitOfHappyness2",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 14,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
-      "value": 3251.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sina-Movahed",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-22T05:44:35Z",
+      "fetched_at": "2026-08-22T07:01:10Z",
       "http_status": 200
     }
   ]
