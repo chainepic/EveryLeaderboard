@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-22T19:37:33Z",
-  "as_of": "2026-08-22T19:37:33Z",
+  "generated_at": "2026-08-22T20:41:52Z",
+  "as_of": "2026-08-22T20:41:52Z",
   "period": {
     "label": "live_blitz"
   },
@@ -351,19 +351,6 @@
     },
     {
       "rank": 27,
-      "id": "mishanick",
-      "name": "Aleksei Sarana",
-      "value": 3216.0,
-      "unit": "rating",
-      "meta": {
-        "username": "mishanick",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RS",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 28,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 3215.0,
@@ -376,7 +363,7 @@
       }
     },
     {
-      "rank": 29,
+      "rank": 28,
       "id": "rednova1729",
       "name": "Awonder Liang",
       "value": 3214.0,
@@ -389,7 +376,7 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 29,
       "id": "ChessWarrior7197",
       "name": "Nodirbek Abdusattorov",
       "value": 3214.0,
@@ -398,6 +385,19 @@
         "username": "ChessWarrior7197",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/UZ",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 30,
+      "id": "mishanick",
+      "name": "Aleksei Sarana",
+      "value": 3212.0,
+      "unit": "rating",
+      "meta": {
+        "username": "mishanick",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RS",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-22T19:37:33Z",
+      "fetched_at": "2026-08-22T20:41:52Z",
       "http_status": 200
     }
   ]
