@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-22T17:38:07Z",
-  "as_of": "2026-08-22T17:38:07Z",
+  "generated_at": "2026-08-22T18:50:11Z",
+  "as_of": "2026-08-22T18:50:11Z",
   "period": {
     "label": "live_blitz"
   },
@@ -559,6 +559,45 @@
     },
     {
       "rank": 43,
+      "id": "Arseniy_Nesterov",
+      "name": "Arseniy Nesterov",
+      "value": 3191.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Arseniy_Nesterov",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 44,
+      "id": "MichaelRoiz",
+      "name": "Michael Roiz",
+      "value": 3191.0,
+      "unit": "rating",
+      "meta": {
+        "username": "MichaelRoiz",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IL",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 45,
+      "id": "NikoTheodorou",
+      "name": "Nikolas Theodorou",
+      "value": 3191.0,
+      "unit": "rating",
+      "meta": {
+        "username": "NikoTheodorou",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/GR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 46,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3189.0,
@@ -571,20 +610,7 @@
       }
     },
     {
-      "rank": 44,
-      "id": "Arseniy_Nesterov",
-      "name": "Arseniy Nesterov",
-      "value": 3188.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Arseniy_Nesterov",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 45,
+      "rank": 47,
       "id": "MITerryble",
       "name": "Renato Terry",
       "value": 3187.0,
@@ -597,7 +623,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 48,
       "id": "Jospem",
       "name": "Jose Martinez",
       "value": 3186.0,
@@ -610,7 +636,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 49,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3186.0,
@@ -623,7 +649,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 50,
       "id": "FairChess_on_YouTube",
       "name": "Dmitry Andreikin",
       "value": 3185.0,
@@ -634,39 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/GE",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 49,
-      "id": "Oleksandr_Bortnyk",
-      "name": "Oleksandr Bortnyk",
-      "value": 3183.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Oleksandr_Bortnyk",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 50,
-      "id": "NikoTheodorou",
-      "name": "Nikolas Theodorou",
-      "value": 3183.0,
-      "unit": "rating",
-      "meta": {
-        "username": "NikoTheodorou",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/GR",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-22T17:38:07Z",
+      "fetched_at": "2026-08-22T18:50:11Z",
       "http_status": 200
     }
   ]
