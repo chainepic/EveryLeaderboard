@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-22T14:40:28Z",
-  "as_of": "2026-08-22T14:40:28Z",
+  "generated_at": "2026-08-22T15:36:52Z",
+  "as_of": "2026-08-22T15:36:52Z",
   "period": {
     "label": "live_blitz"
   },
@@ -15,7 +15,7 @@
       "rank": 1,
       "id": "Philippians46",
       "name": "Andy Woodward",
-      "value": 3437.0,
+      "value": 3436.0,
       "unit": "rating",
       "meta": {
         "username": "Philippians46",
@@ -403,6 +403,19 @@
     },
     {
       "rank": 31,
+      "id": "TRadjabov",
+      "name": "Teimour Radjabov",
+      "value": 3211.0,
+      "unit": "rating",
+      "meta": {
+        "username": "TRadjabov",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/AZ",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 32,
       "id": "Javokhir_Sindarov05",
       "name": "Javokhir Sindarov",
       "value": 3210.0,
@@ -411,19 +424,6 @@
         "username": "Javokhir_Sindarov05",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/UZ",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 32,
-      "id": "TRadjabov",
-      "name": "Teimour Radjabov",
-      "value": 3207.0,
-      "unit": "rating",
-      "meta": {
-        "username": "TRadjabov",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/AZ",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-22T14:40:28Z",
+      "fetched_at": "2026-08-22T15:36:52Z",
       "http_status": 200
     }
   ]
