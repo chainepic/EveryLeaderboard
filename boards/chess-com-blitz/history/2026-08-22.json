@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-22T09:44:26Z",
-  "as_of": "2026-08-22T09:44:26Z",
+  "generated_at": "2026-08-22T10:42:36Z",
+  "as_of": "2026-08-22T10:42:36Z",
   "period": {
     "label": "live_blitz"
   },
@@ -78,6 +78,19 @@
     },
     {
       "rank": 6,
+      "id": "Sina-Movahed",
+      "name": "Sina Movahed",
+      "value": 3298.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Sina-Movahed",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 7,
       "id": "MagnusCarlsen",
       "name": "Magnus Carlsen",
       "value": 3297.0,
@@ -90,7 +103,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "rpragchess",
       "name": "Praggnanandhaa Rameshbabu",
       "value": 3296.0,
@@ -103,7 +116,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "LyonBeast",
       "name": "Maxime Vachier-Lagrave",
       "value": 3295.0,
@@ -112,19 +125,6 @@
         "username": "LyonBeast",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/FR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 9,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
-      "value": 3290.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sina-Movahed",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -221,6 +221,19 @@
     },
     {
       "rank": 17,
+      "id": "Dolphin_2010",
+      "name": "Aleksandr Usov",
+      "value": 3244.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Dolphin_2010",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 18,
       "id": "GMWSO",
       "name": "Wesley So",
       "value": 3243.0,
@@ -229,19 +242,6 @@
         "username": "GMWSO",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 18,
-      "id": "Dolphin_2010",
-      "name": "Aleksandr Usov",
-      "value": 3240.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Dolphin_2010",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-22T09:44:26Z",
+      "fetched_at": "2026-08-22T10:42:36Z",
       "http_status": 200
     }
   ]
