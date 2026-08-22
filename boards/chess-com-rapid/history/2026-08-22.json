@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-22T04:51:39Z",
-  "as_of": "2026-08-22T04:51:39Z",
+  "generated_at": "2026-08-22T05:44:35Z",
+  "as_of": "2026-08-22T05:44:35Z",
   "period": {
     "label": "live_rapid"
   },
@@ -624,6 +624,19 @@
     },
     {
       "rank": 48,
+      "id": "mattisan2011",
+      "name": "mattisan2011",
+      "value": 2704.0,
+      "unit": "rating",
+      "meta": {
+        "username": "mattisan2011",
+        "title": null,
+        "country_url": "https://api.chess.com/pub/country/EU",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 49,
       "id": "alexboy14",
       "name": "Oleksii Nakonechnyi",
       "value": 2703.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "Liindseeyy",
       "name": "Liindseeyy",
       "value": 2702.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/FR",
         "category": "live_rapid"
       }
-    },
-    {
-      "rank": 50,
-      "id": "CKJY2796",
-      "name": "Jason Yeung",
-      "value": 2702.0,
-      "unit": "rating",
-      "meta": {
-        "username": "CKJY2796",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/SR",
-        "category": "live_rapid"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-22T04:51:39Z",
+      "fetched_at": "2026-08-22T05:44:35Z",
       "http_status": 200
     }
   ]
