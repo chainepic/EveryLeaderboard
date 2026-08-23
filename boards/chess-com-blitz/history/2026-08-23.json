@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-23T08:50:16Z",
-  "as_of": "2026-08-23T08:50:16Z",
+  "generated_at": "2026-08-23T09:44:17Z",
+  "as_of": "2026-08-23T09:44:17Z",
   "period": {
     "label": "live_blitz"
   },
@@ -182,6 +182,19 @@
     },
     {
       "rank": 14,
+      "id": "Dolphin_2010",
+      "name": "Aleksandr Usov",
+      "value": 3254.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Dolphin_2010",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 15,
       "id": "PursuitOfHappyness2",
       "name": "Abhimanyu Mishra",
       "value": 3252.0,
@@ -194,7 +207,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": "vi_pranav",
       "name": "Pranav V",
       "value": 3249.0,
@@ -207,7 +220,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": "LevonAronian",
       "name": "Levon Aronian",
       "value": 3246.0,
@@ -216,19 +229,6 @@
         "username": "LevonAronian",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 17,
-      "id": "Dolphin_2010",
-      "name": "Aleksandr Usov",
-      "value": 3244.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Dolphin_2010",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-23T08:50:16Z",
+      "fetched_at": "2026-08-23T09:44:17Z",
       "http_status": 200
     }
   ]
