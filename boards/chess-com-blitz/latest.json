@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-23T13:46:28Z",
-  "as_of": "2026-08-23T13:46:28Z",
+  "generated_at": "2026-08-23T14:42:21Z",
+  "as_of": "2026-08-23T14:42:21Z",
   "period": {
     "label": "live_blitz"
   },
@@ -351,6 +351,19 @@
     },
     {
       "rank": 27,
+      "id": "mishanick",
+      "name": "Aleksei Sarana",
+      "value": 3218.0,
+      "unit": "rating",
+      "meta": {
+        "username": "mishanick",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RS",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 28,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 3215.0,
@@ -363,7 +376,7 @@
       }
     },
     {
-      "rank": 28,
+      "rank": 29,
       "id": "ChessWarrior7197",
       "name": "Nodirbek Abdusattorov",
       "value": 3214.0,
@@ -372,19 +385,6 @@
         "username": "ChessWarrior7197",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/UZ",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 29,
-      "id": "mishanick",
-      "name": "Aleksei Sarana",
-      "value": 3212.0,
-      "unit": "rating",
-      "meta": {
-        "username": "mishanick",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RS",
         "category": "live_blitz"
       }
     },
@@ -598,19 +598,6 @@
     },
     {
       "rank": 46,
-      "id": "chess_master_8820",
-      "name": "Radin Yadegar",
-      "value": 3188.0,
-      "unit": "rating",
-      "meta": {
-        "username": "chess_master_8820",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 47,
       "id": "MichaelRoiz",
       "name": "Michael Roiz",
       "value": 3188.0,
@@ -623,7 +610,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": "MITerryble",
       "name": "Renato Terry",
       "value": 3187.0,
@@ -632,6 +619,19 @@
         "username": "MITerryble",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/PE",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 48,
+      "id": "chess_master_8820",
+      "name": "Radin Yadegar",
+      "value": 3186.0,
+      "unit": "rating",
+      "meta": {
+        "username": "chess_master_8820",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-23T13:46:28Z",
+      "fetched_at": "2026-08-23T14:42:21Z",
       "http_status": 200
     }
   ]
