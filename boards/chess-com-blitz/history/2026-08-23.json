@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-23T21:37:17Z",
-  "as_of": "2026-08-23T21:37:17Z",
+  "generated_at": "2026-08-23T22:39:55Z",
+  "as_of": "2026-08-23T22:39:55Z",
   "period": {
     "label": "live_blitz"
   },
@@ -481,6 +481,19 @@
     },
     {
       "rank": 37,
+      "id": "GMBrewChess",
+      "name": "Brewington Hardaway",
+      "value": 3201.0,
+      "unit": "rating",
+      "meta": {
+        "username": "GMBrewChess",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 38,
       "id": "mishanick",
       "name": "Aleksei Sarana",
       "value": 3201.0,
@@ -493,7 +506,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 39,
       "id": "jefferyx",
       "name": "Jeffery Xiong",
       "value": 3201.0,
@@ -506,7 +519,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 40,
       "id": "AnishGiri",
       "name": "AnishGiri",
       "value": 3198.0,
@@ -519,7 +532,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": "DenLaz",
       "name": "Denis Lazavik",
       "value": 3196.0,
@@ -532,7 +545,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "Zhuu96",
       "name": "Zhamsaran Tsydypov",
       "value": 3194.0,
@@ -545,7 +558,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 43,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
       "value": 3194.0,
@@ -554,19 +567,6 @@
         "username": "ChristopherYoo",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/TV",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 43,
-      "id": "GMBrewChess",
-      "name": "Brewington Hardaway",
-      "value": 3192.0,
-      "unit": "rating",
-      "meta": {
-        "username": "GMBrewChess",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-23T21:37:17Z",
+      "fetched_at": "2026-08-23T22:39:55Z",
       "http_status": 200
     }
   ]
