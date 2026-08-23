@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "steam-top-played",
-  "generated_at": "2026-08-23T04:53:16Z",
-  "as_of": "2026-08-23T04:53:16Z",
+  "generated_at": "2026-08-23T05:46:57Z",
+  "as_of": "2026-08-23T05:46:57Z",
   "period": {
     "label": "live"
   },
@@ -15,7 +15,7 @@
       "rank": 1,
       "id": "730",
       "name": "Counter-Strike 2",
-      "value": 598042,
+      "value": 647370,
       "unit": "players",
       "meta": {
         "peak_in_game": 1240760,
@@ -26,7 +26,7 @@
       "rank": 2,
       "id": "570",
       "name": "Dota 2",
-      "value": 547675,
+      "value": 569553,
       "unit": "players",
       "meta": {
         "peak_in_game": 905862,
@@ -37,7 +37,7 @@
       "rank": 3,
       "id": "578080",
       "name": "PUBG: BATTLEGROUNDS",
-      "value": 275388,
+      "value": 357171,
       "unit": "players",
       "meta": {
         "peak_in_game": 737324,
@@ -48,7 +48,7 @@
       "rank": 4,
       "id": "1623730",
       "name": "Palworld",
-      "value": 190019,
+      "value": 187667,
       "unit": "players",
       "meta": {
         "peak_in_game": 243386,
@@ -59,7 +59,7 @@
       "rank": 5,
       "id": "3419430",
       "name": "Bongo Cat",
-      "value": 151327,
+      "value": 152801,
       "unit": "players",
       "meta": {
         "peak_in_game": 170834,
@@ -70,7 +70,7 @@
       "rank": 6,
       "id": "1172470",
       "name": "Apex Legends™",
-      "value": 125643,
+      "value": 147302,
       "unit": "players",
       "meta": {
         "peak_in_game": 274669,
@@ -79,20 +79,9 @@
     },
     {
       "rank": 7,
-      "id": "2676230",
-      "name": "FiveM",
-      "value": 107253,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 187432,
-        "appid": 2676230
-      }
-    },
-    {
-      "rank": 8,
       "id": "4001890",
       "name": "How to Fish",
-      "value": 105974,
+      "value": 114976,
       "unit": "players",
       "meta": {
         "peak_in_game": 142261,
@@ -100,10 +89,21 @@
       }
     },
     {
+      "rank": 8,
+      "id": "2676230",
+      "name": "FiveM",
+      "value": 100255,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 187432,
+        "appid": 2676230
+      }
+    },
+    {
       "rank": 9,
       "id": "2767030",
       "name": "Marvel Rivals",
-      "value": 99277,
+      "value": 89169,
       "unit": "players",
       "meta": {
         "peak_in_game": 109116,
@@ -114,7 +114,7 @@
       "rank": 10,
       "id": "3678970",
       "name": "TBH: Task Bar Hero",
-      "value": 87090,
+      "value": 88271,
       "unit": "players",
       "meta": {
         "peak_in_game": 104864,
@@ -125,7 +125,7 @@
       "rank": 11,
       "id": "431960",
       "name": "Wallpaper Engine",
-      "value": 80491,
+      "value": 84991,
       "unit": "players",
       "meta": {
         "peak_in_game": 114121,
@@ -134,31 +134,9 @@
     },
     {
       "rank": 12,
-      "id": "108600",
-      "name": "Project Zomboid",
-      "value": 77377,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 107378,
-        "appid": 108600
-      }
-    },
-    {
-      "rank": 13,
-      "id": "359550",
-      "name": "Tom Clancy's Rainbow Six Siege",
-      "value": 75127,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 91711,
-        "appid": 359550
-      }
-    },
-    {
-      "rank": 14,
       "id": "2868840",
       "name": "Slay the Spire 2",
-      "value": 73327,
+      "value": 73480,
       "unit": "players",
       "meta": {
         "peak_in_game": 102551,
@@ -166,21 +144,21 @@
       }
     },
     {
-      "rank": 15,
-      "id": "553850",
-      "name": "HELLDIVERS™ 2",
-      "value": 72994,
+      "rank": 13,
+      "id": "108600",
+      "name": "Project Zomboid",
+      "value": 73122,
       "unit": "players",
       "meta": {
-        "peak_in_game": 88068,
-        "appid": 553850
+        "peak_in_game": 107378,
+        "appid": 108600
       }
     },
     {
-      "rank": 16,
+      "rank": 14,
       "id": "252490",
       "name": "Rust",
-      "value": 70871,
+      "value": 71537,
       "unit": "players",
       "meta": {
         "peak_in_game": 135259,
@@ -188,65 +166,10 @@
       }
     },
     {
-      "rank": 17,
-      "id": "3405690",
-      "name": "EA SPORTS FC™ 26",
-      "value": 67384,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 102823,
-        "appid": 3405690
-      }
-    },
-    {
-      "rank": 18,
-      "id": "250900",
-      "name": "The Binding of Isaac: Rebirth",
-      "value": 65338,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 100126,
-        "appid": 250900
-      }
-    },
-    {
-      "rank": 19,
-      "id": "2357570",
-      "name": "Overwatch®",
-      "value": 64942,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 75958,
-        "appid": 2357570
-      }
-    },
-    {
-      "rank": 20,
-      "id": "1422450",
-      "name": "Deadlock",
-      "value": 63040,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 80845,
-        "appid": 1422450
-      }
-    },
-    {
-      "rank": 21,
-      "id": "413150",
-      "name": "Stardew Valley",
-      "value": 62031,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 101872,
-        "appid": 413150
-      }
-    },
-    {
-      "rank": 22,
+      "rank": 15,
       "id": "2507950",
       "name": "Delta Force",
-      "value": 61995,
+      "value": 70722,
       "unit": "players",
       "meta": {
         "peak_in_game": 114517,
@@ -254,10 +177,54 @@
       }
     },
     {
-      "rank": 23,
+      "rank": 16,
+      "id": "553850",
+      "name": "HELLDIVERS™ 2",
+      "value": 67777,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 88068,
+        "appid": 553850
+      }
+    },
+    {
+      "rank": 17,
+      "id": "359550",
+      "name": "Tom Clancy's Rainbow Six Siege",
+      "value": 66415,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 91711,
+        "appid": 359550
+      }
+    },
+    {
+      "rank": 18,
+      "id": "413150",
+      "name": "Stardew Valley",
+      "value": 65713,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 101872,
+        "appid": 413150
+      }
+    },
+    {
+      "rank": 19,
+      "id": "250900",
+      "name": "The Binding of Isaac: Rebirth",
+      "value": 65699,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 100126,
+        "appid": 250900
+      }
+    },
+    {
+      "rank": 20,
       "id": "438100",
       "name": "VRChat",
-      "value": 61951,
+      "value": 61770,
       "unit": "players",
       "meta": {
         "peak_in_game": 63248,
@@ -265,32 +232,43 @@
       }
     },
     {
+      "rank": 21,
+      "id": "3405690",
+      "name": "EA SPORTS FC™ 26",
+      "value": 60671,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 102823,
+        "appid": 3405690
+      }
+    },
+    {
+      "rank": 22,
+      "id": "2357570",
+      "name": "Overwatch®",
+      "value": 60421,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 75958,
+        "appid": 2357570
+      }
+    },
+    {
+      "rank": 23,
+      "id": "1422450",
+      "name": "Deadlock",
+      "value": 58178,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 80845,
+        "appid": 1422450
+      }
+    },
+    {
       "rank": 24,
-      "id": "4809930",
-      "name": "WARDOGS Playtest",
-      "value": 58154,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 90391,
-        "appid": 4809930
-      }
-    },
-    {
-      "rank": 25,
-      "id": "3527290",
-      "name": "PEAK",
-      "value": 57007,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 74069,
-        "appid": 3527290
-      }
-    },
-    {
-      "rank": 26,
       "id": "230410",
       "name": "Warframe",
-      "value": 55624,
+      "value": 54917,
       "unit": "players",
       "meta": {
         "peak_in_game": 71616,
@@ -298,10 +276,10 @@
       }
     },
     {
-      "rank": 27,
+      "rank": 25,
       "id": "105600",
       "name": "Terraria",
-      "value": 52576,
+      "value": 53697,
       "unit": "players",
       "meta": {
         "peak_in_game": 71746,
@@ -309,10 +287,43 @@
       }
     },
     {
+      "rank": 26,
+      "id": "4809930",
+      "name": "WARDOGS Playtest",
+      "value": 52281,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 90391,
+        "appid": 4809930
+      }
+    },
+    {
+      "rank": 27,
+      "id": "3527290",
+      "name": "PEAK",
+      "value": 52175,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 74069,
+        "appid": 3527290
+      }
+    },
+    {
       "rank": 28,
+      "id": "3240220",
+      "name": "Grand Theft Auto V Enhanced",
+      "value": 50033,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 77738,
+        "appid": 3240220
+      }
+    },
+    {
+      "rank": 29,
       "id": "1086940",
       "name": "Baldur's Gate 3",
-      "value": 51156,
+      "value": 47857,
       "unit": "players",
       "meta": {
         "peak_in_game": 72966,
@@ -320,25 +331,14 @@
       }
     },
     {
-      "rank": 29,
-      "id": "2807960",
-      "name": "Battlefield™ 6",
-      "value": 49936,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 69676,
-        "appid": 2807960
-      }
-    },
-    {
       "rank": 30,
-      "id": "3240220",
-      "name": "Grand Theft Auto V Enhanced",
-      "value": 46989,
+      "id": "271590",
+      "name": "Grand Theft Auto V Legacy",
+      "value": 47057,
       "unit": "players",
       "meta": {
-        "peak_in_game": 77738,
-        "appid": 3240220
+        "peak_in_game": 90266,
+        "appid": 271590
       }
     }
   ],
@@ -346,9 +346,9 @@
     {
       "name": "Steam Web API",
       "url": "https://api.steampowered.com/ISteamChartsService/GetGamesByConcurrentPlayers/v1/",
-      "fetched_at": "2026-08-23T04:53:16Z",
+      "fetched_at": "2026-08-23T05:46:57Z",
       "http_status": 200
     }
   ],
-  "notes": "steam last_update=1787460723"
+  "notes": "steam last_update=1787463723"
 }
