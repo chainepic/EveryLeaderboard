@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "soccer-pl-table",
-  "generated_at": "2026-08-23T16:44:36Z",
-  "as_of": "2026-08-23T16:44:36Z",
+  "generated_at": "2026-08-23T17:36:26Z",
+  "as_of": "2026-08-23T17:36:26Z",
   "period": {
     "label": "2026-27 English Premier League"
   },
@@ -141,6 +141,38 @@
     },
     {
       "rank": 9,
+      "id": "364",
+      "name": "Liverpool",
+      "value": 1.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 0.0,
+        "losses": 0.0,
+        "ties": 1.0,
+        "games_played": 1.0,
+        "goal_diff": 0.0,
+        "season": "2026-27 English Premier League"
+      }
+    },
+    {
+      "rank": 10,
+      "id": "361",
+      "name": "Newcastle United",
+      "value": 1.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 0.0,
+        "losses": 0.0,
+        "ties": 1.0,
+        "games_played": 1.0,
+        "goal_diff": 0.0,
+        "season": "2026-27 English Premier League"
+      }
+    },
+    {
+      "rank": 11,
       "id": "363",
       "name": "Chelsea",
       "value": 0.0,
@@ -156,41 +188,9 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 12,
       "id": "370",
       "name": "Fulham",
-      "value": 0.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 0.0,
-        "losses": 0.0,
-        "ties": 0.0,
-        "games_played": 0.0,
-        "goal_diff": 0.0,
-        "season": "2026-27 English Premier League"
-      }
-    },
-    {
-      "rank": 11,
-      "id": "364",
-      "name": "Liverpool",
-      "value": 0.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 0.0,
-        "losses": 0.0,
-        "ties": 0.0,
-        "games_played": 0.0,
-        "goal_diff": 0.0,
-        "season": "2026-27 English Premier League"
-      }
-    },
-    {
-      "rank": 12,
-      "id": "361",
-      "name": "Newcastle United",
       "value": 0.0,
       "unit": "pts",
       "meta": {
@@ -336,7 +336,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/soccer/eng.1/standings",
-      "fetched_at": "2026-08-23T16:44:36Z",
+      "fetched_at": "2026-08-23T17:36:26Z",
       "http_status": 200
     }
   ]
