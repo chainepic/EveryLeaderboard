@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "soccer-pl-table",
-  "generated_at": "2026-08-23T14:42:23Z",
-  "as_of": "2026-08-23T14:42:23Z",
+  "generated_at": "2026-08-23T15:38:56Z",
+  "as_of": "2026-08-23T15:38:56Z",
   "period": {
     "label": "2026-27 English Premier League"
   },
@@ -13,6 +13,22 @@
   "items": [
     {
       "rank": 1,
+      "id": "331",
+      "name": "Brighton & Hove Albion",
+      "value": 3.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 1.0,
+        "losses": 0.0,
+        "ties": 0.0,
+        "games_played": 1.0,
+        "goal_diff": 4.0,
+        "season": "2026-27 English Premier League"
+      }
+    },
+    {
+      "rank": 2,
       "id": "359",
       "name": "Arsenal",
       "value": 3.0,
@@ -28,7 +44,7 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "337",
       "name": "Brentford",
       "value": 3.0,
@@ -44,7 +60,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "368",
       "name": "Everton",
       "value": 3.0,
@@ -60,7 +76,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "306",
       "name": "Hull City",
       "value": 3.0,
@@ -76,7 +92,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "373",
       "name": "Ipswich Town",
       "value": 3.0,
@@ -92,7 +108,23 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "id": "382",
+      "name": "Manchester City",
+      "value": 3.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 1.0,
+        "losses": 0.0,
+        "ties": 0.0,
+        "games_played": 1.0,
+        "goal_diff": 1.0,
+        "season": "2026-27 English Premier League"
+      }
+    },
+    {
+      "rank": 8,
       "id": "357",
       "name": "Leeds United",
       "value": 3.0,
@@ -108,55 +140,7 @@
       }
     },
     {
-      "rank": 7,
-      "id": "362",
-      "name": "Aston Villa",
-      "value": 0.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 0.0,
-        "losses": 0.0,
-        "ties": 0.0,
-        "games_played": 0.0,
-        "goal_diff": 0.0,
-        "season": "2026-27 English Premier League"
-      }
-    },
-    {
-      "rank": 8,
-      "id": "349",
-      "name": "AFC Bournemouth",
-      "value": 0.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 0.0,
-        "losses": 0.0,
-        "ties": 0.0,
-        "games_played": 0.0,
-        "goal_diff": 0.0,
-        "season": "2026-27 English Premier League"
-      }
-    },
-    {
       "rank": 9,
-      "id": "331",
-      "name": "Brighton & Hove Albion",
-      "value": 0.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 0.0,
-        "losses": 0.0,
-        "ties": 0.0,
-        "games_played": 0.0,
-        "goal_diff": 0.0,
-        "season": "2026-27 English Premier League"
-      }
-    },
-    {
-      "rank": 10,
       "id": "363",
       "name": "Chelsea",
       "value": 0.0,
@@ -172,7 +156,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "id": "370",
       "name": "Fulham",
       "value": 0.0,
@@ -188,7 +172,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "id": "364",
       "name": "Liverpool",
       "value": 0.0,
@@ -204,23 +188,7 @@
       }
     },
     {
-      "rank": 13,
-      "id": "382",
-      "name": "Manchester City",
-      "value": 0.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 0.0,
-        "losses": 0.0,
-        "ties": 0.0,
-        "games_played": 0.0,
-        "goal_diff": 0.0,
-        "season": "2026-27 English Premier League"
-      }
-    },
-    {
-      "rank": 14,
+      "rank": 12,
       "id": "361",
       "name": "Newcastle United",
       "value": 0.0,
@@ -236,7 +204,23 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "id": "349",
+      "name": "AFC Bournemouth",
+      "value": 0.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 0.0,
+        "losses": 1.0,
+        "ties": 0.0,
+        "games_played": 1.0,
+        "goal_diff": -1.0,
+        "season": "2026-27 English Premier League"
+      }
+    },
+    {
+      "rank": 14,
       "id": "366",
       "name": "Sunderland",
       "value": 0.0,
@@ -252,7 +236,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "id": "393",
       "name": "Nottingham Forest",
       "value": 0.0,
@@ -268,7 +252,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "id": "384",
       "name": "Crystal Palace",
       "value": 0.0,
@@ -284,7 +268,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "id": "360",
       "name": "Manchester United",
       "value": 0.0,
@@ -300,7 +284,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "id": "388",
       "name": "Coventry City",
       "value": 0.0,
@@ -316,7 +300,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "id": "367",
       "name": "Tottenham Hotspur",
       "value": 0.0,
@@ -330,13 +314,29 @@
         "goal_diff": -3.0,
         "season": "2026-27 English Premier League"
       }
+    },
+    {
+      "rank": 20,
+      "id": "362",
+      "name": "Aston Villa",
+      "value": 0.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 0.0,
+        "losses": 1.0,
+        "ties": 0.0,
+        "games_played": 1.0,
+        "goal_diff": -4.0,
+        "season": "2026-27 English Premier League"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/soccer/eng.1/standings",
-      "fetched_at": "2026-08-23T14:42:23Z",
+      "fetched_at": "2026-08-23T15:38:56Z",
       "http_status": 200
     }
   ]
