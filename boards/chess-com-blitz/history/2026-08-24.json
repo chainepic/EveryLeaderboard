@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-24T03:17:55Z",
-  "as_of": "2026-08-24T03:17:55Z",
+  "generated_at": "2026-08-24T05:03:24Z",
+  "as_of": "2026-08-24T05:03:24Z",
   "period": {
     "label": "live_blitz"
   },
@@ -299,6 +299,19 @@
     },
     {
       "rank": 23,
+      "id": "wonderfultime",
+      "name": "Tuan Minh Le",
+      "value": 3228.0,
+      "unit": "rating",
+      "meta": {
+        "username": "wonderfultime",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/VN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 24,
       "id": "Mykola-Bortnyk",
       "name": "Mykola Bortnyk",
       "value": 3226.0,
@@ -311,7 +324,7 @@
       }
     },
     {
-      "rank": 24,
+      "rank": 25,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 3220.0,
@@ -320,19 +333,6 @@
         "username": "Grischuk",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 25,
-      "id": "wonderfultime",
-      "name": "Tuan Minh Le",
-      "value": 3220.0,
-      "unit": "rating",
-      "meta": {
-        "username": "wonderfultime",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-24T03:17:55Z",
+      "fetched_at": "2026-08-24T05:03:24Z",
       "http_status": 200
     }
   ]
