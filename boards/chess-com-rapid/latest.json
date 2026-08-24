@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-24T21:45:16Z",
-  "as_of": "2026-08-24T21:45:16Z",
+  "generated_at": "2026-08-24T22:46:22Z",
+  "as_of": "2026-08-24T22:46:22Z",
   "period": {
     "label": "live_rapid"
   },
@@ -171,7 +171,7 @@
       "rank": 13,
       "id": "LPSupi",
       "name": "Luis Paulo Supi",
-      "value": 2796.0,
+      "value": 2798.0,
       "unit": "rating",
       "meta": {
         "username": "LPSupi",
@@ -247,6 +247,19 @@
     },
     {
       "rank": 19,
+      "id": "Swiss_Fighter",
+      "name": "Gabriel Gähwiler",
+      "value": 2774.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Swiss_Fighter",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/CH",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 20,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
       "value": 2770.0,
@@ -255,19 +268,6 @@
         "username": "ChristopherYoo",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/TV",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 20,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2769.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-24T21:45:16Z",
+      "fetched_at": "2026-08-24T22:46:22Z",
       "http_status": 200
     }
   ]
