@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-24T05:54:56Z",
-  "as_of": "2026-08-24T05:54:56Z",
+  "generated_at": "2026-08-24T07:30:00Z",
+  "as_of": "2026-08-24T07:30:00Z",
   "period": {
     "label": "live_blitz"
   },
@@ -54,7 +54,7 @@
       "rank": 4,
       "id": "Sina-Movahed",
       "name": "Sina Movahed",
-      "value": 3328.0,
+      "value": 3316.0,
       "unit": "rating",
       "meta": {
         "username": "Sina-Movahed",
@@ -262,7 +262,7 @@
       "rank": 20,
       "id": "IMaster_01",
       "name": "Arda Camlar",
-      "value": 3232.0,
+      "value": 3233.0,
       "unit": "rating",
       "meta": {
         "username": "IMaster_01",
@@ -299,19 +299,6 @@
     },
     {
       "rank": 23,
-      "id": "wonderfultime",
-      "name": "Tuan Minh Le",
-      "value": 3228.0,
-      "unit": "rating",
-      "meta": {
-        "username": "wonderfultime",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/VN",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 24,
       "id": "Mykola-Bortnyk",
       "name": "Mykola Bortnyk",
       "value": 3226.0,
@@ -324,7 +311,7 @@
       }
     },
     {
-      "rank": 25,
+      "rank": 24,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 3220.0,
@@ -337,7 +324,7 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 25,
       "id": "Dolphin_2010",
       "name": "Aleksandr Usov",
       "value": 3217.0,
@@ -346,6 +333,19 @@
         "username": "Dolphin_2010",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 26,
+      "id": "wonderfultime",
+      "name": "Tuan Minh Le",
+      "value": 3216.0,
+      "unit": "rating",
+      "meta": {
+        "username": "wonderfultime",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-24T05:54:56Z",
+      "fetched_at": "2026-08-24T07:30:00Z",
       "http_status": 200
     }
   ]
