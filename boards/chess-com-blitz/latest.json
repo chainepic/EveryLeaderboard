@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-24T11:45:27Z",
-  "as_of": "2026-08-24T11:45:27Z",
+  "generated_at": "2026-08-24T13:15:04Z",
+  "as_of": "2026-08-24T13:15:04Z",
   "period": {
     "label": "live_blitz"
   },
@@ -78,19 +78,6 @@
     },
     {
       "rank": 6,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
-      "value": 3303.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sina-Movahed",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 7,
       "id": "GHANDEEVAM2003",
       "name": "Arjun Erigaisi",
       "value": 3302.0,
@@ -103,7 +90,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "id": "rpragchess",
       "name": "Praggnanandhaa Rameshbabu",
       "value": 3296.0,
@@ -116,7 +103,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "LyonBeast",
       "name": "Maxime Vachier-Lagrave",
       "value": 3295.0,
@@ -129,7 +116,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "Polish_fighter3000",
       "name": "Jan-Krzysztof Duda",
       "value": 3288.0,
@@ -138,6 +125,19 @@
         "username": "Polish_fighter3000",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/PL",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 10,
+      "id": "Sina-Movahed",
+      "name": "Sina Movahed",
+      "value": 3280.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Sina-Movahed",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -520,6 +520,19 @@
     },
     {
       "rank": 40,
+      "id": "MichaelRoiz",
+      "name": "Michael Roiz",
+      "value": 3200.0,
+      "unit": "rating",
+      "meta": {
+        "username": "MichaelRoiz",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IL",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 41,
       "id": "AnishGiri",
       "name": "AnishGiri",
       "value": 3198.0,
@@ -532,7 +545,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "DenLaz",
       "name": "Denis Lazavik",
       "value": 3196.0,
@@ -541,19 +554,6 @@
         "username": "DenLaz",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/BY",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 42,
-      "id": "MichaelRoiz",
-      "name": "Michael Roiz",
-      "value": 3195.0,
-      "unit": "rating",
-      "meta": {
-        "username": "MichaelRoiz",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-24T11:45:27Z",
+      "fetched_at": "2026-08-24T13:15:04Z",
       "http_status": 200
     }
   ]
