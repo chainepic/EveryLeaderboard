@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-24T19:46:27Z",
-  "as_of": "2026-08-24T19:46:27Z",
+  "generated_at": "2026-08-24T20:49:56Z",
+  "as_of": "2026-08-24T20:49:56Z",
   "period": {
     "label": "live_blitz"
   },
@@ -15,7 +15,7 @@
       "rank": 1,
       "id": "Philippians46",
       "name": "Andy Woodward",
-      "value": 3439.0,
+      "value": 3433.0,
       "unit": "rating",
       "meta": {
         "username": "Philippians46",
@@ -598,6 +598,19 @@
     },
     {
       "rank": 46,
+      "id": "mishanick",
+      "name": "Aleksei Sarana",
+      "value": 3190.0,
+      "unit": "rating",
+      "meta": {
+        "username": "mishanick",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RS",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 47,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3189.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "MITerryble",
       "name": "Renato Terry",
       "value": 3187.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "Jospem",
       "name": "Jose Martinez",
       "value": 3186.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3186.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "FairChess_on_YouTube",
-      "name": "Dmitry Andreikin",
-      "value": 3185.0,
-      "unit": "rating",
-      "meta": {
-        "username": "FairChess_on_YouTube",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/GE",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-24T19:46:27Z",
+      "fetched_at": "2026-08-24T20:49:56Z",
       "http_status": 200
     }
   ]
