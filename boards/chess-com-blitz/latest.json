@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-24T17:47:56Z",
-  "as_of": "2026-08-24T17:47:56Z",
+  "generated_at": "2026-08-24T19:01:21Z",
+  "as_of": "2026-08-24T19:01:21Z",
   "period": {
     "label": "live_blitz"
   },
@@ -28,7 +28,7 @@
       "rank": 2,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
-      "value": 3404.0,
+      "value": 3412.0,
       "unit": "rating",
       "meta": {
         "username": "Hikaru",
@@ -390,6 +390,19 @@
     },
     {
       "rank": 30,
+      "id": "legendisback1",
+      "name": "Yagiz Kaan Erdogmus",
+      "value": 3210.0,
+      "unit": "rating",
+      "meta": {
+        "username": "legendisback1",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/TR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 31,
       "id": "rednova1729",
       "name": "Awonder Liang",
       "value": 3209.0,
@@ -398,19 +411,6 @@
         "username": "rednova1729",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 31,
-      "id": "Dolphin_2010",
-      "name": "Aleksandr Usov",
-      "value": 3205.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Dolphin_2010",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     },
@@ -520,6 +520,19 @@
     },
     {
       "rank": 40,
+      "id": "Dolphin_2010",
+      "name": "Aleksandr Usov",
+      "value": 3200.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Dolphin_2010",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 41,
       "id": "MichaelRoiz",
       "name": "Michael Roiz",
       "value": 3200.0,
@@ -532,7 +545,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "AnishGiri",
       "name": "AnishGiri",
       "value": 3198.0,
@@ -545,7 +558,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 43,
       "id": "DenLaz",
       "name": "Denis Lazavik",
       "value": 3196.0,
@@ -558,7 +571,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 44,
       "id": "Zhuu96",
       "name": "Zhamsaran Tsydypov",
       "value": 3194.0,
@@ -571,7 +584,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
       "value": 3194.0,
@@ -580,19 +593,6 @@
         "username": "ChristopherYoo",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/TV",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 45,
-      "id": "legendisback1",
-      "name": "Yagiz Kaan Erdogmus",
-      "value": 3190.0,
-      "unit": "rating",
-      "meta": {
-        "username": "legendisback1",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/TR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-24T17:47:56Z",
+      "fetched_at": "2026-08-24T19:01:21Z",
       "http_status": 200
     }
   ]
