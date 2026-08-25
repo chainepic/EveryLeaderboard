@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-25T19:47:08Z",
-  "as_of": "2026-08-25T19:47:08Z",
+  "generated_at": "2026-08-25T20:48:00Z",
+  "as_of": "2026-08-25T20:48:00Z",
   "period": {
     "label": "live_blitz"
   },
@@ -28,7 +28,7 @@
       "rank": 2,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
-      "value": 3377.0,
+      "value": 3383.0,
       "unit": "rating",
       "meta": {
         "username": "Hikaru",
@@ -455,6 +455,19 @@
     },
     {
       "rank": 35,
+      "id": "MichaelRoiz",
+      "name": "Michael Roiz",
+      "value": 3210.0,
+      "unit": "rating",
+      "meta": {
+        "username": "MichaelRoiz",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IL",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 36,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
       "value": 3210.0,
@@ -463,19 +476,6 @@
         "username": "ChristopherYoo",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/TV",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 36,
-      "id": "MichaelRoiz",
-      "name": "Michael Roiz",
-      "value": 3208.0,
-      "unit": "rating",
-      "meta": {
-        "username": "MichaelRoiz",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
         "category": "live_blitz"
       }
     },
@@ -624,19 +624,6 @@
     },
     {
       "rank": 48,
-      "id": "mishanick",
-      "name": "Aleksei Sarana",
-      "value": 3186.0,
-      "unit": "rating",
-      "meta": {
-        "username": "mishanick",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RS",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 49,
       "id": "wonderfultime",
       "name": "Tuan Minh Le",
       "value": 3184.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "FairChess_on_YouTube",
       "name": "Dmitry Andreikin",
       "value": 3182.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/GE",
         "category": "live_blitz"
       }
+    },
+    {
+      "rank": 50,
+      "id": "Annawel",
+      "name": "Jules Moussard",
+      "value": 3181.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Annawel",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/FR",
+        "category": "live_blitz"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-25T19:47:08Z",
+      "fetched_at": "2026-08-25T20:48:00Z",
       "http_status": 200
     }
   ]
