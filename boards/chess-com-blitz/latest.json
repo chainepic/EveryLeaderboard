@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-25T22:46:53Z",
-  "as_of": "2026-08-25T22:46:53Z",
+  "generated_at": "2026-08-25T23:40:19Z",
+  "as_of": "2026-08-25T23:40:19Z",
   "period": {
     "label": "live_blitz"
   },
@@ -572,6 +572,19 @@
     },
     {
       "rank": 44,
+      "id": "artin10862",
+      "name": "Artin Ashraf",
+      "value": 3201.0,
+      "unit": "rating",
+      "meta": {
+        "username": "artin10862",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/TR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 45,
       "id": "IMaster_01",
       "name": "Arda Camlar",
       "value": 3200.0,
@@ -584,7 +597,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "AnishGiri",
       "name": "AnishGiri",
       "value": 3198.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3197.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 3193.0,
@@ -619,19 +632,6 @@
         "username": "Oleksandr_Bortnyk",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 48,
-      "id": "artin10862",
-      "name": "Artin Ashraf",
-      "value": 3184.0,
-      "unit": "rating",
-      "meta": {
-        "username": "artin10862",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/TR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-25T22:46:53Z",
+      "fetched_at": "2026-08-25T23:40:19Z",
       "http_status": 200
     }
   ]
