@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-25T09:01:50Z",
-  "as_of": "2026-08-25T09:01:50Z",
+  "generated_at": "2026-08-25T09:52:37Z",
+  "as_of": "2026-08-25T09:52:37Z",
   "period": {
     "label": "live_blitz"
   },
@@ -130,6 +130,19 @@
     },
     {
       "rank": 10,
+      "id": "Sina-Movahed",
+      "name": "Sina Movahed",
+      "value": 3279.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Sina-Movahed",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 11,
       "id": "Firouzja2003",
       "name": "Alireza Firouzja",
       "value": 3279.0,
@@ -142,7 +155,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "id": "artooon",
       "name": "Pranesh M",
       "value": 3272.0,
@@ -155,7 +168,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "id": "FaustinoOro",
       "name": "Faustino Oro",
       "value": 3269.0,
@@ -164,19 +177,6 @@
         "username": "FaustinoOro",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/AR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 13,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
-      "value": 3267.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sina-Movahed",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -598,19 +598,6 @@
     },
     {
       "rank": 46,
-      "id": "IMaster_01",
-      "name": "Arda Camlar",
-      "value": 3190.0,
-      "unit": "rating",
-      "meta": {
-        "username": "IMaster_01",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/TR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 47,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3189.0,
@@ -623,7 +610,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": "MITerryble",
       "name": "Renato Terry",
       "value": 3187.0,
@@ -636,7 +623,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": "Jospem",
       "name": "Jose Martinez",
       "value": 3186.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3186.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
+    },
+    {
+      "rank": 50,
+      "id": "Oleksandr_Bortnyk",
+      "name": "Oleksandr Bortnyk",
+      "value": 3183.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Oleksandr_Bortnyk",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-25T09:01:50Z",
+      "fetched_at": "2026-08-25T09:52:37Z",
       "http_status": 200
     }
   ]
