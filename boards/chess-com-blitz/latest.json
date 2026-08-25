@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-25T01:54:00Z",
-  "as_of": "2026-08-25T01:54:00Z",
+  "generated_at": "2026-08-25T03:13:36Z",
+  "as_of": "2026-08-25T03:13:36Z",
   "period": {
     "label": "live_blitz"
   },
@@ -247,6 +247,19 @@
     },
     {
       "rank": 19,
+      "id": "VincentKeymer",
+      "name": "Vincent Keymer",
+      "value": 3237.0,
+      "unit": "rating",
+      "meta": {
+        "username": "VincentKeymer",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/DE",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 20,
       "id": "Volodar_Murzin",
       "name": "Volodar Murzin",
       "value": 3236.0,
@@ -259,7 +272,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 21,
       "id": "lachesisQ",
       "name": "Ian Nepomniachtchi",
       "value": 3230.0,
@@ -272,7 +285,7 @@
       }
     },
     {
-      "rank": 21,
+      "rank": 22,
       "id": "HansOnTwitch",
       "name": "Hans Niemann",
       "value": 3229.0,
@@ -285,7 +298,7 @@
       }
     },
     {
-      "rank": 22,
+      "rank": 23,
       "id": "Mykola-Bortnyk",
       "name": "Mykola Bortnyk",
       "value": 3226.0,
@@ -298,7 +311,7 @@
       }
     },
     {
-      "rank": 23,
+      "rank": 24,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 3220.0,
@@ -311,7 +324,7 @@
       }
     },
     {
-      "rank": 24,
+      "rank": 25,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 3220.0,
@@ -324,7 +337,7 @@
       }
     },
     {
-      "rank": 25,
+      "rank": 26,
       "id": "wonderfultime",
       "name": "Tuan Minh Le",
       "value": 3216.0,
@@ -337,7 +350,7 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 27,
       "id": "ChessWarrior7197",
       "name": "Nodirbek Abdusattorov",
       "value": 3214.0,
@@ -350,7 +363,7 @@
       }
     },
     {
-      "rank": 27,
+      "rank": 28,
       "id": "IMaster_01",
       "name": "Arda Camlar",
       "value": 3213.0,
@@ -363,7 +376,7 @@
       }
     },
     {
-      "rank": 28,
+      "rank": 29,
       "id": "TRadjabov",
       "name": "Teimour Radjabov",
       "value": 3211.0,
@@ -376,7 +389,7 @@
       }
     },
     {
-      "rank": 29,
+      "rank": 30,
       "id": "Javokhir_Sindarov05",
       "name": "Javokhir Sindarov",
       "value": 3210.0,
@@ -389,7 +402,7 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 31,
       "id": "legendisback1",
       "name": "Yagiz Kaan Erdogmus",
       "value": 3210.0,
@@ -402,7 +415,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": "rednova1729",
       "name": "Awonder Liang",
       "value": 3209.0,
@@ -415,7 +428,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": "chess_master_8820",
       "name": "Radin Yadegar",
       "value": 3205.0,
@@ -424,19 +437,6 @@
         "username": "chess_master_8820",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 33,
-      "id": "VincentKeymer",
-      "name": "Vincent Keymer",
-      "value": 3204.0,
-      "unit": "rating",
-      "meta": {
-        "username": "VincentKeymer",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/DE",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-25T01:54:00Z",
+      "fetched_at": "2026-08-25T03:13:36Z",
       "http_status": 200
     }
   ]
