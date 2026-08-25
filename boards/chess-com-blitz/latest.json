@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-25T14:06:24Z",
-  "as_of": "2026-08-25T14:06:24Z",
+  "generated_at": "2026-08-25T15:07:51Z",
+  "as_of": "2026-08-25T15:07:51Z",
   "period": {
     "label": "live_blitz"
   },
@@ -468,6 +468,19 @@
     },
     {
       "rank": 36,
+      "id": "MichaelRoiz",
+      "name": "Michael Roiz",
+      "value": 3203.0,
+      "unit": "rating",
+      "meta": {
+        "username": "MichaelRoiz",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IL",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 37,
       "id": "Arseniy_Nesterov",
       "name": "Arseniy Nesterov",
       "value": 3202.0,
@@ -480,7 +493,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 38,
       "id": "mishanick",
       "name": "Aleksei Sarana",
       "value": 3202.0,
@@ -493,7 +506,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 39,
       "id": "GMBrewChess",
       "name": "Brewington Hardaway",
       "value": 3201.0,
@@ -506,7 +519,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 40,
       "id": "jefferyx",
       "name": "Jeffery Xiong",
       "value": 3201.0,
@@ -519,7 +532,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": "Dolphin_2010",
       "name": "Aleksandr Usov",
       "value": 3200.0,
@@ -532,7 +545,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "IMaster_01",
       "name": "Arda Camlar",
       "value": 3200.0,
@@ -545,7 +558,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 43,
       "id": "AnishGiri",
       "name": "AnishGiri",
       "value": 3198.0,
@@ -554,19 +567,6 @@
         "username": "AnishGiri",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/NL",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 43,
-      "id": "MichaelRoiz",
-      "name": "Michael Roiz",
-      "value": 3197.0,
-      "unit": "rating",
-      "meta": {
-        "username": "MichaelRoiz",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-25T14:06:24Z",
+      "fetched_at": "2026-08-25T15:07:51Z",
       "http_status": 200
     }
   ]
