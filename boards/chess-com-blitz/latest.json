@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-25T18:59:13Z",
-  "as_of": "2026-08-25T18:59:13Z",
+  "generated_at": "2026-08-25T19:47:08Z",
+  "as_of": "2026-08-25T19:47:08Z",
   "period": {
     "label": "live_blitz"
   },
@@ -468,6 +468,19 @@
     },
     {
       "rank": 36,
+      "id": "MichaelRoiz",
+      "name": "Michael Roiz",
+      "value": 3208.0,
+      "unit": "rating",
+      "meta": {
+        "username": "MichaelRoiz",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IL",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 37,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3206.0,
@@ -480,7 +493,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 38,
       "id": "chess_master_8820",
       "name": "Radin Yadegar",
       "value": 3205.0,
@@ -493,7 +506,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 39,
       "id": "ManuDavid2910",
       "name": "Manu David",
       "value": 3203.0,
@@ -506,7 +519,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 40,
       "id": "Fedoseev-Vladimir",
       "name": "Vladimir Fedoseev",
       "value": 3203.0,
@@ -515,19 +528,6 @@
         "username": "Fedoseev-Vladimir",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/SI",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 40,
-      "id": "MichaelRoiz",
-      "name": "Michael Roiz",
-      "value": 3203.0,
-      "unit": "rating",
-      "meta": {
-        "username": "MichaelRoiz",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-25T18:59:13Z",
+      "fetched_at": "2026-08-25T19:47:08Z",
       "http_status": 200
     }
   ]

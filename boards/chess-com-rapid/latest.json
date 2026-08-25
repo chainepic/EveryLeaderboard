@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-25T18:59:13Z",
-  "as_of": "2026-08-25T18:59:13Z",
+  "generated_at": "2026-08-25T19:47:08Z",
+  "as_of": "2026-08-25T19:47:08Z",
   "period": {
     "label": "live_rapid"
   },
@@ -234,6 +234,19 @@
     },
     {
       "rank": 18,
+      "id": "Swiss_Fighter",
+      "name": "Gabriel Gähwiler",
+      "value": 2777.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Swiss_Fighter",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/CH",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 19,
       "id": "Kacparov",
       "name": "Kacper Drozdowski",
       "value": 2777.0,
@@ -242,19 +255,6 @@
         "username": "Kacparov",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/PL",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 19,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2774.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-25T18:59:13Z",
+      "fetched_at": "2026-08-25T19:47:08Z",
       "http_status": 200
     }
   ]
