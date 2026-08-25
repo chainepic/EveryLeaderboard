@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-25T05:49:14Z",
-  "as_of": "2026-08-25T05:49:14Z",
+  "generated_at": "2026-08-25T07:10:15Z",
+  "as_of": "2026-08-25T07:10:15Z",
   "period": {
     "label": "live_rapid"
   },
@@ -585,6 +585,19 @@
     },
     {
       "rank": 45,
+      "id": "mattisan2011",
+      "name": "mattisan2011",
+      "value": 2709.0,
+      "unit": "rating",
+      "meta": {
+        "username": "mattisan2011",
+        "title": null,
+        "country_url": "https://api.chess.com/pub/country/EU",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 46,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 2709.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "Super_Pav",
       "name": "Tikhon Popov",
       "value": 2707.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "dual_flurry",
       "name": "Jerad Docena",
       "value": 2704.0,
@@ -619,19 +632,6 @@
         "username": "dual_flurry",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/PH",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 48,
-      "id": "mattisan2011",
-      "name": "mattisan2011",
-      "value": 2704.0,
-      "unit": "rating",
-      "meta": {
-        "username": "mattisan2011",
-        "title": null,
-        "country_url": "https://api.chess.com/pub/country/EU",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-25T05:49:14Z",
+      "fetched_at": "2026-08-25T07:10:15Z",
       "http_status": 200
     }
   ]
