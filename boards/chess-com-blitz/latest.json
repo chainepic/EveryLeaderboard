@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-25T10:51:12Z",
-  "as_of": "2026-08-25T10:51:12Z",
+  "generated_at": "2026-08-25T11:45:38Z",
+  "as_of": "2026-08-25T11:45:38Z",
   "period": {
     "label": "live_blitz"
   },
@@ -611,6 +611,19 @@
     },
     {
       "rank": 47,
+      "id": "tjychess",
+      "name": "Jingyao Tin",
+      "value": 3187.0,
+      "unit": "rating",
+      "meta": {
+        "username": "tjychess",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/SG",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 48,
       "id": "MITerryble",
       "name": "Renato Terry",
       "value": 3187.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "Jospem",
       "name": "Jose Martinez",
       "value": 3186.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3186.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "Oleksandr_Bortnyk",
-      "name": "Oleksandr Bortnyk",
-      "value": 3183.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Oleksandr_Bortnyk",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-25T10:51:12Z",
+      "fetched_at": "2026-08-25T11:45:38Z",
       "http_status": 200
     }
   ]
