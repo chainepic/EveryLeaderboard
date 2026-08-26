@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-26T09:04:23Z",
-  "as_of": "2026-08-26T09:04:23Z",
+  "generated_at": "2026-08-26T09:58:58Z",
+  "as_of": "2026-08-26T09:58:58Z",
   "period": {
     "label": "live_blitz"
   },
@@ -132,7 +132,7 @@
       "rank": 10,
       "id": "Sina-Movahed",
       "name": "Sina Movahed",
-      "value": 3273.0,
+      "value": 3281.0,
       "unit": "rating",
       "meta": {
         "username": "Sina-Movahed",
@@ -442,19 +442,6 @@
     },
     {
       "rank": 34,
-      "id": "MichaelRoiz",
-      "name": "Michael Roiz",
-      "value": 3210.0,
-      "unit": "rating",
-      "meta": {
-        "username": "MichaelRoiz",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 35,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
       "value": 3209.0,
@@ -467,7 +454,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 35,
       "id": "wonderfultime",
       "name": "Tuan Minh Le",
       "value": 3208.0,
@@ -476,6 +463,19 @@
         "username": "wonderfultime",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/VN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 36,
+      "id": "MichaelRoiz",
+      "name": "Michael Roiz",
+      "value": 3207.0,
+      "unit": "rating",
+      "meta": {
+        "username": "MichaelRoiz",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IL",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-26T09:04:23Z",
+      "fetched_at": "2026-08-26T09:58:58Z",
       "http_status": 200
     }
   ]
