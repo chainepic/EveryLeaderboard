@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-26T11:46:58Z",
-  "as_of": "2026-08-26T11:46:58Z",
+  "generated_at": "2026-08-26T13:18:02Z",
+  "as_of": "2026-08-26T13:18:02Z",
   "period": {
     "label": "live_blitz"
   },
@@ -182,19 +182,6 @@
     },
     {
       "rank": 14,
-      "id": "FaustinoOro",
-      "name": "Faustino Oro",
-      "value": 3253.0,
-      "unit": "rating",
-      "meta": {
-        "username": "FaustinoOro",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/AR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 15,
       "id": "PursuitOfHappyness2",
       "name": "Abhimanyu Mishra",
       "value": 3252.0,
@@ -203,6 +190,19 @@
         "username": "PursuitOfHappyness2",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 15,
+      "id": "FaustinoOro",
+      "name": "Faustino Oro",
+      "value": 3251.0,
+      "unit": "rating",
+      "meta": {
+        "username": "FaustinoOro",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/AR",
         "category": "live_blitz"
       }
     },
@@ -494,6 +494,19 @@
     },
     {
       "rank": 38,
+      "id": "tjychess",
+      "name": "Jingyao Tin",
+      "value": 3205.0,
+      "unit": "rating",
+      "meta": {
+        "username": "tjychess",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/SG",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 39,
       "id": "chess_master_8820",
       "name": "Radin Yadegar",
       "value": 3205.0,
@@ -506,7 +519,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 40,
       "id": "ManuDavid2910",
       "name": "Manu David",
       "value": 3203.0,
@@ -519,7 +532,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": "Fedoseev-Vladimir",
       "name": "Vladimir Fedoseev",
       "value": 3203.0,
@@ -532,7 +545,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "Zhuu96",
       "name": "Zhamsaran Tsydypov",
       "value": 3203.0,
@@ -545,7 +558,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 43,
       "id": "Arseniy_Nesterov",
       "name": "Arseniy Nesterov",
       "value": 3202.0,
@@ -558,7 +571,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 44,
       "id": "GMBrewChess",
       "name": "Brewington Hardaway",
       "value": 3201.0,
@@ -571,7 +584,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": "artin10862",
       "name": "Artin Ashraf",
       "value": 3201.0,
@@ -584,7 +597,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "IMaster_01",
       "name": "Arda Camlar",
       "value": 3200.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "AnishGiri",
       "name": "AnishGiri",
       "value": 3198.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3197.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 3193.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "FairChess_on_YouTube",
       "name": "Dmitry Andreikin",
       "value": 3185.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/GE",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "Annawel",
-      "name": "Jules Moussard",
-      "value": 3181.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Annawel",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/FR",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-26T11:46:58Z",
+      "fetched_at": "2026-08-26T13:18:02Z",
       "http_status": 200
     }
   ]
