@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-26T01:59:46Z",
-  "as_of": "2026-08-26T01:59:46Z",
+  "generated_at": "2026-08-26T03:19:52Z",
+  "as_of": "2026-08-26T03:19:52Z",
   "period": {
     "label": "live_rapid"
   },
@@ -377,19 +377,6 @@
     },
     {
       "rank": 29,
-      "id": "2007checkmate",
-      "name": "Vyom Vidyarthi",
-      "value": 2746.0,
-      "unit": "rating",
-      "meta": {
-        "username": "2007checkmate",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 30,
       "id": "FabianoCaruana",
       "name": "Fabiano Caruana",
       "value": 2743.0,
@@ -402,7 +389,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 30,
       "id": "Sibelephant",
       "name": "Vladislav Artemiev",
       "value": 2740.0,
@@ -415,7 +402,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 31,
       "id": "Duhless",
       "name": "Daniil Dubov",
       "value": 2735.0,
@@ -428,7 +415,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 32,
       "id": "lethalspider7",
       "name": "lethalspider7",
       "value": 2733.0,
@@ -441,7 +428,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 33,
       "id": "TheVish",
       "name": "Viswanathan Anand",
       "value": 2731.0,
@@ -454,7 +441,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 34,
       "id": "viditchess",
       "name": "Vidit Gujrathi",
       "value": 2729.0,
@@ -467,7 +454,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 35,
       "id": "FandiMazen",
       "name": "Mazen Fandi",
       "value": 2725.0,
@@ -480,7 +467,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 36,
       "id": "Szparu",
       "name": "Miłosz Szpar",
       "value": 2722.0,
@@ -493,7 +480,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 37,
       "id": "HansOnTwitch",
       "name": "Hans Niemann",
       "value": 2720.0,
@@ -506,7 +493,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 38,
       "id": "mishanick",
       "name": "Aleksei Sarana",
       "value": 2718.0,
@@ -519,7 +506,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 39,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 2718.0,
@@ -532,7 +519,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 40,
       "id": "Berardino",
       "name": "Diego Berardino",
       "value": 2717.0,
@@ -545,7 +532,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 41,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 2712.0,
@@ -558,7 +545,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 42,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 2711.0,
@@ -571,7 +558,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 43,
       "id": "KNVB",
       "name": "Aman Hambleton",
       "value": 2710.0,
@@ -584,7 +571,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 44,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 2709.0,
@@ -597,7 +584,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": "Super_Pav",
       "name": "Tikhon Popov",
       "value": 2707.0,
@@ -610,7 +597,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": "dual_flurry",
       "name": "Jerad Docena",
       "value": 2704.0,
@@ -623,7 +610,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": "alexboy14",
       "name": "Oleksii Nakonechnyi",
       "value": 2703.0,
@@ -636,7 +623,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": "Liindseeyy",
       "name": "Liindseeyy",
       "value": 2702.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "CKJY2796",
       "name": "Jason Yeung",
       "value": 2702.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/SR",
         "category": "live_rapid"
       }
+    },
+    {
+      "rank": 50,
+      "id": "mmgchess",
+      "name": "Marcos Gonzalez",
+      "value": 2701.0,
+      "unit": "rating",
+      "meta": {
+        "username": "mmgchess",
+        "title": "NM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-26T01:59:46Z",
+      "fetched_at": "2026-08-26T03:19:52Z",
       "http_status": 200
     }
   ]
