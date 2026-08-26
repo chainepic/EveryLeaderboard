@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-26T08:01:37Z",
-  "as_of": "2026-08-26T08:01:37Z",
+  "generated_at": "2026-08-26T09:04:23Z",
+  "as_of": "2026-08-26T09:04:23Z",
   "period": {
     "label": "live_blitz"
   },
@@ -41,7 +41,7 @@
       "rank": 3,
       "id": "nihalsarin",
       "name": "Nihal Sarin",
-      "value": 3343.0,
+      "value": 3374.0,
       "unit": "rating",
       "meta": {
         "username": "nihalsarin",
@@ -104,19 +104,6 @@
     },
     {
       "rank": 8,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
-      "value": 3300.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sina-Movahed",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 9,
       "id": "rpragchess",
       "name": "Praggnanandhaa Rameshbabu",
       "value": 3296.0,
@@ -129,7 +116,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "LyonBeast",
       "name": "Maxime Vachier-Lagrave",
       "value": 3296.0,
@@ -138,6 +125,19 @@
         "username": "LyonBeast",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/FR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 10,
+      "id": "Sina-Movahed",
+      "name": "Sina Movahed",
+      "value": 3273.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Sina-Movahed",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-26T08:01:37Z",
+      "fetched_at": "2026-08-26T09:04:23Z",
       "http_status": 200
     }
   ]
