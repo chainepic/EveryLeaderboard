@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-26T19:19:42Z",
-  "as_of": "2026-08-26T19:19:42Z",
+  "generated_at": "2026-08-26T23:37:04Z",
+  "as_of": "2026-08-26T23:37:04Z",
   "period": {
     "label": "live_rapid"
   },
@@ -234,6 +234,19 @@
     },
     {
       "rank": 18,
+      "id": "Kacparov",
+      "name": "Kacper Drozdowski",
+      "value": 2779.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Kacparov",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/PL",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 19,
       "id": "LOVEVAE",
       "name": "Wei Yi",
       "value": 2778.0,
@@ -242,19 +255,6 @@
         "username": "LOVEVAE",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/CN",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 19,
-      "id": "Kacparov",
-      "name": "Kacper Drozdowski",
-      "value": 2777.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Kacparov",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/PL",
         "category": "live_rapid"
       }
     },
@@ -366,7 +366,7 @@
       "rank": 28,
       "id": "GMKrikor",
       "name": "Krikor Sevag Mekhitarian",
-      "value": 2743.0,
+      "value": 2747.0,
       "unit": "rating",
       "meta": {
         "username": "GMKrikor",
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-26T19:19:42Z",
+      "fetched_at": "2026-08-26T23:37:04Z",
       "http_status": 200
     }
   ]
