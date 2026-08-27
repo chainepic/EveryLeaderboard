@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-27T09:52:48Z",
-  "as_of": "2026-08-27T09:52:48Z",
+  "generated_at": "2026-08-27T20:32:48Z",
+  "as_of": "2026-08-27T20:32:48Z",
   "period": {
     "label": "live_rapid"
   },
@@ -312,6 +312,19 @@
     },
     {
       "rank": 24,
+      "id": "Evandro_Barbosa",
+      "name": "Evandro Amorim Barbosa",
+      "value": 2758.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Evandro_Barbosa",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 25,
       "id": "g3god",
       "name": "Sasikiran Krishnan",
       "value": 2756.0,
@@ -320,19 +333,6 @@
         "username": "g3god",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IN",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 25,
-      "id": "Evandro_Barbosa",
-      "name": "Evandro Amorim Barbosa",
-      "value": 2756.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Evandro_Barbosa",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
@@ -390,6 +390,19 @@
     },
     {
       "rank": 30,
+      "id": "FandiMazen",
+      "name": "Mazen Fandi",
+      "value": 2741.0,
+      "unit": "rating",
+      "meta": {
+        "username": "FandiMazen",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/SY",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 31,
       "id": "Sibelephant",
       "name": "Vladislav Artemiev",
       "value": 2740.0,
@@ -402,7 +415,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": "Duhless",
       "name": "Daniil Dubov",
       "value": 2735.0,
@@ -415,7 +428,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": "lethalspider7",
       "name": "lethalspider7",
       "value": 2733.0,
@@ -428,7 +441,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 34,
       "id": "TheVish",
       "name": "Viswanathan Anand",
       "value": 2731.0,
@@ -441,7 +454,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 35,
       "id": "viditchess",
       "name": "Vidit Gujrathi",
       "value": 2729.0,
@@ -450,19 +463,6 @@
         "username": "viditchess",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IN",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 35,
-      "id": "FandiMazen",
-      "name": "Mazen Fandi",
-      "value": 2725.0,
-      "unit": "rating",
-      "meta": {
-        "username": "FandiMazen",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/SY",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-27T09:52:48Z",
+      "fetched_at": "2026-08-27T20:32:48Z",
       "http_status": 200
     }
   ]
