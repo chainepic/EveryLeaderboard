@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-28T05:25:55Z",
-  "as_of": "2026-08-28T05:25:55Z",
+  "generated_at": "2026-08-28T18:45:10Z",
+  "as_of": "2026-08-28T18:45:10Z",
   "period": {
     "label": "live_rapid"
   },
@@ -390,19 +390,6 @@
     },
     {
       "rank": 30,
-      "id": "FandiMazen",
-      "name": "Mazen Fandi",
-      "value": 2741.0,
-      "unit": "rating",
-      "meta": {
-        "username": "FandiMazen",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/SY",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 31,
       "id": "Sibelephant",
       "name": "Vladislav Artemiev",
       "value": 2740.0,
@@ -415,7 +402,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 31,
       "id": "Duhless",
       "name": "Daniil Dubov",
       "value": 2735.0,
@@ -428,7 +415,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 32,
       "id": "lethalspider7",
       "name": "lethalspider7",
       "value": 2733.0,
@@ -441,7 +428,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 33,
       "id": "TheVish",
       "name": "Viswanathan Anand",
       "value": 2731.0,
@@ -454,7 +441,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 34,
       "id": "viditchess",
       "name": "Vidit Gujrathi",
       "value": 2729.0,
@@ -463,6 +450,19 @@
         "username": "viditchess",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IN",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 35,
+      "id": "FandiMazen",
+      "name": "Mazen Fandi",
+      "value": 2729.0,
+      "unit": "rating",
+      "meta": {
+        "username": "FandiMazen",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/SY",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-28T05:25:55Z",
+      "fetched_at": "2026-08-28T18:45:10Z",
       "http_status": 200
     }
   ]
