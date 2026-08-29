@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-29T02:13:43Z",
-  "as_of": "2026-08-29T02:13:43Z",
+  "generated_at": "2026-08-29T09:06:41Z",
+  "as_of": "2026-08-29T09:06:41Z",
   "period": {
     "label": "live_rapid"
   },
@@ -533,19 +533,6 @@
     },
     {
       "rank": 41,
-      "id": "grandmastergauri",
-      "name": "Gauri Shankar",
-      "value": 2715.0,
-      "unit": "rating",
-      "meta": {
-        "username": "grandmastergauri",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 42,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 2712.0,
@@ -558,7 +545,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 42,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 2711.0,
@@ -571,7 +558,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 43,
       "id": "KNVB",
       "name": "Aman Hambleton",
       "value": 2710.0,
@@ -584,7 +571,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 44,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 2709.0,
@@ -597,7 +584,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": "Super_Pav",
       "name": "Tikhon Popov",
       "value": 2707.0,
@@ -610,7 +597,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": "dual_flurry",
       "name": "Jerad Docena",
       "value": 2704.0,
@@ -623,7 +610,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": "alexboy14",
       "name": "Oleksii Nakonechnyi",
       "value": 2703.0,
@@ -636,7 +623,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": "Liindseeyy",
       "name": "Liindseeyy",
       "value": 2702.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "CKJY2796",
       "name": "Jason Yeung",
       "value": 2702.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/SR",
         "category": "live_rapid"
       }
+    },
+    {
+      "rank": 50,
+      "id": "mmgchess",
+      "name": "Marcos Gonzalez",
+      "value": 2701.0,
+      "unit": "rating",
+      "meta": {
+        "username": "mmgchess",
+        "title": "NM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-29T02:13:43Z",
+      "fetched_at": "2026-08-29T09:06:41Z",
       "http_status": 200
     }
   ]
