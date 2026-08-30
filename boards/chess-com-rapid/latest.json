@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-30T12:56:00Z",
-  "as_of": "2026-08-30T12:56:00Z",
+  "generated_at": "2026-08-30T17:31:39Z",
+  "as_of": "2026-08-30T17:31:39Z",
   "period": {
     "label": "live_rapid"
   },
@@ -650,14 +650,14 @@
     },
     {
       "rank": 50,
-      "id": "mmgchess",
-      "name": "Marcos Gonzalez",
+      "id": "GrigoryanValera",
+      "name": "GrigoryanValera",
       "value": 2701.0,
       "unit": "rating",
       "meta": {
-        "username": "mmgchess",
-        "title": "NM",
-        "country_url": "https://api.chess.com/pub/country/US",
+        "username": "GrigoryanValera",
+        "title": null,
+        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_rapid"
       }
     }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-30T12:56:00Z",
+      "fetched_at": "2026-08-30T17:31:39Z",
       "http_status": 200
     }
   ]
