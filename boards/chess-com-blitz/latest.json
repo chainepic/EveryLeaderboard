@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-30T06:42:40Z",
-  "as_of": "2026-08-30T06:42:40Z",
+  "generated_at": "2026-08-30T12:55:59Z",
+  "as_of": "2026-08-30T12:55:59Z",
   "period": {
     "label": "live_blitz"
   },
@@ -171,7 +171,7 @@
       "rank": 13,
       "id": "Sina-Movahed",
       "name": "Sina Movahed",
-      "value": 3267.0,
+      "value": 3262.0,
       "unit": "rating",
       "meta": {
         "username": "Sina-Movahed",
@@ -611,19 +611,6 @@
     },
     {
       "rank": 47,
-      "id": "AnishGiri",
-      "name": "AnishGiri",
-      "value": 3198.0,
-      "unit": "rating",
-      "meta": {
-        "username": "AnishGiri",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/NL",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 48,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3197.0,
@@ -636,7 +623,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3197.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "Zhuu96",
       "name": "Zhamsaran Tsydypov",
       "value": 3191.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
+    },
+    {
+      "rank": 50,
+      "id": "wonderfultime",
+      "name": "Tuan Minh Le",
+      "value": 3191.0,
+      "unit": "rating",
+      "meta": {
+        "username": "wonderfultime",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/VN",
+        "category": "live_blitz"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-30T06:42:40Z",
+      "fetched_at": "2026-08-30T12:55:59Z",
       "http_status": 200
     }
   ]
