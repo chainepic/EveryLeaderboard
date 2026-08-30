@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-08-30T17:31:39Z",
-  "as_of": "2026-08-30T17:31:39Z",
+  "generated_at": "2026-08-30T21:08:59Z",
+  "as_of": "2026-08-30T21:08:59Z",
   "period": {
     "label": "live_blitz"
   },
@@ -41,7 +41,7 @@
       "rank": 3,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
-      "value": 3366.0,
+      "value": 3364.0,
       "unit": "rating",
       "meta": {
         "username": "Hikaru",
@@ -377,6 +377,19 @@
     },
     {
       "rank": 29,
+      "id": "ChessWarrior7197",
+      "name": "Nodirbek Abdusattorov",
+      "value": 3223.0,
+      "unit": "rating",
+      "meta": {
+        "username": "ChessWarrior7197",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/UZ",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 30,
       "id": "MichaelRoiz",
       "name": "Michael Roiz",
       "value": 3221.0,
@@ -389,7 +402,7 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 31,
       "id": "legendisback1",
       "name": "Yagiz Kaan Erdogmus",
       "value": 3219.0,
@@ -402,7 +415,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": "TRadjabov",
       "name": "Teimour Radjabov",
       "value": 3218.0,
@@ -415,7 +428,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": "Harmonized_kakophonia",
       "name": "Dau Khuong Duy",
       "value": 3216.0,
@@ -428,7 +441,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 34,
       "id": "chess_master_8820",
       "name": "Radin Yadegar",
       "value": 3215.0,
@@ -437,19 +450,6 @@
         "username": "chess_master_8820",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 34,
-      "id": "ChessWarrior7197",
-      "name": "Nodirbek Abdusattorov",
-      "value": 3214.0,
-      "unit": "rating",
-      "meta": {
-        "username": "ChessWarrior7197",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/UZ",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-30T17:31:39Z",
+      "fetched_at": "2026-08-30T21:08:59Z",
       "http_status": 200
     }
   ]
