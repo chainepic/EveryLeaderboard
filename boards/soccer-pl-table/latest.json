@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "soccer-pl-table",
-  "generated_at": "2026-08-31T20:08:03Z",
-  "as_of": "2026-08-31T20:08:03Z",
+  "generated_at": "2026-08-31T23:52:37Z",
+  "as_of": "2026-08-31T23:52:37Z",
   "period": {
     "label": "2026-27 English Premier League"
   },
@@ -29,6 +29,22 @@
     },
     {
       "rank": 2,
+      "id": "359",
+      "name": "Arsenal",
+      "value": 6.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 2.0,
+        "losses": 0.0,
+        "ties": 0.0,
+        "games_played": 2.0,
+        "goal_diff": 4.0,
+        "season": "2026-27 English Premier League"
+      }
+    },
+    {
+      "rank": 3,
       "id": "306",
       "name": "Hull City",
       "value": 6.0,
@@ -44,7 +60,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "363",
       "name": "Chelsea",
       "value": 6.0,
@@ -60,7 +76,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "337",
       "name": "Brentford",
       "value": 4.0,
@@ -76,7 +92,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "361",
       "name": "Newcastle United",
       "value": 4.0,
@@ -92,7 +108,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "368",
       "name": "Everton",
       "value": 4.0,
@@ -108,7 +124,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "357",
       "name": "Leeds United",
       "value": 4.0,
@@ -124,7 +140,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "331",
       "name": "Brighton & Hove Albion",
       "value": 3.0,
@@ -135,22 +151,6 @@
         "losses": 1.0,
         "ties": 0.0,
         "games_played": 2.0,
-        "goal_diff": 3.0,
-        "season": "2026-27 English Premier League"
-      }
-    },
-    {
-      "rank": 9,
-      "id": "359",
-      "name": "Arsenal",
-      "value": 3.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 1.0,
-        "losses": 0.0,
-        "ties": 0.0,
-        "games_played": 1.0,
         "goal_diff": 3.0,
         "season": "2026-27 English Premier League"
       }
@@ -269,22 +269,6 @@
     },
     {
       "rank": 17,
-      "id": "362",
-      "name": "Aston Villa",
-      "value": 0.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 0.0,
-        "losses": 1.0,
-        "ties": 0.0,
-        "games_played": 1.0,
-        "goal_diff": -4.0,
-        "season": "2026-27 English Premier League"
-      }
-    },
-    {
-      "rank": 18,
       "id": "388",
       "name": "Coventry City",
       "value": 0.0,
@@ -300,9 +284,25 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "id": "384",
       "name": "Crystal Palace",
+      "value": 0.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 0.0,
+        "losses": 2.0,
+        "ties": 0.0,
+        "games_played": 2.0,
+        "goal_diff": -5.0,
+        "season": "2026-27 English Premier League"
+      }
+    },
+    {
+      "rank": 19,
+      "id": "362",
+      "name": "Aston Villa",
       "value": 0.0,
       "unit": "pts",
       "meta": {
@@ -336,7 +336,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/soccer/eng.1/standings",
-      "fetched_at": "2026-08-31T20:08:03Z",
+      "fetched_at": "2026-08-31T23:52:37Z",
       "http_status": 200
     }
   ]
