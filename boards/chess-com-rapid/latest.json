@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-08-31T13:56:03Z",
-  "as_of": "2026-08-31T13:56:03Z",
+  "generated_at": "2026-08-31T20:08:00Z",
+  "as_of": "2026-08-31T20:08:00Z",
   "period": {
     "label": "live_rapid"
   },
@@ -247,6 +247,19 @@
     },
     {
       "rank": 19,
+      "id": "Swiss_Fighter",
+      "name": "Gabriel Gähwiler",
+      "value": 2772.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Swiss_Fighter",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/CH",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 20,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
       "value": 2770.0,
@@ -259,7 +272,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 21,
       "id": "nihalsarin",
       "name": "Nihal Sarin",
       "value": 2767.0,
@@ -272,7 +285,7 @@
       }
     },
     {
-      "rank": 21,
+      "rank": 22,
       "id": "GigaQuparadze",
       "name": "Giga Quparadze",
       "value": 2766.0,
@@ -281,19 +294,6 @@
         "username": "GigaQuparadze",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/GE",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 22,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2764.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
         "category": "live_rapid"
       }
     },
@@ -364,6 +364,19 @@
     },
     {
       "rank": 28,
+      "id": "GMKrikor",
+      "name": "Krikor Sevag Mekhitarian",
+      "value": 2753.0,
+      "unit": "rating",
+      "meta": {
+        "username": "GMKrikor",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 29,
       "id": "astralpulse",
       "name": "Alex Goldin",
       "value": 2749.0,
@@ -372,19 +385,6 @@
         "username": "astralpulse",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 29,
-      "id": "GMKrikor",
-      "name": "Krikor Sevag Mekhitarian",
-      "value": 2748.0,
-      "unit": "rating",
-      "meta": {
-        "username": "GMKrikor",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-08-31T13:56:03Z",
+      "fetched_at": "2026-08-31T20:08:00Z",
       "http_status": 200
     }
   ]
