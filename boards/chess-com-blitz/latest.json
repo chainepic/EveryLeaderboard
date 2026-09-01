@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-01T18:34:09Z",
-  "as_of": "2026-09-01T18:34:09Z",
+  "generated_at": "2026-09-01T21:48:40Z",
+  "as_of": "2026-09-01T21:48:40Z",
   "period": {
     "label": "live_blitz"
   },
@@ -208,6 +208,19 @@
     },
     {
       "rank": 16,
+      "id": "lachesisQ",
+      "name": "Ian Nepomniachtchi",
+      "value": 3259.0,
+      "unit": "rating",
+      "meta": {
+        "username": "lachesisQ",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 17,
       "id": "VincentKeymer",
       "name": "Vincent Keymer",
       "value": 3258.0,
@@ -220,7 +233,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "spicycaterpillar",
       "name": "Ray Robson",
       "value": 3255.0,
@@ -229,19 +242,6 @@
         "username": "spicycaterpillar",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 18,
-      "id": "lachesisQ",
-      "name": "Ian Nepomniachtchi",
-      "value": 3255.0,
-      "unit": "rating",
-      "meta": {
-        "username": "lachesisQ",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     },
@@ -651,7 +651,7 @@
     {
       "rank": 50,
       "id": "AnishGiri",
-      "name": "AnishGiri",
+      "name": "Anish Giri",
       "value": 3187.0,
       "unit": "rating",
       "meta": {
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-01T18:34:09Z",
+      "fetched_at": "2026-09-01T21:48:40Z",
       "http_status": 200
     }
   ]
