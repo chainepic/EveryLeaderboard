@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-09-01T05:13:50Z",
-  "as_of": "2026-09-01T05:13:50Z",
+  "generated_at": "2026-09-01T10:10:57Z",
+  "as_of": "2026-09-01T10:10:57Z",
   "period": {
     "label": "live_rapid"
   },
@@ -546,6 +546,19 @@
     },
     {
       "rank": 42,
+      "id": "alexboy14",
+      "name": "Oleksii Nakonechnyi",
+      "value": 2715.0,
+      "unit": "rating",
+      "meta": {
+        "username": "alexboy14",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/PL",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 43,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 2712.0,
@@ -558,7 +571,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 44,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 2711.0,
@@ -571,7 +584,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": "KNVB",
       "name": "Aman Hambleton",
       "value": 2710.0,
@@ -584,7 +597,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 2709.0,
@@ -593,19 +606,6 @@
         "username": "Parhamov",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 46,
-      "id": "alexboy14",
-      "name": "Oleksii Nakonechnyi",
-      "value": 2708.0,
-      "unit": "rating",
-      "meta": {
-        "username": "alexboy14",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/PL",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-01T05:13:50Z",
+      "fetched_at": "2026-09-01T10:10:57Z",
       "http_status": 200
     }
   ]
