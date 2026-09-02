@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-02T00:16:52Z",
-  "as_of": "2026-09-02T00:16:52Z",
+  "generated_at": "2026-09-02T04:45:05Z",
+  "as_of": "2026-09-02T04:45:05Z",
   "period": {
     "label": "live_blitz"
   },
@@ -377,6 +377,19 @@
     },
     {
       "rank": 29,
+      "id": "Konavets",
+      "name": "Sam Sevian",
+      "value": 3229.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Konavets",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 30,
       "id": "Mykola-Bortnyk",
       "name": "Mykola Bortnyk",
       "value": 3226.0,
@@ -389,7 +402,7 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 31,
       "id": "IMaster_01",
       "name": "Arda Camlar",
       "value": 3225.0,
@@ -402,7 +415,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": "legendisback1",
       "name": "Yagiz Kaan Erdogmus",
       "value": 3219.0,
@@ -415,7 +428,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": "Arseniy_Nesterov",
       "name": "Arseniy Nesterov",
       "value": 3218.0,
@@ -428,7 +441,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 34,
       "id": "TRadjabov",
       "name": "Teimour Radjabov",
       "value": 3218.0,
@@ -437,19 +450,6 @@
         "username": "TRadjabov",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/AZ",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 34,
-      "id": "Konavets",
-      "name": "Sam Sevian",
-      "value": 3217.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Konavets",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
@@ -650,14 +650,14 @@
     },
     {
       "rank": 50,
-      "id": "Zhuu96",
-      "name": "Zhamsaran Tsydypov",
-      "value": 3191.0,
+      "id": "ChristopherYoo",
+      "name": "Christopher Woojin Yoo",
+      "value": 3192.0,
       "unit": "rating",
       "meta": {
-        "username": "Zhuu96",
+        "username": "ChristopherYoo",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
+        "country_url": "https://api.chess.com/pub/country/TV",
         "category": "live_blitz"
       }
     }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-02T00:16:52Z",
+      "fetched_at": "2026-09-02T04:45:05Z",
       "http_status": 200
     }
   ]
