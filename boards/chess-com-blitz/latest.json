@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-02T14:31:29Z",
-  "as_of": "2026-09-02T14:31:29Z",
+  "generated_at": "2026-09-02T18:45:07Z",
+  "as_of": "2026-09-02T18:45:07Z",
   "period": {
     "label": "live_blitz"
   },
@@ -93,7 +93,7 @@
       "rank": 7,
       "id": "FaustinoOro",
       "name": "Faustino Oro",
-      "value": 3302.0,
+      "value": 3301.0,
       "unit": "rating",
       "meta": {
         "username": "FaustinoOro",
@@ -611,6 +611,19 @@
     },
     {
       "rank": 47,
+      "id": "Oleksandr_Bortnyk",
+      "name": "Oleksandr Bortnyk",
+      "value": 3197.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Oleksandr_Bortnyk",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 48,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3197.0,
@@ -619,19 +632,6 @@
         "username": "Andreikka",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 48,
-      "id": "Oleksandr_Bortnyk",
-      "name": "Oleksandr Bortnyk",
-      "value": 3194.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Oleksandr_Bortnyk",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-02T14:31:29Z",
+      "fetched_at": "2026-09-02T18:45:07Z",
       "http_status": 200
     }
   ]
