@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-02T18:45:07Z",
-  "as_of": "2026-09-02T18:45:07Z",
+  "generated_at": "2026-09-02T21:51:11Z",
+  "as_of": "2026-09-02T21:51:11Z",
   "period": {
     "label": "live_blitz"
   },
@@ -585,6 +585,19 @@
     },
     {
       "rank": 45,
+      "id": "bubeliang",
+      "name": "Havard Haug",
+      "value": 3200.0,
+      "unit": "rating",
+      "meta": {
+        "username": "bubeliang",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/NO",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 46,
       "id": "rednova1729",
       "name": "Awonder Liang",
       "value": 3199.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "wonderfultime",
       "name": "Tuan Minh Le",
       "value": 3199.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 3197.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3197.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3194.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "ChristopherYoo",
-      "name": "Christopher Woojin Yoo",
-      "value": 3192.0,
-      "unit": "rating",
-      "meta": {
-        "username": "ChristopherYoo",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/TV",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-02T18:45:07Z",
+      "fetched_at": "2026-09-02T21:51:11Z",
       "http_status": 200
     }
   ]
