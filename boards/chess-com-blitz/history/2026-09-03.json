@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-03T05:50:39Z",
-  "as_of": "2026-09-03T05:50:39Z",
+  "generated_at": "2026-09-03T11:18:23Z",
+  "as_of": "2026-09-03T11:18:23Z",
   "period": {
     "label": "live_blitz"
   },
@@ -143,6 +143,19 @@
     },
     {
       "rank": 11,
+      "id": "IMaster_01",
+      "name": "Arda Camlar",
+      "value": 3285.0,
+      "unit": "rating",
+      "meta": {
+        "username": "IMaster_01",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/TR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 12,
       "id": "GHANDEEVAM2003",
       "name": "Arjun Erigaisi",
       "value": 3285.0,
@@ -155,7 +168,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "id": "LyonBeast",
       "name": "Maxime Vachier-Lagrave",
       "value": 3278.0,
@@ -168,7 +181,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": "HansOnTwitch",
       "name": "Hans Niemann",
       "value": 3273.0,
@@ -177,19 +190,6 @@
         "username": "HansOnTwitch",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 14,
-      "id": "IMaster_01",
-      "name": "Arda Camlar",
-      "value": 3266.0,
-      "unit": "rating",
-      "meta": {
-        "username": "IMaster_01",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/TR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-03T05:50:39Z",
+      "fetched_at": "2026-09-03T11:18:23Z",
       "http_status": 200
     }
   ]
