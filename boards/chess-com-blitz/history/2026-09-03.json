@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-03T00:18:35Z",
-  "as_of": "2026-09-03T00:18:35Z",
+  "generated_at": "2026-09-03T05:50:39Z",
+  "as_of": "2026-09-03T05:50:39Z",
   "period": {
     "label": "live_blitz"
   },
@@ -611,19 +611,6 @@
     },
     {
       "rank": 47,
-      "id": "wonderfultime",
-      "name": "Tuan Minh Le",
-      "value": 3199.0,
-      "unit": "rating",
-      "meta": {
-        "username": "wonderfultime",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/VN",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 48,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 3197.0,
@@ -636,7 +623,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3197.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3194.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
+    },
+    {
+      "rank": 50,
+      "id": "ChristopherYoo",
+      "name": "Christopher Woojin Yoo",
+      "value": 3192.0,
+      "unit": "rating",
+      "meta": {
+        "username": "ChristopherYoo",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/TV",
+        "category": "live_blitz"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-03T00:18:35Z",
+      "fetched_at": "2026-09-03T05:50:39Z",
       "http_status": 200
     }
   ]
