@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-03T11:18:23Z",
-  "as_of": "2026-09-03T11:18:23Z",
+  "generated_at": "2026-09-03T16:27:47Z",
+  "as_of": "2026-09-03T16:27:47Z",
   "period": {
     "label": "live_blitz"
   },
@@ -104,19 +104,6 @@
     },
     {
       "rank": 8,
-      "id": "rpragchess",
-      "name": "Praggnanandhaa Rameshbabu",
-      "value": 3296.0,
-      "unit": "rating",
-      "meta": {
-        "username": "rpragchess",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IN",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 9,
       "id": "artooon",
       "name": "Pranesh M",
       "value": 3295.0,
@@ -129,20 +116,7 @@
       }
     },
     {
-      "rank": 10,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
-      "value": 3290.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sina-Movahed",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 11,
+      "rank": 9,
       "id": "IMaster_01",
       "name": "Arda Camlar",
       "value": 3285.0,
@@ -155,7 +129,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 10,
       "id": "GHANDEEVAM2003",
       "name": "Arjun Erigaisi",
       "value": 3285.0,
@@ -168,7 +142,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 11,
       "id": "LyonBeast",
       "name": "Maxime Vachier-Lagrave",
       "value": 3278.0,
@@ -181,7 +155,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 12,
       "id": "HansOnTwitch",
       "name": "Hans Niemann",
       "value": 3273.0,
@@ -194,20 +168,20 @@
       }
     },
     {
-      "rank": 15,
-      "id": "vi_pranav",
-      "name": "Pranav V",
-      "value": 3264.0,
+      "rank": 13,
+      "id": "rpragchess",
+      "name": "Praggnanandhaa Rameshbabu",
+      "value": 3266.0,
       "unit": "rating",
       "meta": {
-        "username": "vi_pranav",
+        "username": "rpragchess",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IN",
         "category": "live_blitz"
       }
     },
     {
-      "rank": 16,
+      "rank": 14,
       "id": "GMWSO",
       "name": "Wesley So",
       "value": 3263.0,
@@ -220,7 +194,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 15,
       "id": "lachesisQ",
       "name": "Ian Nepomniachtchi",
       "value": 3259.0,
@@ -233,7 +207,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 16,
       "id": "VincentKeymer",
       "name": "Vincent Keymer",
       "value": 3258.0,
@@ -246,7 +220,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 17,
       "id": "spicycaterpillar",
       "name": "Ray Robson",
       "value": 3255.0,
@@ -259,7 +233,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 18,
       "id": "PursuitOfHappyness2",
       "name": "Abhimanyu Mishra",
       "value": 3255.0,
@@ -268,6 +242,32 @@
         "username": "PursuitOfHappyness2",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 19,
+      "id": "Sina-Movahed",
+      "name": "Sina Movahed",
+      "value": 3252.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Sina-Movahed",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 20,
+      "id": "vi_pranav",
+      "name": "Pranav V",
+      "value": 3249.0,
+      "unit": "rating",
+      "meta": {
+        "username": "vi_pranav",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IN",
         "category": "live_blitz"
       }
     },
@@ -286,6 +286,32 @@
     },
     {
       "rank": 22,
+      "id": "mishanick",
+      "name": "Aleksei Sarana",
+      "value": 3249.0,
+      "unit": "rating",
+      "meta": {
+        "username": "mishanick",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RS",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 23,
+      "id": "DenLaz",
+      "name": "Denis Lazavik",
+      "value": 3247.0,
+      "unit": "rating",
+      "meta": {
+        "username": "DenLaz",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BY",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 24,
       "id": "LevonAronian",
       "name": "Levon Aronian",
       "value": 3246.0,
@@ -298,7 +324,7 @@
       }
     },
     {
-      "rank": 23,
+      "rank": 25,
       "id": "ChessWarrior7197",
       "name": "Nodirbek Abdusattorov",
       "value": 3243.0,
@@ -311,20 +337,20 @@
       }
     },
     {
-      "rank": 24,
-      "id": "Parhamov",
-      "name": "Parham Maghsoodloo",
-      "value": 3239.0,
+      "rank": 26,
+      "id": "jefferyx",
+      "name": "Jeffery Xiong",
+      "value": 3242.0,
       "unit": "rating",
       "meta": {
-        "username": "Parhamov",
+        "username": "jefferyx",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
+        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
     {
-      "rank": 25,
+      "rank": 27,
       "id": "Volodar_Murzin",
       "name": "Volodar Murzin",
       "value": 3236.0,
@@ -337,20 +363,7 @@
       }
     },
     {
-      "rank": 26,
-      "id": "jefferyx",
-      "name": "Jeffery Xiong",
-      "value": 3236.0,
-      "unit": "rating",
-      "meta": {
-        "username": "jefferyx",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 27,
+      "rank": 28,
       "id": "MichaelRoiz",
       "name": "Michael Roiz",
       "value": 3234.0,
@@ -363,33 +376,7 @@
       }
     },
     {
-      "rank": 28,
-      "id": "mishanick",
-      "name": "Aleksei Sarana",
-      "value": 3234.0,
-      "unit": "rating",
-      "meta": {
-        "username": "mishanick",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RS",
-        "category": "live_blitz"
-      }
-    },
-    {
       "rank": 29,
-      "id": "Dolphin_2010",
-      "name": "Aleksandr Usov",
-      "value": 3230.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Dolphin_2010",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 30,
       "id": "Konavets",
       "name": "Sam Sevian",
       "value": 3227.0,
@@ -402,7 +389,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 30,
       "id": "Mykola-Bortnyk",
       "name": "Mykola Bortnyk",
       "value": 3226.0,
@@ -411,6 +398,19 @@
         "username": "Mykola-Bortnyk",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 31,
+      "id": "Dolphin_2010",
+      "name": "Aleksandr Usov",
+      "value": 3222.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Dolphin_2010",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     },
@@ -481,14 +481,14 @@
     },
     {
       "rank": 37,
-      "id": "DenLaz",
-      "name": "Denis Lazavik",
-      "value": 3215.0,
+      "id": "Parhamov",
+      "name": "Parham Maghsoodloo",
+      "value": 3214.0,
       "unit": "rating",
       "meta": {
-        "username": "DenLaz",
+        "username": "Parhamov",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BY",
+        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -611,19 +611,6 @@
     },
     {
       "rank": 47,
-      "id": "Oleksandr_Bortnyk",
-      "name": "Oleksandr Bortnyk",
-      "value": 3197.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Oleksandr_Bortnyk",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 48,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3197.0,
@@ -636,20 +623,20 @@
       }
     },
     {
-      "rank": 49,
-      "id": "LiemLe",
-      "name": "Liem Le",
-      "value": 3194.0,
+      "rank": 48,
+      "id": "Twitch_ElhamBlitz05",
+      "name": "Elham Amar",
+      "value": 3192.0,
       "unit": "rating",
       "meta": {
-        "username": "LiemLe",
+        "username": "Twitch_ElhamBlitz05",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/VN",
+        "country_url": "https://api.chess.com/pub/country/NO",
         "category": "live_blitz"
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
       "value": 3192.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/TV",
         "category": "live_blitz"
       }
+    },
+    {
+      "rank": 50,
+      "id": "Zhuu96",
+      "name": "Zhamsaran Tsydypov",
+      "value": 3191.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Zhuu96",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-03T11:18:23Z",
+      "fetched_at": "2026-09-03T16:27:47Z",
       "http_status": 200
     }
   ]
