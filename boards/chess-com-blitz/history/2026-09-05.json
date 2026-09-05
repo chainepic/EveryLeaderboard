@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-05T13:52:16Z",
-  "as_of": "2026-09-05T13:52:16Z",
+  "generated_at": "2026-09-05T16:50:13Z",
+  "as_of": "2026-09-05T16:50:13Z",
   "period": {
     "label": "live_blitz"
   },
@@ -156,6 +156,19 @@
     },
     {
       "rank": 12,
+      "id": "FaustinoOro",
+      "name": "Faustino Oro",
+      "value": 3264.0,
+      "unit": "rating",
+      "meta": {
+        "username": "FaustinoOro",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/AR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 13,
       "id": "IMaster_01",
       "name": "Arda Camlar",
       "value": 3264.0,
@@ -168,7 +181,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": "GMWSO",
       "name": "Wesley So",
       "value": 3263.0,
@@ -177,19 +190,6 @@
         "username": "GMWSO",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 14,
-      "id": "FaustinoOro",
-      "name": "Faustino Oro",
-      "value": 3255.0,
-      "unit": "rating",
-      "meta": {
-        "username": "FaustinoOro",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/AR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-05T13:52:16Z",
+      "fetched_at": "2026-09-05T16:50:13Z",
       "http_status": 200
     }
   ]
