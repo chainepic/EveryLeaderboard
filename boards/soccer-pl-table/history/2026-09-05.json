@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "soccer-pl-table",
-  "generated_at": "2026-09-05T16:50:16Z",
-  "as_of": "2026-09-05T16:50:16Z",
+  "generated_at": "2026-09-05T19:03:05Z",
+  "as_of": "2026-09-05T19:03:05Z",
   "period": {
     "label": "2026-27 English Premier League"
   },
@@ -29,6 +29,22 @@
     },
     {
       "rank": 2,
+      "id": "306",
+      "name": "Hull City",
+      "value": 7.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 2.0,
+        "losses": 0.0,
+        "ties": 1.0,
+        "games_played": 3.0,
+        "goal_diff": 3.0,
+        "season": "2026-27 English Premier League"
+      }
+    },
+    {
+      "rank": 3,
       "id": "359",
       "name": "Arsenal",
       "value": 6.0,
@@ -40,22 +56,6 @@
         "ties": 0.0,
         "games_played": 2.0,
         "goal_diff": 4.0,
-        "season": "2026-27 English Premier League"
-      }
-    },
-    {
-      "rank": 3,
-      "id": "306",
-      "name": "Hull City",
-      "value": 6.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 2.0,
-        "losses": 0.0,
-        "ties": 0.0,
-        "games_played": 2.0,
-        "goal_diff": 3.0,
         "season": "2026-27 English Premier League"
       }
     },
@@ -269,6 +269,22 @@
     },
     {
       "rank": 17,
+      "id": "362",
+      "name": "Aston Villa",
+      "value": 1.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 0.0,
+        "losses": 2.0,
+        "ties": 1.0,
+        "games_played": 3.0,
+        "goal_diff": -5.0,
+        "season": "2026-27 English Premier League"
+      }
+    },
+    {
+      "rank": 18,
       "id": "367",
       "name": "Tottenham Hotspur",
       "value": 1.0,
@@ -284,7 +300,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": "370",
       "name": "Fulham",
       "value": 0.0,
@@ -296,22 +312,6 @@
         "ties": 0.0,
         "games_played": 3.0,
         "goal_diff": -3.0,
-        "season": "2026-27 English Premier League"
-      }
-    },
-    {
-      "rank": 19,
-      "id": "362",
-      "name": "Aston Villa",
-      "value": 0.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 0.0,
-        "losses": 2.0,
-        "ties": 0.0,
-        "games_played": 2.0,
-        "goal_diff": -5.0,
         "season": "2026-27 English Premier League"
       }
     },
@@ -336,7 +336,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/soccer/eng.1/standings",
-      "fetched_at": "2026-09-05T16:50:16Z",
+      "fetched_at": "2026-09-05T19:03:05Z",
       "http_status": 200
     }
   ]
