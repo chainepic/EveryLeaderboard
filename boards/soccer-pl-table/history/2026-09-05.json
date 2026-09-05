@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "soccer-pl-table",
-  "generated_at": "2026-09-05T10:38:33Z",
-  "as_of": "2026-09-05T10:38:33Z",
+  "generated_at": "2026-09-05T13:52:17Z",
+  "as_of": "2026-09-05T13:52:17Z",
   "period": {
     "label": "2026-27 English Premier League"
   },
@@ -93,6 +93,22 @@
     },
     {
       "rank": 6,
+      "id": "361",
+      "name": "Newcastle United",
+      "value": 5.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 1.0,
+        "losses": 0.0,
+        "ties": 2.0,
+        "games_played": 3.0,
+        "goal_diff": 2.0,
+        "season": "2026-27 English Premier League"
+      }
+    },
+    {
+      "rank": 7,
       "id": "337",
       "name": "Brentford",
       "value": 4.0,
@@ -104,22 +120,6 @@
         "ties": 1.0,
         "games_played": 2.0,
         "goal_diff": 3.0,
-        "season": "2026-27 English Premier League"
-      }
-    },
-    {
-      "rank": 7,
-      "id": "361",
-      "name": "Newcastle United",
-      "value": 4.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 1.0,
-        "losses": 0.0,
-        "ties": 1.0,
-        "games_played": 2.0,
-        "goal_diff": 2.0,
         "season": "2026-27 English Premier League"
       }
     },
@@ -223,14 +223,14 @@
       "rank": 14,
       "id": "349",
       "name": "AFC Bournemouth",
-      "value": 1.0,
+      "value": 2.0,
       "unit": "pts",
       "meta": {
         "group": "2026-27 English Premier League",
         "wins": 0.0,
         "losses": 1.0,
-        "ties": 1.0,
-        "games_played": 2.0,
+        "ties": 2.0,
+        "games_played": 3.0,
         "goal_diff": -1.0,
         "season": "2026-27 English Premier League"
       }
@@ -336,7 +336,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/soccer/eng.1/standings",
-      "fetched_at": "2026-09-05T10:38:33Z",
+      "fetched_at": "2026-09-05T13:52:17Z",
       "http_status": 200
     }
   ]
