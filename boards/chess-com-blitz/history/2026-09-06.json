@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-06T01:00:44Z",
-  "as_of": "2026-09-06T01:00:44Z",
+  "generated_at": "2026-09-06T05:59:04Z",
+  "as_of": "2026-09-06T05:59:04Z",
   "period": {
     "label": "live_blitz"
   },
@@ -559,19 +559,6 @@
     },
     {
       "rank": 43,
-      "id": "msolleveld",
-      "name": "Maarten Solleveld",
-      "value": 3205.0,
-      "unit": "rating",
-      "meta": {
-        "username": "msolleveld",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/NL",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 44,
       "id": "ManuDavid2910",
       "name": "Manu David",
       "value": 3203.0,
@@ -584,7 +571,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 44,
       "id": "Fedoseev-Vladimir",
       "name": "Vladimir Fedoseev",
       "value": 3203.0,
@@ -597,7 +584,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 3202.0,
@@ -610,7 +597,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": "GMBrewChess",
       "name": "Brewington Hardaway",
       "value": 3201.0,
@@ -623,7 +610,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": "xiaotong2008",
       "name": "Xiao Tong",
       "value": 3200.0,
@@ -632,6 +619,19 @@
         "username": "xiaotong2008",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/CN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 48,
+      "id": "msolleveld",
+      "name": "Maarten Solleveld",
+      "value": 3200.0,
+      "unit": "rating",
+      "meta": {
+        "username": "msolleveld",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/NL",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-06T01:00:44Z",
+      "fetched_at": "2026-09-06T05:59:04Z",
       "http_status": 200
     }
   ]
