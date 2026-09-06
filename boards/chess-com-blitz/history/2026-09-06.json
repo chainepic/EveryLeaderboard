@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-06T21:24:28Z",
-  "as_of": "2026-09-06T21:24:28Z",
+  "generated_at": "2026-09-06T23:57:01Z",
+  "as_of": "2026-09-06T23:57:01Z",
   "period": {
     "label": "live_blitz"
   },
@@ -312,19 +312,6 @@
     },
     {
       "rank": 24,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
-      "value": 3238.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sina-Movahed",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 25,
       "id": "Volodar_Murzin",
       "name": "Volodar Murzin",
       "value": 3236.0,
@@ -337,10 +324,23 @@
       }
     },
     {
+      "rank": 25,
+      "id": "msolleveld",
+      "name": "Maarten Solleveld",
+      "value": 3233.0,
+      "unit": "rating",
+      "meta": {
+        "username": "msolleveld",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/NL",
+        "category": "live_blitz"
+      }
+    },
+    {
       "rank": 26,
       "id": "MichaelRoiz",
       "name": "Michael Roiz",
-      "value": 3233.0,
+      "value": 3231.0,
       "unit": "rating",
       "meta": {
         "username": "MichaelRoiz",
@@ -403,19 +403,6 @@
     },
     {
       "rank": 31,
-      "id": "Dolphin_2010",
-      "name": "Aleksandr Usov",
-      "value": 3222.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Dolphin_2010",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 32,
       "id": "sokidze",
       "name": "Ihor Samunenkov",
       "value": 3221.0,
@@ -424,6 +411,19 @@
         "username": "sokidze",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/UA",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 32,
+      "id": "Sina-Movahed",
+      "name": "Sina Movahed",
+      "value": 3221.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Sina-Movahed",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -507,19 +507,6 @@
     },
     {
       "rank": 39,
-      "id": "msolleveld",
-      "name": "Maarten Solleveld",
-      "value": 3216.0,
-      "unit": "rating",
-      "meta": {
-        "username": "msolleveld",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/NL",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 40,
       "id": "Harmonized_kakophonia",
       "name": "Dau Khuong Duy",
       "value": 3216.0,
@@ -532,7 +519,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 40,
       "id": "NikoTheodorou",
       "name": "Nikolas Theodorou",
       "value": 3216.0,
@@ -545,7 +532,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 41,
       "id": "chess_master_8820",
       "name": "Radin Yadegar",
       "value": 3215.0,
@@ -554,6 +541,19 @@
         "username": "chess_master_8820",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 42,
+      "id": "Dolphin_2010",
+      "name": "Aleksandr Usov",
+      "value": 3212.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Dolphin_2010",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-06T21:24:28Z",
+      "fetched_at": "2026-09-06T23:57:01Z",
       "http_status": 200
     }
   ]
