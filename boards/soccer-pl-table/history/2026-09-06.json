@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "soccer-pl-table",
-  "generated_at": "2026-09-06T17:05:38Z",
-  "as_of": "2026-09-06T17:05:38Z",
+  "generated_at": "2026-09-06T19:13:45Z",
+  "as_of": "2026-09-06T19:13:45Z",
   "period": {
     "label": "2026-27 English Premier League"
   },
@@ -29,6 +29,22 @@
     },
     {
       "rank": 2,
+      "id": "359",
+      "name": "Arsenal",
+      "value": 9.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 3.0,
+        "losses": 0.0,
+        "ties": 0.0,
+        "games_played": 3.0,
+        "goal_diff": 5.0,
+        "season": "2026-27 English Premier League"
+      }
+    },
+    {
+      "rank": 3,
       "id": "306",
       "name": "Hull City",
       "value": 7.0,
@@ -44,22 +60,6 @@
       }
     },
     {
-      "rank": 3,
-      "id": "359",
-      "name": "Arsenal",
-      "value": 6.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 2.0,
-        "losses": 0.0,
-        "ties": 0.0,
-        "games_played": 2.0,
-        "goal_diff": 4.0,
-        "season": "2026-27 English Premier League"
-      }
-    },
-    {
       "rank": 4,
       "id": "363",
       "name": "Chelsea",
@@ -68,10 +68,10 @@
       "meta": {
         "group": "2026-27 English Premier League",
         "wins": 2.0,
-        "losses": 0.0,
+        "losses": 1.0,
         "ties": 0.0,
-        "games_played": 2.0,
-        "goal_diff": 2.0,
+        "games_played": 3.0,
+        "goal_diff": 1.0,
         "season": "2026-27 English Premier League"
       }
     },
@@ -336,7 +336,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/soccer/eng.1/standings",
-      "fetched_at": "2026-09-06T17:05:38Z",
+      "fetched_at": "2026-09-06T19:13:45Z",
       "http_status": 200
     }
   ]

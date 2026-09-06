@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-06T17:05:35Z",
-  "as_of": "2026-09-06T17:05:35Z",
+  "generated_at": "2026-09-06T19:13:44Z",
+  "as_of": "2026-09-06T19:13:44Z",
   "period": {
     "label": "live_blitz"
   },
@@ -312,6 +312,19 @@
     },
     {
       "rank": 24,
+      "id": "MichaelRoiz",
+      "name": "Michael Roiz",
+      "value": 3245.0,
+      "unit": "rating",
+      "meta": {
+        "username": "MichaelRoiz",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IL",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 25,
       "id": "ChessWarrior7197",
       "name": "Nodirbek Abdusattorov",
       "value": 3243.0,
@@ -324,7 +337,7 @@
       }
     },
     {
-      "rank": 25,
+      "rank": 26,
       "id": "Volodar_Murzin",
       "name": "Volodar Murzin",
       "value": 3236.0,
@@ -333,19 +346,6 @@
         "username": "Volodar_Murzin",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/XX",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 26,
-      "id": "MichaelRoiz",
-      "name": "Michael Roiz",
-      "value": 3236.0,
-      "unit": "rating",
-      "meta": {
-        "username": "MichaelRoiz",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
         "category": "live_blitz"
       }
     },
@@ -377,19 +377,6 @@
     },
     {
       "rank": 29,
-      "id": "msolleveld",
-      "name": "Maarten Solleveld",
-      "value": 3227.0,
-      "unit": "rating",
-      "meta": {
-        "username": "msolleveld",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/NL",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 30,
       "id": "Mykola-Bortnyk",
       "name": "Mykola Bortnyk",
       "value": 3226.0,
@@ -398,6 +385,19 @@
         "username": "Mykola-Bortnyk",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 30,
+      "id": "msolleveld",
+      "name": "Maarten Solleveld",
+      "value": 3223.0,
+      "unit": "rating",
+      "meta": {
+        "username": "msolleveld",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/NL",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-06T17:05:35Z",
+      "fetched_at": "2026-09-06T19:13:44Z",
       "http_status": 200
     }
   ]
