@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-07T10:22:03Z",
-  "as_of": "2026-09-07T10:22:03Z",
+  "generated_at": "2026-09-07T16:29:33Z",
+  "as_of": "2026-09-07T16:29:33Z",
   "period": {
     "label": "live_blitz"
   },
@@ -143,6 +143,19 @@
     },
     {
       "rank": 11,
+      "id": "lachesisQ",
+      "name": "Ian Nepomniachtchi",
+      "value": 3273.0,
+      "unit": "rating",
+      "meta": {
+        "username": "lachesisQ",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 12,
       "id": "rpragchess",
       "name": "Praggnanandhaa Rameshbabu",
       "value": 3266.0,
@@ -155,7 +168,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "id": "FaustinoOro",
       "name": "Faustino Oro",
       "value": 3264.0,
@@ -168,7 +181,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": "IMaster_01",
       "name": "Arda Camlar",
       "value": 3264.0,
@@ -181,7 +194,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "id": "GMWSO",
       "name": "Wesley So",
       "value": 3263.0,
@@ -194,7 +207,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": "spicycaterpillar",
       "name": "Ray Robson",
       "value": 3255.0,
@@ -207,7 +220,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": "PursuitOfHappyness2",
       "name": "Abhimanyu Mishra",
       "value": 3255.0,
@@ -220,7 +233,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "mishanick",
       "name": "Aleksei Sarana",
       "value": 3255.0,
@@ -229,19 +242,6 @@
         "username": "mishanick",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RS",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 18,
-      "id": "lachesisQ",
-      "name": "Ian Nepomniachtchi",
-      "value": 3254.0,
-      "unit": "rating",
-      "meta": {
-        "username": "lachesisQ",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     },
@@ -377,6 +377,19 @@
     },
     {
       "rank": 29,
+      "id": "Dolphin_2010",
+      "name": "Aleksandr Usov",
+      "value": 3226.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Dolphin_2010",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 30,
       "id": "Mykola-Bortnyk",
       "name": "Mykola Bortnyk",
       "value": 3226.0,
@@ -385,19 +398,6 @@
         "username": "Mykola-Bortnyk",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 30,
-      "id": "Parhamov",
-      "name": "Parham Maghsoodloo",
-      "value": 3223.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Parhamov",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -507,6 +507,19 @@
     },
     {
       "rank": 39,
+      "id": "NikoTheodorou",
+      "name": "Nikolas Theodorou",
+      "value": 3218.0,
+      "unit": "rating",
+      "meta": {
+        "username": "NikoTheodorou",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/GR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 40,
       "id": "chess_master_8820",
       "name": "Radin Yadegar",
       "value": 3215.0,
@@ -519,20 +532,20 @@
       }
     },
     {
-      "rank": 40,
-      "id": "Dolphin_2010",
-      "name": "Aleksandr Usov",
-      "value": 3212.0,
+      "rank": 41,
+      "id": "Parhamov",
+      "name": "Parham Maghsoodloo",
+      "value": 3214.0,
       "unit": "rating",
       "meta": {
-        "username": "Dolphin_2010",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/RU",
+        "username": "Parhamov",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "Javokhir_Sindarov05",
       "name": "Javokhir Sindarov",
       "value": 3210.0,
@@ -541,19 +554,6 @@
         "username": "Javokhir_Sindarov05",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/UZ",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 42,
-      "id": "NikoTheodorou",
-      "name": "Nikolas Theodorou",
-      "value": 3210.0,
-      "unit": "rating",
-      "meta": {
-        "username": "NikoTheodorou",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/GR",
         "category": "live_blitz"
       }
     },
@@ -637,6 +637,19 @@
     },
     {
       "rank": 49,
+      "id": "Twitch_ElhamBlitz05",
+      "name": "Elham Amar",
+      "value": 3201.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Twitch_ElhamBlitz05",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/NO",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 50,
       "id": "GMBrewChess",
       "name": "Brewington Hardaway",
       "value": 3201.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "Twitch_ElhamBlitz05",
-      "name": "Elham Amar",
-      "value": 3200.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Twitch_ElhamBlitz05",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/NO",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-07T10:22:03Z",
+      "fetched_at": "2026-09-07T16:29:33Z",
       "http_status": 200
     }
   ]
