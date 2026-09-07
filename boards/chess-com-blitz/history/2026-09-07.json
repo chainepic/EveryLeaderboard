@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-07T04:46:27Z",
-  "as_of": "2026-09-07T04:46:27Z",
+  "generated_at": "2026-09-07T10:22:03Z",
+  "as_of": "2026-09-07T10:22:03Z",
   "period": {
     "label": "live_blitz"
   },
@@ -234,6 +234,32 @@
     },
     {
       "rank": 18,
+      "id": "lachesisQ",
+      "name": "Ian Nepomniachtchi",
+      "value": 3254.0,
+      "unit": "rating",
+      "meta": {
+        "username": "lachesisQ",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 19,
+      "id": "ChessWarrior7197",
+      "name": "Nodirbek Abdusattorov",
+      "value": 3253.0,
+      "unit": "rating",
+      "meta": {
+        "username": "ChessWarrior7197",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/UZ",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 20,
       "id": "vi_pranav",
       "name": "Pranav V",
       "value": 3252.0,
@@ -246,7 +272,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 21,
       "id": "Firouzja2003",
       "name": "Alireza Firouzja",
       "value": 3249.0,
@@ -259,20 +285,7 @@
       }
     },
     {
-      "rank": 20,
-      "id": "lachesisQ",
-      "name": "Ian Nepomniachtchi",
-      "value": 3248.0,
-      "unit": "rating",
-      "meta": {
-        "username": "lachesisQ",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 21,
+      "rank": 22,
       "id": "DenLaz",
       "name": "Denis Lazavik",
       "value": 3247.0,
@@ -285,7 +298,7 @@
       }
     },
     {
-      "rank": 22,
+      "rank": 23,
       "id": "LevonAronian",
       "name": "Levon Aronian",
       "value": 3246.0,
@@ -294,19 +307,6 @@
         "username": "LevonAronian",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 23,
-      "id": "ChessWarrior7197",
-      "name": "Nodirbek Abdusattorov",
-      "value": 3243.0,
-      "unit": "rating",
-      "meta": {
-        "username": "ChessWarrior7197",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/UZ",
         "category": "live_blitz"
       }
     },
@@ -507,32 +507,6 @@
     },
     {
       "rank": 39,
-      "id": "Harmonized_kakophonia",
-      "name": "Dau Khuong Duy",
-      "value": 3216.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Harmonized_kakophonia",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/VN",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 40,
-      "id": "NikoTheodorou",
-      "name": "Nikolas Theodorou",
-      "value": 3216.0,
-      "unit": "rating",
-      "meta": {
-        "username": "NikoTheodorou",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/GR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 41,
       "id": "chess_master_8820",
       "name": "Radin Yadegar",
       "value": 3215.0,
@@ -545,7 +519,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 40,
       "id": "Dolphin_2010",
       "name": "Aleksandr Usov",
       "value": 3212.0,
@@ -558,7 +532,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 41,
       "id": "Javokhir_Sindarov05",
       "name": "Javokhir Sindarov",
       "value": 3210.0,
@@ -571,7 +545,20 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 42,
+      "id": "NikoTheodorou",
+      "name": "Nikolas Theodorou",
+      "value": 3210.0,
+      "unit": "rating",
+      "meta": {
+        "username": "NikoTheodorou",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/GR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 43,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 3207.0,
@@ -580,6 +567,19 @@
         "username": "Grischuk",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 44,
+      "id": "Harmonized_kakophonia",
+      "name": "Dau Khuong Duy",
+      "value": 3206.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Harmonized_kakophonia",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-07T04:46:27Z",
+      "fetched_at": "2026-09-07T10:22:03Z",
       "http_status": 200
     }
   ]
