@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-09-07T16:29:33Z",
-  "as_of": "2026-09-07T16:29:33Z",
+  "generated_at": "2026-09-07T20:36:01Z",
+  "as_of": "2026-09-07T20:36:01Z",
   "period": {
     "label": "live_rapid"
   },
@@ -130,6 +130,19 @@
     },
     {
       "rank": 10,
+      "id": "LPSupi",
+      "name": "Luis Paulo Supi",
+      "value": 2806.0,
+      "unit": "rating",
+      "meta": {
+        "username": "LPSupi",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 11,
       "id": "Firouzja2003",
       "name": "Alireza Firouzja",
       "value": 2802.0,
@@ -138,19 +151,6 @@
         "username": "Firouzja2003",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/FR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 11,
-      "id": "LPSupi",
-      "name": "Luis Paulo Supi",
-      "value": 2800.0,
-      "unit": "rating",
-      "meta": {
-        "username": "LPSupi",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-07T16:29:33Z",
+      "fetched_at": "2026-09-07T20:36:01Z",
       "http_status": 200
     }
   ]
