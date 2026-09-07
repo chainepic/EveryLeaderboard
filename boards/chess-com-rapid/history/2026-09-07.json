@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-09-07T20:36:01Z",
-  "as_of": "2026-09-07T20:36:01Z",
+  "generated_at": "2026-09-07T23:31:31Z",
+  "as_of": "2026-09-07T23:31:31Z",
   "period": {
     "label": "live_rapid"
   },
@@ -611,6 +611,19 @@
     },
     {
       "rank": 47,
+      "id": "moroccanchess23",
+      "name": "Ali Sebbar",
+      "value": 2704.0,
+      "unit": "rating",
+      "meta": {
+        "username": "moroccanchess23",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/MA",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 48,
       "id": "Liindseeyy",
       "name": "Liindseeyy",
       "value": 2702.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "CKJY2796",
       "name": "Jason Yeung",
       "value": 2702.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "mmgchess",
       "name": "Marcos Gonzalez",
       "value": 2701.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
-    },
-    {
-      "rank": 50,
-      "id": "wqws",
-      "name": "Kaivalya Sandip Nagare",
-      "value": 2700.0,
-      "unit": "rating",
-      "meta": {
-        "username": "wqws",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/IN",
-        "category": "live_rapid"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-07T20:36:01Z",
+      "fetched_at": "2026-09-07T23:31:31Z",
       "http_status": 200
     }
   ]
