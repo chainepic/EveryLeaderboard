@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-08T09:44:05Z",
-  "as_of": "2026-09-08T09:44:05Z",
+  "generated_at": "2026-09-08T14:34:17Z",
+  "as_of": "2026-09-08T14:34:17Z",
   "period": {
     "label": "live_blitz"
   },
@@ -91,6 +91,19 @@
     },
     {
       "rank": 7,
+      "id": "Sina-Movahed",
+      "name": "Sina Movahed",
+      "value": 3297.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Sina-Movahed",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 8,
       "id": "artooon",
       "name": "Pranesh M",
       "value": 3295.0,
@@ -99,19 +112,6 @@
         "username": "artooon",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/XX",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 8,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
-      "value": 3287.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sina-Movahed",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -325,6 +325,19 @@
     },
     {
       "rank": 25,
+      "id": "MichaelRoiz",
+      "name": "Michael Roiz",
+      "value": 3245.0,
+      "unit": "rating",
+      "meta": {
+        "username": "MichaelRoiz",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IL",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 26,
       "id": "Volodar_Murzin",
       "name": "Volodar Murzin",
       "value": 3236.0,
@@ -337,7 +350,7 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 27,
       "id": "Dolphin_2010",
       "name": "Aleksandr Usov",
       "value": 3231.0,
@@ -346,19 +359,6 @@
         "username": "Dolphin_2010",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 27,
-      "id": "MichaelRoiz",
-      "name": "Michael Roiz",
-      "value": 3231.0,
-      "unit": "rating",
-      "meta": {
-        "username": "MichaelRoiz",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
         "category": "live_blitz"
       }
     },
@@ -624,19 +624,32 @@
     },
     {
       "rank": 48,
-      "id": "Twitch_ElhamBlitz05",
-      "name": "Elham Amar",
-      "value": 3201.0,
+      "id": "Turboplombir",
+      "name": "Sergey Sklokin",
+      "value": 3202.0,
       "unit": "rating",
       "meta": {
-        "username": "Twitch_ElhamBlitz05",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/NO",
+        "username": "Turboplombir",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/XX",
         "category": "live_blitz"
       }
     },
     {
       "rank": 49,
+      "id": "dropstoneDP",
+      "name": "David Paravyan",
+      "value": 3201.0,
+      "unit": "rating",
+      "meta": {
+        "username": "dropstoneDP",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 50,
       "id": "GMBrewChess",
       "name": "Brewington Hardaway",
       "value": 3201.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "xiaotong2008",
-      "name": "Xiao Tong",
-      "value": 3200.0,
-      "unit": "rating",
-      "meta": {
-        "username": "xiaotong2008",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/CN",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-08T09:44:05Z",
+      "fetched_at": "2026-09-08T14:34:17Z",
       "http_status": 200
     }
   ]
