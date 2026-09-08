@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-09-08T14:34:17Z",
-  "as_of": "2026-09-08T14:34:17Z",
+  "generated_at": "2026-09-08T18:42:47Z",
+  "as_of": "2026-09-08T18:42:47Z",
   "period": {
     "label": "live_rapid"
   },
@@ -286,6 +286,19 @@
     },
     {
       "rank": 22,
+      "id": "GigaQuparadze",
+      "name": "Giga Quparadze",
+      "value": 2762.0,
+      "unit": "rating",
+      "meta": {
+        "username": "GigaQuparadze",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/GE",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 23,
       "id": "ARTEMKA_CHESS_2014",
       "name": "ARTEMKA_CHESS_2014",
       "value": 2762.0,
@@ -294,19 +307,6 @@
         "username": "ARTEMKA_CHESS_2014",
         "title": null,
         "country_url": "https://api.chess.com/pub/country/RS",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 23,
-      "id": "GigaQuparadze",
-      "name": "Giga Quparadze",
-      "value": 2759.0,
-      "unit": "rating",
-      "meta": {
-        "username": "GigaQuparadze",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/GE",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-08T14:34:17Z",
+      "fetched_at": "2026-09-08T18:42:47Z",
       "http_status": 200
     }
   ]
