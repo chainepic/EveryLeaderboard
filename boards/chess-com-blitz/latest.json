@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-09T19:47:02Z",
-  "as_of": "2026-09-09T19:47:02Z",
+  "generated_at": "2026-09-09T22:34:34Z",
+  "as_of": "2026-09-09T22:34:34Z",
   "period": {
     "label": "live_blitz"
   },
@@ -533,19 +533,6 @@
     },
     {
       "rank": 41,
-      "id": "msolleveld",
-      "name": "Maarten Solleveld",
-      "value": 3209.0,
-      "unit": "rating",
-      "meta": {
-        "username": "msolleveld",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/NL",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 42,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3209.0,
@@ -558,7 +545,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 42,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 3207.0,
@@ -571,7 +558,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 43,
       "id": "ManuDavid2910",
       "name": "Manu David",
       "value": 3203.0,
@@ -584,7 +571,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 44,
       "id": "Fedoseev-Vladimir",
       "name": "Vladimir Fedoseev",
       "value": 3203.0,
@@ -597,7 +584,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": "Arseniy_Nesterov",
       "name": "Arseniy Nesterov",
       "value": 3203.0,
@@ -610,7 +597,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": "wonderfultime",
       "name": "Tuan Minh Le",
       "value": 3202.0,
@@ -623,7 +610,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": "GMBrewChess",
       "name": "Brewington Hardaway",
       "value": 3201.0,
@@ -636,7 +623,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": "xiaotong2008",
       "name": "Xiao Tong",
       "value": 3200.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "Tobias_Koelle",
       "name": "Tobias Kölle",
       "value": 3199.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/DE",
         "category": "live_blitz"
       }
+    },
+    {
+      "rank": 50,
+      "id": "Dolphin_2010",
+      "name": "Aleksandr Usov",
+      "value": 3198.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Dolphin_2010",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-09T19:47:02Z",
+      "fetched_at": "2026-09-09T22:34:34Z",
       "http_status": 200
     }
   ]
