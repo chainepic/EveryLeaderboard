@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-09-09T11:27:02Z",
-  "as_of": "2026-09-09T11:27:02Z",
+  "generated_at": "2026-09-09T16:40:52Z",
+  "as_of": "2026-09-09T16:40:52Z",
   "period": {
     "label": "live_rapid"
   },
@@ -273,6 +273,19 @@
     },
     {
       "rank": 21,
+      "id": "GigaQuparadze",
+      "name": "Giga Quparadze",
+      "value": 2766.0,
+      "unit": "rating",
+      "meta": {
+        "username": "GigaQuparadze",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/GE",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 22,
       "id": "Evandro_Barbosa",
       "name": "Evandro Amorim Barbosa",
       "value": 2762.0,
@@ -281,19 +294,6 @@
         "username": "Evandro_Barbosa",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/BR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 22,
-      "id": "GigaQuparadze",
-      "name": "Giga Quparadze",
-      "value": 2762.0,
-      "unit": "rating",
-      "meta": {
-        "username": "GigaQuparadze",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/GE",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-09T11:27:02Z",
+      "fetched_at": "2026-09-09T16:40:52Z",
       "http_status": 200
     }
   ]
