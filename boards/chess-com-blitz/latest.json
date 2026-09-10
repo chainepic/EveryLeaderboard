@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-10T16:26:52Z",
-  "as_of": "2026-09-10T16:26:52Z",
+  "generated_at": "2026-09-10T19:43:46Z",
+  "as_of": "2026-09-10T19:43:46Z",
   "period": {
     "label": "live_blitz"
   },
@@ -15,7 +15,7 @@
       "rank": 1,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
-      "value": 3368.0,
+      "value": 3366.0,
       "unit": "rating",
       "meta": {
         "username": "Hikaru",
@@ -390,6 +390,19 @@
     },
     {
       "rank": 30,
+      "id": "chess_master_8820",
+      "name": "Radin Yadegar",
+      "value": 3229.0,
+      "unit": "rating",
+      "meta": {
+        "username": "chess_master_8820",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 31,
       "id": "Mykola-Bortnyk",
       "name": "Mykola Bortnyk",
       "value": 3226.0,
@@ -398,19 +411,6 @@
         "username": "Mykola-Bortnyk",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 31,
-      "id": "chess_master_8820",
-      "name": "Radin Yadegar",
-      "value": 3223.0,
-      "unit": "rating",
-      "meta": {
-        "username": "chess_master_8820",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -546,6 +546,19 @@
     },
     {
       "rank": 42,
+      "id": "sokidze",
+      "name": "Ihor Samunenkov",
+      "value": 3203.0,
+      "unit": "rating",
+      "meta": {
+        "username": "sokidze",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/UA",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 43,
       "id": "Arseniy_Nesterov",
       "name": "Arseniy Nesterov",
       "value": 3203.0,
@@ -558,7 +571,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 44,
       "id": "wonderfultime",
       "name": "Tuan Minh Le",
       "value": 3203.0,
@@ -571,7 +584,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": "GMBrewChess",
       "name": "Brewington Hardaway",
       "value": 3201.0,
@@ -584,7 +597,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "Harmonized_kakophonia",
       "name": "Dau Khuong Duy",
       "value": 3201.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "xiaotong2008",
       "name": "Xiao Tong",
       "value": 3200.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "MITerryble",
       "name": "Renato Terry",
       "value": 3198.0,
@@ -619,19 +632,6 @@
         "username": "MITerryble",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/PE",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 48,
-      "id": "sokidze",
-      "name": "Ihor Samunenkov",
-      "value": 3197.0,
-      "unit": "rating",
-      "meta": {
-        "username": "sokidze",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/UA",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-10T16:26:52Z",
+      "fetched_at": "2026-09-10T19:43:46Z",
       "http_status": 200
     }
   ]
