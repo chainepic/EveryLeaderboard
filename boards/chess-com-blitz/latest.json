@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-10T01:06:06Z",
-  "as_of": "2026-09-10T01:06:06Z",
+  "generated_at": "2026-09-10T06:00:09Z",
+  "as_of": "2026-09-10T06:00:09Z",
   "period": {
     "label": "live_blitz"
   },
@@ -390,6 +390,19 @@
     },
     {
       "rank": 30,
+      "id": "MITerryble",
+      "name": "Renato Terry",
+      "value": 3226.0,
+      "unit": "rating",
+      "meta": {
+        "username": "MITerryble",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/PE",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 31,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 3224.0,
@@ -398,19 +411,6 @@
         "username": "Parhamov",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 31,
-      "id": "MITerryble",
-      "name": "Renato Terry",
-      "value": 3223.0,
-      "unit": "rating",
-      "meta": {
-        "username": "MITerryble",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/PE",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-10T01:06:06Z",
+      "fetched_at": "2026-09-10T06:00:09Z",
       "http_status": 200
     }
   ]
