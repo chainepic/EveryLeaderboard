@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-09-11T19:44:45Z",
-  "as_of": "2026-09-11T19:44:45Z",
+  "generated_at": "2026-09-11T22:36:58Z",
+  "as_of": "2026-09-11T22:36:58Z",
   "period": {
     "label": "live_rapid"
   },
@@ -234,19 +234,6 @@
     },
     {
       "rank": 18,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2777.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 19,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
       "value": 2770.0,
@@ -259,7 +246,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "id": "nihalsarin",
       "name": "Nihal Sarin",
       "value": 2767.0,
@@ -272,7 +259,7 @@
       }
     },
     {
-      "rank": 21,
+      "rank": 20,
       "id": "GigaQuparadze",
       "name": "Giga Quparadze",
       "value": 2766.0,
@@ -285,7 +272,7 @@
       }
     },
     {
-      "rank": 22,
+      "rank": 21,
       "id": "Evandro_Barbosa",
       "name": "Evandro Amorim Barbosa",
       "value": 2764.0,
@@ -294,6 +281,19 @@
         "username": "Evandro_Barbosa",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/BR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 22,
+      "id": "Swiss_Fighter",
+      "name": "Gabriel Gähwiler",
+      "value": 2763.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Swiss_Fighter",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/CH",
         "category": "live_rapid"
       }
     },
@@ -520,19 +520,6 @@
     },
     {
       "rank": 40,
-      "id": "moroccanchess23",
-      "name": "Ali Sebbar",
-      "value": 2714.0,
-      "unit": "rating",
-      "meta": {
-        "username": "moroccanchess23",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/MA",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 41,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 2712.0,
@@ -545,7 +532,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 41,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 2711.0,
@@ -558,7 +545,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 42,
       "id": "KNVB",
       "name": "Aman Hambleton",
       "value": 2710.0,
@@ -571,7 +558,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 43,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 2709.0,
@@ -584,7 +571,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 44,
       "id": "Super_Pav",
       "name": "Tikhon Popov",
       "value": 2707.0,
@@ -597,7 +584,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": "dual_flurry",
       "name": "Jerad Docena",
       "value": 2704.0,
@@ -610,7 +597,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": "Liindseeyy",
       "name": "Liindseeyy",
       "value": 2702.0,
@@ -623,7 +610,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": "mmgchess",
       "name": "Marcos Gonzalez",
       "value": 2701.0,
@@ -636,7 +623,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": "wqws",
       "name": "Kaivalya Sandip Nagare",
       "value": 2700.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "SahibSinghKnight",
       "name": "Sahib Singh",
       "value": 2695.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/IN",
         "category": "live_rapid"
       }
+    },
+    {
+      "rank": 50,
+      "id": "tesyanor",
+      "name": "tesyanor",
+      "value": 2695.0,
+      "unit": "rating",
+      "meta": {
+        "username": "tesyanor",
+        "title": null,
+        "country_url": "https://api.chess.com/pub/country/TR",
+        "category": "live_rapid"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-11T19:44:45Z",
+      "fetched_at": "2026-09-11T22:36:58Z",
       "http_status": 200
     }
   ]
