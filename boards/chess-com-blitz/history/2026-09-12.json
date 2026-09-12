@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-12T17:13:04Z",
-  "as_of": "2026-09-12T17:13:04Z",
+  "generated_at": "2026-09-12T19:24:33Z",
+  "as_of": "2026-09-12T19:24:33Z",
   "period": {
     "label": "live_blitz"
   },
@@ -15,7 +15,7 @@
       "rank": 1,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
-      "value": 3364.0,
+      "value": 3352.0,
       "unit": "rating",
       "meta": {
         "username": "Hikaru",
@@ -390,6 +390,19 @@
     },
     {
       "rank": 30,
+      "id": "sokidze",
+      "name": "Ihor Samunenkov",
+      "value": 3227.0,
+      "unit": "rating",
+      "meta": {
+        "username": "sokidze",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/UA",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 31,
       "id": "wonderfultime",
       "name": "Tuan Minh Le",
       "value": 3227.0,
@@ -402,7 +415,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": "spicycaterpillar",
       "name": "Ray Robson",
       "value": 3226.0,
@@ -415,7 +428,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": "Mykola-Bortnyk",
       "name": "Mykola Bortnyk",
       "value": 3226.0,
@@ -428,7 +441,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 34,
       "id": "chess_master_8820",
       "name": "Radin Yadegar",
       "value": 3225.0,
@@ -437,19 +450,6 @@
         "username": "chess_master_8820",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 34,
-      "id": "sokidze",
-      "name": "Ihor Samunenkov",
-      "value": 3222.0,
-      "unit": "rating",
-      "meta": {
-        "username": "sokidze",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/UA",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-12T17:13:04Z",
+      "fetched_at": "2026-09-12T19:24:33Z",
       "http_status": 200
     }
   ]
