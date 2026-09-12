@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-12T10:50:43Z",
-  "as_of": "2026-09-12T10:50:43Z",
+  "generated_at": "2026-09-12T14:10:29Z",
+  "as_of": "2026-09-12T14:10:29Z",
   "period": {
     "label": "live_blitz"
   },
@@ -314,7 +314,7 @@
       "rank": 24,
       "id": "dropstoneDP",
       "name": "David Paravyan",
-      "value": 3239.0,
+      "value": 3241.0,
       "unit": "rating",
       "meta": {
         "username": "dropstoneDP",
@@ -507,6 +507,19 @@
     },
     {
       "rank": 39,
+      "id": "Harmonized_kakophonia",
+      "name": "Dau Khuong Duy",
+      "value": 3212.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Harmonized_kakophonia",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/VN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 40,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 3211.0,
@@ -519,7 +532,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": "NikoTheodorou",
       "name": "Nikolas Theodorou",
       "value": 3211.0,
@@ -532,7 +545,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "Javokhir_Sindarov05",
       "name": "Javokhir Sindarov",
       "value": 3210.0,
@@ -545,7 +558,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 43,
       "id": "sokidze",
       "name": "Ihor Samunenkov",
       "value": 3208.0,
@@ -554,19 +567,6 @@
         "username": "sokidze",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/UA",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 43,
-      "id": "Harmonized_kakophonia",
-      "name": "Dau Khuong Duy",
-      "value": 3205.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Harmonized_kakophonia",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
     },
@@ -624,6 +624,19 @@
     },
     {
       "rank": 48,
+      "id": "mishanick",
+      "name": "Aleksei Sarana",
+      "value": 3202.0,
+      "unit": "rating",
+      "meta": {
+        "username": "mishanick",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RS",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 49,
       "id": "GMBrewChess",
       "name": "Brewington Hardaway",
       "value": 3201.0,
@@ -636,28 +649,15 @@
       }
     },
     {
-      "rank": 49,
-      "id": "mishanick",
-      "name": "Aleksei Sarana",
-      "value": 3199.0,
-      "unit": "rating",
-      "meta": {
-        "username": "mishanick",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RS",
-        "category": "live_blitz"
-      }
-    },
-    {
       "rank": 50,
-      "id": "yosephtaher",
-      "name": "Yoseph Theolifus Taher",
-      "value": 3196.0,
+      "id": "Tobias_Koelle",
+      "name": "Tobias Kölle",
+      "value": 3201.0,
       "unit": "rating",
       "meta": {
-        "username": "yosephtaher",
+        "username": "Tobias_Koelle",
         "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/ID",
+        "country_url": "https://api.chess.com/pub/country/DE",
         "category": "live_blitz"
       }
     }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-12T10:50:43Z",
+      "fetched_at": "2026-09-12T14:10:29Z",
       "http_status": 200
     }
   ]
