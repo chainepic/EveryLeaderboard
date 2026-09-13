@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-09-13T11:57:21Z",
-  "as_of": "2026-09-13T11:57:21Z",
+  "generated_at": "2026-09-13T16:20:40Z",
+  "as_of": "2026-09-13T16:20:40Z",
   "period": {
     "label": "live_rapid"
   },
@@ -312,6 +312,19 @@
     },
     {
       "rank": 24,
+      "id": "GMKrikor",
+      "name": "Krikor Sevag Mekhitarian",
+      "value": 2761.0,
+      "unit": "rating",
+      "meta": {
+        "username": "GMKrikor",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 25,
       "id": "g3god",
       "name": "Sasikiran Krishnan",
       "value": 2756.0,
@@ -324,7 +337,7 @@
       }
     },
     {
-      "rank": 25,
+      "rank": 26,
       "id": "Chasing_Checkmate",
       "name": "Corey Acor",
       "value": 2754.0,
@@ -333,19 +346,6 @@
         "username": "Chasing_Checkmate",
         "title": "FM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 26,
-      "id": "GMKrikor",
-      "name": "Krikor Sevag Mekhitarian",
-      "value": 2753.0,
-      "unit": "rating",
-      "meta": {
-        "username": "GMKrikor",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
@@ -507,19 +507,6 @@
     },
     {
       "rank": 39,
-      "id": "alexboy14",
-      "name": "Oleksii Nakonechnyi",
-      "value": 2715.0,
-      "unit": "rating",
-      "meta": {
-        "username": "alexboy14",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/PL",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 40,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 2712.0,
@@ -532,7 +519,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 40,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 2711.0,
@@ -545,7 +532,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 41,
       "id": "KNVB",
       "name": "Aman Hambleton",
       "value": 2710.0,
@@ -558,7 +545,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 42,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 2709.0,
@@ -571,7 +558,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 43,
       "id": "Super_Pav",
       "name": "Tikhon Popov",
       "value": 2707.0,
@@ -580,6 +567,19 @@
         "username": "Super_Pav",
         "title": "FM",
         "country_url": "https://api.chess.com/pub/country/XX",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 44,
+      "id": "alexboy14",
+      "name": "Oleksii Nakonechnyi",
+      "value": 2705.0,
+      "unit": "rating",
+      "meta": {
+        "username": "alexboy14",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/PL",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-13T11:57:21Z",
+      "fetched_at": "2026-09-13T16:20:40Z",
       "http_status": 200
     }
   ]
