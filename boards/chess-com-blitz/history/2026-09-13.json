@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-13T01:02:57Z",
-  "as_of": "2026-09-13T01:02:57Z",
+  "generated_at": "2026-09-13T06:12:58Z",
+  "as_of": "2026-09-13T06:12:58Z",
   "period": {
     "label": "live_blitz"
   },
@@ -442,6 +442,19 @@
     },
     {
       "rank": 34,
+      "id": "Parhamov",
+      "name": "Parham Maghsoodloo",
+      "value": 3220.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Parhamov",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 35,
       "id": "VincentKeymer",
       "name": "Vincent Keymer",
       "value": 3219.0,
@@ -450,19 +463,6 @@
         "username": "VincentKeymer",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/DE",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 35,
-      "id": "Parhamov",
-      "name": "Parham Maghsoodloo",
-      "value": 3219.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Parhamov",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-13T01:02:57Z",
+      "fetched_at": "2026-09-13T06:12:58Z",
       "http_status": 200
     }
   ]
