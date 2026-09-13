@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-13T16:20:40Z",
-  "as_of": "2026-09-13T16:20:40Z",
+  "generated_at": "2026-09-13T19:29:07Z",
+  "as_of": "2026-09-13T19:29:07Z",
   "period": {
     "label": "live_blitz"
   },
@@ -41,7 +41,7 @@
       "rank": 3,
       "id": "Philippians46",
       "name": "Andy Woodward",
-      "value": 3328.0,
+      "value": 3323.0,
       "unit": "rating",
       "meta": {
         "username": "Philippians46",
@@ -299,19 +299,6 @@
     },
     {
       "rank": 23,
-      "id": "dropstoneDP",
-      "name": "David Paravyan",
-      "value": 3240.0,
-      "unit": "rating",
-      "meta": {
-        "username": "dropstoneDP",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 24,
       "id": "Volodar_Murzin",
       "name": "Volodar Murzin",
       "value": 3236.0,
@@ -324,7 +311,7 @@
       }
     },
     {
-      "rank": 25,
+      "rank": 24,
       "id": "IMaster_01",
       "name": "Arda Camlar",
       "value": 3235.0,
@@ -337,7 +324,7 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 25,
       "id": "Sibelephant",
       "name": "Vladislav Artemiev",
       "value": 3235.0,
@@ -346,6 +333,19 @@
         "username": "Sibelephant",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 26,
+      "id": "Parhamov",
+      "name": "Parham Maghsoodloo",
+      "value": 3233.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Parhamov",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -377,6 +377,19 @@
     },
     {
       "rank": 29,
+      "id": "dropstoneDP",
+      "name": "David Paravyan",
+      "value": 3227.0,
+      "unit": "rating",
+      "meta": {
+        "username": "dropstoneDP",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 30,
       "id": "wonderfultime",
       "name": "Tuan Minh Le",
       "value": 3227.0,
@@ -389,7 +402,7 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 31,
       "id": "spicycaterpillar",
       "name": "Ray Robson",
       "value": 3226.0,
@@ -402,7 +415,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": "Mykola-Bortnyk",
       "name": "Mykola Bortnyk",
       "value": 3226.0,
@@ -411,19 +424,6 @@
         "username": "Mykola-Bortnyk",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 32,
-      "id": "MichaelRoiz",
-      "name": "Michael Roiz",
-      "value": 3226.0,
-      "unit": "rating",
-      "meta": {
-        "username": "MichaelRoiz",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
         "category": "live_blitz"
       }
     },
@@ -442,32 +442,19 @@
     },
     {
       "rank": 34,
-      "id": "Parhamov",
-      "name": "Parham Maghsoodloo",
-      "value": 3220.0,
+      "id": "MichaelRoiz",
+      "name": "Michael Roiz",
+      "value": 3222.0,
       "unit": "rating",
       "meta": {
-        "username": "Parhamov",
+        "username": "MichaelRoiz",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
+        "country_url": "https://api.chess.com/pub/country/IL",
         "category": "live_blitz"
       }
     },
     {
       "rank": 35,
-      "id": "VincentKeymer",
-      "name": "Vincent Keymer",
-      "value": 3219.0,
-      "unit": "rating",
-      "meta": {
-        "username": "VincentKeymer",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/DE",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 36,
       "id": "legendisback1",
       "name": "Yagiz Kaan Erdogmus",
       "value": 3219.0,
@@ -480,7 +467,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 36,
       "id": "TRadjabov",
       "name": "Teimour Radjabov",
       "value": 3218.0,
@@ -493,7 +480,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 37,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3218.0,
@@ -502,6 +489,19 @@
         "username": "LiemLe",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/VN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 38,
+      "id": "artin10862",
+      "name": "Artin Ashraf",
+      "value": 3215.0,
+      "unit": "rating",
+      "meta": {
+        "username": "artin10862",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/TR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-13T16:20:40Z",
+      "fetched_at": "2026-09-13T19:29:07Z",
       "http_status": 200
     }
   ]
