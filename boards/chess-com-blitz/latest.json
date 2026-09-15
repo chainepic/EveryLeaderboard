@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-15T18:13:50Z",
-  "as_of": "2026-09-15T18:13:50Z",
+  "generated_at": "2026-09-15T21:26:02Z",
+  "as_of": "2026-09-15T21:26:02Z",
   "period": {
     "label": "live_blitz"
   },
@@ -13,27 +13,27 @@
   "items": [
     {
       "rank": 1,
-      "id": "MagnusCarlsen",
-      "name": "Magnus Carlsen",
-      "value": 3371.0,
-      "unit": "rating",
-      "meta": {
-        "username": "MagnusCarlsen",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/NO",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 2,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
-      "value": 3343.0,
+      "value": 3367.0,
       "unit": "rating",
       "meta": {
         "username": "Hikaru",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 2,
+      "id": "MagnusCarlsen",
+      "name": "Magnus Carlsen",
+      "value": 3363.0,
+      "unit": "rating",
+      "meta": {
+        "username": "MagnusCarlsen",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/NO",
         "category": "live_blitz"
       }
     },
@@ -67,7 +67,7 @@
       "rank": 5,
       "id": "nihalsarin",
       "name": "Nihal Sarin",
-      "value": 3300.0,
+      "value": 3306.0,
       "unit": "rating",
       "meta": {
         "username": "nihalsarin",
@@ -377,19 +377,6 @@
     },
     {
       "rank": 29,
-      "id": "Parhamov",
-      "name": "Parham Maghsoodloo",
-      "value": 3230.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Parhamov",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 30,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3229.0,
@@ -402,20 +389,7 @@
       }
     },
     {
-      "rank": 31,
-      "id": "MichaelRoiz",
-      "name": "Michael Roiz",
-      "value": 3228.0,
-      "unit": "rating",
-      "meta": {
-        "username": "MichaelRoiz",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 32,
+      "rank": 30,
       "id": "FabianoCaruana",
       "name": "Fabiano Caruana",
       "value": 3228.0,
@@ -428,7 +402,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 31,
       "id": "spicycaterpillar",
       "name": "Ray Robson",
       "value": 3226.0,
@@ -441,7 +415,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 32,
       "id": "Firouzja2003",
       "name": "Alireza Firouzja",
       "value": 3226.0,
@@ -454,7 +428,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 33,
       "id": "Mykola-Bortnyk",
       "name": "Mykola Bortnyk",
       "value": 3226.0,
@@ -467,7 +441,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 34,
       "id": "IMaster_01",
       "name": "Arda Camlar",
       "value": 3225.0,
@@ -480,7 +454,20 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 35,
+      "id": "Parhamov",
+      "name": "Parham Maghsoodloo",
+      "value": 3224.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Parhamov",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 36,
       "id": "legendisback1",
       "name": "Yagiz Kaan Erdogmus",
       "value": 3219.0,
@@ -493,7 +480,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 37,
       "id": "TRadjabov",
       "name": "Teimour Radjabov",
       "value": 3218.0,
@@ -502,6 +489,19 @@
         "username": "TRadjabov",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/AZ",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 38,
+      "id": "MichaelRoiz",
+      "name": "Michael Roiz",
+      "value": 3215.0,
+      "unit": "rating",
+      "meta": {
+        "username": "MichaelRoiz",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IL",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-15T18:13:50Z",
+      "fetched_at": "2026-09-15T21:26:02Z",
       "http_status": 200
     }
   ]
