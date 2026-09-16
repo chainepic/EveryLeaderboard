@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-09-16T17:00:54Z",
-  "as_of": "2026-09-16T17:00:54Z",
+  "generated_at": "2026-09-16T20:09:43Z",
+  "as_of": "2026-09-16T20:09:43Z",
   "period": {
     "label": "live_rapid"
   },
@@ -273,6 +273,19 @@
     },
     {
       "rank": 21,
+      "id": "Swiss_Fighter",
+      "name": "Gabriel Gähwiler",
+      "value": 2767.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Swiss_Fighter",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/CH",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 22,
       "id": "GigaQuparadze",
       "name": "Giga Quparadze",
       "value": 2766.0,
@@ -285,7 +298,7 @@
       }
     },
     {
-      "rank": 22,
+      "rank": 23,
       "id": "ARTEMKA_CHESS_2014",
       "name": "ARTEMKA_CHESS_2014",
       "value": 2762.0,
@@ -298,7 +311,7 @@
       }
     },
     {
-      "rank": 23,
+      "rank": 24,
       "id": "GMKrikor",
       "name": "Krikor Sevag Mekhitarian",
       "value": 2761.0,
@@ -307,19 +320,6 @@
         "username": "GMKrikor",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/BR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 24,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2760.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-16T17:00:54Z",
+      "fetched_at": "2026-09-16T20:09:43Z",
       "http_status": 200
     }
   ]
