@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-17T01:27:44Z",
-  "as_of": "2026-09-17T01:27:44Z",
+  "generated_at": "2026-09-17T07:43:22Z",
+  "as_of": "2026-09-17T07:43:22Z",
   "period": {
     "label": "live_blitz"
   },
@@ -15,7 +15,7 @@
       "rank": 1,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
-      "value": 3409.0,
+      "value": 3410.0,
       "unit": "rating",
       "meta": {
         "username": "Hikaru",
@@ -234,6 +234,19 @@
     },
     {
       "rank": 18,
+      "id": "wonderfultime",
+      "name": "Tuan Minh Le",
+      "value": 3259.0,
+      "unit": "rating",
+      "meta": {
+        "username": "wonderfultime",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/VN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 19,
       "id": "PursuitOfHappyness2",
       "name": "Abhimanyu Mishra",
       "value": 3255.0,
@@ -246,7 +259,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": "Sibelephant",
       "name": "Vladislav Artemiev",
       "value": 3254.0,
@@ -259,7 +272,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 21,
       "id": "jefferyx",
       "name": "Jeffery Xiong",
       "value": 3248.0,
@@ -272,7 +285,7 @@
       }
     },
     {
-      "rank": 21,
+      "rank": 22,
       "id": "LevonAronian",
       "name": "Levon Aronian",
       "value": 3246.0,
@@ -285,7 +298,7 @@
       }
     },
     {
-      "rank": 22,
+      "rank": 23,
       "id": "Zhuu96",
       "name": "Zhamsaran Tsydypov",
       "value": 3246.0,
@@ -298,7 +311,7 @@
       }
     },
     {
-      "rank": 23,
+      "rank": 24,
       "id": "vi_pranav",
       "name": "Pranav V",
       "value": 3245.0,
@@ -311,7 +324,7 @@
       }
     },
     {
-      "rank": 24,
+      "rank": 25,
       "id": "dropstoneDP",
       "name": "David Paravyan",
       "value": 3240.0,
@@ -324,7 +337,7 @@
       }
     },
     {
-      "rank": 25,
+      "rank": 26,
       "id": "Philippians46",
       "name": "Andy Woodward",
       "value": 3237.0,
@@ -337,7 +350,7 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 27,
       "id": "Volodar_Murzin",
       "name": "Volodar Murzin",
       "value": 3236.0,
@@ -350,7 +363,7 @@
       }
     },
     {
-      "rank": 27,
+      "rank": 28,
       "id": "spicycaterpillar",
       "name": "Ray Robson",
       "value": 3234.0,
@@ -359,19 +372,6 @@
         "username": "spicycaterpillar",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 28,
-      "id": "wonderfultime",
-      "name": "Tuan Minh Le",
-      "value": 3232.0,
-      "unit": "rating",
-      "meta": {
-        "username": "wonderfultime",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-17T01:27:44Z",
+      "fetched_at": "2026-09-17T07:43:22Z",
       "http_status": 200
     }
   ]
