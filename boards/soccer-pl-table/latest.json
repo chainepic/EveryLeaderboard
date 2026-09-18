@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "soccer-pl-table",
-  "generated_at": "2026-09-18T19:39:01Z",
-  "as_of": "2026-09-18T19:39:01Z",
+  "generated_at": "2026-09-18T22:36:10Z",
+  "as_of": "2026-09-18T22:36:10Z",
   "period": {
     "label": "2026-27 English Premier League"
   },
@@ -45,6 +45,22 @@
     },
     {
       "rank": 3,
+      "id": "337",
+      "name": "Brentford",
+      "value": 9.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 2.0,
+        "losses": 0.0,
+        "ties": 3.0,
+        "games_played": 5.0,
+        "goal_diff": 6.0,
+        "season": "2026-27 English Premier League"
+      }
+    },
+    {
+      "rank": 4,
       "id": "357",
       "name": "Leeds United",
       "value": 8.0,
@@ -60,7 +76,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "306",
       "name": "Hull City",
       "value": 8.0,
@@ -76,7 +92,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "331",
       "name": "Brighton & Hove Albion",
       "value": 7.0,
@@ -92,7 +108,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "363",
       "name": "Chelsea",
       "value": 7.0,
@@ -100,26 +116,10 @@
       "meta": {
         "group": "2026-27 English Premier League",
         "wins": 2.0,
-        "losses": 1.0,
+        "losses": 2.0,
         "ties": 1.0,
-        "games_played": 4.0,
-        "goal_diff": 1.0,
-        "season": "2026-27 English Premier League"
-      }
-    },
-    {
-      "rank": 7,
-      "id": "337",
-      "name": "Brentford",
-      "value": 6.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 1.0,
-        "losses": 0.0,
-        "ties": 3.0,
-        "games_played": 4.0,
-        "goal_diff": 3.0,
+        "games_played": 5.0,
+        "goal_diff": -2.0,
         "season": "2026-27 English Premier League"
       }
     },
@@ -336,7 +336,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/soccer/eng.1/standings",
-      "fetched_at": "2026-09-18T19:39:01Z",
+      "fetched_at": "2026-09-18T22:36:10Z",
       "http_status": 200
     }
   ]
