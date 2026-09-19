@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-09-19T11:03:29Z",
-  "as_of": "2026-09-19T11:03:29Z",
+  "generated_at": "2026-09-19T14:28:08Z",
+  "as_of": "2026-09-19T14:28:08Z",
   "period": {
     "label": "live_rapid"
   },
@@ -598,6 +598,19 @@
     },
     {
       "rank": 46,
+      "id": "alexboy14",
+      "name": "Oleksii Nakonechnyi",
+      "value": 2702.0,
+      "unit": "rating",
+      "meta": {
+        "username": "alexboy14",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/PL",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 47,
       "id": "mmgchess",
       "name": "Marcos Gonzalez",
       "value": 2701.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "LikeWater",
       "name": "Alexander Velikanov",
       "value": 2701.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "wqws",
       "name": "Kaivalya Sandip Nagare",
       "value": 2700.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "SahibSinghKnight",
       "name": "Sahib Singh",
       "value": 2695.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/IN",
         "category": "live_rapid"
       }
-    },
-    {
-      "rank": 50,
-      "id": "tesyanor",
-      "name": "tesyanor",
-      "value": 2695.0,
-      "unit": "rating",
-      "meta": {
-        "username": "tesyanor",
-        "title": null,
-        "country_url": "https://api.chess.com/pub/country/TR",
-        "category": "live_rapid"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-19T11:03:29Z",
+      "fetched_at": "2026-09-19T14:28:08Z",
       "http_status": 200
     }
   ]

@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "soccer-pl-table",
-  "generated_at": "2026-09-19T11:03:33Z",
-  "as_of": "2026-09-19T11:03:33Z",
+  "generated_at": "2026-09-19T14:28:11Z",
+  "as_of": "2026-09-19T14:28:11Z",
   "period": {
     "label": "2026-27 English Premier League"
   },
@@ -237,6 +237,22 @@
     },
     {
       "rank": 15,
+      "id": "362",
+      "name": "Aston Villa",
+      "value": 4.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 1.0,
+        "losses": 3.0,
+        "ties": 1.0,
+        "games_played": 5.0,
+        "goal_diff": -5.0,
+        "season": "2026-27 English Premier League"
+      }
+    },
+    {
+      "rank": 16,
       "id": "349",
       "name": "AFC Bournemouth",
       "value": 3.0,
@@ -252,7 +268,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": "384",
       "name": "Crystal Palace",
       "value": 3.0,
@@ -268,7 +284,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "367",
       "name": "Tottenham Hotspur",
       "value": 2.0,
@@ -276,15 +292,15 @@
       "meta": {
         "group": "2026-27 English Premier League",
         "wins": 0.0,
-        "losses": 2.0,
+        "losses": 3.0,
         "ties": 2.0,
-        "games_played": 4.0,
-        "goal_diff": -5.0,
+        "games_played": 5.0,
+        "goal_diff": -6.0,
         "season": "2026-27 English Premier League"
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": "370",
       "name": "Fulham",
       "value": 1.0,
@@ -296,22 +312,6 @@
         "ties": 1.0,
         "games_played": 4.0,
         "goal_diff": -3.0,
-        "season": "2026-27 English Premier League"
-      }
-    },
-    {
-      "rank": 19,
-      "id": "362",
-      "name": "Aston Villa",
-      "value": 1.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 0.0,
-        "losses": 3.0,
-        "ties": 1.0,
-        "games_played": 4.0,
-        "goal_diff": -6.0,
         "season": "2026-27 English Premier League"
       }
     },
@@ -336,7 +336,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/soccer/eng.1/standings",
-      "fetched_at": "2026-09-19T11:03:33Z",
+      "fetched_at": "2026-09-19T14:28:11Z",
       "http_status": 200
     }
   ]
