@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "soccer-pl-table",
-  "generated_at": "2026-09-20T16:49:54Z",
-  "as_of": "2026-09-20T16:49:54Z",
+  "generated_at": "2026-09-20T19:28:28Z",
+  "as_of": "2026-09-20T19:28:28Z",
   "period": {
     "label": "2026-27 English Premier League"
   },
@@ -189,6 +189,22 @@
     },
     {
       "rank": 12,
+      "id": "360",
+      "name": "Manchester United",
+      "value": 5.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 1.0,
+        "losses": 2.0,
+        "ties": 2.0,
+        "games_played": 5.0,
+        "goal_diff": 0.0,
+        "season": "2026-27 English Premier League"
+      }
+    },
+    {
+      "rank": 13,
       "id": "393",
       "name": "Nottingham Forest",
       "value": 5.0,
@@ -200,22 +216,6 @@
         "ties": 2.0,
         "games_played": 5.0,
         "goal_diff": -1.0,
-        "season": "2026-27 English Premier League"
-      }
-    },
-    {
-      "rank": 13,
-      "id": "360",
-      "name": "Manchester United",
-      "value": 4.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 1.0,
-        "losses": 2.0,
-        "ties": 1.0,
-        "games_played": 4.0,
-        "goal_diff": 0.0,
         "season": "2026-27 English Premier League"
       }
     },
@@ -301,6 +301,22 @@
     },
     {
       "rank": 19,
+      "id": "370",
+      "name": "Fulham",
+      "value": 2.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 0.0,
+        "losses": 3.0,
+        "ties": 2.0,
+        "games_played": 5.0,
+        "goal_diff": -3.0,
+        "season": "2026-27 English Premier League"
+      }
+    },
+    {
+      "rank": 20,
       "id": "367",
       "name": "Tottenham Hotspur",
       "value": 2.0,
@@ -314,29 +330,13 @@
         "goal_diff": -6.0,
         "season": "2026-27 English Premier League"
       }
-    },
-    {
-      "rank": 20,
-      "id": "370",
-      "name": "Fulham",
-      "value": 1.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 0.0,
-        "losses": 3.0,
-        "ties": 1.0,
-        "games_played": 4.0,
-        "goal_diff": -3.0,
-        "season": "2026-27 English Premier League"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/soccer/eng.1/standings",
-      "fetched_at": "2026-09-20T16:49:54Z",
+      "fetched_at": "2026-09-20T19:28:28Z",
       "http_status": 200
     }
   ]
