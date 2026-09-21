@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-21T01:09:04Z",
-  "as_of": "2026-09-21T01:09:04Z",
+  "generated_at": "2026-09-21T06:24:08Z",
+  "as_of": "2026-09-21T06:24:08Z",
   "period": {
     "label": "live_blitz"
   },
@@ -416,6 +416,19 @@
     },
     {
       "rank": 32,
+      "id": "wonderfultime",
+      "name": "Tuan Minh Le",
+      "value": 3220.0,
+      "unit": "rating",
+      "meta": {
+        "username": "wonderfultime",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/VN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 33,
       "id": "legendisback1",
       "name": "Yagiz Kaan Erdogmus",
       "value": 3219.0,
@@ -428,7 +441,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 34,
       "id": "TRadjabov",
       "name": "Teimour Radjabov",
       "value": 3218.0,
@@ -437,19 +450,6 @@
         "username": "TRadjabov",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/AZ",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 34,
-      "id": "Philippians46",
-      "name": "Andy Woodward",
-      "value": 3216.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Philippians46",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
@@ -533,19 +533,6 @@
     },
     {
       "rank": 41,
-      "id": "Duhless",
-      "name": "Daniil Dubov",
-      "value": 3211.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Duhless",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 42,
       "id": "sergoy",
       "name": "Sergey Drygalov",
       "value": 3206.0,
@@ -554,6 +541,19 @@
         "username": "sergoy",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/KR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 42,
+      "id": "Philippians46",
+      "name": "Andy Woodward",
+      "value": 3206.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Philippians46",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
@@ -637,6 +637,19 @@
     },
     {
       "rank": 49,
+      "id": "GroovyKettle",
+      "name": "Robby Kevlishvili",
+      "value": 3201.0,
+      "unit": "rating",
+      "meta": {
+        "username": "GroovyKettle",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/NL",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 50,
       "id": "GMBrewChess",
       "name": "Brewington Hardaway",
       "value": 3201.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "wonderfultime",
-      "name": "Tuan Minh Le",
-      "value": 3201.0,
-      "unit": "rating",
-      "meta": {
-        "username": "wonderfultime",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/VN",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-21T01:09:04Z",
+      "fetched_at": "2026-09-21T06:24:08Z",
       "http_status": 200
     }
   ]
