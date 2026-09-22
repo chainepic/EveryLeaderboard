@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-22T18:56:58Z",
-  "as_of": "2026-09-22T18:56:58Z",
+  "generated_at": "2026-09-22T22:12:24Z",
+  "as_of": "2026-09-22T22:12:24Z",
   "period": {
     "label": "live_blitz"
   },
@@ -416,6 +416,32 @@
     },
     {
       "rank": 32,
+      "id": "Njal28",
+      "name": "Aram Hakobyan",
+      "value": 3220.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Njal28",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/AM",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 33,
+      "id": "MichaelRoiz",
+      "name": "Michael Roiz",
+      "value": 3219.0,
+      "unit": "rating",
+      "meta": {
+        "username": "MichaelRoiz",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IL",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 34,
       "id": "legendisback1",
       "name": "Yagiz Kaan Erdogmus",
       "value": 3219.0,
@@ -428,7 +454,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 35,
       "id": "chess_master_8820",
       "name": "Radin Yadegar",
       "value": 3218.0,
@@ -441,7 +467,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 36,
       "id": "TRadjabov",
       "name": "Teimour Radjabov",
       "value": 3218.0,
@@ -454,7 +480,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 37,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3218.0,
@@ -467,7 +493,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 38,
       "id": "Harmonized_kakophonia",
       "name": "Dau Khuong Duy",
       "value": 3212.0,
@@ -480,7 +506,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 39,
       "id": "Sibelephant",
       "name": "Vladislav Artemiev",
       "value": 3212.0,
@@ -493,7 +519,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 40,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3211.0,
@@ -506,20 +532,7 @@
       }
     },
     {
-      "rank": 39,
-      "id": "Njal28",
-      "name": "Aram Hakobyan",
-      "value": 3210.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Njal28",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/AM",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 40,
+      "rank": 41,
       "id": "sokidze",
       "name": "Ihor Samunenkov",
       "value": 3205.0,
@@ -528,19 +541,6 @@
         "username": "sokidze",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/UA",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 41,
-      "id": "MichaelRoiz",
-      "name": "Michael Roiz",
-      "value": 3205.0,
-      "unit": "rating",
-      "meta": {
-        "username": "MichaelRoiz",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-22T18:56:58Z",
+      "fetched_at": "2026-09-22T22:12:24Z",
       "http_status": 200
     }
   ]
