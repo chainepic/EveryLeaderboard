@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-09-23T06:00:53Z",
-  "as_of": "2026-09-23T06:00:53Z",
+  "generated_at": "2026-09-23T11:41:46Z",
+  "as_of": "2026-09-23T11:41:46Z",
   "period": {
     "label": "live_rapid"
   },
@@ -351,19 +351,6 @@
     },
     {
       "rank": 27,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2744.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 28,
       "id": "Sibelephant",
       "name": "Vladislav Artemiev",
       "value": 2740.0,
@@ -376,7 +363,7 @@
       }
     },
     {
-      "rank": 29,
+      "rank": 28,
       "id": "Duhless",
       "name": "Daniil Dubov",
       "value": 2735.0,
@@ -389,7 +376,7 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 29,
       "id": "lethalspider7",
       "name": "lethalspider7",
       "value": 2733.0,
@@ -402,7 +389,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 30,
       "id": "TheVish",
       "name": "Viswanathan Anand",
       "value": 2731.0,
@@ -415,7 +402,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 31,
       "id": "FandiMazen",
       "name": "Mazen Fandi",
       "value": 2731.0,
@@ -424,6 +411,19 @@
         "username": "FandiMazen",
         "title": "FM",
         "country_url": "https://api.chess.com/pub/country/SY",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 32,
+      "id": "Swiss_Fighter",
+      "name": "Gabriel Gähwiler",
+      "value": 2730.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Swiss_Fighter",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/CH",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-23T06:00:53Z",
+      "fetched_at": "2026-09-23T11:41:46Z",
       "http_status": 200
     }
   ]
