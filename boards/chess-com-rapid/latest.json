@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-09-23T17:05:11Z",
-  "as_of": "2026-09-23T17:05:11Z",
+  "generated_at": "2026-09-23T23:43:57Z",
+  "as_of": "2026-09-23T23:43:57Z",
   "period": {
     "label": "live_rapid"
   },
@@ -390,19 +390,6 @@
     },
     {
       "rank": 30,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2732.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 31,
       "id": "TheVish",
       "name": "Viswanathan Anand",
       "value": 2731.0,
@@ -411,6 +398,19 @@
         "username": "TheVish",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IN",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 31,
+      "id": "Swiss_Fighter",
+      "name": "Gabriel Gähwiler",
+      "value": 2731.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Swiss_Fighter",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/CH",
         "category": "live_rapid"
       }
     },
@@ -637,6 +637,19 @@
     },
     {
       "rank": 49,
+      "id": "GM_coocachoy",
+      "name": "Akbar Yakubboev",
+      "value": 2701.0,
+      "unit": "rating",
+      "meta": {
+        "username": "GM_coocachoy",
+        "title": null,
+        "country_url": "https://api.chess.com/pub/country/UZ",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 50,
       "id": "wqws",
       "name": "Kaivalya Sandip Nagare",
       "value": 2700.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/IN",
         "category": "live_rapid"
       }
-    },
-    {
-      "rank": 50,
-      "id": "SahibSinghKnight",
-      "name": "Sahib Singh",
-      "value": 2695.0,
-      "unit": "rating",
-      "meta": {
-        "username": "SahibSinghKnight",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/IN",
-        "category": "live_rapid"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-23T17:05:11Z",
+      "fetched_at": "2026-09-23T23:43:57Z",
       "http_status": 200
     }
   ]
