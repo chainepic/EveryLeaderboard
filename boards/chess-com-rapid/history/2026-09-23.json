@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-09-23T11:41:46Z",
-  "as_of": "2026-09-23T11:41:46Z",
+  "generated_at": "2026-09-23T17:05:11Z",
+  "as_of": "2026-09-23T17:05:11Z",
   "period": {
     "label": "live_rapid"
   },
@@ -390,6 +390,19 @@
     },
     {
       "rank": 30,
+      "id": "Swiss_Fighter",
+      "name": "Gabriel Gähwiler",
+      "value": 2732.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Swiss_Fighter",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/CH",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 31,
       "id": "TheVish",
       "name": "Viswanathan Anand",
       "value": 2731.0,
@@ -402,7 +415,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": "FandiMazen",
       "name": "Mazen Fandi",
       "value": 2731.0,
@@ -411,19 +424,6 @@
         "username": "FandiMazen",
         "title": "FM",
         "country_url": "https://api.chess.com/pub/country/SY",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 32,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2730.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-23T11:41:46Z",
+      "fetched_at": "2026-09-23T17:05:11Z",
       "http_status": 200
     }
   ]
