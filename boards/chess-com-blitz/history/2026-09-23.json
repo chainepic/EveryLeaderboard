@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-09-23T00:37:12Z",
-  "as_of": "2026-09-23T00:37:12Z",
+  "generated_at": "2026-09-23T06:00:53Z",
+  "as_of": "2026-09-23T06:00:53Z",
   "period": {
     "label": "live_blitz"
   },
@@ -15,7 +15,7 @@
       "rank": 1,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
-      "value": 3440.0,
+      "value": 3439.0,
       "unit": "rating",
       "meta": {
         "username": "Hikaru",
@@ -559,19 +559,6 @@
     },
     {
       "rank": 43,
-      "id": "xiaotong2008",
-      "name": "Xiao Tong",
-      "value": 3203.0,
-      "unit": "rating",
-      "meta": {
-        "username": "xiaotong2008",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/CN",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 44,
       "id": "ManuDavid2910",
       "name": "Manu David",
       "value": 3203.0,
@@ -584,7 +571,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 44,
       "id": "Fedoseev-Vladimir",
       "name": "Vladimir Fedoseev",
       "value": 3203.0,
@@ -597,7 +584,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": "GroovyKettle",
       "name": "Robby Kevlishvili",
       "value": 3201.0,
@@ -610,7 +597,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": "GMBrewChess",
       "name": "Brewington Hardaway",
       "value": 3201.0,
@@ -623,7 +610,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": "NikoTheodorou",
       "name": "Nikolas Theodorou",
       "value": 3198.0,
@@ -636,7 +623,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 3195.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "artin10862",
       "name": "Artin Ashraf",
       "value": 3193.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/TR",
         "category": "live_blitz"
       }
+    },
+    {
+      "rank": 50,
+      "id": "ChristopherYoo",
+      "name": "Christopher Woojin Yoo",
+      "value": 3193.0,
+      "unit": "rating",
+      "meta": {
+        "username": "ChristopherYoo",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/TV",
+        "category": "live_blitz"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-23T00:37:12Z",
+      "fetched_at": "2026-09-23T06:00:53Z",
       "http_status": 200
     }
   ]
