@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "steam-top-played",
-  "generated_at": "2026-09-26T01:36:39Z",
-  "as_of": "2026-09-26T01:36:39Z",
+  "generated_at": "2026-09-26T07:45:41Z",
+  "as_of": "2026-09-26T07:45:41Z",
   "period": {
     "label": "live"
   },
@@ -15,7 +15,7 @@
       "rank": 1,
       "id": "730",
       "name": "730",
-      "value": 542924,
+      "value": 776566,
       "unit": "players",
       "meta": {
         "peak_in_game": 1308112,
@@ -26,7 +26,7 @@
       "rank": 2,
       "id": "570",
       "name": "570",
-      "value": 380441,
+      "value": 552793,
       "unit": "players",
       "meta": {
         "peak_in_game": 842846,
@@ -35,53 +35,9 @@
     },
     {
       "rank": 3,
-      "id": "1867240",
-      "name": "1867240",
-      "value": 236636,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 290491,
-        "appid": 1867240
-      }
-    },
-    {
-      "rank": 4,
-      "id": "3419430",
-      "name": "3419430",
-      "value": 148814,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 178997,
-        "appid": 3419430
-      }
-    },
-    {
-      "rank": 5,
-      "id": "892970",
-      "name": "892970",
-      "value": 145247,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 205141,
-        "appid": 892970
-      }
-    },
-    {
-      "rank": 6,
-      "id": "2676230",
-      "name": "FiveM",
-      "value": 135350,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 182877,
-        "appid": 2676230
-      }
-    },
-    {
-      "rank": 7,
       "id": "578080",
       "name": "578080",
-      "value": 124496,
+      "value": 439183,
       "unit": "players",
       "meta": {
         "peak_in_game": 652161,
@@ -89,43 +45,32 @@
       }
     },
     {
-      "rank": 8,
-      "id": "4126040",
-      "name": "Aniimo",
-      "value": 102994,
+      "rank": 4,
+      "id": "1867240",
+      "name": "1867240",
+      "value": 169206,
       "unit": "players",
       "meta": {
-        "peak_in_game": 143345,
-        "appid": 4126040
+        "peak_in_game": 290491,
+        "appid": 1867240
       }
     },
     {
-      "rank": 9,
-      "id": "2767030",
-      "name": "2767030",
-      "value": 89806,
+      "rank": 5,
+      "id": "3419430",
+      "name": "3419430",
+      "value": 157286,
       "unit": "players",
       "meta": {
-        "peak_in_game": 89947,
-        "appid": 2767030
+        "peak_in_game": 178997,
+        "appid": 3419430
       }
     },
     {
-      "rank": 10,
-      "id": "359550",
-      "name": "359550",
-      "value": 79507,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 82861,
-        "appid": 359550
-      }
-    },
-    {
-      "rank": 11,
+      "rank": 6,
       "id": "1172470",
       "name": "1172470",
-      "value": 71760,
+      "value": 156102,
       "unit": "players",
       "meta": {
         "peak_in_game": 231481,
@@ -133,21 +78,65 @@
       }
     },
     {
-      "rank": 12,
-      "id": "2357570",
-      "name": "2357570",
-      "value": 69919,
+      "rank": 7,
+      "id": "892970",
+      "name": "892970",
+      "value": 102732,
       "unit": "players",
       "meta": {
-        "peak_in_game": 72167,
-        "appid": 2357570
+        "peak_in_game": 205141,
+        "appid": 892970
       }
     },
     {
-      "rank": 13,
+      "rank": 8,
+      "id": "2507950",
+      "name": "2507950",
+      "value": 97193,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 117353,
+        "appid": 2507950
+      }
+    },
+    {
+      "rank": 9,
+      "id": "4126040",
+      "name": "Aniimo",
+      "value": 91053,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 143345,
+        "appid": 4126040
+      }
+    },
+    {
+      "rank": 10,
+      "id": "431960",
+      "name": "431960",
+      "value": 88356,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 111039,
+        "appid": 431960
+      }
+    },
+    {
+      "rank": 11,
+      "id": "2676230",
+      "name": "FiveM",
+      "value": 86639,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 182877,
+        "appid": 2676230
+      }
+    },
+    {
+      "rank": 12,
       "id": "3678970",
       "name": "3678970",
-      "value": 67743,
+      "value": 75741,
       "unit": "players",
       "meta": {
         "peak_in_game": 85589,
@@ -155,10 +144,21 @@
       }
     },
     {
+      "rank": 13,
+      "id": "252490",
+      "name": "252490",
+      "value": 74743,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 124585,
+        "appid": 252490
+      }
+    },
+    {
       "rank": 14,
       "id": "230410",
       "name": "230410",
-      "value": 66600,
+      "value": 65986,
       "unit": "players",
       "meta": {
         "peak_in_game": 84979,
@@ -167,75 +167,9 @@
     },
     {
       "rank": 15,
-      "id": "1422450",
-      "name": "Deadlock",
-      "value": 66547,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 75715,
-        "appid": 1422450
-      }
-    },
-    {
-      "rank": 16,
-      "id": "252490",
-      "name": "252490",
-      "value": 66051,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 124585,
-        "appid": 252490
-      }
-    },
-    {
-      "rank": 17,
-      "id": "1142710",
-      "name": "1142710",
-      "value": 58564,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 88490,
-        "appid": 1142710
-      }
-    },
-    {
-      "rank": 18,
-      "id": "440",
-      "name": "440",
-      "value": 57627,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 76562,
-        "appid": 440
-      }
-    },
-    {
-      "rank": 19,
-      "id": "553850",
-      "name": "HELLDIVERS™ 2",
-      "value": 56435,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 61074,
-        "appid": 553850
-      }
-    },
-    {
-      "rank": 20,
-      "id": "431960",
-      "name": "431960",
-      "value": 55013,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 111039,
-        "appid": 431960
-      }
-    },
-    {
-      "rank": 21,
       "id": "2868840",
       "name": "Slay the Spire 2",
-      "value": 53148,
+      "value": 64963,
       "unit": "players",
       "meta": {
         "peak_in_game": 93313,
@@ -243,10 +177,32 @@
       }
     },
     {
-      "rank": 22,
+      "rank": 16,
+      "id": "1142710",
+      "name": "1142710",
+      "value": 60619,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 88490,
+        "appid": 1142710
+      }
+    },
+    {
+      "rank": 17,
+      "id": "440",
+      "name": "440",
+      "value": 58436,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 76562,
+        "appid": 440
+      }
+    },
+    {
+      "rank": 18,
       "id": "1623730",
       "name": "1623730",
-      "value": 51428,
+      "value": 57325,
       "unit": "players",
       "meta": {
         "peak_in_game": 68306,
@@ -254,54 +210,10 @@
       }
     },
     {
-      "rank": 23,
-      "id": "438100",
-      "name": "438100",
-      "value": 48198,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 56850,
-        "appid": 438100
-      }
-    },
-    {
-      "rank": 24,
-      "id": "108600",
-      "name": "Project Zomboid",
-      "value": 47318,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 54701,
-        "appid": 108600
-      }
-    },
-    {
-      "rank": 25,
-      "id": "4080220",
-      "name": "4080220",
-      "value": 45572,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 91542,
-        "appid": 4080220
-      }
-    },
-    {
-      "rank": 26,
-      "id": "1086940",
-      "name": "1086940",
-      "value": 45128,
-      "unit": "players",
-      "meta": {
-        "peak_in_game": 53596,
-        "appid": 1086940
-      }
-    },
-    {
-      "rank": 27,
+      "rank": 19,
       "id": "1973530",
       "name": "Limbus Company",
-      "value": 44957,
+      "value": 56897,
       "unit": "players",
       "meta": {
         "peak_in_game": 75318,
@@ -309,36 +221,124 @@
       }
     },
     {
-      "rank": 28,
-      "id": "322170",
-      "name": "Geometry Dash",
-      "value": 43987,
+      "rank": 20,
+      "id": "236390",
+      "name": "236390",
+      "value": 56254,
       "unit": "players",
       "meta": {
-        "peak_in_game": 54778,
-        "appid": 322170
+        "peak_in_game": 81802,
+        "appid": 236390
+      }
+    },
+    {
+      "rank": 21,
+      "id": "413150",
+      "name": "413150",
+      "value": 53734,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 70692,
+        "appid": 413150
+      }
+    },
+    {
+      "rank": 22,
+      "id": "3240220",
+      "name": "Grand Theft Auto V Enhanced",
+      "value": 53161,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 70934,
+        "appid": 3240220
+      }
+    },
+    {
+      "rank": 23,
+      "id": "2767030",
+      "name": "2767030",
+      "value": 51947,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 94567,
+        "appid": 2767030
+      }
+    },
+    {
+      "rank": 24,
+      "id": "438100",
+      "name": "438100",
+      "value": 49731,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 56850,
+        "appid": 438100
+      }
+    },
+    {
+      "rank": 25,
+      "id": "2357570",
+      "name": "2357570",
+      "value": 49711,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 75325,
+        "appid": 2357570
+      }
+    },
+    {
+      "rank": 26,
+      "id": "250900",
+      "name": "250900",
+      "value": 49583,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 73002,
+        "appid": 250900
+      }
+    },
+    {
+      "rank": 27,
+      "id": "359550",
+      "name": "359550",
+      "value": 45925,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 82861,
+        "appid": 359550
+      }
+    },
+    {
+      "rank": 28,
+      "id": "553850",
+      "name": "HELLDIVERS™ 2",
+      "value": 45473,
+      "unit": "players",
+      "meta": {
+        "peak_in_game": 63375,
+        "appid": 553850
       }
     },
     {
       "rank": 29,
-      "id": "381210",
-      "name": "381210",
-      "value": 43858,
+      "id": "1422450",
+      "name": "Deadlock",
+      "value": 45037,
       "unit": "players",
       "meta": {
-        "peak_in_game": 57813,
-        "appid": 381210
+        "peak_in_game": 75715,
+        "appid": 1422450
       }
     },
     {
       "rank": 30,
-      "id": "2507950",
-      "name": "2507950",
-      "value": 41862,
+      "id": "1203220",
+      "name": "1203220",
+      "value": 43923,
       "unit": "players",
       "meta": {
-        "peak_in_game": 117353,
-        "appid": 2507950
+        "peak_in_game": 69798,
+        "appid": 1203220
       }
     }
   ],
@@ -346,9 +346,9 @@
     {
       "name": "Steam Web API",
       "url": "https://api.steampowered.com/ISteamChartsService/GetGamesByConcurrentPlayers/v1/",
-      "fetched_at": "2026-09-26T01:36:39Z",
+      "fetched_at": "2026-09-26T07:45:41Z",
       "http_status": 200
     }
   ],
-  "notes": "steam last_update=1790386460"
+  "notes": "steam last_update=1790408410"
 }
