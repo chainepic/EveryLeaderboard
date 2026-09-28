@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-09-28T15:31:49Z",
-  "as_of": "2026-09-28T15:31:49Z",
+  "generated_at": "2026-09-28T22:04:08Z",
+  "as_of": "2026-09-28T22:04:08Z",
   "period": {
     "label": "live_rapid"
   },
@@ -197,7 +197,7 @@
       "rank": 15,
       "id": "Kacparov",
       "name": "Kacper Drozdowski",
-      "value": 2787.0,
+      "value": 2789.0,
       "unit": "rating",
       "meta": {
         "username": "Kacparov",
@@ -275,7 +275,7 @@
       "rank": 21,
       "id": "GMKrikor",
       "name": "Krikor Sevag Mekhitarian",
-      "value": 2761.0,
+      "value": 2763.0,
       "unit": "rating",
       "meta": {
         "username": "GMKrikor",
@@ -403,6 +403,19 @@
     },
     {
       "rank": 31,
+      "id": "Swiss_Fighter",
+      "name": "Gabriel Gähwiler",
+      "value": 2729.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Swiss_Fighter",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/CH",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 32,
       "id": "alexboy14",
       "name": "Oleksii Nakonechnyi",
       "value": 2729.0,
@@ -415,7 +428,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": "Szparu",
       "name": "Miłosz Szpar",
       "value": 2722.0,
@@ -428,7 +441,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 34,
       "id": "HansOnTwitch",
       "name": "Hans Niemann",
       "value": 2720.0,
@@ -437,19 +450,6 @@
         "username": "HansOnTwitch",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 34,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2720.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-28T15:31:49Z",
+      "fetched_at": "2026-09-28T22:04:08Z",
       "http_status": 200
     }
   ]
