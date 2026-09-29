@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-09-29T08:34:35Z",
-  "as_of": "2026-09-29T08:34:35Z",
+  "generated_at": "2026-09-29T15:54:56Z",
+  "as_of": "2026-09-29T15:54:56Z",
   "period": {
     "label": "live_rapid"
   },
@@ -260,6 +260,19 @@
     },
     {
       "rank": 20,
+      "id": "GMKrikor",
+      "name": "Krikor Sevag Mekhitarian",
+      "value": 2767.0,
+      "unit": "rating",
+      "meta": {
+        "username": "GMKrikor",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 21,
       "id": "GigaQuparadze",
       "name": "Giga Quparadze",
       "value": 2766.0,
@@ -268,19 +281,6 @@
         "username": "GigaQuparadze",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/GE",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 21,
-      "id": "GMKrikor",
-      "name": "Krikor Sevag Mekhitarian",
-      "value": 2763.0,
-      "unit": "rating",
-      "meta": {
-        "username": "GMKrikor",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-29T08:34:35Z",
+      "fetched_at": "2026-09-29T15:54:56Z",
       "http_status": 200
     }
   ]
