@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-09-29T15:54:56Z",
-  "as_of": "2026-09-29T15:54:56Z",
+  "generated_at": "2026-09-29T20:50:24Z",
+  "as_of": "2026-09-29T20:50:24Z",
   "period": {
     "label": "live_rapid"
   },
@@ -338,6 +338,19 @@
     },
     {
       "rank": 26,
+      "id": "Swiss_Fighter",
+      "name": "Gabriel Gähwiler",
+      "value": 2737.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Swiss_Fighter",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/CH",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 27,
       "id": "Duhless",
       "name": "Daniil Dubov",
       "value": 2735.0,
@@ -346,19 +359,6 @@
         "username": "Duhless",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 27,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2734.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
         "category": "live_rapid"
       }
     },
@@ -650,14 +650,14 @@
     },
     {
       "rank": 50,
-      "id": "SahibSinghKnight",
-      "name": "Sahib Singh",
-      "value": 2695.0,
+      "id": "ClydeHillKid",
+      "name": "Joseph Levine",
+      "value": 2699.0,
       "unit": "rating",
       "meta": {
-        "username": "SahibSinghKnight",
+        "username": "ClydeHillKid",
         "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/IN",
+        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
     }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-09-29T15:54:56Z",
+      "fetched_at": "2026-09-29T20:50:24Z",
       "http_status": 200
     }
   ]
