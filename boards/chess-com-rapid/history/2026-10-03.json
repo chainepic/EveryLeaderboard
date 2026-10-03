@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-10-03T08:09:58Z",
-  "as_of": "2026-10-03T08:09:58Z",
+  "generated_at": "2026-10-03T13:25:35Z",
+  "as_of": "2026-10-03T13:25:35Z",
   "period": {
     "label": "live_rapid"
   },
@@ -351,6 +351,19 @@
     },
     {
       "rank": 27,
+      "id": "alexboy14",
+      "name": "Oleksii Nakonechnyi",
+      "value": 2734.0,
+      "unit": "rating",
+      "meta": {
+        "username": "alexboy14",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/PL",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 28,
       "id": "lethalspider7",
       "name": "lethalspider7",
       "value": 2733.0,
@@ -363,7 +376,7 @@
       }
     },
     {
-      "rank": 28,
+      "rank": 29,
       "id": "TheVish",
       "name": "Viswanathan Anand",
       "value": 2731.0,
@@ -376,7 +389,7 @@
       }
     },
     {
-      "rank": 29,
+      "rank": 30,
       "id": "FandiMazen",
       "name": "Mazen Fandi",
       "value": 2731.0,
@@ -385,19 +398,6 @@
         "username": "FandiMazen",
         "title": "FM",
         "country_url": "https://api.chess.com/pub/country/SY",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 30,
-      "id": "alexboy14",
-      "name": "Oleksii Nakonechnyi",
-      "value": 2729.0,
-      "unit": "rating",
-      "meta": {
-        "username": "alexboy14",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/PL",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-03T08:09:58Z",
+      "fetched_at": "2026-10-03T13:25:35Z",
       "http_status": 200
     }
   ]
