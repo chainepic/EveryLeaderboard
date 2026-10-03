@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-03T17:58:27Z",
-  "as_of": "2026-10-03T17:58:27Z",
+  "generated_at": "2026-10-03T21:19:56Z",
+  "as_of": "2026-10-03T21:19:56Z",
   "period": {
     "label": "live_blitz"
   },
@@ -15,7 +15,7 @@
       "rank": 1,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
-      "value": 3488.0,
+      "value": 3483.0,
       "unit": "rating",
       "meta": {
         "username": "Hikaru",
@@ -39,6 +39,19 @@
     },
     {
       "rank": 3,
+      "id": "Sina-Movahed",
+      "name": "Sina Movahed",
+      "value": 3341.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Sina-Movahed",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 4,
       "id": "gurelediz",
       "name": "Ediz Gürel",
       "value": 3332.0,
@@ -51,7 +64,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "Polish_fighter3000",
       "name": "Jan-Krzysztof Duda",
       "value": 3331.0,
@@ -60,19 +73,6 @@
         "username": "Polish_fighter3000",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/PL",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 5,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
-      "value": 3327.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sina-Movahed",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-03T17:58:27Z",
+      "fetched_at": "2026-10-03T21:19:56Z",
       "http_status": 200
     }
   ]
