@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-10-03T02:00:51Z",
-  "as_of": "2026-10-03T02:00:51Z",
+  "generated_at": "2026-10-03T08:09:58Z",
+  "as_of": "2026-10-03T08:09:58Z",
   "period": {
     "label": "live_rapid"
   },
@@ -494,19 +494,6 @@
     },
     {
       "rank": 38,
-      "id": "LikeWater",
-      "name": "Alexander Velikanov",
-      "value": 2711.0,
-      "unit": "rating",
-      "meta": {
-        "username": "LikeWater",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 39,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 2709.0,
@@ -519,7 +506,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 39,
       "id": "Super_Pav",
       "name": "Tikhon Popov",
       "value": 2707.0,
@@ -532,7 +519,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 40,
       "id": "GM_coocachoy",
       "name": "Akbar Yakubboev",
       "value": 2706.0,
@@ -545,7 +532,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 41,
       "id": "KNVB",
       "name": "Aman Hambleton",
       "value": 2705.0,
@@ -558,7 +545,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 42,
       "id": "dual_flurry",
       "name": "Jerad Docena",
       "value": 2704.0,
@@ -571,7 +558,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 43,
       "id": "Swiss_Fighter",
       "name": "Gabriel Gähwiler",
       "value": 2704.0,
@@ -584,7 +571,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 44,
       "id": "vvds514",
       "name": "vvds514",
       "value": 2703.0,
@@ -597,7 +584,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": "1800_strength",
       "name": "Dachey Lin",
       "value": 2702.0,
@@ -610,7 +597,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": "Liindseeyy",
       "name": "Liindseeyy",
       "value": 2702.0,
@@ -623,7 +610,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": "mmgchess",
       "name": "Marcos Gonzalez",
       "value": 2701.0,
@@ -631,6 +618,19 @@
       "meta": {
         "username": "mmgchess",
         "title": "NM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 48,
+      "id": "LikeWater",
+      "name": "Alexander Velikanov",
+      "value": 2700.0,
+      "unit": "rating",
+      "meta": {
+        "username": "LikeWater",
+        "title": "IM",
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-03T02:00:51Z",
+      "fetched_at": "2026-10-03T08:09:58Z",
       "http_status": 200
     }
   ]
