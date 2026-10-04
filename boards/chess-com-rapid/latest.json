@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-10-04T00:41:15Z",
-  "as_of": "2026-10-04T00:41:15Z",
+  "generated_at": "2026-10-04T06:58:29Z",
+  "as_of": "2026-10-04T06:58:29Z",
   "period": {
     "label": "live_rapid"
   },
@@ -611,6 +611,19 @@
     },
     {
       "rank": 47,
+      "id": "GM_coocachoy",
+      "name": "Akbar Yakubboev",
+      "value": 2700.0,
+      "unit": "rating",
+      "meta": {
+        "username": "GM_coocachoy",
+        "title": null,
+        "country_url": "https://api.chess.com/pub/country/UZ",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 48,
       "id": "LikeWater",
       "name": "Alexander Velikanov",
       "value": 2700.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "wqws",
       "name": "Kaivalya Sandip Nagare",
       "value": 2700.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "ClydeHillKid",
       "name": "Joseph Levine",
       "value": 2699.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
-    },
-    {
-      "rank": 50,
-      "id": "Nitzan_Steinberg",
-      "name": "Nitzan Steinberg",
-      "value": 2696.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Nitzan_Steinberg",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
-        "category": "live_rapid"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-04T00:41:15Z",
+      "fetched_at": "2026-10-04T06:58:29Z",
       "http_status": 200
     }
   ]
