@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-04T06:58:29Z",
-  "as_of": "2026-10-04T06:58:29Z",
+  "generated_at": "2026-10-04T13:13:27Z",
+  "as_of": "2026-10-04T13:13:27Z",
   "period": {
     "label": "live_blitz"
   },
@@ -41,7 +41,7 @@
       "rank": 3,
       "id": "Sina-Movahed",
       "name": "Sina Movahed",
-      "value": 3341.0,
+      "value": 3354.0,
       "unit": "rating",
       "meta": {
         "username": "Sina-Movahed",
@@ -54,7 +54,7 @@
       "rank": 4,
       "id": "gurelediz",
       "name": "Ediz Gürel",
-      "value": 3332.0,
+      "value": 3336.0,
       "unit": "rating",
       "meta": {
         "username": "gurelediz",
@@ -286,6 +286,19 @@
     },
     {
       "rank": 22,
+      "id": "TRadjabov",
+      "name": "Teimour Radjabov",
+      "value": 3237.0,
+      "unit": "rating",
+      "meta": {
+        "username": "TRadjabov",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/AZ",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 23,
       "id": "FairChess_on_YouTube",
       "name": "Dmitry Andreikin",
       "value": 3234.0,
@@ -298,7 +311,7 @@
       }
     },
     {
-      "rank": 23,
+      "rank": 24,
       "id": "GMBrewChess",
       "name": "Brewington Hardaway",
       "value": 3233.0,
@@ -311,7 +324,7 @@
       }
     },
     {
-      "rank": 24,
+      "rank": 25,
       "id": "Konavets",
       "name": "Sam Sevian",
       "value": 3231.0,
@@ -320,19 +333,6 @@
         "username": "Konavets",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 25,
-      "id": "TRadjabov",
-      "name": "Teimour Radjabov",
-      "value": 3228.0,
-      "unit": "rating",
-      "meta": {
-        "username": "TRadjabov",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/AZ",
         "category": "live_blitz"
       }
     },
@@ -650,14 +650,14 @@
     },
     {
       "rank": 50,
-      "id": "MichaelRoiz",
-      "name": "Michael Roiz",
+      "id": "BillieKimbah",
+      "name": "Maxim Matlakov",
       "value": 3187.0,
       "unit": "rating",
       "meta": {
-        "username": "MichaelRoiz",
+        "username": "BillieKimbah",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
+        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-04T06:58:29Z",
+      "fetched_at": "2026-10-04T13:13:27Z",
       "http_status": 200
     }
   ]
