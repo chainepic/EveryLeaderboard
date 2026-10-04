@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-04T17:37:13Z",
-  "as_of": "2026-10-04T17:37:13Z",
+  "generated_at": "2026-10-04T21:30:27Z",
+  "as_of": "2026-10-04T21:30:27Z",
   "period": {
     "label": "live_blitz"
   },
@@ -41,7 +41,7 @@
       "rank": 3,
       "id": "Sina-Movahed",
       "name": "Sina Movahed",
-      "value": 3362.0,
+      "value": 3351.0,
       "unit": "rating",
       "meta": {
         "username": "Sina-Movahed",
@@ -247,6 +247,19 @@
     },
     {
       "rank": 19,
+      "id": "PursuitOfHappyness2",
+      "name": "Abhimanyu Mishra",
+      "value": 3246.0,
+      "unit": "rating",
+      "meta": {
+        "username": "PursuitOfHappyness2",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 20,
       "id": "lachesisQ",
       "name": "Ian Nepomniachtchi",
       "value": 3241.0,
@@ -255,19 +268,6 @@
         "username": "lachesisQ",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 20,
-      "id": "PursuitOfHappyness2",
-      "name": "Abhimanyu Mishra",
-      "value": 3240.0,
-      "unit": "rating",
-      "meta": {
-        "username": "PursuitOfHappyness2",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
@@ -650,14 +650,14 @@
     },
     {
       "rank": 50,
-      "id": "mishanick",
-      "name": "Aleksei Sarana",
+      "id": "Philippians46",
+      "name": "Andy Woodward",
       "value": 3190.0,
       "unit": "rating",
       "meta": {
-        "username": "mishanick",
+        "username": "Philippians46",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RS",
+        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-04T17:37:13Z",
+      "fetched_at": "2026-10-04T21:30:27Z",
       "http_status": 200
     }
   ]

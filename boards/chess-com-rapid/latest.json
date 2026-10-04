@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-10-04T17:37:13Z",
-  "as_of": "2026-10-04T17:37:13Z",
+  "generated_at": "2026-10-04T21:30:27Z",
+  "as_of": "2026-10-04T21:30:27Z",
   "period": {
     "label": "live_rapid"
   },
@@ -429,6 +429,19 @@
     },
     {
       "rank": 33,
+      "id": "Swiss_Fighter",
+      "name": "Gabriel Gähwiler",
+      "value": 2718.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Swiss_Fighter",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/CH",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 34,
       "id": "mishanick",
       "name": "Aleksei Sarana",
       "value": 2718.0,
@@ -441,7 +454,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 35,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 2718.0,
@@ -454,7 +467,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 36,
       "id": "Berardino",
       "name": "Diego Berardino",
       "value": 2717.0,
@@ -463,19 +476,6 @@
         "username": "Berardino",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/BR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 36,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2715.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
         "category": "live_rapid"
       }
     },
@@ -507,6 +507,19 @@
     },
     {
       "rank": 39,
+      "id": "Black_Warrior53",
+      "name": "Akbar Yakubboev",
+      "value": 2710.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Black_Warrior53",
+        "title": null,
+        "country_url": "https://api.chess.com/pub/country/UZ",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 40,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 2709.0,
@@ -519,7 +532,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": "Super_Pav",
       "name": "Tikhon Popov",
       "value": 2707.0,
@@ -528,19 +541,6 @@
         "username": "Super_Pav",
         "title": "FM",
         "country_url": "https://api.chess.com/pub/country/XX",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 41,
-      "id": "Black_Warrior53",
-      "name": "Akbar Yakubboev",
-      "value": 2706.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Black_Warrior53",
-        "title": null,
-        "country_url": "https://api.chess.com/pub/country/UZ",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-04T17:37:13Z",
+      "fetched_at": "2026-10-04T21:30:27Z",
       "http_status": 200
     }
   ]
