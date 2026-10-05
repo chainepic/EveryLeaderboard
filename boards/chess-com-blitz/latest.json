@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-05T16:04:06Z",
-  "as_of": "2026-10-05T16:04:06Z",
+  "generated_at": "2026-10-05T22:40:24Z",
+  "as_of": "2026-10-05T22:40:24Z",
   "period": {
     "label": "live_blitz"
   },
@@ -533,19 +533,6 @@
     },
     {
       "rank": 41,
-      "id": "artin10862",
-      "name": "Artin Ashraf",
-      "value": 3208.0,
-      "unit": "rating",
-      "meta": {
-        "username": "artin10862",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/TR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 42,
       "id": "VincentKeymer",
       "name": "Vincent Keymer",
       "value": 3207.0,
@@ -558,7 +545,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 42,
       "id": "FabianoCaruana",
       "name": "Fabiano Caruana",
       "value": 3207.0,
@@ -567,6 +554,19 @@
         "username": "FabianoCaruana",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 43,
+      "id": "artin10862",
+      "name": "Artin Ashraf",
+      "value": 3204.0,
+      "unit": "rating",
+      "meta": {
+        "username": "artin10862",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/TR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-05T16:04:06Z",
+      "fetched_at": "2026-10-05T22:40:24Z",
       "http_status": 200
     }
   ]

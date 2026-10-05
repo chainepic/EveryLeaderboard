@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-10-05T16:04:07Z",
-  "as_of": "2026-10-05T16:04:07Z",
+  "generated_at": "2026-10-05T22:40:24Z",
+  "as_of": "2026-10-05T22:40:24Z",
   "period": {
     "label": "live_rapid"
   },
@@ -119,7 +119,7 @@
       "rank": 9,
       "id": "LPSupi",
       "name": "Luis Paulo Supi",
-      "value": 2812.0,
+      "value": 2814.0,
       "unit": "rating",
       "meta": {
         "username": "LPSupi",
@@ -572,6 +572,19 @@
     },
     {
       "rank": 44,
+      "id": "Nitzan_Steinberg",
+      "name": "Nitzan Steinberg",
+      "value": 2703.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Nitzan_Steinberg",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IL",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 45,
       "id": "vvds514",
       "name": "vvds514",
       "value": 2703.0,
@@ -584,7 +597,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "1800_strength",
       "name": "Dachey Lin",
       "value": 2702.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "Liindseeyy",
       "name": "Liindseeyy",
       "value": 2702.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "mmgchess",
       "name": "Marcos Gonzalez",
       "value": 2701.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "LikeWater",
       "name": "Alexander Velikanov",
       "value": 2700.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "wqws",
       "name": "Kaivalya Sandip Nagare",
       "value": 2700.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/IN",
         "category": "live_rapid"
       }
-    },
-    {
-      "rank": 50,
-      "id": "Nitzan_Steinberg",
-      "name": "Nitzan Steinberg",
-      "value": 2699.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Nitzan_Steinberg",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
-        "category": "live_rapid"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-05T16:04:07Z",
+      "fetched_at": "2026-10-05T22:40:24Z",
       "http_status": 200
     }
   ]
