@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-10-07T08:43:10Z",
-  "as_of": "2026-10-07T08:43:10Z",
+  "generated_at": "2026-10-07T16:32:57Z",
+  "as_of": "2026-10-07T16:32:57Z",
   "period": {
     "label": "live_rapid"
   },
@@ -403,6 +403,19 @@
     },
     {
       "rank": 31,
+      "id": "Szparu",
+      "name": "Miłosz Szpar",
+      "value": 2727.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Szparu",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/PL",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 32,
       "id": "Swiss_Fighter",
       "name": "Gabriel Gähwiler",
       "value": 2725.0,
@@ -411,19 +424,6 @@
         "username": "Swiss_Fighter",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/CH",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 32,
-      "id": "Szparu",
-      "name": "Miłosz Szpar",
-      "value": 2724.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Szparu",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/PL",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-07T08:43:10Z",
+      "fetched_at": "2026-10-07T16:32:57Z",
       "http_status": 200
     }
   ]
