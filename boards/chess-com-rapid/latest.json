@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-10-08T16:31:33Z",
-  "as_of": "2026-10-08T16:31:33Z",
+  "generated_at": "2026-10-08T22:06:41Z",
+  "as_of": "2026-10-08T22:06:41Z",
   "period": {
     "label": "live_rapid"
   },
@@ -403,19 +403,6 @@
     },
     {
       "rank": 31,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2725.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 32,
       "id": "HansOnTwitch",
       "name": "Hans Niemann",
       "value": 2720.0,
@@ -428,7 +415,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 32,
       "id": "Berardino",
       "name": "Diego Berardino",
       "value": 2719.0,
@@ -441,7 +428,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 33,
       "id": "mishanick",
       "name": "Aleksei Sarana",
       "value": 2718.0,
@@ -454,7 +441,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 34,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 2718.0,
@@ -467,7 +454,33 @@
       }
     },
     {
+      "rank": 35,
+      "id": "Swiss_Fighter",
+      "name": "Gabriel Gähwiler",
+      "value": 2717.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Swiss_Fighter",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/CH",
+        "category": "live_rapid"
+      }
+    },
+    {
       "rank": 36,
+      "id": "Black_Warrior53",
+      "name": "Akbar Yakubboev",
+      "value": 2715.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Black_Warrior53",
+        "title": null,
+        "country_url": "https://api.chess.com/pub/country/UZ",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 37,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 2712.0,
@@ -480,7 +493,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 38,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 2711.0,
@@ -489,19 +502,6 @@
         "username": "Grischuk",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 38,
-      "id": "Black_Warrior53",
-      "name": "Akbar Yakubboev",
-      "value": 2710.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Black_Warrior53",
-        "title": null,
-        "country_url": "https://api.chess.com/pub/country/UZ",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-08T16:31:33Z",
+      "fetched_at": "2026-10-08T22:06:41Z",
       "http_status": 200
     }
   ]
