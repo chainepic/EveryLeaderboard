@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-09T16:15:39Z",
-  "as_of": "2026-10-09T16:15:39Z",
+  "generated_at": "2026-10-09T20:59:42Z",
+  "as_of": "2026-10-09T20:59:42Z",
   "period": {
     "label": "live_blitz"
   },
@@ -171,7 +171,7 @@
       "rank": 13,
       "id": "Duhless",
       "name": "Daniil Dubov",
-      "value": 3281.0,
+      "value": 3282.0,
       "unit": "rating",
       "meta": {
         "username": "Duhless",
@@ -208,6 +208,19 @@
     },
     {
       "rank": 16,
+      "id": "Rud_Makarian",
+      "name": "Rudik Makarian",
+      "value": 3263.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Rud_Makarian",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 17,
       "id": "vi_pranav",
       "name": "Pranav V",
       "value": 3260.0,
@@ -220,7 +233,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "FaustinoOro",
       "name": "Faustino Oro",
       "value": 3257.0,
@@ -233,7 +246,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": "artooon",
       "name": "Pranesh M",
       "value": 3257.0,
@@ -242,19 +255,6 @@
         "username": "artooon",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/XX",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 19,
-      "id": "Rud_Makarian",
-      "name": "Rudik Makarian",
-      "value": 3255.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Rud_Makarian",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-09T16:15:39Z",
+      "fetched_at": "2026-10-09T20:59:42Z",
       "http_status": 200
     }
   ]
