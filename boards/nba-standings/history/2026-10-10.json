@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "nba-standings",
-  "generated_at": "2026-10-10T00:54:34Z",
-  "as_of": "2026-10-10T00:54:34Z",
+  "generated_at": "2026-10-10T07:11:35Z",
+  "as_of": "2026-10-10T07:11:35Z",
   "period": {
     "label": "2026-27"
   },
@@ -88,8 +88,8 @@
     },
     {
       "rank": 6,
-      "id": "4",
-      "name": "Chicago Bulls",
+      "id": "19",
+      "name": "Orlando Magic",
       "value": 1.0,
       "unit": "ratio",
       "meta": {
@@ -103,8 +103,8 @@
     },
     {
       "rank": 7,
-      "id": "19",
-      "name": "Orlando Magic",
+      "id": "27",
+      "name": "Washington Wizards",
       "value": 1.0,
       "unit": "ratio",
       "meta": {
@@ -118,21 +118,6 @@
     },
     {
       "rank": 8,
-      "id": "27",
-      "name": "Washington Wizards",
-      "value": 1.0,
-      "unit": "ratio",
-      "meta": {
-        "conference": "Eastern Conference",
-        "conference_rank": 8,
-        "wins": 1.0,
-        "losses": 0.0,
-        "games_behind": 0.5,
-        "playoff_seed": 6.0
-      }
-    },
-    {
-      "rank": 9,
       "id": "10",
       "name": "Houston Rockets",
       "value": 1.0,
@@ -147,7 +132,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "22",
       "name": "Portland Trail Blazers",
       "value": 1.0,
@@ -162,7 +147,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "id": "12",
       "name": "LA Clippers",
       "value": 1.0,
@@ -177,9 +162,9 @@
       }
     },
     {
-      "rank": 12,
-      "id": "13",
-      "name": "Los Angeles Lakers",
+      "rank": 11,
+      "id": "29",
+      "name": "Memphis Grizzlies",
       "value": 0.6667,
       "unit": "ratio",
       "meta": {
@@ -192,7 +177,37 @@
       }
     },
     {
+      "rank": 12,
+      "id": "13",
+      "name": "Los Angeles Lakers",
+      "value": 0.6667,
+      "unit": "ratio",
+      "meta": {
+        "conference": "Western Conference",
+        "conference_rank": 5,
+        "wins": 2.0,
+        "losses": 1.0,
+        "games_behind": 0.0,
+        "playoff_seed": 5.0
+      }
+    },
+    {
       "rank": 13,
+      "id": "4",
+      "name": "Chicago Bulls",
+      "value": 0.5,
+      "unit": "ratio",
+      "meta": {
+        "conference": "Eastern Conference",
+        "conference_rank": 8,
+        "wins": 1.0,
+        "losses": 1.0,
+        "games_behind": 1.0,
+        "playoff_seed": 8.0
+      }
+    },
+    {
+      "rank": 14,
       "id": "1",
       "name": "Atlanta Hawks",
       "value": 0.5,
@@ -207,7 +222,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "id": "15",
       "name": "Milwaukee Bucks",
       "value": 0.5,
@@ -222,7 +237,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": "20",
       "name": "Philadelphia 76ers",
       "value": 0.5,
@@ -237,24 +252,9 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": "16",
       "name": "Minnesota Timberwolves",
-      "value": 0.5,
-      "unit": "ratio",
-      "meta": {
-        "conference": "Western Conference",
-        "conference_rank": 5,
-        "wins": 1.0,
-        "losses": 1.0,
-        "games_behind": 0.5,
-        "playoff_seed": 5.0
-      }
-    },
-    {
-      "rank": 17,
-      "id": "29",
-      "name": "Memphis Grizzlies",
       "value": 0.5,
       "unit": "ratio",
       "meta": {
@@ -283,8 +283,8 @@
     },
     {
       "rank": 19,
-      "id": "7",
-      "name": "Denver Nuggets",
+      "id": "26",
+      "name": "Utah Jazz",
       "value": 0.5,
       "unit": "ratio",
       "meta": {
@@ -298,8 +298,8 @@
     },
     {
       "rank": 20,
-      "id": "26",
-      "name": "Utah Jazz",
+      "id": "7",
+      "name": "Denver Nuggets",
       "value": 0.5,
       "unit": "ratio",
       "meta": {
@@ -308,7 +308,7 @@
         "wins": 1.0,
         "losses": 1.0,
         "games_behind": 0.5,
-        "playoff_seed": 8.0
+        "playoff_seed": 9.0
       }
     },
     {
@@ -466,7 +466,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/basketball/nba/standings",
-      "fetched_at": "2026-10-10T00:54:34Z",
+      "fetched_at": "2026-10-10T07:11:35Z",
       "http_status": 200
     }
   ]

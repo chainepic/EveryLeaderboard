@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-10T00:54:31Z",
-  "as_of": "2026-10-10T00:54:31Z",
+  "generated_at": "2026-10-10T07:11:32Z",
+  "as_of": "2026-10-10T07:11:32Z",
   "period": {
     "label": "live_blitz"
   },
@@ -390,19 +390,6 @@
     },
     {
       "rank": 30,
-      "id": "Konavets",
-      "name": "Sam Sevian",
-      "value": 3233.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Konavets",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 31,
       "id": "jefferyx",
       "name": "Jeffery Xiong",
       "value": 3233.0,
@@ -415,7 +402,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 31,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3230.0,
@@ -428,7 +415,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 32,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 3229.0,
@@ -437,6 +424,19 @@
         "username": "Parhamov",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 33,
+      "id": "Konavets",
+      "name": "Sam Sevian",
+      "value": 3227.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Konavets",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-10T00:54:31Z",
+      "fetched_at": "2026-10-10T07:11:32Z",
       "http_status": 200
     }
   ]
