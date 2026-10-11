@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "soccer-pl-table",
-  "generated_at": "2026-10-11T15:44:28Z",
-  "as_of": "2026-10-11T15:44:28Z",
+  "generated_at": "2026-10-11T20:19:39Z",
+  "as_of": "2026-10-11T20:19:39Z",
   "period": {
     "label": "2026-27 English Premier League"
   },
@@ -15,15 +15,15 @@
       "rank": 1,
       "id": "382",
       "name": "Manchester City",
-      "value": 15.0,
+      "value": 18.0,
       "unit": "pts",
       "meta": {
         "group": "2026-27 English Premier League",
-        "wins": 5.0,
+        "wins": 6.0,
         "losses": 0.0,
         "ties": 0.0,
-        "games_played": 5.0,
-        "goal_diff": 8.0,
+        "games_played": 6.0,
+        "goal_diff": 11.0,
         "season": "2026-27 English Premier League"
       }
     },
@@ -125,22 +125,6 @@
     },
     {
       "rank": 8,
-      "id": "364",
-      "name": "Liverpool",
-      "value": 9.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 2.0,
-        "losses": 0.0,
-        "ties": 3.0,
-        "games_played": 5.0,
-        "goal_diff": 3.0,
-        "season": "2026-27 English Premier League"
-      }
-    },
-    {
-      "rank": 9,
       "id": "306",
       "name": "Hull City",
       "value": 9.0,
@@ -152,6 +136,22 @@
         "ties": 3.0,
         "games_played": 6.0,
         "goal_diff": 2.0,
+        "season": "2026-27 English Premier League"
+      }
+    },
+    {
+      "rank": 9,
+      "id": "364",
+      "name": "Liverpool",
+      "value": 9.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 2.0,
+        "losses": 1.0,
+        "ties": 3.0,
+        "games_played": 6.0,
+        "goal_diff": 0.0,
         "season": "2026-27 English Premier League"
       }
     },
@@ -336,7 +336,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/soccer/eng.1/standings",
-      "fetched_at": "2026-10-11T15:44:28Z",
+      "fetched_at": "2026-10-11T20:19:39Z",
       "http_status": 200
     }
   ]
