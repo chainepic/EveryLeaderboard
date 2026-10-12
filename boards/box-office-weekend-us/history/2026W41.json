@@ -1,0 +1,223 @@
+{
+  "schema_version": "1.0.0",
+  "slug": "box-office-weekend-us",
+  "generated_at": "2026-10-12T07:24:15Z",
+  "as_of": "2026W41",
+  "period": {
+    "label": "2026W41"
+  },
+  "metric": {
+    "id": "revenue_usd",
+    "unit": "USD"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "id": "Other Mommy",
+      "name": "Other Mommy",
+      "value": 27500000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 2,
+      "id": "Verity",
+      "name": "Verity",
+      "value": 11482321.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 3,
+      "id": "Resident Evil",
+      "name": "Resident Evil",
+      "value": 8350000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 4,
+      "id": "Heart of the Beast",
+      "name": "Heart of the Beast",
+      "value": 7100000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 5,
+      "id": "The Social Reckoning",
+      "name": "The Social Reckoning",
+      "value": 5500000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 6,
+      "id": "Forgotten Island",
+      "name": "Forgotten Island",
+      "value": 4500000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 7,
+      "id": "Primetime",
+      "name": "Primetime",
+      "value": 4014003.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 8,
+      "id": "Digger",
+      "name": "Digger",
+      "value": 3200000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 9,
+      "id": "Angel and the Badman",
+      "name": "Angel and the Badman",
+      "value": 2063407.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 10,
+      "id": "The Odyssey",
+      "name": "The Odyssey",
+      "value": 2000000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 11,
+      "id": "Pan's Labyrinth",
+      "name": "Pan's Labyrinth",
+      "value": 1664252.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 12,
+      "id": "Spider-Man: Brand New Day",
+      "name": "Spider-Man: Brand New Day",
+      "value": 1500000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 13,
+      "id": "Avengers Endgame: Encore",
+      "name": "Avengers Endgame: Encore",
+      "value": 1400000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 14,
+      "id": "Practical Magic 2",
+      "name": "Practical Magic 2",
+      "value": 1355000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 15,
+      "id": "Queen Live in Budapest",
+      "name": "Queen Live in Budapest",
+      "value": 681000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 16,
+      "id": "The History of Concrete",
+      "name": "The History of Concrete",
+      "value": 340000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 17,
+      "id": "Your Mother Your Mother Your Mother",
+      "name": "Your Mother Your Mother Your Mother",
+      "value": 310430.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 18,
+      "id": "Naza",
+      "name": "Naza",
+      "value": 298240.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 19,
+      "id": "Daniel and the Fiery Furnace",
+      "name": "Daniel and the Fiery Furnace",
+      "value": 253000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 20,
+      "id": "9 to 5",
+      "name": "9 to 5",
+      "value": 150000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 21,
+      "id": "Insidious: Out of the Further",
+      "name": "Insidious: Out of the Further",
+      "value": 145000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 22,
+      "id": "Fjord",
+      "name": "Fjord",
+      "value": 124000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 23,
+      "id": "Misty Green",
+      "name": "Misty Green",
+      "value": 85716.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 24,
+      "id": "Portrait of an Artist: Stephen Curry",
+      "name": "Portrait of an Artist: Stephen Curry",
+      "value": 85000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 25,
+      "id": "Musk",
+      "name": "Musk",
+      "value": 68900.0,
+      "unit": "USD",
+      "meta": {}
+    }
+  ],
+  "source_fetched": [
+    {
+      "name": "Box Office Mojo",
+      "url": "https://www.boxofficemojo.com/weekend/2026W41/",
+      "fetched_at": "2026-10-12T07:24:15Z",
+      "http_status": 200
+    }
+  ]
+}
