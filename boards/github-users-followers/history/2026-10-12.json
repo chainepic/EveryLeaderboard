@@ -1,0 +1,1323 @@
+{
+  "schema_version": "1.0.0",
+  "slug": "github-users-followers",
+  "generated_at": "2026-10-12T00:35:09Z",
+  "as_of": "2026-10-12T00:35:09Z",
+  "period": {
+    "label": "followers"
+  },
+  "metric": {
+    "id": "followers",
+    "unit": "followers"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "id": "torvalds",
+      "name": "Linus Torvalds",
+      "value": 326644.0,
+      "unit": "followers",
+      "meta": {
+        "login": "torvalds",
+        "public_repos": 12,
+        "html_url": "https://github.com/torvalds",
+        "location": "Portland, OR"
+      }
+    },
+    {
+      "rank": 2,
+      "id": "karpathy",
+      "name": "Andrej",
+      "value": 224880.0,
+      "unit": "followers",
+      "meta": {
+        "login": "karpathy",
+        "public_repos": 63,
+        "html_url": "https://github.com/karpathy",
+        "location": "Stanford"
+      }
+    },
+    {
+      "rank": 3,
+      "id": "claude",
+      "name": "Claude",
+      "value": 187397.0,
+      "unit": "followers",
+      "meta": {
+        "login": "claude",
+        "public_repos": 0,
+        "html_url": "https://github.com/claude",
+        "location": null
+      }
+    },
+    {
+      "rank": 6,
+      "id": "gustavoguanabara",
+      "name": "Gustavo Guanabara",
+      "value": 116514.0,
+      "unit": "followers",
+      "meta": {
+        "login": "gustavoguanabara",
+        "public_repos": 8,
+        "html_url": "https://github.com/gustavoguanabara",
+        "location": "Rio de Janeiro, Brazil"
+      }
+    },
+    {
+      "rank": 7,
+      "id": "yyx990803",
+      "name": "Evan You",
+      "value": 111669.0,
+      "unit": "followers",
+      "meta": {
+        "login": "yyx990803",
+        "public_repos": 198,
+        "html_url": "https://github.com/yyx990803",
+        "location": "Singapore"
+      }
+    },
+    {
+      "rank": 9,
+      "id": "gaearon",
+      "name": "dan",
+      "value": 93887.0,
+      "unit": "followers",
+      "meta": {
+        "login": "gaearon",
+        "public_repos": 301,
+        "html_url": "https://github.com/gaearon",
+        "location": null
+      }
+    },
+    {
+      "rank": 12,
+      "id": "ruanyf",
+      "name": "Ruan YiFeng",
+      "value": 87843.0,
+      "unit": "followers",
+      "meta": {
+        "login": "ruanyf",
+        "public_repos": 77,
+        "html_url": "https://github.com/ruanyf",
+        "location": "Shanghai, China"
+      }
+    },
+    {
+      "rank": 13,
+      "id": "peng-zhihui",
+      "name": "稚晖",
+      "value": 87474.0,
+      "unit": "followers",
+      "meta": {
+        "login": "peng-zhihui",
+        "public_repos": 61,
+        "html_url": "https://github.com/peng-zhihui",
+        "location": "Shanghai"
+      }
+    },
+    {
+      "rank": 14,
+      "id": "sindresorhus",
+      "name": "Sindre Sorhus",
+      "value": 84580.0,
+      "unit": "followers",
+      "meta": {
+        "login": "sindresorhus",
+        "public_repos": 1143,
+        "html_url": "https://github.com/sindresorhus",
+        "location": null
+      }
+    },
+    {
+      "rank": 16,
+      "id": "bradtraversy",
+      "name": "Brad Traversy",
+      "value": 76632.0,
+      "unit": "followers",
+      "meta": {
+        "login": "bradtraversy",
+        "public_repos": 331,
+        "html_url": "https://github.com/bradtraversy",
+        "location": "Massachusetts"
+      }
+    },
+    {
+      "rank": 18,
+      "id": "JakeWharton",
+      "name": "Jake Wharton",
+      "value": 68739.0,
+      "unit": "followers",
+      "meta": {
+        "login": "JakeWharton",
+        "public_repos": 154,
+        "html_url": "https://github.com/JakeWharton",
+        "location": "Pittsburgh, PA, USA"
+      }
+    },
+    {
+      "rank": 20,
+      "id": "lucidrains",
+      "name": "Phil Wang",
+      "value": 61614.0,
+      "unit": "followers",
+      "meta": {
+        "login": "lucidrains",
+        "public_repos": 424,
+        "html_url": "https://github.com/lucidrains",
+        "location": "San Francisco"
+      }
+    },
+    {
+      "rank": 21,
+      "id": "hiteshchoudhary",
+      "name": "Hitesh Choudhary",
+      "value": 61240.0,
+      "unit": "followers",
+      "meta": {
+        "login": "hiteshchoudhary",
+        "public_repos": 127,
+        "html_url": "https://github.com/hiteshchoudhary",
+        "location": "India"
+      }
+    },
+    {
+      "rank": 22,
+      "id": "IDouble",
+      "name": "Alp ₿📈🚀🌕",
+      "value": 61174.0,
+      "unit": "followers",
+      "meta": {
+        "login": "IDouble",
+        "public_repos": 61,
+        "html_url": "https://github.com/IDouble",
+        "location": "Alpen, Schweiz"
+      }
+    },
+    {
+      "rank": 23,
+      "id": "rafaballerini",
+      "name": "Rafaella Ballerini",
+      "value": 60003.0,
+      "unit": "followers",
+      "meta": {
+        "login": "rafaballerini",
+        "public_repos": 61,
+        "html_url": "https://github.com/rafaballerini",
+        "location": "Santa Catarina, Brasil"
+      }
+    },
+    {
+      "rank": 24,
+      "id": "tj",
+      "name": "TJ",
+      "value": 54559.0,
+      "unit": "followers",
+      "meta": {
+        "login": "tj",
+        "public_repos": 296,
+        "html_url": "https://github.com/tj",
+        "location": null
+      }
+    },
+    {
+      "rank": 26,
+      "id": "addyosmani",
+      "name": "Addy Osmani",
+      "value": 53968.0,
+      "unit": "followers",
+      "meta": {
+        "login": "addyosmani",
+        "public_repos": 363,
+        "html_url": "https://github.com/addyosmani",
+        "location": "Sunnyvale, California"
+      }
+    },
+    {
+      "rank": 27,
+      "id": "steipete",
+      "name": "Peter Steinberger",
+      "value": 53182.0,
+      "unit": "followers",
+      "meta": {
+        "login": "steipete",
+        "public_repos": 221,
+        "html_url": "https://github.com/steipete",
+        "location": "London / San Francisco"
+      }
+    },
+    {
+      "rank": 29,
+      "id": "ThePrimeagen",
+      "name": "ThePrimeagen",
+      "value": 49676.0,
+      "unit": "followers",
+      "meta": {
+        "login": "ThePrimeagen",
+        "public_repos": 239,
+        "html_url": "https://github.com/ThePrimeagen",
+        "location": "9th Ring, Vim"
+      }
+    },
+    {
+      "rank": 30,
+      "id": "mattpocock",
+      "name": "Matt Pocock",
+      "value": 48573.0,
+      "unit": "followers",
+      "meta": {
+        "login": "mattpocock",
+        "public_repos": 223,
+        "html_url": "https://github.com/mattpocock",
+        "location": "Oxfordshire"
+      }
+    },
+    {
+      "rank": 31,
+      "id": "geohot",
+      "name": "George Hotz",
+      "value": 47463.0,
+      "unit": "followers",
+      "meta": {
+        "login": "geohot",
+        "public_repos": 103,
+        "html_url": "https://github.com/geohot",
+        "location": "San Diego, CA"
+      }
+    },
+    {
+      "rank": 33,
+      "id": "getify",
+      "name": "Kyle Simpson",
+      "value": 45437.0,
+      "unit": "followers",
+      "meta": {
+        "login": "getify",
+        "public_repos": 74,
+        "html_url": "https://github.com/getify",
+        "location": "Austin, TX"
+      }
+    },
+    {
+      "rank": 34,
+      "id": "JohnMwendwa",
+      "name": "John Mwendwa",
+      "value": 44270.0,
+      "unit": "followers",
+      "meta": {
+        "login": "JohnMwendwa",
+        "public_repos": 112,
+        "html_url": "https://github.com/JohnMwendwa",
+        "location": "Nairobi, Kenya"
+      }
+    },
+    {
+      "rank": 35,
+      "id": "krishnaik06",
+      "name": "Krish C Naik",
+      "value": 43199.0,
+      "unit": "followers",
+      "meta": {
+        "login": "krishnaik06",
+        "public_repos": 347,
+        "html_url": "https://github.com/krishnaik06",
+        "location": "Bangalore"
+      }
+    },
+    {
+      "rank": 36,
+      "id": "CodeWithHarry",
+      "name": "CodeWithHarry",
+      "value": 43040.0,
+      "unit": "followers",
+      "meta": {
+        "login": "CodeWithHarry",
+        "public_repos": 41,
+        "html_url": "https://github.com/CodeWithHarry",
+        "location": null
+      }
+    },
+    {
+      "rank": 38,
+      "id": "3b1b",
+      "name": "Grant Sanderson",
+      "value": 41950.0,
+      "unit": "followers",
+      "meta": {
+        "login": "3b1b",
+        "public_repos": 9,
+        "html_url": "https://github.com/3b1b",
+        "location": null
+      }
+    },
+    {
+      "rank": 39,
+      "id": "nilbuild",
+      "name": "Kamran Ahmed",
+      "value": 41220.0,
+      "unit": "followers",
+      "meta": {
+        "login": "nilbuild",
+        "public_repos": 120,
+        "html_url": "https://github.com/nilbuild",
+        "location": "United Kingdom"
+      }
+    },
+    {
+      "rank": 40,
+      "id": "rasbt",
+      "name": "Sebastian Raschka",
+      "value": 40574.0,
+      "unit": "followers",
+      "meta": {
+        "login": "rasbt",
+        "public_repos": 151,
+        "html_url": "https://github.com/rasbt",
+        "location": null
+      }
+    },
+    {
+      "rank": 41,
+      "id": "filipedeschamps",
+      "name": "Filipe Deschamps",
+      "value": 40522.0,
+      "unit": "followers",
+      "meta": {
+        "login": "filipedeschamps",
+        "public_repos": 22,
+        "html_url": "https://github.com/filipedeschamps",
+        "location": "Brasil"
+      }
+    },
+    {
+      "rank": 43,
+      "id": "antfu",
+      "name": "Anthony Fu",
+      "value": 40329.0,
+      "unit": "followers",
+      "meta": {
+        "login": "antfu",
+        "public_repos": 403,
+        "html_url": "https://github.com/antfu",
+        "location": "Gifu, Japan"
+      }
+    },
+    {
+      "rank": 44,
+      "id": "midudev",
+      "name": "Miguel Ángel Durán",
+      "value": 39665.0,
+      "unit": "followers",
+      "meta": {
+        "login": "midudev",
+        "public_repos": 243,
+        "html_url": "https://github.com/midudev",
+        "location": "Barcelona"
+      }
+    },
+    {
+      "rank": 45,
+      "id": "michaelliao",
+      "name": "Crypto Michael",
+      "value": 38712.0,
+      "unit": "followers",
+      "meta": {
+        "login": "michaelliao",
+        "public_repos": 120,
+        "html_url": "https://github.com/michaelliao",
+        "location": "Beijing, China"
+      }
+    },
+    {
+      "rank": 46,
+      "id": "kunal-kushwaha",
+      "name": "Kunal Kushwaha",
+      "value": 38273.0,
+      "unit": "followers",
+      "meta": {
+        "login": "kunal-kushwaha",
+        "public_repos": 48,
+        "html_url": "https://github.com/kunal-kushwaha",
+        "location": "London, UK"
+      }
+    },
+    {
+      "rank": 48,
+      "id": "mouredev",
+      "name": "Brais Moure",
+      "value": 37602.0,
+      "unit": "followers",
+      "meta": {
+        "login": "mouredev",
+        "public_repos": 53,
+        "html_url": "https://github.com/mouredev",
+        "location": "Building software with  ♥ from Galicia (Spain) to the world."
+      }
+    },
+    {
+      "rank": 49,
+      "id": "adrianhajdin",
+      "name": "Adrian Hajdin - JS Mastery",
+      "value": 37529.0,
+      "unit": "followers",
+      "meta": {
+        "login": "adrianhajdin",
+        "public_repos": 170,
+        "html_url": "https://github.com/adrianhajdin",
+        "location": "Croatia"
+      }
+    },
+    {
+      "rank": 50,
+      "id": "dmalan",
+      "name": "David J. Malan",
+      "value": 37239.0,
+      "unit": "followers",
+      "meta": {
+        "login": "dmalan",
+        "public_repos": 22,
+        "html_url": "https://github.com/dmalan",
+        "location": "Cambridge, MA, USA"
+      }
+    },
+    {
+      "rank": 52,
+      "id": "llSourcell",
+      "name": "Siraj Raval",
+      "value": 36715.0,
+      "unit": "followers",
+      "meta": {
+        "login": "llSourcell",
+        "public_repos": 493,
+        "html_url": "https://github.com/llSourcell",
+        "location": null
+      }
+    },
+    {
+      "rank": 53,
+      "id": "taylorotwell",
+      "name": "Taylor Otwell",
+      "value": 35988.0,
+      "unit": "followers",
+      "meta": {
+        "login": "taylorotwell",
+        "public_repos": 10,
+        "html_url": "https://github.com/taylorotwell",
+        "location": "Little Rock, AR"
+      }
+    },
+    {
+      "rank": 54,
+      "id": "wesbos",
+      "name": "Wes Bos",
+      "value": 35979.0,
+      "unit": "followers",
+      "meta": {
+        "login": "wesbos",
+        "public_repos": 440,
+        "html_url": "https://github.com/wesbos",
+        "location": "Hamilton, Ontario"
+      }
+    },
+    {
+      "rank": 55,
+      "id": "kentcdodds",
+      "name": "Kent C. Dodds",
+      "value": 35503.0,
+      "unit": "followers",
+      "meta": {
+        "login": "kentcdodds",
+        "public_repos": 755,
+        "html_url": "https://github.com/kentcdodds",
+        "location": "Salt Lake City, Utah, USA"
+      }
+    },
+    {
+      "rank": 57,
+      "id": "iam-veeramalla",
+      "name": "Abhishek Veeramalla",
+      "value": 34458.0,
+      "unit": "followers",
+      "meta": {
+        "login": "iam-veeramalla",
+        "public_repos": 111,
+        "html_url": "https://github.com/iam-veeramalla",
+        "location": "Hyderabad, India"
+      }
+    },
+    {
+      "rank": 58,
+      "id": "pewdiepie-archdaemon",
+      "name": "PewDiePie",
+      "value": 34337.0,
+      "unit": "followers",
+      "meta": {
+        "login": "pewdiepie-archdaemon",
+        "public_repos": 1,
+        "html_url": "https://github.com/pewdiepie-archdaemon",
+        "location": null
+      }
+    },
+    {
+      "rank": 60,
+      "id": "ry",
+      "name": "Ryan Dahl",
+      "value": 33494.0,
+      "unit": "followers",
+      "meta": {
+        "login": "ry",
+        "public_repos": 63,
+        "html_url": "https://github.com/ry",
+        "location": "California"
+      }
+    },
+    {
+      "rank": 61,
+      "id": "diego3g",
+      "name": "Diego Fernandes",
+      "value": 32699.0,
+      "unit": "followers",
+      "meta": {
+        "login": "diego3g",
+        "public_repos": 76,
+        "html_url": "https://github.com/diego3g",
+        "location": "Brazil"
+      }
+    },
+    {
+      "rank": 63,
+      "id": "iamshaunjp",
+      "name": "Shaun",
+      "value": 32585.0,
+      "unit": "followers",
+      "meta": {
+        "login": "iamshaunjp",
+        "public_repos": 155,
+        "html_url": "https://github.com/iamshaunjp",
+        "location": "United Kingdom"
+      }
+    },
+    {
+      "rank": 64,
+      "id": "WebDevSimplified",
+      "name": "WebDevSimplified",
+      "value": 32458.0,
+      "unit": "followers",
+      "meta": {
+        "login": "WebDevSimplified",
+        "public_repos": 238,
+        "html_url": "https://github.com/WebDevSimplified",
+        "location": "Nebraska"
+      }
+    },
+    {
+      "rank": 65,
+      "id": "tiangolo",
+      "name": "Sebastián Ramírez",
+      "value": 32313.0,
+      "unit": "followers",
+      "meta": {
+        "login": "tiangolo",
+        "public_repos": 55,
+        "html_url": "https://github.com/tiangolo",
+        "location": "Berlin, Germany"
+      }
+    },
+    {
+      "rank": 66,
+      "id": "paulirish",
+      "name": "Paul Irish",
+      "value": 32097.0,
+      "unit": "followers",
+      "meta": {
+        "login": "paulirish",
+        "public_repos": 385,
+        "html_url": "https://github.com/paulirish",
+        "location": null
+      }
+    },
+    {
+      "rank": 67,
+      "id": "antirez",
+      "name": "Salvatore Sanfilippo",
+      "value": 32094.0,
+      "unit": "followers",
+      "meta": {
+        "login": "antirez",
+        "public_repos": 110,
+        "html_url": "https://github.com/antirez",
+        "location": "Catania, Sicily, Italy"
+      }
+    },
+    {
+      "rank": 72,
+      "id": "gamemann",
+      "name": "Christian Deacon",
+      "value": 30548.0,
+      "unit": "followers",
+      "meta": {
+        "login": "gamemann",
+        "public_repos": 160,
+        "html_url": "https://github.com/gamemann",
+        "location": "Philadelphia, PA"
+      }
+    },
+    {
+      "rank": 73,
+      "id": "dhh",
+      "name": "David Heinemeier Hansson",
+      "value": 30187.0,
+      "unit": "followers",
+      "meta": {
+        "login": "dhh",
+        "public_repos": 13,
+        "html_url": "https://github.com/dhh",
+        "location": null
+      }
+    },
+    {
+      "rank": 74,
+      "id": "kennethreitz",
+      "name": "Kenneth Reitz",
+      "value": 30137.0,
+      "unit": "followers",
+      "meta": {
+        "login": "kennethreitz",
+        "public_repos": 90,
+        "html_url": "https://github.com/kennethreitz",
+        "location": "Virginia, USA, Earth, Milky Way."
+      }
+    },
+    {
+      "rank": 75,
+      "id": "standardgalactic",
+      "name": "Cogito Ergo Sum",
+      "value": 29908.0,
+      "unit": "followers",
+      "meta": {
+        "login": "standardgalactic",
+        "public_repos": 24475,
+        "html_url": "https://github.com/standardgalactic",
+        "location": "Canada"
+      }
+    },
+    {
+      "rank": 76,
+      "id": "StephenGrider",
+      "name": "Stephen Grider",
+      "value": 29185.0,
+      "unit": "followers",
+      "meta": {
+        "login": "StephenGrider",
+        "public_repos": 131,
+        "html_url": "https://github.com/StephenGrider",
+        "location": null
+      }
+    },
+    {
+      "rank": 77,
+      "id": "jonasschmedtmann",
+      "name": "Jonas Schmedtmann",
+      "value": 29055.0,
+      "unit": "followers",
+      "meta": {
+        "login": "jonasschmedtmann",
+        "public_repos": 7,
+        "html_url": "https://github.com/jonasschmedtmann",
+        "location": "Faro, Portugal"
+      }
+    },
+    {
+      "rank": 78,
+      "id": "benawad",
+      "name": "Ben Awad",
+      "value": 28914.0,
+      "unit": "followers",
+      "meta": {
+        "login": "benawad",
+        "public_repos": 259,
+        "html_url": "https://github.com/benawad",
+        "location": "San Francisco, CA"
+      }
+    },
+    {
+      "rank": 79,
+      "id": "BEPb",
+      "name": "Andrej Marinchenko",
+      "value": 27943.0,
+      "unit": "followers",
+      "meta": {
+        "login": "BEPb",
+        "public_repos": 43,
+        "html_url": "https://github.com/BEPb",
+        "location": "Belarus"
+      }
+    },
+    {
+      "rank": 80,
+      "id": "elyxdev",
+      "name": "Elyx",
+      "value": 27605.0,
+      "unit": "followers",
+      "meta": {
+        "login": "elyxdev",
+        "public_repos": 17,
+        "html_url": "https://github.com/elyxdev",
+        "location": "Medellín, Colombia."
+      }
+    },
+    {
+      "rank": 81,
+      "id": "geerlingguy",
+      "name": "Jeff Geerling",
+      "value": 27474.0,
+      "unit": "followers",
+      "meta": {
+        "login": "geerlingguy",
+        "public_repos": 325,
+        "html_url": "https://github.com/geerlingguy",
+        "location": "St. Louis, MO"
+      }
+    },
+    {
+      "rank": 82,
+      "id": "jwasham",
+      "name": "John Washam",
+      "value": 27261.0,
+      "unit": "followers",
+      "meta": {
+        "login": "jwasham",
+        "public_repos": 30,
+        "html_url": "https://github.com/jwasham",
+        "location": "United States"
+      }
+    },
+    {
+      "rank": 85,
+      "id": "gvanrossum",
+      "name": "Guido van Rossum",
+      "value": 27133.0,
+      "unit": "followers",
+      "meta": {
+        "login": "gvanrossum",
+        "public_repos": 28,
+        "html_url": "https://github.com/gvanrossum",
+        "location": "San Francisco Bay Area"
+      }
+    },
+    {
+      "rank": 86,
+      "id": "buckyroberts",
+      "name": "Bucky Roberts",
+      "value": 26981.0,
+      "unit": "followers",
+      "meta": {
+        "login": "buckyroberts",
+        "public_repos": 45,
+        "html_url": "https://github.com/buckyroberts",
+        "location": "New York, NY"
+      }
+    },
+    {
+      "rank": 87,
+      "id": "hadley",
+      "name": "Hadley Wickham",
+      "value": 26794.0,
+      "unit": "followers",
+      "meta": {
+        "login": "hadley",
+        "public_repos": 269,
+        "html_url": "https://github.com/hadley",
+        "location": "Houston, TX"
+      }
+    },
+    {
+      "rank": 88,
+      "id": "mitsuhiko",
+      "name": "Armin Ronacher",
+      "value": 26364.0,
+      "unit": "followers",
+      "meta": {
+        "login": "mitsuhiko",
+        "public_repos": 346,
+        "html_url": "https://github.com/mitsuhiko",
+        "location": "Austria"
+      }
+    },
+    {
+      "rank": 89,
+      "id": "ProgrammingHero1",
+      "name": "Programming Hero",
+      "value": 26253.0,
+      "unit": "followers",
+      "meta": {
+        "login": "ProgrammingHero1",
+        "public_repos": 1072,
+        "html_url": "https://github.com/ProgrammingHero1",
+        "location": null
+      }
+    },
+    {
+      "rank": 90,
+      "id": "mrdoob",
+      "name": "mrdoob",
+      "value": 25590.0,
+      "unit": "followers",
+      "meta": {
+        "login": "mrdoob",
+        "public_repos": 65,
+        "html_url": "https://github.com/mrdoob",
+        "location": null
+      }
+    },
+    {
+      "rank": 91,
+      "id": "techwithtim",
+      "name": "Tim Ruscica",
+      "value": 25300.0,
+      "unit": "followers",
+      "meta": {
+        "login": "techwithtim",
+        "public_repos": 231,
+        "html_url": "https://github.com/techwithtim",
+        "location": "Dubai"
+      }
+    },
+    {
+      "rank": 92,
+      "id": "sdras",
+      "name": "Sarah Drasner",
+      "value": 25112.0,
+      "unit": "followers",
+      "meta": {
+        "login": "sdras",
+        "public_repos": 111,
+        "html_url": "https://github.com/sdras",
+        "location": "All over the place"
+      }
+    },
+    {
+      "rank": 94,
+      "id": "jadijadi",
+      "name": "Jadi",
+      "value": 24999.0,
+      "unit": "followers",
+      "meta": {
+        "login": "jadijadi",
+        "public_repos": 120,
+        "html_url": "https://github.com/jadijadi",
+        "location": null
+      }
+    },
+    {
+      "rank": 95,
+      "id": "daimajia",
+      "name": "代码家",
+      "value": 24961.0,
+      "unit": "followers",
+      "meta": {
+        "login": "daimajia",
+        "public_repos": 98,
+        "html_url": "https://github.com/daimajia",
+        "location": "Beijing, China"
+      }
+    },
+    {
+      "rank": 96,
+      "id": "kelseyhightower",
+      "name": "Kelsey Hightower",
+      "value": 24906.0,
+      "unit": "followers",
+      "meta": {
+        "login": "kelseyhightower",
+        "public_repos": 196,
+        "html_url": "https://github.com/kelseyhightower",
+        "location": "Washington"
+      }
+    },
+    {
+      "rank": 97,
+      "id": "mojombo",
+      "name": "Tom Preston-Werner",
+      "value": 24853.0,
+      "unit": "followers",
+      "meta": {
+        "login": "mojombo",
+        "public_repos": 66,
+        "html_url": "https://github.com/mojombo",
+        "location": "San Francisco"
+      }
+    },
+    {
+      "rank": 98,
+      "id": "hkirat",
+      "name": "Kirat",
+      "value": 24839.0,
+      "unit": "followers",
+      "meta": {
+        "login": "hkirat",
+        "public_repos": 160,
+        "html_url": "https://github.com/hkirat",
+        "location": "Earth"
+      }
+    },
+    {
+      "rank": 99,
+      "id": "Visualize-ML",
+      "name": "Iris Series 鸢尾花书",
+      "value": 24830.0,
+      "unit": "followers",
+      "meta": {
+        "login": "Visualize-ML",
+        "public_repos": 11,
+        "html_url": "https://github.com/Visualize-ML",
+        "location": null
+      }
+    },
+    {
+      "rank": 100,
+      "id": "liyupi",
+      "name": "程序员鱼皮",
+      "value": 24721.0,
+      "unit": "followers",
+      "meta": {
+        "login": "liyupi",
+        "public_repos": 123,
+        "html_url": "https://github.com/liyupi",
+        "location": "China Shanghai"
+      }
+    },
+    {
+      "rank": 101,
+      "id": "donnemartin",
+      "name": "Donne Martin",
+      "value": 24637.0,
+      "unit": "followers",
+      "meta": {
+        "login": "donnemartin",
+        "public_repos": 27,
+        "html_url": "https://github.com/donnemartin",
+        "location": "Washington, D.C."
+      }
+    },
+    {
+      "rank": 102,
+      "id": "chiphuyen",
+      "name": "Chip Huyen",
+      "value": 24587.0,
+      "unit": "followers",
+      "meta": {
+        "login": "chiphuyen",
+        "public_repos": 30,
+        "html_url": "https://github.com/chiphuyen",
+        "location": "San Francisco"
+      }
+    },
+    {
+      "rank": 103,
+      "id": "mitchellh",
+      "name": "Mitchell Hashimoto",
+      "value": 24575.0,
+      "unit": "followers",
+      "meta": {
+        "login": "mitchellh",
+        "public_repos": 119,
+        "html_url": "https://github.com/mitchellh",
+        "location": "Los Angeles, CA"
+      }
+    },
+    {
+      "rank": 104,
+      "id": "SebLague",
+      "name": "Sebastian Lague",
+      "value": 24513.0,
+      "unit": "followers",
+      "meta": {
+        "login": "SebLague",
+        "public_repos": 93,
+        "html_url": "https://github.com/SebLague",
+        "location": "Denmark"
+      }
+    },
+    {
+      "rank": 106,
+      "id": "octocat",
+      "name": "The Octocat",
+      "value": 24476.0,
+      "unit": "followers",
+      "meta": {
+        "login": "octocat",
+        "public_repos": 8,
+        "html_url": "https://github.com/octocat",
+        "location": "San Francisco"
+      }
+    },
+    {
+      "rank": 108,
+      "id": "keijiro",
+      "name": "Keijiro Takahashi",
+      "value": 23892.0,
+      "unit": "followers",
+      "meta": {
+        "login": "keijiro",
+        "public_repos": 947,
+        "html_url": "https://github.com/keijiro",
+        "location": "Japan"
+      }
+    },
+    {
+      "rank": 109,
+      "id": "mdo",
+      "name": "Mark Otto",
+      "value": 23867.0,
+      "unit": "followers",
+      "meta": {
+        "login": "mdo",
+        "public_repos": 33,
+        "html_url": "https://github.com/mdo",
+        "location": "San Francisco, CA"
+      }
+    },
+    {
+      "rank": 110,
+      "id": "mli",
+      "name": "Mu Li",
+      "value": 23857.0,
+      "unit": "followers",
+      "meta": {
+        "login": "mli",
+        "public_repos": 20,
+        "html_url": "https://github.com/mli",
+        "location": "Palo Alto, CA"
+      }
+    },
+    {
+      "rank": 111,
+      "id": "xiaolai",
+      "name": "xiaolai",
+      "value": 23822.0,
+      "unit": "followers",
+      "meta": {
+        "login": "xiaolai",
+        "public_repos": 272,
+        "html_url": "https://github.com/xiaolai",
+        "location": "beijing"
+      }
+    },
+    {
+      "rank": 113,
+      "id": "AlexTheAnalyst",
+      "name": "Alex The Analyst",
+      "value": 23463.0,
+      "unit": "followers",
+      "meta": {
+        "login": "AlexTheAnalyst",
+        "public_repos": 20,
+        "html_url": "https://github.com/AlexTheAnalyst",
+        "location": null
+      }
+    },
+    {
+      "rank": 114,
+      "id": "tpope",
+      "name": "Tim Pope",
+      "value": 23421.0,
+      "unit": "followers",
+      "meta": {
+        "login": "tpope",
+        "public_repos": 85,
+        "html_url": "https://github.com/tpope",
+        "location": "Brooklyn, NY"
+      }
+    },
+    {
+      "rank": 115,
+      "id": "mbostock",
+      "name": "Mike Bostock",
+      "value": 23413.0,
+      "unit": "followers",
+      "meta": {
+        "login": "mbostock",
+        "public_repos": 88,
+        "html_url": "https://github.com/mbostock",
+        "location": "San Francisco, CA"
+      }
+    },
+    {
+      "rank": 117,
+      "id": "codediodeio",
+      "name": "Jeff Delaney",
+      "value": 23130.0,
+      "unit": "followers",
+      "meta": {
+        "login": "codediodeio",
+        "public_repos": 65,
+        "html_url": "https://github.com/codediodeio",
+        "location": "Phoenix, AZ"
+      }
+    },
+    {
+      "rank": 118,
+      "id": "kenjinote",
+      "name": "kenji",
+      "value": 23036.0,
+      "unit": "followers",
+      "meta": {
+        "login": "kenjinote",
+        "public_repos": 679,
+        "html_url": "https://github.com/kenjinote",
+        "location": "Japan"
+      }
+    },
+    {
+      "rank": 119,
+      "id": "defunkt",
+      "name": "Chris Wanstrath",
+      "value": 22835.0,
+      "unit": "followers",
+      "meta": {
+        "login": "defunkt",
+        "public_repos": 107,
+        "html_url": "https://github.com/defunkt",
+        "location": null
+      }
+    },
+    {
+      "rank": 121,
+      "id": "elder-plinius",
+      "name": "pliny",
+      "value": 22715.0,
+      "unit": "followers",
+      "meta": {
+        "login": "elder-plinius",
+        "public_repos": 48,
+        "html_url": "https://github.com/elder-plinius",
+        "location": "France"
+      }
+    },
+    {
+      "rank": 122,
+      "id": "programthink",
+      "name": "编程随想",
+      "value": 22674.0,
+      "unit": "followers",
+      "meta": {
+        "login": "programthink",
+        "public_repos": 5,
+        "html_url": "https://github.com/programthink",
+        "location": "China"
+      }
+    },
+    {
+      "rank": 124,
+      "id": "brunosimon",
+      "name": "Bruno Simon",
+      "value": 22466.0,
+      "unit": "followers",
+      "meta": {
+        "login": "brunosimon",
+        "public_repos": 84,
+        "html_url": "https://github.com/brunosimon",
+        "location": "Paris"
+      }
+    },
+    {
+      "rank": 126,
+      "id": "Asabeneh",
+      "name": "Asabeneh",
+      "value": 22260.0,
+      "unit": "followers",
+      "meta": {
+        "login": "Asabeneh",
+        "public_repos": 195,
+        "html_url": "https://github.com/Asabeneh",
+        "location": "Helsinki, Finland"
+      }
+    },
+    {
+      "rank": 127,
+      "id": "douglascrockford",
+      "name": "Douglas Crockford",
+      "value": 21925.0,
+      "unit": "followers",
+      "meta": {
+        "login": "douglascrockford",
+        "public_repos": 20,
+        "html_url": "https://github.com/douglascrockford",
+        "location": "Anaheim"
+      }
+    },
+    {
+      "rank": 129,
+      "id": "cloudwu",
+      "name": "云风",
+      "value": 21698.0,
+      "unit": "followers",
+      "meta": {
+        "login": "cloudwu",
+        "public_repos": 139,
+        "html_url": "https://github.com/cloudwu",
+        "location": "China"
+      }
+    },
+    {
+      "rank": 130,
+      "id": "MorvanZhou",
+      "name": "Morvan",
+      "value": 21667.0,
+      "unit": "followers",
+      "meta": {
+        "login": "MorvanZhou",
+        "public_repos": 59,
+        "html_url": "https://github.com/MorvanZhou",
+        "location": null
+      }
+    },
+    {
+      "rank": 132,
+      "id": "lllyasviel",
+      "name": "lllyasviel",
+      "value": 21571.0,
+      "unit": "followers",
+      "meta": {
+        "login": "lllyasviel",
+        "public_repos": 37,
+        "html_url": "https://github.com/lllyasviel",
+        "location": null
+      }
+    },
+    {
+      "rank": 135,
+      "id": "JacksonTian",
+      "name": "Jackson Tian",
+      "value": 21350.0,
+      "unit": "followers",
+      "meta": {
+        "login": "JacksonTian",
+        "public_repos": 273,
+        "html_url": "https://github.com/JacksonTian",
+        "location": "Hangzhou, China"
+      }
+    },
+    {
+      "rank": 137,
+      "id": "akitaonrails",
+      "name": "Fabio Akita",
+      "value": 21118.0,
+      "unit": "followers",
+      "meta": {
+        "login": "akitaonrails",
+        "public_repos": 183,
+        "html_url": "https://github.com/akitaonrails",
+        "location": "Brazil"
+      }
+    }
+  ],
+  "source_fetched": [
+    {
+      "name": "jaywcjlove/github-rank",
+      "url": "https://unpkg.com/@wcj/github-rank/dist/users.json",
+      "fetched_at": "2026-10-12T00:35:09Z",
+      "http_status": 200
+    }
+  ]
+}
