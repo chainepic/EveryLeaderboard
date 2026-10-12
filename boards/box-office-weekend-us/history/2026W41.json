@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "slug": "box-office-weekend-us",
-  "generated_at": "2026-10-12T07:24:15Z",
+  "generated_at": "2026-10-12T17:58:22Z",
   "as_of": "2026W41",
   "period": {
     "label": "2026W41"
@@ -29,14 +29,6 @@
     },
     {
       "rank": 3,
-      "id": "Resident Evil",
-      "name": "Resident Evil",
-      "value": 8350000.0,
-      "unit": "USD",
-      "meta": {}
-    },
-    {
-      "rank": 4,
       "id": "Heart of the Beast",
       "name": "Heart of the Beast",
       "value": 7100000.0,
@@ -44,15 +36,15 @@
       "meta": {}
     },
     {
-      "rank": 5,
-      "id": "The Social Reckoning",
-      "name": "The Social Reckoning",
-      "value": 5500000.0,
+      "rank": 4,
+      "id": "Resident Evil",
+      "name": "Resident Evil",
+      "value": 5815000.0,
       "unit": "USD",
       "meta": {}
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "Forgotten Island",
       "name": "Forgotten Island",
       "value": 4500000.0,
@@ -60,10 +52,18 @@
       "meta": {}
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": "Primetime",
       "name": "Primetime",
       "value": 4014003.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 7,
+      "id": "The Social Reckoning",
+      "name": "The Social Reckoning",
+      "value": 4010000.0,
       "unit": "USD",
       "meta": {}
     },
@@ -101,14 +101,6 @@
     },
     {
       "rank": 12,
-      "id": "Spider-Man: Brand New Day",
-      "name": "Spider-Man: Brand New Day",
-      "value": 1500000.0,
-      "unit": "USD",
-      "meta": {}
-    },
-    {
-      "rank": 13,
       "id": "Avengers Endgame: Encore",
       "name": "Avengers Endgame: Encore",
       "value": 1400000.0,
@@ -116,10 +108,18 @@
       "meta": {}
     },
     {
-      "rank": 14,
+      "rank": 13,
       "id": "Practical Magic 2",
       "name": "Practical Magic 2",
       "value": 1355000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 14,
+      "id": "Spider-Man: Brand New Day",
+      "name": "Spider-Man: Brand New Day",
+      "value": 1023000.0,
       "unit": "USD",
       "meta": {}
     },
@@ -216,7 +216,7 @@
     {
       "name": "Box Office Mojo",
       "url": "https://www.boxofficemojo.com/weekend/2026W41/",
-      "fetched_at": "2026-10-12T07:24:15Z",
+      "fetched_at": "2026-10-12T17:58:22Z",
       "http_status": 200
     }
   ]
