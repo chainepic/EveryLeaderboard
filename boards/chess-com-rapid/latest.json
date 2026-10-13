@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-10-13T07:45:19Z",
-  "as_of": "2026-10-13T07:45:19Z",
+  "generated_at": "2026-10-13T16:02:23Z",
+  "as_of": "2026-10-13T16:02:23Z",
   "period": {
     "label": "live_rapid"
   },
@@ -72,7 +72,7 @@
       "meta": {
         "username": "Hikaru",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
+        "country_url": "https://api.chess.com/pub/country/CY",
         "category": "live_rapid"
       }
     },
@@ -234,6 +234,19 @@
     },
     {
       "rank": 18,
+      "id": "GMKrikor",
+      "name": "Krikor Sevag Mekhitarian",
+      "value": 2771.0,
+      "unit": "rating",
+      "meta": {
+        "username": "GMKrikor",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 19,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
       "value": 2770.0,
@@ -246,7 +259,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": "nihalsarin",
       "name": "Nihal Sarin",
       "value": 2767.0,
@@ -255,19 +268,6 @@
         "username": "nihalsarin",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/CL",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 20,
-      "id": "GMKrikor",
-      "name": "Krikor Sevag Mekhitarian",
-      "value": 2767.0,
-      "unit": "rating",
-      "meta": {
-        "username": "GMKrikor",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
@@ -533,6 +533,19 @@
     },
     {
       "rank": 41,
+      "id": "Liindseeyy",
+      "name": "Liindseeyy",
+      "value": 2705.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Liindseeyy",
+        "title": null,
+        "country_url": "https://api.chess.com/pub/country/FR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 42,
       "id": "dual_flurry",
       "name": "Jerad Docena",
       "value": 2704.0,
@@ -541,19 +554,6 @@
         "username": "dual_flurry",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/PH",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 42,
-      "id": "Liindseeyy",
-      "name": "Liindseeyy",
-      "value": 2703.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Liindseeyy",
-        "title": null,
-        "country_url": "https://api.chess.com/pub/country/FR",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-13T07:45:19Z",
+      "fetched_at": "2026-10-13T16:02:23Z",
       "http_status": 200
     }
   ]
