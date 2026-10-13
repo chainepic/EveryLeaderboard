@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-10-13T00:44:23Z",
-  "as_of": "2026-10-13T00:44:23Z",
+  "generated_at": "2026-10-13T07:45:19Z",
+  "as_of": "2026-10-13T07:45:19Z",
   "period": {
     "label": "live_rapid"
   },
@@ -286,6 +286,19 @@
     },
     {
       "rank": 22,
+      "id": "astralpulse",
+      "name": "Alex Goldin",
+      "value": 2759.0,
+      "unit": "rating",
+      "meta": {
+        "username": "astralpulse",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 23,
       "id": "Chasing_Checkmate",
       "name": "Corey Acor",
       "value": 2757.0,
@@ -293,19 +306,6 @@
       "meta": {
         "username": "Chasing_Checkmate",
         "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 23,
-      "id": "astralpulse",
-      "name": "Alex Goldin",
-      "value": 2755.0,
-      "unit": "rating",
-      "meta": {
-        "username": "astralpulse",
-        "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-13T00:44:23Z",
+      "fetched_at": "2026-10-13T07:45:19Z",
       "http_status": 200
     }
   ]
