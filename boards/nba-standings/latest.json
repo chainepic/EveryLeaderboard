@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "nba-standings",
-  "generated_at": "2026-10-12T17:58:30Z",
-  "as_of": "2026-10-12T17:58:30Z",
+  "generated_at": "2026-10-13T00:44:26Z",
+  "as_of": "2026-10-13T00:44:26Z",
   "period": {
     "label": "2026-27"
   },
@@ -65,7 +65,7 @@
       "meta": {
         "conference": "Western Conference",
         "conference_rank": 1,
-        "wins": 1.0,
+        "wins": 2.0,
         "losses": 0.0,
         "games_behind": 0.0,
         "playoff_seed": 1.0
@@ -112,7 +112,7 @@
         "conference_rank": 2,
         "wins": 2.0,
         "losses": 1.0,
-        "games_behind": 0.0,
+        "games_behind": 0.5,
         "playoff_seed": 2.0
       }
     },
@@ -127,7 +127,7 @@
         "conference_rank": 3,
         "wins": 2.0,
         "losses": 1.0,
-        "games_behind": 0.0,
+        "games_behind": 0.5,
         "playoff_seed": 3.0
       }
     },
@@ -142,7 +142,7 @@
         "conference_rank": 4,
         "wins": 2.0,
         "losses": 1.0,
-        "games_behind": 0.0,
+        "games_behind": 0.5,
         "playoff_seed": 4.0
       }
     },
@@ -157,7 +157,7 @@
         "conference_rank": 5,
         "wins": 2.0,
         "losses": 1.0,
-        "games_behind": 0.0,
+        "games_behind": 0.5,
         "playoff_seed": 5.0
       }
     },
@@ -172,7 +172,7 @@
         "conference_rank": 6,
         "wins": 2.0,
         "losses": 2.0,
-        "games_behind": 0.5,
+        "games_behind": 1.0,
         "playoff_seed": 6.0
       }
     },
@@ -277,7 +277,7 @@
         "conference_rank": 7,
         "wins": 1.0,
         "losses": 1.0,
-        "games_behind": 0.5,
+        "games_behind": 1.0,
         "playoff_seed": 7.0
       }
     },
@@ -292,7 +292,7 @@
         "conference_rank": 8,
         "wins": 1.0,
         "losses": 1.0,
-        "games_behind": 0.5,
+        "games_behind": 1.0,
         "playoff_seed": 8.0
       }
     },
@@ -307,7 +307,7 @@
         "conference_rank": 9,
         "wins": 1.0,
         "losses": 1.0,
-        "games_behind": 0.5,
+        "games_behind": 1.0,
         "playoff_seed": 9.0
       }
     },
@@ -322,7 +322,7 @@
         "conference_rank": 10,
         "wins": 1.0,
         "losses": 1.0,
-        "games_behind": 0.5,
+        "games_behind": 1.0,
         "playoff_seed": 10.0
       }
     },
@@ -337,7 +337,7 @@
         "conference_rank": 11,
         "wins": 1.0,
         "losses": 1.0,
-        "games_behind": 0.5,
+        "games_behind": 1.0,
         "playoff_seed": 11.0
       }
     },
@@ -397,7 +397,7 @@
         "conference_rank": 12,
         "wins": 1.0,
         "losses": 2.0,
-        "games_behind": 1.0,
+        "games_behind": 1.5,
         "playoff_seed": 12.0
       }
     },
@@ -427,7 +427,7 @@
         "conference_rank": 13,
         "wins": 0.0,
         "losses": 3.0,
-        "games_behind": 2.0,
+        "games_behind": 2.5,
         "playoff_seed": 15.0
       }
     },
@@ -442,7 +442,7 @@
         "conference_rank": 14,
         "wins": 0.0,
         "losses": 2.0,
-        "games_behind": 1.5,
+        "games_behind": 2.0,
         "playoff_seed": 13.0
       }
     },
@@ -457,7 +457,7 @@
         "conference_rank": 15,
         "wins": 0.0,
         "losses": 2.0,
-        "games_behind": 1.5,
+        "games_behind": 2.0,
         "playoff_seed": 14.0
       }
     }
@@ -466,7 +466,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/basketball/nba/standings",
-      "fetched_at": "2026-10-12T17:58:30Z",
+      "fetched_at": "2026-10-13T00:44:26Z",
       "http_status": 200
     }
   ]
