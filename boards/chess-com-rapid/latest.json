@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-10-13T21:17:20Z",
-  "as_of": "2026-10-13T21:17:20Z",
+  "generated_at": "2026-10-14T01:14:47Z",
+  "as_of": "2026-10-14T01:14:47Z",
   "period": {
     "label": "live_rapid"
   },
@@ -481,6 +481,19 @@
     },
     {
       "rank": 37,
+      "id": "Liindseeyy",
+      "name": "Liindseeyy",
+      "value": 2713.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Liindseeyy",
+        "title": null,
+        "country_url": "https://api.chess.com/pub/country/FR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 38,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 2712.0,
@@ -493,7 +506,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 39,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 2711.0,
@@ -506,7 +519,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 40,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 2709.0,
@@ -515,19 +528,6 @@
         "username": "Parhamov",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 40,
-      "id": "Liindseeyy",
-      "name": "Liindseeyy",
-      "value": 2708.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Liindseeyy",
-        "title": null,
-        "country_url": "https://api.chess.com/pub/country/FR",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-13T21:17:20Z",
+      "fetched_at": "2026-10-14T01:14:47Z",
       "http_status": 200
     }
   ]
