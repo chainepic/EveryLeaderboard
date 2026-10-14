@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-14T11:58:35Z",
-  "as_of": "2026-10-14T11:58:35Z",
+  "generated_at": "2026-10-14T17:14:29Z",
+  "as_of": "2026-10-14T17:14:29Z",
   "period": {
     "label": "live_blitz"
   },
@@ -171,7 +171,7 @@
       "rank": 13,
       "id": "legendisback1",
       "name": "Yagiz Kaan Erdogmus",
-      "value": 3276.0,
+      "value": 3266.0,
       "unit": "rating",
       "meta": {
         "username": "legendisback1",
@@ -325,19 +325,6 @@
     },
     {
       "rank": 25,
-      "id": "Parhamov",
-      "name": "Parham Maghsoodloo",
-      "value": 3234.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Parhamov",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 26,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3230.0,
@@ -350,7 +337,7 @@
       }
     },
     {
-      "rank": 27,
+      "rank": 26,
       "id": "TRadjabov",
       "name": "Teimour Radjabov",
       "value": 3227.0,
@@ -363,7 +350,7 @@
       }
     },
     {
-      "rank": 28,
+      "rank": 27,
       "id": "Mykola-Bortnyk",
       "name": "Mykola Bortnyk",
       "value": 3226.0,
@@ -372,6 +359,19 @@
         "username": "Mykola-Bortnyk",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 28,
+      "id": "Salem-AR",
+      "name": "Salem AR Saleh",
+      "value": 3225.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Salem-AR",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/AE",
         "category": "live_blitz"
       }
     },
@@ -403,19 +403,6 @@
     },
     {
       "rank": 31,
-      "id": "Salem-AR",
-      "name": "Salem AR Saleh",
-      "value": 3222.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Salem-AR",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/AE",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 32,
       "id": "FaustinoOro",
       "name": "Faustino Oro",
       "value": 3221.0,
@@ -428,7 +415,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 32,
       "id": "chess_master_8820",
       "name": "Radin Yadegar",
       "value": 3218.0,
@@ -441,7 +428,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 33,
       "id": "GMBrewChess",
       "name": "Brewington Hardaway",
       "value": 3214.0,
@@ -454,7 +441,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 34,
       "id": "Dr_Tyger",
       "name": "Haowen Xue",
       "value": 3214.0,
@@ -463,6 +450,19 @@
         "username": "Dr_Tyger",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/CN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 35,
+      "id": "Parhamov",
+      "name": "Parham Maghsoodloo",
+      "value": 3214.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Parhamov",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -481,14 +481,14 @@
     },
     {
       "rank": 37,
-      "id": "IMaster_01",
-      "name": "Arda Camlar",
+      "id": "NikoTheodorou",
+      "name": "Nikolas Theodorou",
       "value": 3212.0,
       "unit": "rating",
       "meta": {
-        "username": "IMaster_01",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/TR",
+        "username": "NikoTheodorou",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/GR",
         "category": "live_blitz"
       }
     },
@@ -611,14 +611,14 @@
     },
     {
       "rank": 47,
-      "id": "NikoTheodorou",
-      "name": "Nikolas Theodorou",
-      "value": 3192.0,
+      "id": "IMaster_01",
+      "name": "Arda Camlar",
+      "value": 3195.0,
       "unit": "rating",
       "meta": {
-        "username": "NikoTheodorou",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/GR",
+        "username": "IMaster_01",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/TR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-14T11:58:35Z",
+      "fetched_at": "2026-10-14T17:14:29Z",
       "http_status": 200
     }
   ]
