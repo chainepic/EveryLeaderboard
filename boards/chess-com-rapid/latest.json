@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-10-14T06:12:45Z",
-  "as_of": "2026-10-14T06:12:45Z",
+  "generated_at": "2026-10-14T11:58:35Z",
+  "as_of": "2026-10-14T11:58:35Z",
   "period": {
     "label": "live_rapid"
   },
@@ -468,6 +468,19 @@
     },
     {
       "rank": 36,
+      "id": "Liindseeyy",
+      "name": "Liindseeyy",
+      "value": 2715.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Liindseeyy",
+        "title": null,
+        "country_url": "https://api.chess.com/pub/country/FR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 37,
       "id": "Black_Warrior53",
       "name": "Akbar Yakubboev",
       "value": 2715.0,
@@ -476,19 +489,6 @@
         "username": "Black_Warrior53",
         "title": null,
         "country_url": "https://api.chess.com/pub/country/UZ",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 37,
-      "id": "Liindseeyy",
-      "name": "Liindseeyy",
-      "value": 2713.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Liindseeyy",
-        "title": null,
-        "country_url": "https://api.chess.com/pub/country/FR",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-14T06:12:45Z",
+      "fetched_at": "2026-10-14T11:58:35Z",
       "http_status": 200
     }
   ]
