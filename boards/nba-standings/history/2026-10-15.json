@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "nba-standings",
-  "generated_at": "2026-10-15T04:45:18Z",
-  "as_of": "2026-10-15T04:45:18Z",
+  "generated_at": "2026-10-15T09:58:26Z",
+  "as_of": "2026-10-15T09:58:26Z",
   "period": {
     "label": "2026-27"
   },
@@ -118,8 +118,8 @@
     },
     {
       "rank": 8,
-      "id": "19",
-      "name": "Orlando Magic",
+      "id": "28",
+      "name": "Toronto Raptors",
       "value": 0.6667,
       "unit": "ratio",
       "meta": {
@@ -133,8 +133,8 @@
     },
     {
       "rank": 9,
-      "id": "28",
-      "name": "Toronto Raptors",
+      "id": "19",
+      "name": "Orlando Magic",
       "value": 0.6667,
       "unit": "ratio",
       "meta": {
@@ -163,8 +163,8 @@
     },
     {
       "rank": 11,
-      "id": "26",
-      "name": "Utah Jazz",
+      "id": "12",
+      "name": "LA Clippers",
       "value": 0.6667,
       "unit": "ratio",
       "meta": {
@@ -178,8 +178,8 @@
     },
     {
       "rank": 12,
-      "id": "7",
-      "name": "Denver Nuggets",
+      "id": "3",
+      "name": "New Orleans Pelicans",
       "value": 0.6667,
       "unit": "ratio",
       "meta": {
@@ -193,8 +193,8 @@
     },
     {
       "rank": 13,
-      "id": "3",
-      "name": "New Orleans Pelicans",
+      "id": "26",
+      "name": "Utah Jazz",
       "value": 0.6667,
       "unit": "ratio",
       "meta": {
@@ -208,8 +208,8 @@
     },
     {
       "rank": 14,
-      "id": "9",
-      "name": "Golden State Warriors",
+      "id": "16",
+      "name": "Minnesota Timberwolves",
       "value": 0.6,
       "unit": "ratio",
       "meta": {
@@ -223,8 +223,8 @@
     },
     {
       "rank": 15,
-      "id": "16",
-      "name": "Minnesota Timberwolves",
+      "id": "9",
+      "name": "Golden State Warriors",
       "value": 0.6,
       "unit": "ratio",
       "meta": {
@@ -268,15 +268,15 @@
     },
     {
       "rank": 18,
-      "id": "12",
-      "name": "LA Clippers",
+      "id": "7",
+      "name": "Denver Nuggets",
       "value": 0.5,
       "unit": "ratio",
       "meta": {
         "conference": "Western Conference",
         "conference_rank": 9,
-        "wins": 1.0,
-        "losses": 1.0,
+        "wins": 2.0,
+        "losses": 2.0,
         "games_behind": 1.5,
         "playoff_seed": 9.0
       }
@@ -466,7 +466,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/basketball/nba/standings",
-      "fetched_at": "2026-10-15T04:45:18Z",
+      "fetched_at": "2026-10-15T09:58:26Z",
       "http_status": 200
     }
   ]

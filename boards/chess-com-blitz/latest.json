@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-15T04:44:22Z",
-  "as_of": "2026-10-15T04:44:22Z",
+  "generated_at": "2026-10-15T09:58:20Z",
+  "as_of": "2026-10-15T09:58:20Z",
   "period": {
     "label": "live_blitz"
   },
@@ -52,19 +52,6 @@
     },
     {
       "rank": 4,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
-      "value": 3354.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sina-Movahed",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 5,
       "id": "gurelediz",
       "name": "Ediz Gürel",
       "value": 3336.0,
@@ -73,6 +60,19 @@
         "username": "gurelediz",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/TR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 5,
+      "id": "Sina-Movahed",
+      "name": "Sina Movahed",
+      "value": 3332.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Sina-Movahed",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -520,19 +520,6 @@
     },
     {
       "rank": 40,
-      "id": "Rud_Makarian",
-      "name": "Rudik Makarian",
-      "value": 3205.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Rud_Makarian",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 41,
       "id": "Philippians46",
       "name": "Andy Woodward",
       "value": 3204.0,
@@ -545,7 +532,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 41,
       "id": "ManuDavid2910",
       "name": "Manu David",
       "value": 3203.0,
@@ -558,7 +545,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 42,
       "id": "Fedoseev-Vladimir",
       "name": "Vladimir Fedoseev",
       "value": 3203.0,
@@ -571,7 +558,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 43,
       "id": "GM_dmitrij",
       "name": "Dmitrij Kollars",
       "value": 3202.0,
@@ -584,7 +571,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 44,
       "id": "GroovyKettle",
       "name": "Robby Kevlishvili",
       "value": 3201.0,
@@ -597,7 +584,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": "jlucasvf",
       "name": "Lucas van Foreest",
       "value": 3201.0,
@@ -610,7 +597,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": "GHANDEEVAM2003",
       "name": "Arjun Erigaisi",
       "value": 3198.0,
@@ -623,7 +610,33 @@
       }
     },
     {
+      "rank": 47,
+      "id": "Rud_Makarian",
+      "name": "Rudik Makarian",
+      "value": 3193.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Rud_Makarian",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
       "rank": 48,
+      "id": "Msb2",
+      "name": "Matthias Bluebaum",
+      "value": 3193.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Msb2",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/DE",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 49,
       "id": "BillieKimbah",
       "name": "Maxim Matlakov",
       "value": 3191.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "IMaster_01",
       "name": "Arda Camlar",
       "value": 3190.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/TR",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "ChristopherYoo",
-      "name": "Christopher Woojin Yoo",
-      "value": 3190.0,
-      "unit": "rating",
-      "meta": {
-        "username": "ChristopherYoo",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/TV",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-15T04:44:22Z",
+      "fetched_at": "2026-10-15T09:58:20Z",
       "http_status": 200
     }
   ]
