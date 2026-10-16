@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "nba-standings",
-  "generated_at": "2026-10-16T01:23:50Z",
-  "as_of": "2026-10-16T01:23:50Z",
+  "generated_at": "2026-10-16T07:13:36Z",
+  "as_of": "2026-10-16T07:13:36Z",
   "period": {
     "label": "2026-27"
   },
@@ -118,8 +118,8 @@
     },
     {
       "rank": 8,
-      "id": "28",
-      "name": "Toronto Raptors",
+      "id": "19",
+      "name": "Orlando Magic",
       "value": 0.6667,
       "unit": "ratio",
       "meta": {
@@ -133,21 +133,6 @@
     },
     {
       "rank": 9,
-      "id": "19",
-      "name": "Orlando Magic",
-      "value": 0.6667,
-      "unit": "ratio",
-      "meta": {
-        "conference": "Eastern Conference",
-        "conference_rank": 8,
-        "wins": 2.0,
-        "losses": 1.0,
-        "games_behind": 1.0,
-        "playoff_seed": 8.0
-      }
-    },
-    {
-      "rank": 10,
       "id": "29",
       "name": "Memphis Grizzlies",
       "value": 0.6667,
@@ -162,7 +147,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "id": "12",
       "name": "LA Clippers",
       "value": 0.6667,
@@ -177,9 +162,9 @@
       }
     },
     {
-      "rank": 12,
-      "id": "3",
-      "name": "New Orleans Pelicans",
+      "rank": 11,
+      "id": "10",
+      "name": "Houston Rockets",
       "value": 0.6667,
       "unit": "ratio",
       "meta": {
@@ -192,7 +177,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "id": "26",
       "name": "Utah Jazz",
       "value": 0.6667,
@@ -207,24 +192,24 @@
       }
     },
     {
-      "rank": 14,
-      "id": "16",
-      "name": "Minnesota Timberwolves",
-      "value": 0.6,
+      "rank": 13,
+      "id": "3",
+      "name": "New Orleans Pelicans",
+      "value": 0.6667,
       "unit": "ratio",
       "meta": {
         "conference": "Western Conference",
         "conference_rank": 6,
-        "wins": 3.0,
-        "losses": 2.0,
+        "wins": 2.0,
+        "losses": 1.0,
         "games_behind": 1.0,
         "playoff_seed": 6.0
       }
     },
     {
-      "rank": 15,
-      "id": "9",
-      "name": "Golden State Warriors",
+      "rank": 14,
+      "id": "16",
+      "name": "Minnesota Timberwolves",
       "value": 0.6,
       "unit": "ratio",
       "meta": {
@@ -237,9 +222,39 @@
       }
     },
     {
+      "rank": 15,
+      "id": "9",
+      "name": "Golden State Warriors",
+      "value": 0.6,
+      "unit": "ratio",
+      "meta": {
+        "conference": "Western Conference",
+        "conference_rank": 8,
+        "wins": 3.0,
+        "losses": 2.0,
+        "games_behind": 1.0,
+        "playoff_seed": 8.0
+      }
+    },
+    {
       "rank": 16,
       "id": "4",
       "name": "Chicago Bulls",
+      "value": 0.5,
+      "unit": "ratio",
+      "meta": {
+        "conference": "Eastern Conference",
+        "conference_rank": 8,
+        "wins": 2.0,
+        "losses": 2.0,
+        "games_behind": 1.5,
+        "playoff_seed": 8.0
+      }
+    },
+    {
+      "rank": 17,
+      "id": "28",
+      "name": "Toronto Raptors",
       "value": 0.5,
       "unit": "ratio",
       "meta": {
@@ -252,24 +267,9 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "13",
       "name": "Los Angeles Lakers",
-      "value": 0.5,
-      "unit": "ratio",
-      "meta": {
-        "conference": "Western Conference",
-        "conference_rank": 8,
-        "wins": 2.0,
-        "losses": 2.0,
-        "games_behind": 1.5,
-        "playoff_seed": 8.0
-      }
-    },
-    {
-      "rank": 18,
-      "id": "7",
-      "name": "Denver Nuggets",
       "value": 0.5,
       "unit": "ratio",
       "meta": {
@@ -283,15 +283,15 @@
     },
     {
       "rank": 19,
-      "id": "10",
-      "name": "Houston Rockets",
+      "id": "7",
+      "name": "Denver Nuggets",
       "value": 0.5,
       "unit": "ratio",
       "meta": {
         "conference": "Western Conference",
         "conference_rank": 10,
-        "wins": 1.0,
-        "losses": 1.0,
+        "wins": 2.0,
+        "losses": 2.0,
         "games_behind": 1.5,
         "playoff_seed": 10.0
       }
@@ -418,32 +418,32 @@
     },
     {
       "rank": 28,
+      "id": "18",
+      "name": "New York Knicks",
+      "value": 0.2,
+      "unit": "ratio",
+      "meta": {
+        "conference": "Eastern Conference",
+        "conference_rank": 15,
+        "wins": 1.0,
+        "losses": 4.0,
+        "games_behind": 3.0,
+        "playoff_seed": 15.0
+      }
+    },
+    {
+      "rank": 29,
       "id": "25",
       "name": "Oklahoma City Thunder",
-      "value": 0.25,
+      "value": 0.2,
       "unit": "ratio",
       "meta": {
         "conference": "Western Conference",
         "conference_rank": 14,
         "wins": 1.0,
-        "losses": 3.0,
-        "games_behind": 2.5,
-        "playoff_seed": 14.0
-      }
-    },
-    {
-      "rank": 29,
-      "id": "18",
-      "name": "New York Knicks",
-      "value": 0.0,
-      "unit": "ratio",
-      "meta": {
-        "conference": "Eastern Conference",
-        "conference_rank": 15,
-        "wins": 0.0,
         "losses": 4.0,
-        "games_behind": 3.5,
-        "playoff_seed": 15.0
+        "games_behind": 3.0,
+        "playoff_seed": 14.0
       }
     },
     {
@@ -466,7 +466,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/basketball/nba/standings",
-      "fetched_at": "2026-10-16T01:23:50Z",
+      "fetched_at": "2026-10-16T07:13:36Z",
       "http_status": 200
     }
   ]
