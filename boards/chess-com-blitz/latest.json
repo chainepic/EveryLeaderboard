@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-17T04:31:37Z",
-  "as_of": "2026-10-17T04:31:37Z",
+  "generated_at": "2026-10-17T09:24:47Z",
+  "as_of": "2026-10-17T09:24:47Z",
   "period": {
     "label": "live_blitz"
   },
@@ -28,7 +28,7 @@
       "rank": 2,
       "id": "MagnusCarlsen",
       "name": "Magnus Carlsen",
-      "value": 3412.0,
+      "value": 3416.0,
       "unit": "rating",
       "meta": {
         "username": "MagnusCarlsen",
@@ -429,6 +429,19 @@
     },
     {
       "rank": 33,
+      "id": "Rud_Makarian",
+      "name": "Rudik Makarian",
+      "value": 3217.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Rud_Makarian",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 34,
       "id": "Dolphin_2010",
       "name": "Aleksandr Usov",
       "value": 3216.0,
@@ -441,7 +454,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 35,
       "id": "NikoTheodorou",
       "name": "Nikolas Theodorou",
       "value": 3214.0,
@@ -454,7 +467,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 36,
       "id": "Duhless",
       "name": "Daniil Dubov",
       "value": 3214.0,
@@ -467,7 +480,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 37,
       "id": "Philippians46",
       "name": "Andy Woodward",
       "value": 3213.0,
@@ -480,7 +493,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 38,
       "id": "Dr_Tyger",
       "name": "Haowen Xue",
       "value": 3212.0,
@@ -493,7 +506,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 39,
       "id": "lachesisQ",
       "name": "Ian Nepomniachtchi",
       "value": 3207.0,
@@ -506,7 +519,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 40,
       "id": "Msb2",
       "name": "Matthias Bluebaum",
       "value": 3207.0,
@@ -519,7 +532,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": "Salem-AR",
       "name": "Salem AR Saleh",
       "value": 3206.0,
@@ -532,26 +545,13 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "dropstoneDP",
       "name": "David Paravyan",
       "value": 3205.0,
       "unit": "rating",
       "meta": {
         "username": "dropstoneDP",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 42,
-      "id": "Rud_Makarian",
-      "name": "Rudik Makarian",
-      "value": 3204.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Rud_Makarian",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
@@ -650,14 +650,14 @@
     },
     {
       "rank": 50,
-      "id": "GHANDEEVAM2003",
-      "name": "Arjun Erigaisi",
-      "value": 3198.0,
+      "id": "wonderfultime",
+      "name": "Tuan Minh Le",
+      "value": 3199.0,
       "unit": "rating",
       "meta": {
-        "username": "GHANDEEVAM2003",
+        "username": "wonderfultime",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IN",
+        "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
     }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-17T04:31:37Z",
+      "fetched_at": "2026-10-17T09:24:47Z",
       "http_status": 200
     }
   ]
