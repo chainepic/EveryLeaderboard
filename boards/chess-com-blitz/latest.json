@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-18T14:36:59Z",
-  "as_of": "2026-10-18T14:36:59Z",
+  "generated_at": "2026-10-18T18:08:17Z",
+  "as_of": "2026-10-18T18:08:17Z",
   "period": {
     "label": "live_blitz"
   },
@@ -132,7 +132,7 @@
       "rank": 10,
       "id": "Sina-Movahed",
       "name": "Sina Movahed",
-      "value": 3293.0,
+      "value": 3298.0,
       "unit": "rating",
       "meta": {
         "username": "Sina-Movahed",
@@ -169,6 +169,19 @@
     },
     {
       "rank": 13,
+      "id": "FairChess_on_YouTube",
+      "name": "Dmitry Andreikin",
+      "value": 3275.0,
+      "unit": "rating",
+      "meta": {
+        "username": "FairChess_on_YouTube",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/GE",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 14,
       "id": "FabianoCaruana",
       "name": "Fabiano Caruana",
       "value": 3271.0,
@@ -181,7 +194,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "id": "legendisback1",
       "name": "Yagiz Kaan Erdogmus",
       "value": 3264.0,
@@ -194,7 +207,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": "jefferyx",
       "name": "Jeffery Xiong",
       "value": 3264.0,
@@ -203,19 +216,6 @@
         "username": "jefferyx",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 16,
-      "id": "FairChess_on_YouTube",
-      "name": "Dmitry Andreikin",
-      "value": 3261.0,
-      "unit": "rating",
-      "meta": {
-        "username": "FairChess_on_YouTube",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/GE",
         "category": "live_blitz"
       }
     },
@@ -301,7 +301,7 @@
       "rank": 23,
       "id": "MichaelRoiz",
       "name": "Michael Roiz",
-      "value": 3242.0,
+      "value": 3243.0,
       "unit": "rating",
       "meta": {
         "username": "MichaelRoiz",
@@ -572,6 +572,19 @@
     },
     {
       "rank": 44,
+      "id": "Njal28",
+      "name": "Aram Hakobyan",
+      "value": 3203.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Njal28",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/AM",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 45,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 3202.0,
@@ -584,7 +597,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "GM_dmitrij",
       "name": "Dmitrij Kollars",
       "value": 3202.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "Indianlad",
       "name": "S.L. Narayanan",
       "value": 3201.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "GroovyKettle",
       "name": "Robby Kevlishvili",
       "value": 3201.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "jlucasvf",
       "name": "Lucas van Foreest",
       "value": 3201.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "GHANDEEVAM2003",
       "name": "Arjun Erigaisi",
       "value": 3198.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/IN",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "wonderfultime",
-      "name": "Tuan Minh Le",
-      "value": 3196.0,
-      "unit": "rating",
-      "meta": {
-        "username": "wonderfultime",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/VN",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-18T14:36:59Z",
+      "fetched_at": "2026-10-18T18:08:17Z",
       "http_status": 200
     }
   ]
