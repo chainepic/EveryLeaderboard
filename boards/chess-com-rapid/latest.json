@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-10-18T05:57:06Z",
-  "as_of": "2026-10-18T05:57:06Z",
+  "generated_at": "2026-10-18T11:11:02Z",
+  "as_of": "2026-10-18T11:11:02Z",
   "period": {
     "label": "live_rapid"
   },
@@ -624,19 +624,6 @@
     },
     {
       "rank": 48,
-      "id": "LikeWater",
-      "name": "Alexander Velikanov",
-      "value": 2700.0,
-      "unit": "rating",
-      "meta": {
-        "username": "LikeWater",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 49,
       "id": "wqws",
       "name": "Kaivalya Sandip Nagare",
       "value": 2700.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "Nitzan_Steinberg",
       "name": "Nitzan Steinberg",
       "value": 2696.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/IL",
         "category": "live_rapid"
       }
+    },
+    {
+      "rank": 50,
+      "id": "SahibSinghKnight",
+      "name": "Sahib Singh",
+      "value": 2695.0,
+      "unit": "rating",
+      "meta": {
+        "username": "SahibSinghKnight",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/IN",
+        "category": "live_rapid"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-18T05:57:06Z",
+      "fetched_at": "2026-10-18T11:11:02Z",
       "http_status": 200
     }
   ]
