@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-18T18:08:17Z",
-  "as_of": "2026-10-18T18:08:17Z",
+  "generated_at": "2026-10-18T20:47:07Z",
+  "as_of": "2026-10-18T20:47:07Z",
   "period": {
     "label": "live_blitz"
   },
@@ -91,6 +91,19 @@
     },
     {
       "rank": 7,
+      "id": "Sina-Movahed",
+      "name": "Sina Movahed",
+      "value": 3308.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Sina-Movahed",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 8,
       "id": "mishanick",
       "name": "Aleksei Sarana",
       "value": 3304.0,
@@ -103,7 +116,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "Polish_fighter3000",
       "name": "Jan-Krzysztof Duda",
       "value": 3303.0,
@@ -116,7 +129,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "LyonBeast",
       "name": "Maxime Vachier-Lagrave",
       "value": 3300.0,
@@ -125,19 +138,6 @@
         "username": "LyonBeast",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/FR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 10,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
-      "value": 3298.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sina-Movahed",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -299,19 +299,6 @@
     },
     {
       "rank": 23,
-      "id": "MichaelRoiz",
-      "name": "Michael Roiz",
-      "value": 3243.0,
-      "unit": "rating",
-      "meta": {
-        "username": "MichaelRoiz",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 24,
       "id": "artooon",
       "name": "Pranesh M",
       "value": 3239.0,
@@ -320,6 +307,19 @@
         "username": "artooon",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/XX",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 24,
+      "id": "MichaelRoiz",
+      "name": "Michael Roiz",
+      "value": 3239.0,
+      "unit": "rating",
+      "meta": {
+        "username": "MichaelRoiz",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IL",
         "category": "live_blitz"
       }
     },
@@ -572,19 +572,6 @@
     },
     {
       "rank": 44,
-      "id": "Njal28",
-      "name": "Aram Hakobyan",
-      "value": 3203.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Njal28",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/AM",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 45,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 3202.0,
@@ -597,7 +584,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": "GM_dmitrij",
       "name": "Dmitrij Kollars",
       "value": 3202.0,
@@ -610,7 +597,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": "Indianlad",
       "name": "S.L. Narayanan",
       "value": 3201.0,
@@ -623,7 +610,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": "GroovyKettle",
       "name": "Robby Kevlishvili",
       "value": 3201.0,
@@ -636,7 +623,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": "jlucasvf",
       "name": "Lucas van Foreest",
       "value": 3201.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "GHANDEEVAM2003",
       "name": "Arjun Erigaisi",
       "value": 3198.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/IN",
         "category": "live_blitz"
       }
+    },
+    {
+      "rank": 50,
+      "id": "wonderfultime",
+      "name": "Tuan Minh Le",
+      "value": 3196.0,
+      "unit": "rating",
+      "meta": {
+        "username": "wonderfultime",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/VN",
+        "category": "live_blitz"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-18T18:08:17Z",
+      "fetched_at": "2026-10-18T20:47:07Z",
       "http_status": 200
     }
   ]
