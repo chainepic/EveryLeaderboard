@@ -1,0 +1,223 @@
+{
+  "schema_version": "1.0.0",
+  "slug": "box-office-weekend-us",
+  "generated_at": "2026-10-19T07:50:08Z",
+  "as_of": "2026W42",
+  "period": {
+    "label": "2026W42"
+  },
+  "metric": {
+    "id": "revenue_usd",
+    "unit": "USD"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "id": "Street Fighter",
+      "name": "Street Fighter",
+      "value": 31000000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 2,
+      "id": "You Can See Everything",
+      "name": "You Can See Everything",
+      "value": 15000000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 3,
+      "id": "Other Mommy",
+      "name": "Other Mommy",
+      "value": 8350000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 4,
+      "id": "Whalefall",
+      "name": "Whalefall",
+      "value": 8000000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 5,
+      "id": "Sense and Sensibility",
+      "name": "Sense and Sensibility",
+      "value": 7250000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 6,
+      "id": "Verity",
+      "name": "Verity",
+      "value": 6212000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 7,
+      "id": "Resident Evil",
+      "name": "Resident Evil",
+      "value": 5500000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 8,
+      "id": "Heart of the Beast",
+      "name": "Heart of the Beast",
+      "value": 4830000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 9,
+      "id": "Jailer 2",
+      "name": "Jailer 2",
+      "value": 3260000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 10,
+      "id": "Forgotten Island",
+      "name": "Forgotten Island",
+      "value": 2250000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 11,
+      "id": "Primetime",
+      "name": "Primetime",
+      "value": 1674273.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 12,
+      "id": "The Devils",
+      "name": "The Devils",
+      "value": 1640000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 13,
+      "id": "The Social Reckoning",
+      "name": "The Social Reckoning",
+      "value": 1550000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 14,
+      "id": "Your Mother Your Mother Your Mother",
+      "name": "Your Mother Your Mother Your Mother",
+      "value": 1206490.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 15,
+      "id": "Digger",
+      "name": "Digger",
+      "value": 920000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 16,
+      "id": "Spider-Man: Brand New Day",
+      "name": "Spider-Man: Brand New Day",
+      "value": 700000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 17,
+      "id": "The Odyssey",
+      "name": "The Odyssey",
+      "value": 550000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 18,
+      "id": "Crawlers",
+      "name": "Crawlers",
+      "value": 468457.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 19,
+      "id": "Angel and the Badman",
+      "name": "Angel and the Badman",
+      "value": 430187.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 20,
+      "id": "Musk",
+      "name": "Musk",
+      "value": 306702.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 21,
+      "id": "La bola negra",
+      "name": "La bola negra",
+      "value": 277500.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 22,
+      "id": "Flywheel: Ignition of the Soul",
+      "name": "Flywheel: Ignition of the Soul",
+      "value": 200000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 23,
+      "id": "Avengers Endgame: Encore",
+      "name": "Avengers Endgame: Encore",
+      "value": 196000.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 24,
+      "id": "Naza",
+      "name": "Naza",
+      "value": 177870.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 25,
+      "id": "Fjord",
+      "name": "Fjord",
+      "value": 124466.0,
+      "unit": "USD",
+      "meta": {}
+    }
+  ],
+  "source_fetched": [
+    {
+      "name": "Box Office Mojo",
+      "url": "https://www.boxofficemojo.com/weekend/2026W42/",
+      "fetched_at": "2026-10-19T07:50:08Z",
+      "http_status": 200
+    }
+  ]
+}
