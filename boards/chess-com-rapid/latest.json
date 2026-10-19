@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-10-19T15:39:22Z",
-  "as_of": "2026-10-19T15:39:22Z",
+  "generated_at": "2026-10-19T21:05:53Z",
+  "as_of": "2026-10-19T21:05:53Z",
   "period": {
     "label": "live_rapid"
   },
@@ -208,6 +208,19 @@
     },
     {
       "rank": 16,
+      "id": "Evandro_Barbosa",
+      "name": "Evandro Amorim Barbosa",
+      "value": 2789.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Evandro_Barbosa",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 17,
       "id": "Kacparov",
       "name": "Kacper Drozdowski",
       "value": 2789.0,
@@ -216,19 +229,6 @@
         "username": "Kacparov",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/PL",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 17,
-      "id": "Evandro_Barbosa",
-      "name": "Evandro Amorim Barbosa",
-      "value": 2787.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Evandro_Barbosa",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
@@ -405,7 +405,7 @@
       "rank": 31,
       "id": "Liindseeyy",
       "name": "Liindseeyy",
-      "value": 2723.0,
+      "value": 2726.0,
       "unit": "rating",
       "meta": {
         "username": "Liindseeyy",
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-19T15:39:22Z",
+      "fetched_at": "2026-10-19T21:05:53Z",
       "http_status": 200
     }
   ]
