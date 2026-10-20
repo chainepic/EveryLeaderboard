@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-10-19T21:05:53Z",
-  "as_of": "2026-10-19T21:05:53Z",
+  "generated_at": "2026-10-20T00:23:19Z",
+  "as_of": "2026-10-20T00:23:19Z",
   "period": {
     "label": "live_rapid"
   },
@@ -403,19 +403,6 @@
     },
     {
       "rank": 31,
-      "id": "Liindseeyy",
-      "name": "Liindseeyy",
-      "value": 2726.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Liindseeyy",
-        "title": null,
-        "country_url": "https://api.chess.com/pub/country/FR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 32,
       "id": "HansOnTwitch",
       "name": "Hans Niemann",
       "value": 2720.0,
@@ -428,7 +415,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 32,
       "id": "Berardino",
       "name": "Diego Berardino",
       "value": 2719.0,
@@ -441,7 +428,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 33,
       "id": "mishanick",
       "name": "Aleksei Sarana",
       "value": 2718.0,
@@ -454,7 +441,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 34,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 2718.0,
@@ -467,7 +454,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 35,
       "id": "Swiss_Fighter",
       "name": "Gabriel Gähwiler",
       "value": 2717.0,
@@ -476,6 +463,19 @@
         "username": "Swiss_Fighter",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/CH",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 36,
+      "id": "Liindseeyy",
+      "name": "Liindseeyy",
+      "value": 2717.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Liindseeyy",
+        "title": null,
+        "country_url": "https://api.chess.com/pub/country/FR",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-19T21:05:53Z",
+      "fetched_at": "2026-10-20T00:23:19Z",
       "http_status": 200
     }
   ]
