@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-20T06:04:13Z",
-  "as_of": "2026-10-20T06:04:13Z",
+  "generated_at": "2026-10-20T11:42:43Z",
+  "as_of": "2026-10-20T11:42:43Z",
   "period": {
     "label": "live_blitz"
   },
@@ -15,7 +15,7 @@
       "rank": 1,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
-      "value": 3470.0,
+      "value": 3475.0,
       "unit": "rating",
       "meta": {
         "username": "Hikaru",
@@ -93,7 +93,7 @@
       "rank": 7,
       "id": "Sina-Movahed",
       "name": "Sina Movahed",
-      "value": 3317.0,
+      "value": 3319.0,
       "unit": "rating",
       "meta": {
         "username": "Sina-Movahed",
@@ -314,7 +314,7 @@
       "rank": 24,
       "id": "MichaelRoiz",
       "name": "Michael Roiz",
-      "value": 3246.0,
+      "value": 3241.0,
       "unit": "rating",
       "meta": {
         "username": "MichaelRoiz",
@@ -481,14 +481,14 @@
     },
     {
       "rank": 37,
-      "id": "Msb2",
-      "name": "Matthias Bluebaum",
-      "value": 3207.0,
+      "id": "wonderfultime",
+      "name": "Tuan Minh Le",
+      "value": 3208.0,
       "unit": "rating",
       "meta": {
-        "username": "Msb2",
+        "username": "wonderfultime",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/DE",
+        "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
     },
@@ -496,7 +496,7 @@
       "rank": 38,
       "id": "Salem-AR",
       "name": "Salem AR Saleh",
-      "value": 3206.0,
+      "value": 3207.0,
       "unit": "rating",
       "meta": {
         "username": "Salem-AR",
@@ -507,14 +507,14 @@
     },
     {
       "rank": 39,
-      "id": "Rud_Makarian",
-      "name": "Rudik Makarian",
-      "value": 3204.0,
+      "id": "Msb2",
+      "name": "Matthias Bluebaum",
+      "value": 3207.0,
       "unit": "rating",
       "meta": {
-        "username": "Rud_Makarian",
+        "username": "Msb2",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
+        "country_url": "https://api.chess.com/pub/country/DE",
         "category": "live_blitz"
       }
     },
@@ -546,19 +546,6 @@
     },
     {
       "rank": 42,
-      "id": "wonderfultime",
-      "name": "Tuan Minh Le",
-      "value": 3203.0,
-      "unit": "rating",
-      "meta": {
-        "username": "wonderfultime",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/VN",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 43,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 3202.0,
@@ -571,7 +558,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 43,
       "id": "GM_dmitrij",
       "name": "Dmitrij Kollars",
       "value": 3202.0,
@@ -584,7 +571,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 44,
       "id": "Indianlad",
       "name": "S.L. Narayanan",
       "value": 3201.0,
@@ -597,7 +584,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": "GroovyKettle",
       "name": "Robby Kevlishvili",
       "value": 3201.0,
@@ -610,7 +597,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": "jlucasvf",
       "name": "Lucas van Foreest",
       "value": 3201.0,
@@ -623,7 +610,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": "Philippians46",
       "name": "Andy Woodward",
       "value": 3200.0,
@@ -636,7 +623,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": "GHANDEEVAM2003",
       "name": "Arjun Erigaisi",
       "value": 3198.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "Dr_Tyger",
       "name": "Haowen Xue",
       "value": 3195.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/CN",
         "category": "live_blitz"
       }
+    },
+    {
+      "rank": 50,
+      "id": "BillieKimbah",
+      "name": "Maxim Matlakov",
+      "value": 3191.0,
+      "unit": "rating",
+      "meta": {
+        "username": "BillieKimbah",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-20T06:04:13Z",
+      "fetched_at": "2026-10-20T11:42:43Z",
       "http_status": 200
     }
   ]
