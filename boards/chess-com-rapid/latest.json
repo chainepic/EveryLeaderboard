@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-10-20T23:55:06Z",
-  "as_of": "2026-10-20T23:55:06Z",
+  "generated_at": "2026-10-21T15:18:50Z",
+  "as_of": "2026-10-21T15:18:50Z",
   "period": {
     "label": "live_rapid"
   },
@@ -364,6 +364,19 @@
     },
     {
       "rank": 28,
+      "id": "Szparu",
+      "name": "Miłosz Szpar",
+      "value": 2734.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Szparu",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/PL",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 29,
       "id": "FandiMazen",
       "name": "Mazen Fandi",
       "value": 2733.0,
@@ -376,7 +389,7 @@
       }
     },
     {
-      "rank": 29,
+      "rank": 30,
       "id": "lethalspider7",
       "name": "lethalspider7",
       "value": 2733.0,
@@ -385,19 +398,6 @@
         "username": "lethalspider7",
         "title": null,
         "country_url": "https://api.chess.com/pub/country/NO",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 30,
-      "id": "Szparu",
-      "name": "Miłosz Szpar",
-      "value": 2730.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Szparu",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/PL",
         "category": "live_rapid"
       }
     },
@@ -572,6 +572,19 @@
     },
     {
       "rank": 44,
+      "id": "koziororo",
+      "name": "Michal Koziorowicz",
+      "value": 2702.0,
+      "unit": "rating",
+      "meta": {
+        "username": "koziororo",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/PL",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 45,
       "id": "1800_strength",
       "name": "Dachey Lin",
       "value": 2702.0,
@@ -584,7 +597,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "mmgchess",
       "name": "Marcos Gonzalez",
       "value": 2701.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "KNVB",
       "name": "Aman Hambleton",
       "value": 2701.0,
@@ -610,7 +623,20 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
+      "id": "last8pawns",
+      "name": "last8pawns",
+      "value": 2701.0,
+      "unit": "rating",
+      "meta": {
+        "username": "last8pawns",
+        "title": null,
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 49,
       "id": "AnthonyWirig",
       "name": "Anthony Wirig",
       "value": 2700.0,
@@ -623,7 +649,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 50,
       "id": "wqws",
       "name": "Kaivalya Sandip Nagare",
       "value": 2700.0,
@@ -634,39 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/IN",
         "category": "live_rapid"
       }
-    },
-    {
-      "rank": 49,
-      "id": "Nitzan_Steinberg",
-      "name": "Nitzan Steinberg",
-      "value": 2696.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Nitzan_Steinberg",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 50,
-      "id": "SahibSinghKnight",
-      "name": "Sahib Singh",
-      "value": 2695.0,
-      "unit": "rating",
-      "meta": {
-        "username": "SahibSinghKnight",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/IN",
-        "category": "live_rapid"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-20T23:55:06Z",
+      "fetched_at": "2026-10-21T15:18:50Z",
       "http_status": 200
     }
   ]
