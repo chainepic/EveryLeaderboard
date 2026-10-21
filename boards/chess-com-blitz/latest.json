@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-21T20:11:45Z",
-  "as_of": "2026-10-21T20:11:45Z",
+  "generated_at": "2026-10-21T23:23:09Z",
+  "as_of": "2026-10-21T23:23:09Z",
   "period": {
     "label": "live_blitz"
   },
@@ -351,6 +351,19 @@
     },
     {
       "rank": 27,
+      "id": "Philippians46",
+      "name": "Andy Woodward",
+      "value": 3237.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Philippians46",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 28,
       "id": "Konavets",
       "name": "Sam Sevian",
       "value": 3234.0,
@@ -363,7 +376,7 @@
       }
     },
     {
-      "rank": 28,
+      "rank": 29,
       "id": "TRadjabov",
       "name": "Teimour Radjabov",
       "value": 3233.0,
@@ -372,19 +385,6 @@
         "username": "TRadjabov",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/AZ",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 29,
-      "id": "Philippians46",
-      "name": "Andy Woodward",
-      "value": 3231.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Philippians46",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
@@ -403,19 +403,6 @@
     },
     {
       "rank": 31,
-      "id": "GMBrewChess",
-      "name": "Brewington Hardaway",
-      "value": 3227.0,
-      "unit": "rating",
-      "meta": {
-        "username": "GMBrewChess",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 32,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 3227.0,
@@ -428,7 +415,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 32,
       "id": "Mykola-Bortnyk",
       "name": "Mykola Bortnyk",
       "value": 3226.0,
@@ -441,7 +428,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 33,
       "id": "Micki-taryan",
       "name": "Haik Martirosyan",
       "value": 3224.0,
@@ -454,7 +441,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 34,
       "id": "lachesisQ",
       "name": "Ian Nepomniachtchi",
       "value": 3221.0,
@@ -467,7 +454,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 35,
       "id": "chess_master_8820",
       "name": "Radin Yadegar",
       "value": 3218.0,
@@ -476,6 +463,19 @@
         "username": "chess_master_8820",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 36,
+      "id": "GMBrewChess",
+      "name": "Brewington Hardaway",
+      "value": 3217.0,
+      "unit": "rating",
+      "meta": {
+        "username": "GMBrewChess",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-21T20:11:45Z",
+      "fetched_at": "2026-10-21T23:23:09Z",
       "http_status": 200
     }
   ]
