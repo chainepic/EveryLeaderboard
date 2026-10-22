@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-22T04:53:09Z",
-  "as_of": "2026-10-22T04:53:09Z",
+  "generated_at": "2026-10-22T10:14:24Z",
+  "as_of": "2026-10-22T10:14:24Z",
   "period": {
     "label": "live_blitz"
   },
@@ -15,7 +15,7 @@
       "rank": 1,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
-      "value": 3485.0,
+      "value": 3471.0,
       "unit": "rating",
       "meta": {
         "username": "Hikaru",
@@ -54,7 +54,7 @@
       "rank": 4,
       "id": "Sina-Movahed",
       "name": "Sina Movahed",
-      "value": 3362.0,
+      "value": 3351.0,
       "unit": "rating",
       "meta": {
         "username": "Sina-Movahed",
@@ -273,6 +273,19 @@
     },
     {
       "rank": 21,
+      "id": "PursuitOfHappyness2",
+      "name": "Abhimanyu Mishra",
+      "value": 3254.0,
+      "unit": "rating",
+      "meta": {
+        "username": "PursuitOfHappyness2",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 22,
       "id": "VincentKeymer",
       "name": "Vincent Keymer",
       "value": 3252.0,
@@ -285,7 +298,7 @@
       }
     },
     {
-      "rank": 22,
+      "rank": 23,
       "id": "rpragchess",
       "name": "Praggnanandhaa Rameshbabu",
       "value": 3252.0,
@@ -298,7 +311,7 @@
       }
     },
     {
-      "rank": 23,
+      "rank": 24,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 3249.0,
@@ -307,19 +320,6 @@
         "username": "Grischuk",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 24,
-      "id": "PursuitOfHappyness2",
-      "name": "Abhimanyu Mishra",
-      "value": 3246.0,
-      "unit": "rating",
-      "meta": {
-        "username": "PursuitOfHappyness2",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
@@ -481,19 +481,6 @@
     },
     {
       "rank": 37,
-      "id": "NikoTheodorou",
-      "name": "Nikolas Theodorou",
-      "value": 3214.0,
-      "unit": "rating",
-      "meta": {
-        "username": "NikoTheodorou",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/GR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 38,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3209.0,
@@ -502,6 +489,19 @@
         "username": "LiemLe",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/VN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 38,
+      "id": "NikoTheodorou",
+      "name": "Nikolas Theodorou",
+      "value": 3208.0,
+      "unit": "rating",
+      "meta": {
+        "username": "NikoTheodorou",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/GR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-22T04:53:09Z",
+      "fetched_at": "2026-10-22T10:14:24Z",
       "http_status": 200
     }
   ]
