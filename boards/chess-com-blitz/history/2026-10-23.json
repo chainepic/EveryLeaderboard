@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-23T19:16:59Z",
-  "as_of": "2026-10-23T19:16:59Z",
+  "generated_at": "2026-10-23T22:21:33Z",
+  "as_of": "2026-10-23T22:21:33Z",
   "period": {
     "label": "live_blitz"
   },
@@ -80,7 +80,7 @@
       "rank": 6,
       "id": "Sina-Movahed",
       "name": "Sina Movahed",
-      "value": 3315.0,
+      "value": 3324.0,
       "unit": "rating",
       "meta": {
         "username": "Sina-Movahed",
@@ -364,19 +364,6 @@
     },
     {
       "rank": 28,
-      "id": "MichaelRoiz",
-      "name": "Michael Roiz",
-      "value": 3238.0,
-      "unit": "rating",
-      "meta": {
-        "username": "MichaelRoiz",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 29,
       "id": "TRadjabov",
       "name": "Teimour Radjabov",
       "value": 3237.0,
@@ -389,7 +376,7 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 29,
       "id": "PursuitOfHappyness2",
       "name": "Abhimanyu Mishra",
       "value": 3235.0,
@@ -402,7 +389,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 30,
       "id": "Konavets",
       "name": "Sam Sevian",
       "value": 3234.0,
@@ -415,7 +402,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 31,
       "id": "jefferyx",
       "name": "Jeffery Xiong",
       "value": 3231.0,
@@ -424,6 +411,19 @@
         "username": "jefferyx",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 32,
+      "id": "MichaelRoiz",
+      "name": "Michael Roiz",
+      "value": 3230.0,
+      "unit": "rating",
+      "meta": {
+        "username": "MichaelRoiz",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IL",
         "category": "live_blitz"
       }
     },
@@ -520,6 +520,19 @@
     },
     {
       "rank": 40,
+      "id": "LiamPutnam2008",
+      "name": "Liam Putnam",
+      "value": 3210.0,
+      "unit": "rating",
+      "meta": {
+        "username": "LiamPutnam2008",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 41,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3209.0,
@@ -532,7 +545,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "Salem-AR",
       "name": "Salem AR Saleh",
       "value": 3207.0,
@@ -545,7 +558,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 43,
       "id": "Msb2",
       "name": "Matthias Bluebaum",
       "value": 3207.0,
@@ -558,7 +571,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 44,
       "id": "GMBrewChess",
       "name": "Brewington Hardaway",
       "value": 3205.0,
@@ -571,7 +584,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 3204.0,
@@ -584,7 +597,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "Zhigalko_Sergei",
       "name": "Sergei Zhigalko",
       "value": 3204.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "ManuDavid2910",
       "name": "Manu David",
       "value": 3203.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "Fedoseev-Vladimir",
       "name": "Vladimir Fedoseev",
       "value": 3203.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "GroovyKettle",
       "name": "Robby Kevlishvili",
       "value": 3201.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "jlucasvf",
       "name": "Lucas van Foreest",
       "value": 3201.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/NL",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "LiamPutnam2008",
-      "name": "Liam Putnam",
-      "value": 3200.0,
-      "unit": "rating",
-      "meta": {
-        "username": "LiamPutnam2008",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-23T19:16:59Z",
+      "fetched_at": "2026-10-23T22:21:33Z",
       "http_status": 200
     }
   ]
