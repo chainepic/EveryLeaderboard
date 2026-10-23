@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-23T04:55:23Z",
-  "as_of": "2026-10-23T04:55:23Z",
+  "generated_at": "2026-10-23T10:07:19Z",
+  "as_of": "2026-10-23T10:07:19Z",
   "period": {
     "label": "live_blitz"
   },
@@ -28,7 +28,7 @@
       "rank": 2,
       "id": "MagnusCarlsen",
       "name": "Magnus Carlsen",
-      "value": 3413.0,
+      "value": 3419.0,
       "unit": "rating",
       "meta": {
         "username": "MagnusCarlsen",
@@ -130,6 +130,19 @@
     },
     {
       "rank": 10,
+      "id": "FabianoCaruana",
+      "name": "Fabiano Caruana",
+      "value": 3301.0,
+      "unit": "rating",
+      "meta": {
+        "username": "FabianoCaruana",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 11,
       "id": "DenLaz",
       "name": "Denis Lazavik",
       "value": 3299.0,
@@ -142,7 +155,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "id": "LyonBeast",
       "name": "Maxime Vachier-Lagrave",
       "value": 3295.0,
@@ -155,7 +168,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "id": "Firouzja2003",
       "name": "Alireza Firouzja",
       "value": 3287.0,
@@ -168,7 +181,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": "ChessWarrior7197",
       "name": "Nodirbek Abdusattorov",
       "value": 3285.0,
@@ -181,23 +194,10 @@
       }
     },
     {
-      "rank": 14,
-      "id": "FabianoCaruana",
-      "name": "Fabiano Caruana",
-      "value": 3271.0,
-      "unit": "rating",
-      "meta": {
-        "username": "FabianoCaruana",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
       "rank": 15,
       "id": "legendisback1",
       "name": "Yagiz Kaan Erdogmus",
-      "value": 3264.0,
+      "value": 3268.0,
       "unit": "rating",
       "meta": {
         "username": "legendisback1",
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-23T04:55:23Z",
+      "fetched_at": "2026-10-23T10:07:19Z",
       "http_status": 200
     }
   ]
