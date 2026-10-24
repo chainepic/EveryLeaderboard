@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "soccer-pl-table",
-  "generated_at": "2026-10-24T16:37:21Z",
-  "as_of": "2026-10-24T16:37:21Z",
+  "generated_at": "2026-10-24T19:30:39Z",
+  "as_of": "2026-10-24T19:30:39Z",
   "period": {
     "label": "2026-27 English Premier League"
   },
@@ -68,10 +68,10 @@
       "meta": {
         "group": "2026-27 English Premier League",
         "wins": 4.0,
-        "losses": 2.0,
+        "losses": 3.0,
         "ties": 1.0,
-        "games_played": 7.0,
-        "goal_diff": 4.0,
+        "games_played": 8.0,
+        "goal_diff": 2.0,
         "season": "2026-27 English Premier League"
       }
     },
@@ -189,6 +189,22 @@
     },
     {
       "rank": 12,
+      "id": "367",
+      "name": "Tottenham Hotspur",
+      "value": 9.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 2.0,
+        "losses": 3.0,
+        "ties": 3.0,
+        "games_played": 8.0,
+        "goal_diff": -2.0,
+        "season": "2026-27 English Premier League"
+      }
+    },
+    {
+      "rank": 13,
       "id": "370",
       "name": "Fulham",
       "value": 8.0,
@@ -204,7 +220,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": "361",
       "name": "Newcastle United",
       "value": 8.0,
@@ -220,7 +236,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "id": "360",
       "name": "Manchester United",
       "value": 7.0,
@@ -236,7 +252,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": "384",
       "name": "Crystal Palace",
       "value": 7.0,
@@ -252,7 +268,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": "349",
       "name": "AFC Bournemouth",
       "value": 6.0,
@@ -268,7 +284,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "393",
       "name": "Nottingham Forest",
       "value": 6.0,
@@ -279,22 +295,6 @@
         "losses": 4.0,
         "ties": 3.0,
         "games_played": 8.0,
-        "goal_diff": -4.0,
-        "season": "2026-27 English Premier League"
-      }
-    },
-    {
-      "rank": 18,
-      "id": "367",
-      "name": "Tottenham Hotspur",
-      "value": 6.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 1.0,
-        "losses": 3.0,
-        "ties": 3.0,
-        "games_played": 7.0,
         "goal_diff": -4.0,
         "season": "2026-27 English Premier League"
       }
@@ -336,7 +336,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/soccer/eng.1/standings",
-      "fetched_at": "2026-10-24T16:37:21Z",
+      "fetched_at": "2026-10-24T19:30:39Z",
       "http_status": 200
     }
   ]
