@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-10-24T07:20:09Z",
-  "as_of": "2026-10-24T07:20:09Z",
+  "generated_at": "2026-10-24T12:42:45Z",
+  "as_of": "2026-10-24T12:42:45Z",
   "period": {
     "label": "live_rapid"
   },
@@ -481,19 +481,6 @@
     },
     {
       "rank": 37,
-      "id": "Black_Warrior53",
-      "name": "Akbar Yakubboev",
-      "value": 2715.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Black_Warrior53",
-        "title": null,
-        "country_url": "https://api.chess.com/pub/country/UZ",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 38,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 2712.0,
@@ -506,7 +493,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 38,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 2711.0,
@@ -519,7 +506,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 39,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 2709.0,
@@ -532,7 +519,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 40,
       "id": "Super_Pav",
       "name": "Tikhon Popov",
       "value": 2707.0,
@@ -545,7 +532,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 41,
       "id": "dual_flurry",
       "name": "Jerad Docena",
       "value": 2704.0,
@@ -558,7 +545,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 42,
       "id": "vvds514",
       "name": "vvds514",
       "value": 2703.0,
@@ -571,7 +558,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 43,
       "id": "koziororo",
       "name": "Michal Koziorowicz",
       "value": 2702.0,
@@ -584,7 +571,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 44,
       "id": "1800_strength",
       "name": "Dachey Lin",
       "value": 2702.0,
@@ -597,7 +584,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": "mmgchess",
       "name": "Marcos Gonzalez",
       "value": 2701.0,
@@ -610,7 +597,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": "KNVB",
       "name": "Aman Hambleton",
       "value": 2701.0,
@@ -623,7 +610,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": "AnthonyWirig",
       "name": "Anthony Wirig",
       "value": 2700.0,
@@ -636,7 +623,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": "wqws",
       "name": "Kaivalya Sandip Nagare",
       "value": 2700.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "Nitzan_Steinberg",
       "name": "Nitzan Steinberg",
       "value": 2696.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/IL",
         "category": "live_rapid"
       }
+    },
+    {
+      "rank": 50,
+      "id": "SahibSinghKnight",
+      "name": "Sahib Singh",
+      "value": 2695.0,
+      "unit": "rating",
+      "meta": {
+        "username": "SahibSinghKnight",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/IN",
+        "category": "live_rapid"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-24T07:20:09Z",
+      "fetched_at": "2026-10-24T12:42:45Z",
       "http_status": 200
     }
   ]

@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-24T07:20:09Z",
-  "as_of": "2026-10-24T07:20:09Z",
+  "generated_at": "2026-10-24T12:42:45Z",
+  "as_of": "2026-10-24T12:42:45Z",
   "period": {
     "label": "live_blitz"
   },
@@ -52,6 +52,19 @@
     },
     {
       "rank": 4,
+      "id": "Sina-Movahed",
+      "name": "Sina Movahed",
+      "value": 3350.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Sina-Movahed",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 5,
       "id": "gurelediz",
       "name": "Ediz Gürel",
       "value": 3336.0,
@@ -64,7 +77,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "FairChess_on_YouTube",
       "name": "Dmitry Andreikin",
       "value": 3327.0,
@@ -73,19 +86,6 @@
         "username": "FairChess_on_YouTube",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/GE",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 6,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
-      "value": 3324.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sina-Movahed",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -624,6 +624,19 @@
     },
     {
       "rank": 48,
+      "id": "FaustinoOro",
+      "name": "Faustino Oro",
+      "value": 3201.0,
+      "unit": "rating",
+      "meta": {
+        "username": "FaustinoOro",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/AR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 49,
       "id": "GroovyKettle",
       "name": "Robby Kevlishvili",
       "value": 3201.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "jlucasvf",
       "name": "Lucas van Foreest",
       "value": 3201.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/NL",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "Harmonized_kakophonia",
-      "name": "Dau Khuong Duy",
-      "value": 3200.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Harmonized_kakophonia",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/VN",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-24T07:20:09Z",
+      "fetched_at": "2026-10-24T12:42:45Z",
       "http_status": 200
     }
   ]
