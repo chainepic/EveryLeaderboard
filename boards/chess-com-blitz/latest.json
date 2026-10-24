@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-24T12:42:45Z",
-  "as_of": "2026-10-24T12:42:45Z",
+  "generated_at": "2026-10-24T16:37:16Z",
+  "as_of": "2026-10-24T16:37:16Z",
   "period": {
     "label": "live_blitz"
   },
@@ -15,7 +15,7 @@
       "rank": 1,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
-      "value": 3475.0,
+      "value": 3482.0,
       "unit": "rating",
       "meta": {
         "username": "Hikaru",
@@ -366,7 +366,7 @@
       "rank": 28,
       "id": "TRadjabov",
       "name": "Teimour Radjabov",
-      "value": 3237.0,
+      "value": 3239.0,
       "unit": "rating",
       "meta": {
         "username": "TRadjabov",
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-24T12:42:45Z",
+      "fetched_at": "2026-10-24T16:37:16Z",
       "http_status": 200
     }
   ]
