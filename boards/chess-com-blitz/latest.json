@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-24T01:37:24Z",
-  "as_of": "2026-10-24T01:37:24Z",
+  "generated_at": "2026-10-24T07:20:09Z",
+  "as_of": "2026-10-24T07:20:09Z",
   "period": {
     "label": "live_blitz"
   },
@@ -195,6 +195,19 @@
     },
     {
       "rank": 15,
+      "id": "Philippians46",
+      "name": "Andy Woodward",
+      "value": 3272.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Philippians46",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 16,
       "id": "legendisback1",
       "name": "Yagiz Kaan Erdogmus",
       "value": 3268.0,
@@ -203,19 +216,6 @@
         "username": "legendisback1",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/TR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 16,
-      "id": "Philippians46",
-      "name": "Andy Woodward",
-      "value": 3264.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Philippians46",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
@@ -273,19 +273,6 @@
     },
     {
       "rank": 21,
-      "id": "wonderfultime",
-      "name": "Tuan Minh Le",
-      "value": 3254.0,
-      "unit": "rating",
-      "meta": {
-        "username": "wonderfultime",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/VN",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 22,
       "id": "rpragchess",
       "name": "Praggnanandhaa Rameshbabu",
       "value": 3252.0,
@@ -298,7 +285,7 @@
       }
     },
     {
-      "rank": 23,
+      "rank": 22,
       "id": "BillieKimbah",
       "name": "Maxim Matlakov",
       "value": 3252.0,
@@ -311,7 +298,7 @@
       }
     },
     {
-      "rank": 24,
+      "rank": 23,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 3249.0,
@@ -324,7 +311,7 @@
       }
     },
     {
-      "rank": 25,
+      "rank": 24,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 3249.0,
@@ -333,6 +320,19 @@
         "username": "Grischuk",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 25,
+      "id": "wonderfultime",
+      "name": "Tuan Minh Le",
+      "value": 3242.0,
+      "unit": "rating",
+      "meta": {
+        "username": "wonderfultime",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
     },
@@ -494,19 +494,6 @@
     },
     {
       "rank": 38,
-      "id": "ChristopherYoo",
-      "name": "Christopher Woojin Yoo",
-      "value": 3214.0,
-      "unit": "rating",
-      "meta": {
-        "username": "ChristopherYoo",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/TV",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 39,
       "id": "NikoTheodorou",
       "name": "Nikolas Theodorou",
       "value": 3211.0,
@@ -515,6 +502,19 @@
         "username": "NikoTheodorou",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/GR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 39,
+      "id": "ChristopherYoo",
+      "name": "Christopher Woojin Yoo",
+      "value": 3209.0,
+      "unit": "rating",
+      "meta": {
+        "username": "ChristopherYoo",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/TV",
         "category": "live_blitz"
       }
     },
@@ -650,14 +650,14 @@
     },
     {
       "rank": 50,
-      "id": "GHANDEEVAM2003",
-      "name": "Arjun Erigaisi",
-      "value": 3198.0,
+      "id": "Harmonized_kakophonia",
+      "name": "Dau Khuong Duy",
+      "value": 3200.0,
       "unit": "rating",
       "meta": {
-        "username": "GHANDEEVAM2003",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IN",
+        "username": "Harmonized_kakophonia",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
     }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-24T01:37:24Z",
+      "fetched_at": "2026-10-24T07:20:09Z",
       "http_status": 200
     }
   ]
