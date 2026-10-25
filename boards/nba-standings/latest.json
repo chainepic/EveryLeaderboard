@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "nba-standings",
-  "generated_at": "2026-10-24T22:30:37Z",
-  "as_of": "2026-10-24T22:30:37Z",
+  "generated_at": "2026-10-25T01:13:01Z",
+  "as_of": "2026-10-25T01:13:01Z",
   "period": {
     "label": "2026-27"
   },
@@ -163,23 +163,23 @@
     },
     {
       "rank": 11,
-      "id": "11",
-      "name": "Indiana Pacers",
-      "value": 0.5,
+      "id": "30",
+      "name": "Charlotte Hornets",
+      "value": 0.6667,
       "unit": "ratio",
       "meta": {
         "conference": "Eastern Conference",
         "conference_rank": 5,
-        "wins": 1.0,
+        "wins": 2.0,
         "losses": 1.0,
-        "games_behind": 1.0,
+        "games_behind": 0.5,
         "playoff_seed": 5.0
       }
     },
     {
       "rank": 12,
-      "id": "27",
-      "name": "Washington Wizards",
+      "id": "11",
+      "name": "Indiana Pacers",
       "value": 0.5,
       "unit": "ratio",
       "meta": {
@@ -193,8 +193,8 @@
     },
     {
       "rank": 13,
-      "id": "2",
-      "name": "Boston Celtics",
+      "id": "27",
+      "name": "Washington Wizards",
       "value": 0.5,
       "unit": "ratio",
       "meta": {
@@ -208,8 +208,8 @@
     },
     {
       "rank": 14,
-      "id": "4",
-      "name": "Chicago Bulls",
+      "id": "2",
+      "name": "Boston Celtics",
       "value": 0.5,
       "unit": "ratio",
       "meta": {
@@ -223,8 +223,8 @@
     },
     {
       "rank": 15,
-      "id": "30",
-      "name": "Charlotte Hornets",
+      "id": "4",
+      "name": "Chicago Bulls",
       "value": 0.5,
       "unit": "ratio",
       "meta": {
@@ -283,23 +283,23 @@
     },
     {
       "rank": 19,
-      "id": "18",
-      "name": "New York Knicks",
+      "id": "14",
+      "name": "Miami Heat",
       "value": 0.0,
       "unit": "ratio",
       "meta": {
         "conference": "Eastern Conference",
         "conference_rank": 10,
         "wins": 0.0,
-        "losses": 2.0,
-        "games_behind": 2.0,
-        "playoff_seed": 12.0
+        "losses": 3.0,
+        "games_behind": 2.5,
+        "playoff_seed": 15.0
       }
     },
     {
       "rank": 20,
-      "id": "15",
-      "name": "Milwaukee Bucks",
+      "id": "18",
+      "name": "New York Knicks",
       "value": 0.0,
       "unit": "ratio",
       "meta": {
@@ -308,13 +308,13 @@
         "wins": 0.0,
         "losses": 2.0,
         "games_behind": 2.0,
-        "playoff_seed": 13.0
+        "playoff_seed": 12.0
       }
     },
     {
       "rank": 21,
-      "id": "19",
-      "name": "Orlando Magic",
+      "id": "15",
+      "name": "Milwaukee Bucks",
       "value": 0.0,
       "unit": "ratio",
       "meta": {
@@ -323,13 +323,13 @@
         "wins": 0.0,
         "losses": 2.0,
         "games_behind": 2.0,
-        "playoff_seed": 14.0
+        "playoff_seed": 13.0
       }
     },
     {
       "rank": 22,
-      "id": "14",
-      "name": "Miami Heat",
+      "id": "19",
+      "name": "Orlando Magic",
       "value": 0.0,
       "unit": "ratio",
       "meta": {
@@ -338,7 +338,7 @@
         "wins": 0.0,
         "losses": 2.0,
         "games_behind": 2.0,
-        "playoff_seed": 15.0
+        "playoff_seed": 14.0
       }
     },
     {
@@ -466,7 +466,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/basketball/nba/standings",
-      "fetched_at": "2026-10-24T22:30:37Z",
+      "fetched_at": "2026-10-25T01:13:01Z",
       "http_status": 200
     }
   ]
