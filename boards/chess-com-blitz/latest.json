@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-25T06:11:37Z",
-  "as_of": "2026-10-25T06:11:37Z",
+  "generated_at": "2026-10-25T11:36:02Z",
+  "as_of": "2026-10-25T11:36:02Z",
   "period": {
     "label": "live_blitz"
   },
@@ -54,7 +54,7 @@
       "rank": 4,
       "id": "gurelediz",
       "name": "Ediz Gürel",
-      "value": 3348.0,
+      "value": 3353.0,
       "unit": "rating",
       "meta": {
         "username": "gurelediz",
@@ -80,7 +80,7 @@
       "rank": 6,
       "id": "Sina-Movahed",
       "name": "Sina Movahed",
-      "value": 3320.0,
+      "value": 3316.0,
       "unit": "rating",
       "meta": {
         "username": "Sina-Movahed",
@@ -455,19 +455,6 @@
     },
     {
       "rank": 35,
-      "id": "lachesisQ",
-      "name": "Ian Nepomniachtchi",
-      "value": 3219.0,
-      "unit": "rating",
-      "meta": {
-        "username": "lachesisQ",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 36,
       "id": "chess_master_8820",
       "name": "Radin Yadegar",
       "value": 3218.0,
@@ -480,10 +467,23 @@
       }
     },
     {
+      "rank": 36,
+      "id": "NikoTheodorou",
+      "name": "Nikolas Theodorou",
+      "value": 3215.0,
+      "unit": "rating",
+      "meta": {
+        "username": "NikoTheodorou",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/GR",
+        "category": "live_blitz"
+      }
+    },
+    {
       "rank": 37,
       "id": "sokidze",
       "name": "Ihor Samunenkov",
-      "value": 3213.0,
+      "value": 3209.0,
       "unit": "rating",
       "meta": {
         "username": "sokidze",
@@ -494,19 +494,6 @@
     },
     {
       "rank": 38,
-      "id": "NikoTheodorou",
-      "name": "Nikolas Theodorou",
-      "value": 3211.0,
-      "unit": "rating",
-      "meta": {
-        "username": "NikoTheodorou",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/GR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 39,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
       "value": 3209.0,
@@ -519,7 +506,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 39,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3209.0,
@@ -532,7 +519,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 40,
       "id": "rednova1729",
       "name": "Awonder Liang",
       "value": 3207.0,
@@ -545,7 +532,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 41,
       "id": "Salem-AR",
       "name": "Salem AR Saleh",
       "value": 3207.0,
@@ -558,7 +545,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 42,
       "id": "Msb2",
       "name": "Matthias Bluebaum",
       "value": 3207.0,
@@ -567,6 +554,19 @@
         "username": "Msb2",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/DE",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 43,
+      "id": "Harmonized_kakophonia",
+      "name": "Dau Khuong Duy",
+      "value": 3204.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Harmonized_kakophonia",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-25T06:11:37Z",
+      "fetched_at": "2026-10-25T11:36:02Z",
       "http_status": 200
     }
   ]
