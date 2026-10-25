@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-10-25T11:36:02Z",
-  "as_of": "2026-10-25T11:36:02Z",
+  "generated_at": "2026-10-25T16:26:10Z",
+  "as_of": "2026-10-25T16:26:10Z",
   "period": {
     "label": "live_rapid"
   },
@@ -403,6 +403,19 @@
     },
     {
       "rank": 31,
+      "id": "Swiss_Fighter",
+      "name": "Gabriel Gähwiler",
+      "value": 2721.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Swiss_Fighter",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/CH",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 32,
       "id": "HansOnTwitch",
       "name": "Hans Niemann",
       "value": 2720.0,
@@ -415,7 +428,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": "Berardino",
       "name": "Diego Berardino",
       "value": 2719.0,
@@ -428,7 +441,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 34,
       "id": "mishanick",
       "name": "Aleksei Sarana",
       "value": 2718.0,
@@ -441,7 +454,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 35,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 2718.0,
@@ -450,19 +463,6 @@
         "username": "Andreikka",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 35,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2717.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-25T11:36:02Z",
+      "fetched_at": "2026-10-25T16:26:10Z",
       "http_status": 200
     }
   ]
