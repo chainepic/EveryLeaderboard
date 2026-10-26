@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-25T22:35:36Z",
-  "as_of": "2026-10-25T22:35:36Z",
+  "generated_at": "2026-10-26T01:13:39Z",
+  "as_of": "2026-10-26T01:13:39Z",
   "period": {
     "label": "live_blitz"
   },
@@ -546,19 +546,6 @@
     },
     {
       "rank": 42,
-      "id": "Philippians46",
-      "name": "Andy Woodward",
-      "value": 3207.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Philippians46",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 43,
       "id": "Harmonized_kakophonia",
       "name": "Dau Khuong Duy",
       "value": 3204.0,
@@ -571,7 +558,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 43,
       "id": "Oleksandr_Bortnyk",
       "name": "Oleksandr Bortnyk",
       "value": 3204.0,
@@ -584,7 +571,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 44,
       "id": "Zhigalko_Sergei",
       "name": "Sergei Zhigalko",
       "value": 3204.0,
@@ -597,7 +584,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": "ManuDavid2910",
       "name": "Manu David",
       "value": 3203.0,
@@ -610,7 +597,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": "Fedoseev-Vladimir",
       "name": "Vladimir Fedoseev",
       "value": 3203.0,
@@ -623,7 +610,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": "GroovyKettle",
       "name": "Robby Kevlishvili",
       "value": 3201.0,
@@ -636,7 +623,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": "jlucasvf",
       "name": "Lucas van Foreest",
       "value": 3201.0,
@@ -645,6 +632,19 @@
         "username": "jlucasvf",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/NL",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 49,
+      "id": "Philippians46",
+      "name": "Andy Woodward",
+      "value": 3199.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Philippians46",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-25T22:35:36Z",
+      "fetched_at": "2026-10-26T01:13:39Z",
       "http_status": 200
     }
   ]
