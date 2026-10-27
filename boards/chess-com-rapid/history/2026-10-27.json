@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-10-27T18:44:45Z",
-  "as_of": "2026-10-27T18:44:45Z",
+  "generated_at": "2026-10-27T22:58:06Z",
+  "as_of": "2026-10-27T22:58:06Z",
   "period": {
     "label": "live_rapid"
   },
@@ -572,19 +572,6 @@
     },
     {
       "rank": 44,
-      "id": "mmgchess",
-      "name": "Marcos Gonzalez",
-      "value": 2701.0,
-      "unit": "rating",
-      "meta": {
-        "username": "mmgchess",
-        "title": "NM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 45,
       "id": "KNVB",
       "name": "Aman Hambleton",
       "value": 2701.0,
@@ -597,7 +584,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": "AnthonyWirig",
       "name": "Anthony Wirig",
       "value": 2700.0,
@@ -610,7 +597,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": "wqws",
       "name": "Kaivalya Sandip Nagare",
       "value": 2700.0,
@@ -623,7 +610,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": "Nitzan_Steinberg",
       "name": "Nitzan Steinberg",
       "value": 2696.0,
@@ -636,7 +623,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": "SahibSinghKnight",
       "name": "Sahib Singh",
       "value": 2695.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "Aoitsukibluemoon",
       "name": "Wang Hao",
       "value": 2694.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/JP",
         "category": "live_rapid"
       }
+    },
+    {
+      "rank": 50,
+      "id": "ClydeHillKid",
+      "name": "Joseph Levine",
+      "value": 2694.0,
+      "unit": "rating",
+      "meta": {
+        "username": "ClydeHillKid",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-27T18:44:45Z",
+      "fetched_at": "2026-10-27T22:58:06Z",
       "http_status": 200
     }
   ]
