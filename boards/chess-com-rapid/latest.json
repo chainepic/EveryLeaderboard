@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-10-26T20:30:59Z",
-  "as_of": "2026-10-26T20:30:59Z",
+  "generated_at": "2026-10-27T06:19:44Z",
+  "as_of": "2026-10-27T06:19:44Z",
   "period": {
     "label": "live_rapid"
   },
@@ -104,6 +104,19 @@
     },
     {
       "rank": 8,
+      "id": "LPSupi",
+      "name": "Luis Paulo Supi",
+      "value": 2822.0,
+      "unit": "rating",
+      "meta": {
+        "username": "LPSupi",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 9,
       "id": "Giorgi-Sibashvili",
       "name": "Giorgi Sibashvili",
       "value": 2821.0,
@@ -112,19 +125,6 @@
         "username": "Giorgi-Sibashvili",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/GE",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 9,
-      "id": "LPSupi",
-      "name": "Luis Paulo Supi",
-      "value": 2820.0,
-      "unit": "rating",
-      "meta": {
-        "username": "LPSupi",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-26T20:30:59Z",
+      "fetched_at": "2026-10-27T06:19:44Z",
       "http_status": 200
     }
   ]
