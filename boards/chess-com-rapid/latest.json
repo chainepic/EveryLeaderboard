@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-10-30T19:26:15Z",
-  "as_of": "2026-10-30T19:26:15Z",
+  "generated_at": "2026-10-30T23:50:22Z",
+  "as_of": "2026-10-30T23:50:22Z",
   "period": {
     "label": "live_rapid"
   },
@@ -91,6 +91,19 @@
     },
     {
       "rank": 7,
+      "id": "LPSupi",
+      "name": "Luis Paulo Supi",
+      "value": 2824.0,
+      "unit": "rating",
+      "meta": {
+        "username": "LPSupi",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 8,
       "id": "Fabsid",
       "name": "Fabian Doettling",
       "value": 2822.0,
@@ -99,19 +112,6 @@
         "username": "Fabsid",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/DE",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 8,
-      "id": "LPSupi",
-      "name": "Luis Paulo Supi",
-      "value": 2822.0,
-      "unit": "rating",
-      "meta": {
-        "username": "LPSupi",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
@@ -559,19 +559,6 @@
     },
     {
       "rank": 43,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2701.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 44,
       "id": "KNVB",
       "name": "Aman Hambleton",
       "value": 2701.0,
@@ -584,7 +571,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 44,
       "id": "AnthonyWirig",
       "name": "Anthony Wirig",
       "value": 2700.0,
@@ -597,7 +584,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": "wqws",
       "name": "Kaivalya Sandip Nagare",
       "value": 2700.0,
@@ -610,7 +597,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": "SahibSinghKnight",
       "name": "Sahib Singh",
       "value": 2695.0,
@@ -619,6 +606,19 @@
         "username": "SahibSinghKnight",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/IN",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 47,
+      "id": "Swiss_Fighter",
+      "name": "Gabriel Gähwiler",
+      "value": 2695.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Swiss_Fighter",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/CH",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-30T19:26:15Z",
+      "fetched_at": "2026-10-30T23:50:22Z",
       "http_status": 200
     }
   ]
