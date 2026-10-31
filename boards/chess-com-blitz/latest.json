@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-30T23:50:22Z",
-  "as_of": "2026-10-30T23:50:22Z",
+  "generated_at": "2026-10-31T05:48:28Z",
+  "as_of": "2026-10-31T05:48:28Z",
   "period": {
     "label": "live_blitz"
   },
@@ -39,6 +39,19 @@
     },
     {
       "rank": 3,
+      "id": "nihalsarin",
+      "name": "Nihal Sarin",
+      "value": 3321.0,
+      "unit": "rating",
+      "meta": {
+        "username": "nihalsarin",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/CL",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 4,
       "id": "DenLaz",
       "name": "Denis Lazavik",
       "value": 3319.0,
@@ -51,7 +64,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "gurelediz",
       "name": "Ediz Gürel",
       "value": 3313.0,
@@ -60,19 +73,6 @@
         "username": "gurelediz",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/TR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 5,
-      "id": "nihalsarin",
-      "name": "Nihal Sarin",
-      "value": 3309.0,
-      "unit": "rating",
-      "meta": {
-        "username": "nihalsarin",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/CL",
         "category": "live_blitz"
       }
     },
@@ -403,19 +403,6 @@
     },
     {
       "rank": 31,
-      "id": "dropstoneDP",
-      "name": "David Paravyan",
-      "value": 3230.0,
-      "unit": "rating",
-      "meta": {
-        "username": "dropstoneDP",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 32,
       "id": "Micki-taryan",
       "name": "Haik Martirosyan",
       "value": 3230.0,
@@ -428,7 +415,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 32,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3230.0,
@@ -441,7 +428,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 33,
       "id": "Rud_Makarian",
       "name": "Rudik Makarian",
       "value": 3229.0,
@@ -454,7 +441,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 34,
       "id": "GMBrewChess",
       "name": "Brewington Hardaway",
       "value": 3229.0,
@@ -467,7 +454,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 35,
       "id": "Sina-Movahed",
       "name": "Sina Movahed",
       "value": 3229.0,
@@ -480,7 +467,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 36,
       "id": "artin10862",
       "name": "Artin Ashraf",
       "value": 3225.0,
@@ -489,6 +476,19 @@
         "username": "artin10862",
         "title": "FM",
         "country_url": "https://api.chess.com/pub/country/TR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 37,
+      "id": "dropstoneDP",
+      "name": "David Paravyan",
+      "value": 3218.0,
+      "unit": "rating",
+      "meta": {
+        "username": "dropstoneDP",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     },
@@ -585,19 +585,6 @@
     },
     {
       "rank": 45,
-      "id": "Philippians46",
-      "name": "Andy Woodward",
-      "value": 3210.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Philippians46",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 46,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3209.0,
@@ -610,7 +597,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": "Salem-AR",
       "name": "Salem AR Saleh",
       "value": 3207.0,
@@ -619,6 +606,19 @@
         "username": "Salem-AR",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/AE",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 47,
+      "id": "spicycaterpillar",
+      "name": "Ray Robson",
+      "value": 3206.0,
+      "unit": "rating",
+      "meta": {
+        "username": "spicycaterpillar",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-30T23:50:22Z",
+      "fetched_at": "2026-10-31T05:48:28Z",
       "http_status": 200
     }
   ]
