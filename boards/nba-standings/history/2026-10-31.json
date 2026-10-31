@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "nba-standings",
-  "generated_at": "2026-10-31T17:46:13Z",
-  "as_of": "2026-10-31T17:46:13Z",
+  "generated_at": "2026-10-31T21:38:33Z",
+  "as_of": "2026-10-31T21:38:33Z",
   "period": {
     "label": "2026-27"
   },
@@ -105,14 +105,14 @@
       "rank": 7,
       "id": "22",
       "name": "Portland Trail Blazers",
-      "value": 0.75,
+      "value": 0.8,
       "unit": "ratio",
       "meta": {
         "conference": "Western Conference",
         "conference_rank": 4,
-        "wins": 3.0,
+        "wins": 4.0,
         "losses": 1.0,
-        "games_behind": 1.5,
+        "games_behind": 1.0,
         "playoff_seed": 4.0
       }
     },
@@ -373,8 +373,8 @@
     },
     {
       "rank": 25,
-      "id": "26",
-      "name": "Utah Jazz",
+      "id": "3",
+      "name": "New Orleans Pelicans",
       "value": 0.2,
       "unit": "ratio",
       "meta": {
@@ -388,8 +388,8 @@
     },
     {
       "rank": 26,
-      "id": "3",
-      "name": "New Orleans Pelicans",
+      "id": "12",
+      "name": "LA Clippers",
       "value": 0.2,
       "unit": "ratio",
       "meta": {
@@ -403,21 +403,6 @@
     },
     {
       "rank": 27,
-      "id": "12",
-      "name": "LA Clippers",
-      "value": 0.2,
-      "unit": "ratio",
-      "meta": {
-        "conference": "Western Conference",
-        "conference_rank": 14,
-        "wins": 1.0,
-        "losses": 4.0,
-        "games_behind": 4.0,
-        "playoff_seed": 14.0
-      }
-    },
-    {
-      "rank": 28,
       "id": "4",
       "name": "Chicago Bulls",
       "value": 0.1667,
@@ -428,6 +413,21 @@
         "wins": 1.0,
         "losses": 5.0,
         "games_behind": 4.0,
+        "playoff_seed": 14.0
+      }
+    },
+    {
+      "rank": 28,
+      "id": "26",
+      "name": "Utah Jazz",
+      "value": 0.1667,
+      "unit": "ratio",
+      "meta": {
+        "conference": "Western Conference",
+        "conference_rank": 14,
+        "wins": 1.0,
+        "losses": 5.0,
+        "games_behind": 4.5,
         "playoff_seed": 14.0
       }
     },
@@ -466,7 +466,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/basketball/nba/standings",
-      "fetched_at": "2026-10-31T17:46:13Z",
+      "fetched_at": "2026-10-31T21:38:33Z",
       "http_status": 200
     }
   ]
