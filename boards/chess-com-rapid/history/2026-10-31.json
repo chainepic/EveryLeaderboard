@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-10-31T12:37:43Z",
-  "as_of": "2026-10-31T12:37:43Z",
+  "generated_at": "2026-10-31T17:46:10Z",
+  "as_of": "2026-10-31T17:46:10Z",
   "period": {
     "label": "live_rapid"
   },
@@ -312,19 +312,6 @@
     },
     {
       "rank": 24,
-      "id": "alexboy14",
-      "name": "Oleksii Nakonechnyi",
-      "value": 2746.0,
-      "unit": "rating",
-      "meta": {
-        "username": "alexboy14",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/PL",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 25,
       "id": "Sibelephant",
       "name": "Vladislav Artemiev",
       "value": 2740.0,
@@ -333,6 +320,19 @@
         "username": "Sibelephant",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 25,
+      "id": "alexboy14",
+      "name": "Oleksii Nakonechnyi",
+      "value": 2738.0,
+      "unit": "rating",
+      "meta": {
+        "username": "alexboy14",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/PL",
         "category": "live_rapid"
       }
     },
@@ -546,6 +546,19 @@
     },
     {
       "rank": 42,
+      "id": "Swiss_Fighter",
+      "name": "Gabriel Gähwiler",
+      "value": 2701.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Swiss_Fighter",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/CH",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 43,
       "id": "KNVB",
       "name": "Aman Hambleton",
       "value": 2701.0,
@@ -558,7 +571,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 44,
       "id": "LSChess",
       "name": "Logan Clark Shafer",
       "value": 2700.0,
@@ -571,7 +584,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": "AnthonyWirig",
       "name": "Anthony Wirig",
       "value": 2700.0,
@@ -584,7 +597,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "wqws",
       "name": "Kaivalya Sandip Nagare",
       "value": 2700.0,
@@ -593,19 +606,6 @@
         "username": "wqws",
         "title": "FM",
         "country_url": "https://api.chess.com/pub/country/IN",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 46,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2698.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-31T12:37:43Z",
+      "fetched_at": "2026-10-31T17:46:10Z",
       "http_status": 200
     }
   ]
