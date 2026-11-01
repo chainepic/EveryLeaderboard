@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "nba-standings",
-  "generated_at": "2026-11-01T19:44:07Z",
-  "as_of": "2026-11-01T19:44:07Z",
+  "generated_at": "2026-11-01T23:38:36Z",
+  "as_of": "2026-11-01T23:38:36Z",
   "period": {
     "label": "2026-27"
   },
@@ -75,14 +75,14 @@
       "rank": 5,
       "id": "2",
       "name": "Boston Celtics",
-      "value": 0.8,
+      "value": 0.8333,
       "unit": "ratio",
       "meta": {
         "conference": "Eastern Conference",
         "conference_rank": 3,
-        "wins": 4.0,
+        "wins": 5.0,
         "losses": 1.0,
-        "games_behind": 1.0,
+        "games_behind": 0.5,
         "playoff_seed": 3.0
       }
     },
@@ -283,23 +283,23 @@
     },
     {
       "rank": 19,
-      "id": "19",
-      "name": "Orlando Magic",
-      "value": 0.4,
+      "id": "14",
+      "name": "Miami Heat",
+      "value": 0.3333,
       "unit": "ratio",
       "meta": {
         "conference": "Eastern Conference",
         "conference_rank": 9,
         "wins": 2.0,
-        "losses": 3.0,
-        "games_behind": 3.0,
+        "losses": 4.0,
+        "games_behind": 3.5,
         "playoff_seed": 9.0
       }
     },
     {
       "rank": 20,
-      "id": "14",
-      "name": "Miami Heat",
+      "id": "19",
+      "name": "Orlando Magic",
       "value": 0.3333,
       "unit": "ratio",
       "meta": {
@@ -466,7 +466,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/basketball/nba/standings",
-      "fetched_at": "2026-11-01T19:44:07Z",
+      "fetched_at": "2026-11-01T23:38:36Z",
       "http_status": 200
     }
   ]
