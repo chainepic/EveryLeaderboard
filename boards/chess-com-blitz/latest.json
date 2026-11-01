@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-10-31T21:38:31Z",
-  "as_of": "2026-10-31T21:38:31Z",
+  "generated_at": "2026-11-01T01:13:44Z",
+  "as_of": "2026-11-01T01:13:44Z",
   "period": {
     "label": "live_blitz"
   },
@@ -184,7 +184,7 @@
       "rank": 14,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
-      "value": 3278.0,
+      "value": 3277.0,
       "unit": "rating",
       "meta": {
         "username": "Parhamov",
@@ -208,6 +208,19 @@
     },
     {
       "rank": 16,
+      "id": "mishanick",
+      "name": "Aleksei Sarana",
+      "value": 3269.0,
+      "unit": "rating",
+      "meta": {
+        "username": "mishanick",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RS",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 17,
       "id": "Sibelephant",
       "name": "Vladislav Artemiev",
       "value": 3262.0,
@@ -220,7 +233,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "HansOnTwitch",
       "name": "Hans Niemann",
       "value": 3260.0,
@@ -229,19 +242,6 @@
         "username": "HansOnTwitch",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 18,
-      "id": "mishanick",
-      "name": "Aleksei Sarana",
-      "value": 3260.0,
-      "unit": "rating",
-      "meta": {
-        "username": "mishanick",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RS",
         "category": "live_blitz"
       }
     },
@@ -481,19 +481,6 @@
     },
     {
       "rank": 37,
-      "id": "FabianoCaruana",
-      "name": "Fabiano Caruana",
-      "value": 3218.0,
-      "unit": "rating",
-      "meta": {
-        "username": "FabianoCaruana",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 38,
       "id": "lachesisQ",
       "name": "Ian Nepomniachtchi",
       "value": 3217.0,
@@ -506,20 +493,7 @@
       }
     },
     {
-      "rank": 39,
-      "id": "amintabatabaei",
-      "name": "Amin Tabatabaei",
-      "value": 3216.0,
-      "unit": "rating",
-      "meta": {
-        "username": "amintabatabaei",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 40,
+      "rank": 38,
       "id": "Zhuu96",
       "name": "Zhamsaran Tsydypov",
       "value": 3216.0,
@@ -532,7 +506,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 39,
       "id": "BillieKimbah",
       "name": "Maxim Matlakov",
       "value": 3214.0,
@@ -545,7 +519,20 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 40,
+      "id": "FabianoCaruana",
+      "name": "Fabiano Caruana",
+      "value": 3213.0,
+      "unit": "rating",
+      "meta": {
+        "username": "FabianoCaruana",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 41,
       "id": "IMaster_01",
       "name": "Arda Camlar",
       "value": 3211.0,
@@ -558,7 +545,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 42,
       "id": "rednova1729",
       "name": "Awonder Liang",
       "value": 3210.0,
@@ -571,7 +558,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 43,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3209.0,
@@ -584,7 +571,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 44,
       "id": "dropstoneDP",
       "name": "David Paravyan",
       "value": 3208.0,
@@ -597,7 +584,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": "MichaelRoiz",
       "name": "Michael Roiz",
       "value": 3208.0,
@@ -606,6 +593,19 @@
         "username": "MichaelRoiz",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IL",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 46,
+      "id": "amintabatabaei",
+      "name": "Amin Tabatabaei",
+      "value": 3207.0,
+      "unit": "rating",
+      "meta": {
+        "username": "amintabatabaei",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-10-31T21:38:31Z",
+      "fetched_at": "2026-11-01T01:13:44Z",
       "http_status": 200
     }
   ]
