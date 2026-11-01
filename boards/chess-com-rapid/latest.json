@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-01T01:13:44Z",
-  "as_of": "2026-11-01T01:13:44Z",
+  "generated_at": "2026-11-01T07:37:00Z",
+  "as_of": "2026-11-01T07:37:00Z",
   "period": {
     "label": "live_rapid"
   },
@@ -611,19 +611,6 @@
     },
     {
       "rank": 47,
-      "id": "ClydeHillKid",
-      "name": "Joseph Levine",
-      "value": 2696.0,
-      "unit": "rating",
-      "meta": {
-        "username": "ClydeHillKid",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 48,
       "id": "SahibSinghKnight",
       "name": "Sahib Singh",
       "value": 2695.0,
@@ -636,7 +623,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": "Aoitsukibluemoon",
       "name": "Wang Hao",
       "value": 2694.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "LikeWater",
       "name": "Alexander Velikanov",
       "value": 2693.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
+    },
+    {
+      "rank": 50,
+      "id": "kontosnik1",
+      "name": "Νik kontos",
+      "value": 2692.0,
+      "unit": "rating",
+      "meta": {
+        "username": "kontosnik1",
+        "title": null,
+        "country_url": "https://api.chess.com/pub/country/GR",
+        "category": "live_rapid"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-01T01:13:44Z",
+      "fetched_at": "2026-11-01T07:37:00Z",
       "http_status": 200
     }
   ]
