@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-11-01T23:38:34Z",
-  "as_of": "2026-11-01T23:38:34Z",
+  "generated_at": "2026-11-02T06:12:04Z",
+  "as_of": "2026-11-02T06:12:04Z",
   "period": {
     "label": "live_blitz"
   },
@@ -351,6 +351,19 @@
     },
     {
       "rank": 27,
+      "id": "FabianoCaruana",
+      "name": "Fabiano Caruana",
+      "value": 3238.0,
+      "unit": "rating",
+      "meta": {
+        "username": "FabianoCaruana",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 28,
       "id": "Sina-Movahed",
       "name": "Sina Movahed",
       "value": 3237.0,
@@ -363,7 +376,7 @@
       }
     },
     {
-      "rank": 28,
+      "rank": 29,
       "id": "vi_pranav",
       "name": "Pranav V",
       "value": 3236.0,
@@ -376,7 +389,7 @@
       }
     },
     {
-      "rank": 29,
+      "rank": 30,
       "id": "Rud_Makarian",
       "name": "Rudik Makarian",
       "value": 3236.0,
@@ -389,7 +402,7 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 31,
       "id": "PursuitOfHappyness2",
       "name": "Abhimanyu Mishra",
       "value": 3235.0,
@@ -402,7 +415,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": "TRadjabov",
       "name": "Teimour Radjabov",
       "value": 3234.0,
@@ -415,7 +428,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": "jefferyx",
       "name": "Jeffery Xiong",
       "value": 3231.0,
@@ -428,7 +441,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 34,
       "id": "Micki-taryan",
       "name": "Haik Martirosyan",
       "value": 3230.0,
@@ -441,7 +454,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 35,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3230.0,
@@ -450,19 +463,6 @@
         "username": "Andreikka",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 35,
-      "id": "FabianoCaruana",
-      "name": "Fabiano Caruana",
-      "value": 3227.0,
-      "unit": "rating",
-      "meta": {
-        "username": "FabianoCaruana",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
@@ -598,6 +598,19 @@
     },
     {
       "rank": 46,
+      "id": "Philippians46",
+      "name": "Andy Woodward",
+      "value": 3207.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Philippians46",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 47,
       "id": "spicycaterpillar",
       "name": "Ray Robson",
       "value": 3206.0,
@@ -606,19 +619,6 @@
         "username": "spicycaterpillar",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 47,
-      "id": "Harmonized_kakophonia",
-      "name": "Dau Khuong Duy",
-      "value": 3204.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Harmonized_kakophonia",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
     },
@@ -650,14 +650,14 @@
     },
     {
       "rank": 50,
-      "id": "GroovyKettle",
-      "name": "Robby Kevlishvili",
-      "value": 3201.0,
+      "id": "Harmonized_kakophonia",
+      "name": "Dau Khuong Duy",
+      "value": 3202.0,
       "unit": "rating",
       "meta": {
-        "username": "GroovyKettle",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/NL",
+        "username": "Harmonized_kakophonia",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
     }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-01T23:38:34Z",
+      "fetched_at": "2026-11-02T06:12:04Z",
       "http_status": 200
     }
   ]
