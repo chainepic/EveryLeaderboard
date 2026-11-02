@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-02T06:12:04Z",
-  "as_of": "2026-11-02T06:12:04Z",
+  "generated_at": "2026-11-02T16:01:28Z",
+  "as_of": "2026-11-02T16:01:28Z",
   "period": {
     "label": "live_rapid"
   },
@@ -78,19 +78,6 @@
     },
     {
       "rank": 6,
-      "id": "LPSupi",
-      "name": "Luis Paulo Supi",
-      "value": 2824.0,
-      "unit": "rating",
-      "meta": {
-        "username": "LPSupi",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 7,
       "id": "Fabsid",
       "name": "Fabian Doettling",
       "value": 2822.0,
@@ -103,7 +90,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "id": "Giorgi-Sibashvili",
       "name": "Giorgi Sibashvili",
       "value": 2821.0,
@@ -116,7 +103,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "ilqar_74",
       "name": "Rustam Rustamov",
       "value": 2815.0,
@@ -125,6 +112,19 @@
         "username": "ilqar_74",
         "title": "FM",
         "country_url": "https://api.chess.com/pub/country/AZ",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 9,
+      "id": "LPSupi",
+      "name": "Luis Paulo Supi",
+      "value": 2812.0,
+      "unit": "rating",
+      "meta": {
+        "username": "LPSupi",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
@@ -171,7 +171,7 @@
       "rank": 13,
       "id": "Evandro_Barbosa",
       "name": "Evandro Amorim Barbosa",
-      "value": 2793.0,
+      "value": 2795.0,
       "unit": "rating",
       "meta": {
         "username": "Evandro_Barbosa",
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-02T06:12:04Z",
+      "fetched_at": "2026-11-02T16:01:28Z",
       "http_status": 200
     }
   ]
