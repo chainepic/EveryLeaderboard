@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-11-02T23:34:13Z",
-  "as_of": "2026-11-02T23:34:13Z",
+  "generated_at": "2026-11-03T06:52:17Z",
+  "as_of": "2026-11-03T06:52:17Z",
   "period": {
     "label": "live_blitz"
   },
@@ -442,6 +442,32 @@
     },
     {
       "rank": 34,
+      "id": "wonderfultime",
+      "name": "Tuan Minh Le",
+      "value": 3228.0,
+      "unit": "rating",
+      "meta": {
+        "username": "wonderfultime",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/VN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 35,
+      "id": "Philippians46",
+      "name": "Andy Woodward",
+      "value": 3222.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Philippians46",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 36,
       "id": "chess_master_8820",
       "name": "Radin Yadegar",
       "value": 3218.0,
@@ -454,20 +480,7 @@
       }
     },
     {
-      "rank": 35,
-      "id": "Philippians46",
-      "name": "Andy Woodward",
-      "value": 3217.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Philippians46",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 36,
+      "rank": 37,
       "id": "MichaelRoiz",
       "name": "Michael Roiz",
       "value": 3216.0,
@@ -480,7 +493,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 38,
       "id": "Zhuu96",
       "name": "Zhamsaran Tsydypov",
       "value": 3216.0,
@@ -493,7 +506,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 39,
       "id": "BillieKimbah",
       "name": "Maxim Matlakov",
       "value": 3214.0,
@@ -506,20 +519,20 @@
       }
     },
     {
-      "rank": 39,
-      "id": "wonderfultime",
-      "name": "Tuan Minh Le",
-      "value": 3214.0,
+      "rank": 40,
+      "id": "Harmonized_kakophonia",
+      "name": "Dau Khuong Duy",
+      "value": 3212.0,
       "unit": "rating",
       "meta": {
-        "username": "wonderfultime",
-        "title": "GM",
+        "username": "Harmonized_kakophonia",
+        "title": "IM",
         "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": "rednova1729",
       "name": "Awonder Liang",
       "value": 3210.0,
@@ -532,7 +545,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "Rud_Makarian",
       "name": "Rudik Makarian",
       "value": 3209.0,
@@ -545,7 +558,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 43,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3209.0,
@@ -553,19 +566,6 @@
       "meta": {
         "username": "LiemLe",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/VN",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 43,
-      "id": "Harmonized_kakophonia",
-      "name": "Dau Khuong Duy",
-      "value": 3208.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Harmonized_kakophonia",
-        "title": "IM",
         "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
@@ -637,6 +637,19 @@
     },
     {
       "rank": 49,
+      "id": "GMBrewChess",
+      "name": "Brewington Hardaway",
+      "value": 3201.0,
+      "unit": "rating",
+      "meta": {
+        "username": "GMBrewChess",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 50,
       "id": "jlucasvf",
       "name": "Lucas van Foreest",
       "value": 3201.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/NL",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "GMBrewChess",
-      "name": "Brewington Hardaway",
-      "value": 3200.0,
-      "unit": "rating",
-      "meta": {
-        "username": "GMBrewChess",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-02T23:34:13Z",
+      "fetched_at": "2026-11-03T06:52:17Z",
       "http_status": 200
     }
   ]
