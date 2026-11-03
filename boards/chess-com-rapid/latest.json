@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-03T15:12:03Z",
-  "as_of": "2026-11-03T15:12:03Z",
+  "generated_at": "2026-11-03T21:01:49Z",
+  "as_of": "2026-11-03T21:01:49Z",
   "period": {
     "label": "live_rapid"
   },
@@ -78,19 +78,6 @@
     },
     {
       "rank": 6,
-      "id": "LPSupi",
-      "name": "Luis Paulo Supi",
-      "value": 2824.0,
-      "unit": "rating",
-      "meta": {
-        "username": "LPSupi",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 7,
       "id": "Giorgi-Sibashvili",
       "name": "Giorgi Sibashvili",
       "value": 2821.0,
@@ -99,6 +86,19 @@
         "username": "Giorgi-Sibashvili",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/GE",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 7,
+      "id": "LPSupi",
+      "name": "Luis Paulo Supi",
+      "value": 2818.0,
+      "unit": "rating",
+      "meta": {
+        "username": "LPSupi",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
@@ -637,6 +637,19 @@
     },
     {
       "rank": 49,
+      "id": "TheUnknownSecretBoss",
+      "name": "You are not Supposed to know me",
+      "value": 2690.0,
+      "unit": "rating",
+      "meta": {
+        "username": "TheUnknownSecretBoss",
+        "title": null,
+        "country_url": "https://api.chess.com/pub/country/IN",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 50,
       "id": "RaunakSadhwani2005",
       "name": "Raunak Sadhwani",
       "value": 2686.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/IN",
         "category": "live_rapid"
       }
-    },
-    {
-      "rank": 50,
-      "id": "chessdude",
-      "name": "Daniel Sadzikowski",
-      "value": 2686.0,
-      "unit": "rating",
-      "meta": {
-        "username": "chessdude",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/PL",
-        "category": "live_rapid"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-03T15:12:03Z",
+      "fetched_at": "2026-11-03T21:01:49Z",
       "http_status": 200
     }
   ]
