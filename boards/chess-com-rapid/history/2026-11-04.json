@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-04T01:25:01Z",
-  "as_of": "2026-11-04T01:25:01Z",
+  "generated_at": "2026-11-04T09:18:52Z",
+  "as_of": "2026-11-04T09:18:52Z",
   "period": {
     "label": "live_rapid"
   },
@@ -598,6 +598,19 @@
     },
     {
       "rank": 46,
+      "id": "TheUnknownSecretBoss",
+      "name": "You are not Supposed to know me",
+      "value": 2693.0,
+      "unit": "rating",
+      "meta": {
+        "username": "TheUnknownSecretBoss",
+        "title": null,
+        "country_url": "https://api.chess.com/pub/country/IN",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 47,
       "id": "LikeWater",
       "name": "Alexander Velikanov",
       "value": 2693.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "Nitzan_Steinberg",
       "name": "Nitzan Steinberg",
       "value": 2692.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "kontosnik1",
       "name": "Νik kontos",
       "value": 2692.0,
@@ -632,19 +645,6 @@
         "username": "kontosnik1",
         "title": null,
         "country_url": "https://api.chess.com/pub/country/GR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 49,
-      "id": "TheUnknownSecretBoss",
-      "name": "You are not Supposed to know me",
-      "value": 2690.0,
-      "unit": "rating",
-      "meta": {
-        "username": "TheUnknownSecretBoss",
-        "title": null,
-        "country_url": "https://api.chess.com/pub/country/IN",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-04T01:25:01Z",
+      "fetched_at": "2026-11-04T09:18:52Z",
       "http_status": 200
     }
   ]
