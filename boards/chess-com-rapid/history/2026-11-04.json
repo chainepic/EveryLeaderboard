@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-04T17:59:48Z",
-  "as_of": "2026-11-04T17:59:48Z",
+  "generated_at": "2026-11-04T23:42:36Z",
+  "as_of": "2026-11-04T23:42:36Z",
   "period": {
     "label": "live_rapid"
   },
@@ -93,7 +93,7 @@
       "rank": 7,
       "id": "LPSupi",
       "name": "Luis Paulo Supi",
-      "value": 2818.0,
+      "value": 2820.0,
       "unit": "rating",
       "meta": {
         "username": "LPSupi",
@@ -572,6 +572,19 @@
     },
     {
       "rank": 44,
+      "id": "Nitzan_Steinberg",
+      "name": "Nitzan Steinberg",
+      "value": 2694.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Nitzan_Steinberg",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IL",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 45,
       "id": "Aoitsukibluemoon",
       "name": "Wang Hao",
       "value": 2694.0,
@@ -584,7 +597,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "LikeWater",
       "name": "Alexander Velikanov",
       "value": 2693.0,
@@ -593,19 +606,6 @@
         "username": "LikeWater",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 46,
-      "id": "Nitzan_Steinberg",
-      "name": "Nitzan Steinberg",
-      "value": 2692.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Nitzan_Steinberg",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-04T17:59:48Z",
+      "fetched_at": "2026-11-04T23:42:36Z",
       "http_status": 200
     }
   ]
