@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "soccer-pl-table",
-  "generated_at": "2026-11-06T17:59:57Z",
-  "as_of": "2026-11-06T17:59:57Z",
+  "generated_at": "2026-11-06T23:12:19Z",
+  "as_of": "2026-11-06T23:12:19Z",
   "period": {
     "label": "2026-27 English Premier League"
   },
@@ -77,6 +77,22 @@
     },
     {
       "rank": 5,
+      "id": "368",
+      "name": "Everton",
+      "value": 16.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 4.0,
+        "losses": 2.0,
+        "ties": 4.0,
+        "games_played": 10.0,
+        "goal_diff": 2.0,
+        "season": "2026-27 English Premier League"
+      }
+    },
+    {
+      "rank": 6,
       "id": "364",
       "name": "Liverpool",
       "value": 15.0,
@@ -92,7 +108,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "337",
       "name": "Brentford",
       "value": 14.0,
@@ -104,22 +120,6 @@
         "ties": 5.0,
         "games_played": 9.0,
         "goal_diff": 7.0,
-        "season": "2026-27 English Premier League"
-      }
-    },
-    {
-      "rank": 7,
-      "id": "368",
-      "name": "Everton",
-      "value": 13.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 3.0,
-        "losses": 2.0,
-        "ties": 4.0,
-        "games_played": 9.0,
-        "goal_diff": 0.0,
         "season": "2026-27 English Premier League"
       }
     },
@@ -260,10 +260,10 @@
       "meta": {
         "group": "2026-27 English Premier League",
         "wins": 3.0,
-        "losses": 6.0,
+        "losses": 7.0,
         "ties": 0.0,
-        "games_played": 9.0,
-        "goal_diff": -7.0,
+        "games_played": 10.0,
+        "goal_diff": -9.0,
         "season": "2026-27 English Premier League"
       }
     },
@@ -336,7 +336,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/soccer/eng.1/standings",
-      "fetched_at": "2026-11-06T17:59:57Z",
+      "fetched_at": "2026-11-06T23:12:19Z",
       "http_status": 200
     }
   ]

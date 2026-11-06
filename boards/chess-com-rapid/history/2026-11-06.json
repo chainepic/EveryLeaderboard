@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-06T17:59:55Z",
-  "as_of": "2026-11-06T17:59:55Z",
+  "generated_at": "2026-11-06T23:12:17Z",
+  "as_of": "2026-11-06T23:12:17Z",
   "period": {
     "label": "live_rapid"
   },
@@ -78,6 +78,19 @@
     },
     {
       "rank": 6,
+      "id": "LPSupi",
+      "name": "Luis Paulo Supi",
+      "value": 2835.0,
+      "unit": "rating",
+      "meta": {
+        "username": "LPSupi",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/BR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 7,
       "id": "Giorgi-Sibashvili",
       "name": "Giorgi Sibashvili",
       "value": 2821.0,
@@ -86,19 +99,6 @@
         "username": "Giorgi-Sibashvili",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/GE",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 7,
-      "id": "LPSupi",
-      "name": "Luis Paulo Supi",
-      "value": 2820.0,
-      "unit": "rating",
-      "meta": {
-        "username": "LPSupi",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
@@ -455,6 +455,19 @@
     },
     {
       "rank": 35,
+      "id": "koziororo",
+      "name": "Michal Koziorowicz",
+      "value": 2707.0,
+      "unit": "rating",
+      "meta": {
+        "username": "koziororo",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/PL",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 36,
       "id": "Super_Pav",
       "name": "Tikhon Popov",
       "value": 2707.0,
@@ -467,7 +480,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 37,
       "id": "vvds514",
       "name": "vvds514",
       "value": 2703.0,
@@ -476,19 +489,6 @@
         "username": "vvds514",
         "title": null,
         "country_url": "https://api.chess.com/pub/country/TJ",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 37,
-      "id": "koziororo",
-      "name": "Michal Koziorowicz",
-      "value": 2702.0,
-      "unit": "rating",
-      "meta": {
-        "username": "koziororo",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/PL",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-06T17:59:55Z",
+      "fetched_at": "2026-11-06T23:12:17Z",
       "http_status": 200
     }
   ]
