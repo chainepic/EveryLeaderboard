@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-06T23:12:17Z",
-  "as_of": "2026-11-06T23:12:17Z",
+  "generated_at": "2026-11-07T02:50:36Z",
+  "as_of": "2026-11-07T02:50:36Z",
   "period": {
     "label": "live_rapid"
   },
@@ -455,19 +455,6 @@
     },
     {
       "rank": 35,
-      "id": "koziororo",
-      "name": "Michal Koziorowicz",
-      "value": 2707.0,
-      "unit": "rating",
-      "meta": {
-        "username": "koziororo",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/PL",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 36,
       "id": "Super_Pav",
       "name": "Tikhon Popov",
       "value": 2707.0,
@@ -480,7 +467,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 36,
       "id": "vvds514",
       "name": "vvds514",
       "value": 2703.0,
@@ -493,7 +480,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 37,
       "id": "1800_strength",
       "name": "Dachey Lin",
       "value": 2702.0,
@@ -506,7 +493,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 38,
       "id": "Swiss_Fighter",
       "name": "Gabriel Gähwiler",
       "value": 2701.0,
@@ -519,7 +506,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 39,
       "id": "KNVB",
       "name": "Aman Hambleton",
       "value": 2701.0,
@@ -528,6 +515,19 @@
         "username": "KNVB",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/CA",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 40,
+      "id": "koziororo",
+      "name": "Michal Koziorowicz",
+      "value": 2700.0,
+      "unit": "rating",
+      "meta": {
+        "username": "koziororo",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/PL",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-06T23:12:17Z",
+      "fetched_at": "2026-11-07T02:50:36Z",
       "http_status": 200
     }
   ]

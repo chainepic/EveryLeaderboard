@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "nba-standings",
-  "generated_at": "2026-11-06T23:12:19Z",
-  "as_of": "2026-11-06T23:12:19Z",
+  "generated_at": "2026-11-07T02:50:38Z",
+  "as_of": "2026-11-07T02:50:38Z",
   "period": {
     "label": "2026-27"
   },
@@ -43,6 +43,21 @@
     },
     {
       "rank": 3,
+      "id": "2",
+      "name": "Boston Celtics",
+      "value": 0.7778,
+      "unit": "ratio",
+      "meta": {
+        "conference": "Eastern Conference",
+        "conference_rank": 2,
+        "wins": 7.0,
+        "losses": 2.0,
+        "games_behind": 1.0,
+        "playoff_seed": 2.0
+      }
+    },
+    {
+      "rank": 4,
       "id": "13",
       "name": "Los Angeles Lakers",
       "value": 0.7778,
@@ -57,7 +72,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "10",
       "name": "Houston Rockets",
       "value": 0.7778,
@@ -72,24 +87,9 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "8",
       "name": "Detroit Pistons",
-      "value": 0.75,
-      "unit": "ratio",
-      "meta": {
-        "conference": "Eastern Conference",
-        "conference_rank": 2,
-        "wins": 6.0,
-        "losses": 2.0,
-        "games_behind": 1.5,
-        "playoff_seed": 2.0
-      }
-    },
-    {
-      "rank": 6,
-      "id": "2",
-      "name": "Boston Celtics",
       "value": 0.75,
       "unit": "ratio",
       "meta": {
@@ -178,6 +178,21 @@
     },
     {
       "rank": 12,
+      "id": "1",
+      "name": "Atlanta Hawks",
+      "value": 0.6,
+      "unit": "ratio",
+      "meta": {
+        "conference": "Eastern Conference",
+        "conference_rank": 4,
+        "wins": 6.0,
+        "losses": 4.0,
+        "games_behind": 2.5,
+        "playoff_seed": 4.0
+      }
+    },
+    {
+      "rank": 13,
       "id": "7",
       "name": "Denver Nuggets",
       "value": 0.5714,
@@ -189,21 +204,6 @@
         "losses": 3.0,
         "games_behind": 2.0,
         "playoff_seed": 9.0
-      }
-    },
-    {
-      "rank": 13,
-      "id": "1",
-      "name": "Atlanta Hawks",
-      "value": 0.5556,
-      "unit": "ratio",
-      "meta": {
-        "conference": "Eastern Conference",
-        "conference_rank": 4,
-        "wins": 5.0,
-        "losses": 4.0,
-        "games_behind": 3.0,
-        "playoff_seed": 4.0
       }
     },
     {
@@ -253,21 +253,6 @@
     },
     {
       "rank": 17,
-      "id": "27",
-      "name": "Washington Wizards",
-      "value": 0.5,
-      "unit": "ratio",
-      "meta": {
-        "conference": "Eastern Conference",
-        "conference_rank": 8,
-        "wins": 4.0,
-        "losses": 4.0,
-        "games_behind": 3.5,
-        "playoff_seed": 8.0
-      }
-    },
-    {
-      "rank": 18,
       "id": "3",
       "name": "New Orleans Pelicans",
       "value": 0.5,
@@ -282,7 +267,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "id": "6",
       "name": "Dallas Mavericks",
       "value": 0.5,
@@ -297,9 +282,24 @@
       }
     },
     {
+      "rank": 19,
+      "id": "27",
+      "name": "Washington Wizards",
+      "value": 0.4444,
+      "unit": "ratio",
+      "meta": {
+        "conference": "Eastern Conference",
+        "conference_rank": 8,
+        "wins": 4.0,
+        "losses": 5.0,
+        "games_behind": 4.0,
+        "playoff_seed": 8.0
+      }
+    },
+    {
       "rank": 20,
-      "id": "30",
-      "name": "Charlotte Hornets",
+      "id": "14",
+      "name": "Miami Heat",
       "value": 0.3333,
       "unit": "ratio",
       "meta": {
@@ -313,8 +313,8 @@
     },
     {
       "rank": 21,
-      "id": "14",
-      "name": "Miami Heat",
+      "id": "11",
+      "name": "Indiana Pacers",
       "value": 0.3333,
       "unit": "ratio",
       "meta": {
@@ -328,16 +328,16 @@
     },
     {
       "rank": 22,
-      "id": "11",
-      "name": "Indiana Pacers",
-      "value": 0.3333,
+      "id": "30",
+      "name": "Charlotte Hornets",
+      "value": 0.3,
       "unit": "ratio",
       "meta": {
         "conference": "Eastern Conference",
         "conference_rank": 11,
         "wins": 3.0,
-        "losses": 6.0,
-        "games_behind": 5.0,
+        "losses": 7.0,
+        "games_behind": 5.5,
         "playoff_seed": 11.0
       }
     },
@@ -466,7 +466,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/basketball/nba/standings",
-      "fetched_at": "2026-11-06T23:12:19Z",
+      "fetched_at": "2026-11-07T02:50:38Z",
       "http_status": 200
     }
   ]
