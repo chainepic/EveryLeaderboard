@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-08T00:40:23Z",
-  "as_of": "2026-11-08T00:40:23Z",
+  "generated_at": "2026-11-08T07:24:54Z",
+  "as_of": "2026-11-08T07:24:54Z",
   "period": {
     "label": "live_rapid"
   },
@@ -624,6 +624,19 @@
     },
     {
       "rank": 48,
+      "id": "linlin1812",
+      "name": "Patrick Liu",
+      "value": 2687.0,
+      "unit": "rating",
+      "meta": {
+        "username": "linlin1812",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 49,
       "id": "RaunakSadhwani2005",
       "name": "Raunak Sadhwani",
       "value": 2686.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "chessdude",
       "name": "Daniel Sadzikowski",
       "value": 2686.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/PL",
         "category": "live_rapid"
       }
-    },
-    {
-      "rank": 50,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
-      "value": 2684.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sina-Movahed",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
-        "category": "live_rapid"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-08T00:40:23Z",
+      "fetched_at": "2026-11-08T07:24:54Z",
       "http_status": 200
     }
   ]
