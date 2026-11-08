@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "nba-standings",
-  "generated_at": "2026-11-07T20:55:14Z",
-  "as_of": "2026-11-07T20:55:14Z",
+  "generated_at": "2026-11-08T00:40:25Z",
+  "as_of": "2026-11-08T00:40:25Z",
   "period": {
     "label": "2026-27"
   },
@@ -178,6 +178,21 @@
     },
     {
       "rank": 12,
+      "id": "7",
+      "name": "Denver Nuggets",
+      "value": 0.625,
+      "unit": "ratio",
+      "meta": {
+        "conference": "Western Conference",
+        "conference_rank": 9,
+        "wins": 5.0,
+        "losses": 3.0,
+        "games_behind": 2.0,
+        "playoff_seed": 9.0
+      }
+    },
+    {
+      "rank": 13,
       "id": "1",
       "name": "Atlanta Hawks",
       "value": 0.6,
@@ -189,21 +204,6 @@
         "losses": 4.0,
         "games_behind": 2.0,
         "playoff_seed": 4.0
-      }
-    },
-    {
-      "rank": 13,
-      "id": "7",
-      "name": "Denver Nuggets",
-      "value": 0.5714,
-      "unit": "ratio",
-      "meta": {
-        "conference": "Western Conference",
-        "conference_rank": 9,
-        "wins": 4.0,
-        "losses": 3.0,
-        "games_behind": 2.5,
-        "playoff_seed": 9.0
       }
     },
     {
@@ -313,23 +313,23 @@
     },
     {
       "rank": 21,
-      "id": "11",
-      "name": "Indiana Pacers",
-      "value": 0.3333,
+      "id": "30",
+      "name": "Charlotte Hornets",
+      "value": 0.3,
       "unit": "ratio",
       "meta": {
         "conference": "Eastern Conference",
         "conference_rank": 10,
         "wins": 3.0,
-        "losses": 6.0,
-        "games_behind": 4.5,
+        "losses": 7.0,
+        "games_behind": 5.0,
         "playoff_seed": 10.0
       }
     },
     {
       "rank": 22,
-      "id": "30",
-      "name": "Charlotte Hornets",
+      "id": "11",
+      "name": "Indiana Pacers",
       "value": 0.3,
       "unit": "ratio",
       "meta": {
@@ -466,7 +466,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/basketball/nba/standings",
-      "fetched_at": "2026-11-07T20:55:14Z",
+      "fetched_at": "2026-11-08T00:40:25Z",
       "http_status": 200
     }
   ]
