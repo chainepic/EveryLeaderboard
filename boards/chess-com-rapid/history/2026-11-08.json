@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-08T15:15:46Z",
-  "as_of": "2026-11-08T15:15:46Z",
+  "generated_at": "2026-11-08T19:45:42Z",
+  "as_of": "2026-11-08T19:45:42Z",
   "period": {
     "label": "live_rapid"
   },
@@ -585,6 +585,19 @@
     },
     {
       "rank": 45,
+      "id": "linlin1812",
+      "name": "Patrick Liu",
+      "value": 2695.0,
+      "unit": "rating",
+      "meta": {
+        "username": "linlin1812",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 46,
       "id": "Aoitsukibluemoon",
       "name": "Wang Hao",
       "value": 2694.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "LikeWater",
       "name": "Alexander Velikanov",
       "value": 2693.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "kontosnik1",
       "name": "Νik kontos",
       "value": 2692.0,
@@ -619,19 +632,6 @@
         "username": "kontosnik1",
         "title": null,
         "country_url": "https://api.chess.com/pub/country/GR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 48,
-      "id": "linlin1812",
-      "name": "Patrick Liu",
-      "value": 2687.0,
-      "unit": "rating",
-      "meta": {
-        "username": "linlin1812",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-08T15:15:46Z",
+      "fetched_at": "2026-11-08T19:45:42Z",
       "http_status": 200
     }
   ]
