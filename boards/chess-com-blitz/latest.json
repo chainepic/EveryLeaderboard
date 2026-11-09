@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-11-08T23:45:10Z",
-  "as_of": "2026-11-08T23:45:10Z",
+  "generated_at": "2026-11-09T06:39:21Z",
+  "as_of": "2026-11-09T06:39:21Z",
   "period": {
     "label": "live_blitz"
   },
@@ -208,19 +208,6 @@
     },
     {
       "rank": 16,
-      "id": "dropstoneDP",
-      "name": "David Paravyan",
-      "value": 3269.0,
-      "unit": "rating",
-      "meta": {
-        "username": "dropstoneDP",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 17,
       "id": "FabianoCaruana",
       "name": "Fabiano Caruana",
       "value": 3269.0,
@@ -233,7 +220,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
       "value": 3267.0,
@@ -246,7 +233,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "id": "GMWSO",
       "name": "Wesley So",
       "value": 3267.0,
@@ -259,7 +246,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "id": "Sibelephant",
       "name": "Vladislav Artemiev",
       "value": 3264.0,
@@ -272,7 +259,7 @@
       }
     },
     {
-      "rank": 21,
+      "rank": 20,
       "id": "wonderfultime",
       "name": "Tuan Minh Le",
       "value": 3261.0,
@@ -285,7 +272,7 @@
       }
     },
     {
-      "rank": 22,
+      "rank": 21,
       "id": "LyonBeast",
       "name": "Maxime Vachier-Lagrave",
       "value": 3255.0,
@@ -298,7 +285,7 @@
       }
     },
     {
-      "rank": 23,
+      "rank": 22,
       "id": "legendisback1",
       "name": "Yagiz Kaan Erdogmus",
       "value": 3252.0,
@@ -311,7 +298,7 @@
       }
     },
     {
-      "rank": 24,
+      "rank": 23,
       "id": "FaustinoOro",
       "name": "Faustino Oro",
       "value": 3250.0,
@@ -324,7 +311,7 @@
       }
     },
     {
-      "rank": 25,
+      "rank": 24,
       "id": "TRadjabov",
       "name": "Teimour Radjabov",
       "value": 3249.0,
@@ -337,7 +324,7 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 25,
       "id": "Azerichess",
       "name": "Shakhriyar Mamedyarov",
       "value": 3243.0,
@@ -350,7 +337,7 @@
       }
     },
     {
-      "rank": 27,
+      "rank": 26,
       "id": "jefferyx",
       "name": "Jeffery Xiong",
       "value": 3243.0,
@@ -363,7 +350,7 @@
       }
     },
     {
-      "rank": 28,
+      "rank": 27,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 3242.0,
@@ -376,7 +363,7 @@
       }
     },
     {
-      "rank": 29,
+      "rank": 28,
       "id": "Duhless",
       "name": "Daniil Dubov",
       "value": 3242.0,
@@ -389,7 +376,7 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 29,
       "id": "vi_pranav",
       "name": "Pranav V",
       "value": 3236.0,
@@ -402,7 +389,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 30,
       "id": "PursuitOfHappyness2",
       "name": "Abhimanyu Mishra",
       "value": 3235.0,
@@ -415,7 +402,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 31,
       "id": "artooon",
       "name": "Pranesh M",
       "value": 3231.0,
@@ -428,7 +415,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 32,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3230.0,
@@ -441,7 +428,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 33,
       "id": "Msb2",
       "name": "Matthias Bluebaum",
       "value": 3227.0,
@@ -454,7 +441,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 34,
       "id": "BillieKimbah",
       "name": "Maxim Matlakov",
       "value": 3224.0,
@@ -467,7 +454,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 35,
       "id": "artin10862",
       "name": "Artin Ashraf",
       "value": 3222.0,
@@ -480,7 +467,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 36,
       "id": "Konavets",
       "name": "Sam Sevian",
       "value": 3221.0,
@@ -489,6 +476,19 @@
         "username": "Konavets",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 37,
+      "id": "dropstoneDP",
+      "name": "David Paravyan",
+      "value": 3220.0,
+      "unit": "rating",
+      "meta": {
+        "username": "dropstoneDP",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-08T23:45:10Z",
+      "fetched_at": "2026-11-09T06:39:21Z",
       "http_status": 200
     }
   ]

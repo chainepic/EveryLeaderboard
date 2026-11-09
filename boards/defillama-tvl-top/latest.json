@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "defillama-tvl-top",
-  "generated_at": "2026-11-08T00:40:24Z",
-  "as_of": "2026-11-08T00:40:24Z",
+  "generated_at": "2026-11-09T06:39:23Z",
+  "as_of": "2026-11-09T06:39:23Z",
   "period": {
     "label": "live"
   },
@@ -15,7 +15,7 @@
       "rank": 1,
       "id": "binance-cex",
       "name": "Binance CEX",
-      "value": 125452614209.88985,
+      "value": 124568353568.88026,
       "unit": "USD",
       "meta": {
         "category": "CEX",
@@ -27,7 +27,7 @@
       "rank": 2,
       "id": "okx",
       "name": "OKX",
-      "value": 28229193378.760536,
+      "value": 27616464177.810413,
       "unit": "USD",
       "meta": {
         "category": "CEX",
@@ -39,7 +39,7 @@
       "rank": 3,
       "id": "lido",
       "name": "Lido",
-      "value": 21689612911.46698,
+      "value": 20710908216.182106,
       "unit": "USD",
       "meta": {
         "category": "Liquid Staking",
@@ -51,7 +51,7 @@
       "rank": 4,
       "id": "layerzero-v2",
       "name": "LayerZero V2",
-      "value": 17769065516.771572,
+      "value": 16579259604.644537,
       "unit": "USD",
       "meta": {
         "category": "Bridge",
@@ -63,7 +63,7 @@
       "rank": 5,
       "id": "aave-v3",
       "name": "Aave V3",
-      "value": 15779234189.52397,
+      "value": 15333384394.018333,
       "unit": "USD",
       "meta": {
         "category": "Lending",
@@ -75,7 +75,7 @@
       "rank": 6,
       "id": "bybit",
       "name": "Bybit",
-      "value": 14728737447.252768,
+      "value": 14457319507.553432,
       "unit": "USD",
       "meta": {
         "category": "CEX",
@@ -87,7 +87,7 @@
       "rank": 7,
       "id": "bitfinex",
       "name": "Bitfinex",
-      "value": 14373805649.59743,
+      "value": 14126147159.517847,
       "unit": "USD",
       "meta": {
         "category": "CEX",
@@ -99,7 +99,7 @@
       "rank": 8,
       "id": "robinhood",
       "name": "Robinhood",
-      "value": 13674686533.874622,
+      "value": 13372849035.686596,
       "unit": "USD",
       "meta": {
         "category": "CEX",
@@ -111,7 +111,7 @@
       "rank": 9,
       "id": "ssv-network",
       "name": "SSV Network",
-      "value": 11682319481.797232,
+      "value": 11180143602.622492,
       "unit": "USD",
       "meta": {
         "category": "Staking Pool",
@@ -123,7 +123,7 @@
       "rank": 10,
       "id": "morpho-blue",
       "name": "Morpho Blue",
-      "value": 10917505331.807041,
+      "value": 10784921543.020878,
       "unit": "USD",
       "meta": {
         "category": "Lending",
@@ -135,7 +135,7 @@
       "rank": 11,
       "id": "wbtc",
       "name": "WBTC",
-      "value": 8815563181.54874,
+      "value": 8731324862.465052,
       "unit": "USD",
       "meta": {
         "category": "Bridge",
@@ -147,7 +147,7 @@
       "rank": 12,
       "id": "binance-staked-eth",
       "name": "Binance staked ETH",
-      "value": 8663238102.277601,
+      "value": 8291949737.56381,
       "unit": "USD",
       "meta": {
         "category": "Liquid Staking",
@@ -159,7 +159,7 @@
       "rank": 13,
       "id": "coinbase-bridge",
       "name": "Coinbase Bridge",
-      "value": 7645908964.72695,
+      "value": 7504069216.042005,
       "unit": "USD",
       "meta": {
         "category": "Bridge",
@@ -171,7 +171,7 @@
       "rank": 14,
       "id": "hyperliquid-bridge",
       "name": "Hyperliquid Bridge",
-      "value": 6397865846.535957,
+      "value": 6340353192.179651,
       "unit": "USD",
       "meta": {
         "category": "Bridge",
@@ -181,21 +181,9 @@
     },
     {
       "rank": 15,
-      "id": "bitget",
-      "name": "Bitget",
-      "value": 5886042380.085679,
-      "unit": "USD",
-      "meta": {
-        "category": "CEX",
-        "chain": "Multi-Chain",
-        "symbol": "-"
-      }
-    },
-    {
-      "rank": 16,
       "id": "gate",
       "name": "Gate",
-      "value": 5867088790.90063,
+      "value": 5765920881.712846,
       "unit": "USD",
       "meta": {
         "category": "CEX",
@@ -204,10 +192,22 @@
       }
     },
     {
+      "rank": 16,
+      "id": "bitget",
+      "name": "Bitget",
+      "value": 5618886349.6960125,
+      "unit": "USD",
+      "meta": {
+        "category": "CEX",
+        "chain": "Multi-Chain",
+        "symbol": "-"
+      }
+    },
+    {
       "rank": 17,
       "id": "eigencloud",
       "name": "EigenCloud",
-      "value": 5698508590.866895,
+      "value": 5460780638.620209,
       "unit": "USD",
       "meta": {
         "category": "Restaking",
@@ -219,7 +219,7 @@
       "rank": 18,
       "id": "binance-bitcoin",
       "name": "Binance Bitcoin",
-      "value": 5158858024.667337,
+      "value": 5108023600.13402,
       "unit": "USD",
       "meta": {
         "category": "Bridge",
@@ -229,21 +229,21 @@
     },
     {
       "rank": 19,
-      "id": "sparklend",
-      "name": "SparkLend",
-      "value": 5022192333.252873,
+      "id": "ethena-usde",
+      "name": "Ethena USDe",
+      "value": 4979163692.618163,
       "unit": "USD",
       "meta": {
-        "category": "Lending",
-        "chain": "Multi-Chain",
-        "symbol": "SPK"
+        "category": "Basis Trading",
+        "chain": "Ethereum",
+        "symbol": "ENA"
       }
     },
     {
       "rank": 20,
       "id": "gemini",
       "name": "Gemini",
-      "value": 4985976007.756727,
+      "value": 4883925001.831115,
       "unit": "USD",
       "meta": {
         "category": "CEX",
@@ -253,21 +253,21 @@
     },
     {
       "rank": 21,
-      "id": "ethena-usde",
-      "name": "Ethena USDe",
-      "value": 4919409665.69064,
+      "id": "sparklend",
+      "name": "SparkLend",
+      "value": 4782566746.3279085,
       "unit": "USD",
       "meta": {
-        "category": "Basis Trading",
-        "chain": "Ethereum",
-        "symbol": "ENA"
+        "category": "Lending",
+        "chain": "Multi-Chain",
+        "symbol": "SPK"
       }
     },
     {
       "rank": 22,
       "id": "bitstamp",
       "name": "Bitstamp",
-      "value": 4462523578.226817,
+      "value": 4397642488.494853,
       "unit": "USD",
       "meta": {
         "category": "CEX",
@@ -277,21 +277,9 @@
     },
     {
       "rank": 23,
-      "id": "sky-lending",
-      "name": "Sky Lending",
-      "value": 4266402010.5471697,
-      "unit": "USD",
-      "meta": {
-        "category": "CDP",
-        "chain": "Ethereum",
-        "symbol": "SKY"
-      }
-    },
-    {
-      "rank": 24,
       "id": "mexc",
       "name": "MEXC",
-      "value": 4240524351.19456,
+      "value": 4152046114.1970935,
       "unit": "USD",
       "meta": {
         "category": "CEX",
@@ -300,10 +288,22 @@
       }
     },
     {
+      "rank": 24,
+      "id": "sky-lending",
+      "name": "Sky Lending",
+      "value": 4083415908.6376805,
+      "unit": "USD",
+      "meta": {
+        "category": "CDP",
+        "chain": "Ethereum",
+        "symbol": "SKY"
+      }
+    },
+    {
       "rank": 25,
       "id": "ether.fi-stake",
       "name": "ether.fi Stake",
-      "value": 4214872997.3610644,
+      "value": 4048464926.9273224,
       "unit": "USD",
       "meta": {
         "category": "Liquid Staking",
@@ -315,7 +315,7 @@
       "rank": 26,
       "id": "htx",
       "name": "HTX",
-      "value": 3948732747.229037,
+      "value": 3910107780.2745724,
       "unit": "USD",
       "meta": {
         "category": "CEX",
@@ -327,7 +327,7 @@
       "rank": 27,
       "id": "deribit",
       "name": "Deribit",
-      "value": 3583450333.6498795,
+      "value": 3522470657.490744,
       "unit": "USD",
       "meta": {
         "category": "CEX",
@@ -339,7 +339,7 @@
       "rank": 28,
       "id": "justlend-v1",
       "name": "JustLend V1",
-      "value": 3418801642.870477,
+      "value": 3363718382.412794,
       "unit": "USD",
       "meta": {
         "category": "Lending",
@@ -351,7 +351,7 @@
       "rank": 29,
       "id": "usdt0",
       "name": "USDT0",
-      "value": 3365272580.730358,
+      "value": 3301822444.482829,
       "unit": "USD",
       "meta": {
         "category": "Bridge",
@@ -363,7 +363,7 @@
       "rank": 30,
       "id": "arbitrum-bridge",
       "name": "Arbitrum Bridge",
-      "value": 3273048530.4303627,
+      "value": 3187146286.0262403,
       "unit": "USD",
       "meta": {
         "category": "Canonical Bridge",
@@ -375,7 +375,7 @@
       "rank": 31,
       "id": "justlend-strx",
       "name": "JustLend sTRX",
-      "value": 3164035279.38345,
+      "value": 3142457550.300383,
       "unit": "USD",
       "meta": {
         "category": "Liquid Staking",
@@ -387,7 +387,7 @@
       "rank": 32,
       "id": "babylon-protocol",
       "name": "Babylon Protocol",
-      "value": 3087422647.439175,
+      "value": 3065699574.3023114,
       "unit": "USD",
       "meta": {
         "category": "Restaking",
@@ -397,21 +397,9 @@
     },
     {
       "rank": 33,
-      "id": "base-bridge",
-      "name": "Base Bridge",
-      "value": 2903864082.041897,
-      "unit": "USD",
-      "meta": {
-        "category": "Canonical Bridge",
-        "chain": "Ethereum",
-        "symbol": "-"
-      }
-    },
-    {
-      "rank": 34,
       "id": "steakhouse-financial",
       "name": "Steakhouse Financial",
-      "value": 2893344742.820868,
+      "value": 2884023236.763555,
       "unit": "USD",
       "meta": {
         "category": "Risk Curators",
@@ -420,10 +408,22 @@
       }
     },
     {
+      "rank": 34,
+      "id": "base-bridge",
+      "name": "Base Bridge",
+      "value": 2830885553.6477537,
+      "unit": "USD",
+      "meta": {
+        "category": "Canonical Bridge",
+        "chain": "Ethereum",
+        "symbol": "-"
+      }
+    },
+    {
       "rank": 35,
       "id": "spark-liquidity-layer",
       "name": "Spark Liquidity Layer",
-      "value": 2747032692.5012164,
+      "value": 2743090200.809067,
       "unit": "USD",
       "meta": {
         "category": "Onchain Capital Allocator",
@@ -435,7 +435,7 @@
       "rank": 36,
       "id": "sentora-curator",
       "name": "Sentora Curator",
-      "value": 2686711412.8942266,
+      "value": 2680323275.4609647,
       "unit": "USD",
       "meta": {
         "category": "Risk Curators",
@@ -447,7 +447,7 @@
       "rank": 37,
       "id": "polygon-bridge",
       "name": "Polygon Bridge",
-      "value": 2662658637.3207426,
+      "value": 2636036893.7654915,
       "unit": "USD",
       "meta": {
         "category": "Canonical Bridge",
@@ -459,7 +459,7 @@
       "rank": 38,
       "id": "kucoin",
       "name": "KuCoin",
-      "value": 2564379691.516633,
+      "value": 2513630660.888559,
       "unit": "USD",
       "meta": {
         "category": "CEX",
@@ -471,7 +471,7 @@
       "rank": 39,
       "id": "justcryptos",
       "name": "JustCryptos",
-      "value": 2413920075.43,
+      "value": 2362882160.59,
       "unit": "USD",
       "meta": {
         "category": "Bridge",
@@ -483,7 +483,7 @@
       "rank": 40,
       "id": "maple",
       "name": "Maple",
-      "value": 2352470957.617882,
+      "value": 2310754336.49106,
       "unit": "USD",
       "meta": {
         "category": "Lending",
@@ -495,7 +495,7 @@
       "rank": 41,
       "id": "crypto-com",
       "name": "Crypto-com",
-      "value": 2233721133.0794234,
+      "value": 2108017974.0015955,
       "unit": "USD",
       "meta": {
         "category": "CEX",
@@ -507,7 +507,7 @@
       "rank": 42,
       "id": "ccip",
       "name": "CCIP",
-      "value": 1848655921.5276139,
+      "value": 1831241747.415653,
       "unit": "USD",
       "meta": {
         "category": "Bridge",
@@ -519,7 +519,7 @@
       "rank": 43,
       "id": "veda",
       "name": "Veda",
-      "value": 1698605133.97997,
+      "value": 1674026330.233554,
       "unit": "USD",
       "meta": {
         "category": "Onchain Capital Allocator",
@@ -531,7 +531,7 @@
       "rank": 44,
       "id": "falcon-finance",
       "name": "Falcon Finance",
-      "value": 1659496942.564763,
+      "value": 1660542903.578463,
       "unit": "USD",
       "meta": {
         "category": "Basis Trading",
@@ -543,7 +543,7 @@
       "rank": 45,
       "id": "gauntlet",
       "name": "Gauntlet",
-      "value": 1593711286.309855,
+      "value": 1590359428.1133459,
       "unit": "USD",
       "meta": {
         "category": "Risk Curators",
@@ -555,7 +555,7 @@
       "rank": 46,
       "id": "sanctum-validator-lsts",
       "name": "Sanctum Validator LSTs",
-      "value": 1582720590.29217,
+      "value": 1547642558.128106,
       "unit": "USD",
       "meta": {
         "category": "Liquid Staking",
@@ -567,7 +567,7 @@
       "rank": 47,
       "id": "hyperliquid-earn",
       "name": "Hyperliquid Earn",
-      "value": 1520377263.2170327,
+      "value": 1483754340.9071379,
       "unit": "USD",
       "meta": {
         "category": "Lending",
@@ -579,7 +579,7 @@
       "rank": 48,
       "id": "uniswap-v3",
       "name": "Uniswap V3",
-      "value": 1511331212.7768407,
+      "value": 1481445529.5296934,
       "unit": "USD",
       "meta": {
         "category": "Dexs",
@@ -589,26 +589,26 @@
     },
     {
       "rank": 49,
-      "id": "hashkey-exchange",
-      "name": "HashKey Exchange",
-      "value": 1460452773.8278205,
-      "unit": "USD",
-      "meta": {
-        "category": "CEX",
-        "chain": "Multi-Chain",
-        "symbol": "-"
-      }
-    },
-    {
-      "rank": 50,
       "id": "pancakeswap-amm",
       "name": "PancakeSwap AMM",
-      "value": 1453661512.486223,
+      "value": 1432648219.332099,
       "unit": "USD",
       "meta": {
         "category": "Dexs",
         "chain": "Multi-Chain",
         "symbol": "CAKE"
+      }
+    },
+    {
+      "rank": 50,
+      "id": "hashkey-exchange",
+      "name": "HashKey Exchange",
+      "value": 1426078317.1269815,
+      "unit": "USD",
+      "meta": {
+        "category": "CEX",
+        "chain": "Multi-Chain",
+        "symbol": "-"
       }
     }
   ],
@@ -616,7 +616,7 @@
     {
       "name": "DeFiLlama",
       "url": "https://api.llama.fi/protocols",
-      "fetched_at": "2026-11-08T00:40:24Z",
+      "fetched_at": "2026-11-09T06:39:23Z",
       "http_status": 200
     }
   ]
