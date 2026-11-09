@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-11-09T06:39:21Z",
-  "as_of": "2026-11-09T06:39:21Z",
+  "generated_at": "2026-11-09T17:33:22Z",
+  "as_of": "2026-11-09T17:33:22Z",
   "period": {
     "label": "live_blitz"
   },
@@ -312,19 +312,6 @@
     },
     {
       "rank": 24,
-      "id": "TRadjabov",
-      "name": "Teimour Radjabov",
-      "value": 3249.0,
-      "unit": "rating",
-      "meta": {
-        "username": "TRadjabov",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/AZ",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 25,
       "id": "Azerichess",
       "name": "Shakhriyar Mamedyarov",
       "value": 3243.0,
@@ -337,7 +324,7 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 25,
       "id": "jefferyx",
       "name": "Jeffery Xiong",
       "value": 3243.0,
@@ -350,7 +337,7 @@
       }
     },
     {
-      "rank": 27,
+      "rank": 26,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 3242.0,
@@ -359,6 +346,19 @@
         "username": "Grischuk",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 27,
+      "id": "TRadjabov",
+      "name": "Teimour Radjabov",
+      "value": 3242.0,
+      "unit": "rating",
+      "meta": {
+        "username": "TRadjabov",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/AZ",
         "category": "live_blitz"
       }
     },
@@ -377,6 +377,19 @@
     },
     {
       "rank": 29,
+      "id": "mishanick",
+      "name": "Aleksei Sarana",
+      "value": 3241.0,
+      "unit": "rating",
+      "meta": {
+        "username": "mishanick",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RS",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 30,
       "id": "vi_pranav",
       "name": "Pranav V",
       "value": 3236.0,
@@ -389,7 +402,7 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 31,
       "id": "PursuitOfHappyness2",
       "name": "Abhimanyu Mishra",
       "value": 3235.0,
@@ -402,7 +415,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": "artooon",
       "name": "Pranesh M",
       "value": 3231.0,
@@ -415,7 +428,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3230.0,
@@ -428,7 +441,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 34,
       "id": "Msb2",
       "name": "Matthias Bluebaum",
       "value": 3227.0,
@@ -441,7 +454,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 35,
       "id": "BillieKimbah",
       "name": "Maxim Matlakov",
       "value": 3224.0,
@@ -450,19 +463,6 @@
         "username": "BillieKimbah",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 35,
-      "id": "artin10862",
-      "name": "Artin Ashraf",
-      "value": 3222.0,
-      "unit": "rating",
-      "meta": {
-        "username": "artin10862",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/TR",
         "category": "live_blitz"
       }
     },
@@ -520,6 +520,19 @@
     },
     {
       "rank": 40,
+      "id": "artin10862",
+      "name": "Artin Ashraf",
+      "value": 3217.0,
+      "unit": "rating",
+      "meta": {
+        "username": "artin10862",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/TR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 41,
       "id": "lachesisQ",
       "name": "Ian Nepomniachtchi",
       "value": 3217.0,
@@ -532,7 +545,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "Parakon1",
       "name": "Kazybek Nogerbek",
       "value": 3212.0,
@@ -541,19 +554,6 @@
         "username": "Parakon1",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/KZ",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 42,
-      "id": "mishanick",
-      "name": "Aleksei Sarana",
-      "value": 3211.0,
-      "unit": "rating",
-      "meta": {
-        "username": "mishanick",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RS",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-09T06:39:21Z",
+      "fetched_at": "2026-11-09T17:33:22Z",
       "http_status": 200
     }
   ]
