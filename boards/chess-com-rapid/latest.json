@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-10T17:53:09Z",
-  "as_of": "2026-11-10T17:53:09Z",
+  "generated_at": "2026-11-10T23:25:28Z",
+  "as_of": "2026-11-10T23:25:28Z",
   "period": {
     "label": "live_rapid"
   },
@@ -429,19 +429,6 @@
     },
     {
       "rank": 33,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2703.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 34,
       "id": "vvds514",
       "name": "vvds514",
       "value": 2703.0,
@@ -454,7 +441,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 34,
       "id": "1800_strength",
       "name": "Dachey Lin",
       "value": 2702.0,
@@ -467,7 +454,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 35,
       "id": "KNVB",
       "name": "Aman Hambleton",
       "value": 2701.0,
@@ -480,7 +467,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 36,
       "id": "koziororo",
       "name": "Michal Koziorowicz",
       "value": 2700.0,
@@ -493,7 +480,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 37,
       "id": "LSChess",
       "name": "Logan Clark Shafer",
       "value": 2700.0,
@@ -506,7 +493,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 38,
       "id": "AnthonyWirig",
       "name": "Anthony Wirig",
       "value": 2700.0,
@@ -519,7 +506,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 39,
       "id": "wqws",
       "name": "Kaivalya Sandip Nagare",
       "value": 2700.0,
@@ -532,7 +519,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 40,
       "id": "Nitzan_Steinberg",
       "name": "Nitzan Steinberg",
       "value": 2697.0,
@@ -545,7 +532,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 41,
       "id": "Aoitsukibluemoon",
       "name": "Wang Hao",
       "value": 2694.0,
@@ -554,6 +541,19 @@
         "username": "Aoitsukibluemoon",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/JP",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 42,
+      "id": "Swiss_Fighter",
+      "name": "Gabriel Gähwiler",
+      "value": 2693.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Swiss_Fighter",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/CH",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-10T17:53:09Z",
+      "fetched_at": "2026-11-10T23:25:28Z",
       "http_status": 200
     }
   ]
