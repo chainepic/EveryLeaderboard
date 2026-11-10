@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-10T01:35:11Z",
-  "as_of": "2026-11-10T01:35:11Z",
+  "generated_at": "2026-11-10T09:55:00Z",
+  "as_of": "2026-11-10T09:55:00Z",
   "period": {
     "label": "live_rapid"
   },
@@ -403,6 +403,19 @@
     },
     {
       "rank": 31,
+      "id": "linlin1812",
+      "name": "Patrick Liu",
+      "value": 2713.0,
+      "unit": "rating",
+      "meta": {
+        "username": "linlin1812",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 32,
       "id": "Super_Pav",
       "name": "Tikhon Popov",
       "value": 2707.0,
@@ -411,19 +424,6 @@
         "username": "Super_Pav",
         "title": "FM",
         "country_url": "https://api.chess.com/pub/country/XX",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 32,
-      "id": "linlin1812",
-      "name": "Patrick Liu",
-      "value": 2707.0,
-      "unit": "rating",
-      "meta": {
-        "username": "linlin1812",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
     },
@@ -637,6 +637,19 @@
     },
     {
       "rank": 49,
+      "id": "JohnDanielBryantIII",
+      "name": "John Daniel Bryant",
+      "value": 2681.0,
+      "unit": "rating",
+      "meta": {
+        "username": "JohnDanielBryantIII",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 50,
       "id": "TenisMaster",
       "name": "Yuniesky Quesada",
       "value": 2680.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
-    },
-    {
-      "rank": 50,
-      "id": "grandmastergauri",
-      "name": "Gauri Shankar",
-      "value": 2680.0,
-      "unit": "rating",
-      "meta": {
-        "username": "grandmastergauri",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-10T01:35:11Z",
+      "fetched_at": "2026-11-10T09:55:00Z",
       "http_status": 200
     }
   ]
