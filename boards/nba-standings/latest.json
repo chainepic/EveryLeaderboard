@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "nba-standings",
-  "generated_at": "2026-11-11T06:29:21Z",
-  "as_of": "2026-11-11T06:29:21Z",
+  "generated_at": "2026-11-11T22:01:58Z",
+  "as_of": "2026-11-11T22:01:58Z",
   "period": {
     "label": "2026-27"
   },
@@ -58,21 +58,6 @@
     },
     {
       "rank": 4,
-      "id": "25",
-      "name": "Oklahoma City Thunder",
-      "value": 0.8,
-      "unit": "ratio",
-      "meta": {
-        "conference": "Western Conference",
-        "conference_rank": 3,
-        "wins": 8.0,
-        "losses": 2.0,
-        "games_behind": 1.0,
-        "playoff_seed": 3.0
-      }
-    },
-    {
-      "rank": 5,
       "id": "20",
       "name": "Philadelphia 76ers",
       "value": 0.75,
@@ -87,9 +72,24 @@
       }
     },
     {
+      "rank": 5,
+      "id": "16",
+      "name": "Minnesota Timberwolves",
+      "value": 0.7273,
+      "unit": "ratio",
+      "meta": {
+        "conference": "Western Conference",
+        "conference_rank": 3,
+        "wins": 8.0,
+        "losses": 3.0,
+        "games_behind": 1.5,
+        "playoff_seed": 3.0
+      }
+    },
+    {
       "rank": 6,
-      "id": "9",
-      "name": "Golden State Warriors",
+      "id": "10",
+      "name": "Houston Rockets",
       "value": 0.7273,
       "unit": "ratio",
       "meta": {
@@ -103,8 +103,8 @@
     },
     {
       "rank": 7,
-      "id": "16",
-      "name": "Minnesota Timberwolves",
+      "id": "9",
+      "name": "Golden State Warriors",
       "value": 0.7273,
       "unit": "ratio",
       "meta": {
@@ -118,8 +118,8 @@
     },
     {
       "rank": 8,
-      "id": "10",
-      "name": "Houston Rockets",
+      "id": "25",
+      "name": "Oklahoma City Thunder",
       "value": 0.7273,
       "unit": "ratio",
       "meta": {
@@ -165,14 +165,14 @@
       "rank": 11,
       "id": "22",
       "name": "Portland Trail Blazers",
-      "value": 0.6667,
+      "value": 0.7,
       "unit": "ratio",
       "meta": {
         "conference": "Western Conference",
         "conference_rank": 8,
-        "wins": 6.0,
+        "wins": 7.0,
         "losses": 3.0,
-        "games_behind": 2.5,
+        "games_behind": 2.0,
         "playoff_seed": 8.0
       }
     },
@@ -466,7 +466,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/basketball/nba/standings",
-      "fetched_at": "2026-11-11T06:29:21Z",
+      "fetched_at": "2026-11-11T22:01:58Z",
       "http_status": 200
     }
   ]
