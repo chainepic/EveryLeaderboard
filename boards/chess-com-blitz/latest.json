@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-11-10T23:25:28Z",
-  "as_of": "2026-11-10T23:25:28Z",
+  "generated_at": "2026-11-11T06:29:17Z",
+  "as_of": "2026-11-11T06:29:17Z",
   "period": {
     "label": "live_blitz"
   },
@@ -15,7 +15,7 @@
       "rank": 1,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
-      "value": 3464.0,
+      "value": 3470.0,
       "unit": "rating",
       "meta": {
         "username": "Hikaru",
@@ -312,9 +312,22 @@
     },
     {
       "rank": 24,
+      "id": "wonderfultime",
+      "name": "Tuan Minh Le",
+      "value": 3261.0,
+      "unit": "rating",
+      "meta": {
+        "username": "wonderfultime",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/VN",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 25,
       "id": "Konavets",
       "name": "Sam Sevian",
-      "value": 3248.0,
+      "value": 3253.0,
       "unit": "rating",
       "meta": {
         "username": "Konavets",
@@ -324,7 +337,7 @@
       }
     },
     {
-      "rank": 25,
+      "rank": 26,
       "id": "LyonBeast",
       "name": "Maxime Vachier-Lagrave",
       "value": 3247.0,
@@ -337,7 +350,7 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 27,
       "id": "Azerichess",
       "name": "Shakhriyar Mamedyarov",
       "value": 3243.0,
@@ -350,7 +363,7 @@
       }
     },
     {
-      "rank": 27,
+      "rank": 28,
       "id": "Duhless",
       "name": "Daniil Dubov",
       "value": 3242.0,
@@ -363,7 +376,7 @@
       }
     },
     {
-      "rank": 28,
+      "rank": 29,
       "id": "vi_pranav",
       "name": "Pranav V",
       "value": 3236.0,
@@ -372,19 +385,6 @@
         "username": "vi_pranav",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IN",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 29,
-      "id": "wonderfultime",
-      "name": "Tuan Minh Le",
-      "value": 3236.0,
-      "unit": "rating",
-      "meta": {
-        "username": "wonderfultime",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-10T23:25:28Z",
+      "fetched_at": "2026-11-11T06:29:17Z",
       "http_status": 200
     }
   ]

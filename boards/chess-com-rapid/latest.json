@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-10T23:25:28Z",
-  "as_of": "2026-11-10T23:25:28Z",
+  "generated_at": "2026-11-11T06:29:17Z",
+  "as_of": "2026-11-11T06:29:17Z",
   "period": {
     "label": "live_rapid"
   },
@@ -364,6 +364,19 @@
     },
     {
       "rank": 28,
+      "id": "linlin1812",
+      "name": "Patrick Liu",
+      "value": 2719.0,
+      "unit": "rating",
+      "meta": {
+        "username": "linlin1812",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 29,
       "id": "mishanick",
       "name": "Aleksei Sarana",
       "value": 2718.0,
@@ -376,7 +389,7 @@
       }
     },
     {
-      "rank": 29,
+      "rank": 30,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 2718.0,
@@ -389,7 +402,7 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 31,
       "id": "Liindseeyy",
       "name": "Liindseeyy",
       "value": 2716.0,
@@ -398,19 +411,6 @@
         "username": "Liindseeyy",
         "title": null,
         "country_url": "https://api.chess.com/pub/country/FR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 31,
-      "id": "linlin1812",
-      "name": "Patrick Liu",
-      "value": 2713.0,
-      "unit": "rating",
-      "meta": {
-        "username": "linlin1812",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-10T23:25:28Z",
+      "fetched_at": "2026-11-11T06:29:17Z",
       "http_status": 200
     }
   ]
