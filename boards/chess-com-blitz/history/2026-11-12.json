@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-11-12T03:03:19Z",
-  "as_of": "2026-11-12T03:03:19Z",
+  "generated_at": "2026-11-12T11:19:17Z",
+  "as_of": "2026-11-12T11:19:17Z",
   "period": {
     "label": "live_blitz"
   },
@@ -561,7 +561,7 @@
       "rank": 43,
       "id": "Dolphin_2010",
       "name": "Aleksandr Usov",
-      "value": 3207.0,
+      "value": 3209.0,
       "unit": "rating",
       "meta": {
         "username": "Dolphin_2010",
@@ -650,14 +650,14 @@
     },
     {
       "rank": 50,
-      "id": "GMBrewChess",
-      "name": "Brewington Hardaway",
+      "id": "LumenGM",
+      "name": "Nikoloz Petriashvili",
       "value": 3200.0,
       "unit": "rating",
       "meta": {
-        "username": "GMBrewChess",
+        "username": "LumenGM",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
+        "country_url": "https://api.chess.com/pub/country/GE",
         "category": "live_blitz"
       }
     }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-12T03:03:19Z",
+      "fetched_at": "2026-11-12T11:19:17Z",
       "http_status": 200
     }
   ]
