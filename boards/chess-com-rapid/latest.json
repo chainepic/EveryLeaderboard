@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-11T22:01:55Z",
-  "as_of": "2026-11-11T22:01:55Z",
+  "generated_at": "2026-11-12T03:03:19Z",
+  "as_of": "2026-11-12T03:03:19Z",
   "period": {
     "label": "live_rapid"
   },
@@ -247,6 +247,19 @@
     },
     {
       "rank": 19,
+      "id": "Chasing_Checkmate",
+      "name": "Corey Acor",
+      "value": 2759.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Chasing_Checkmate",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 20,
       "id": "astralpulse",
       "name": "Alex Goldin",
       "value": 2759.0,
@@ -254,19 +267,6 @@
       "meta": {
         "username": "astralpulse",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 20,
-      "id": "Chasing_Checkmate",
-      "name": "Corey Acor",
-      "value": 2757.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Chasing_Checkmate",
-        "title": "FM",
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
@@ -559,19 +559,6 @@
     },
     {
       "rank": 43,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2683.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 44,
       "id": "ClydeHillKid",
       "name": "Joseph Levine",
       "value": 2683.0,
@@ -584,7 +571,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 44,
       "id": "WIDBIFS",
       "name": "Erik Obgolts",
       "value": 2681.0,
@@ -597,7 +584,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": "JohnDanielBryantIII",
       "name": "John Daniel Bryant",
       "value": 2681.0,
@@ -610,7 +597,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": "TenisMaster",
       "name": "Yuniesky Quesada",
       "value": 2680.0,
@@ -623,7 +610,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": "grandmastergauri",
       "name": "Gauri Shankar",
       "value": 2680.0,
@@ -636,7 +623,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": "GMBenjaminBok",
       "name": "Benjamin Bok",
       "value": 2679.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "NikoTheodorou",
       "name": "Nikolas Theodorou",
       "value": 2679.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/GR",
         "category": "live_rapid"
       }
+    },
+    {
+      "rank": 50,
+      "id": "SpartanKing85",
+      "name": "SpartanKing85",
+      "value": 2678.0,
+      "unit": "rating",
+      "meta": {
+        "username": "SpartanKing85",
+        "title": null,
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-11T22:01:55Z",
+      "fetched_at": "2026-11-12T03:03:19Z",
       "http_status": 200
     }
   ]
