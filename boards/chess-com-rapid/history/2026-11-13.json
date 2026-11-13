@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-13T08:02:00Z",
-  "as_of": "2026-11-13T08:02:00Z",
+  "generated_at": "2026-11-13T16:28:26Z",
+  "as_of": "2026-11-13T16:28:26Z",
   "period": {
     "label": "live_rapid"
   },
@@ -468,6 +468,19 @@
     },
     {
       "rank": 36,
+      "id": "WIDBIFS",
+      "name": "Erik Obgolts",
+      "value": 2687.0,
+      "unit": "rating",
+      "meta": {
+        "username": "WIDBIFS",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/XX",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 37,
       "id": "RaunakSadhwani2005",
       "name": "Raunak Sadhwani",
       "value": 2686.0,
@@ -480,7 +493,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 38,
       "id": "chessdude",
       "name": "Daniel Sadzikowski",
       "value": 2686.0,
@@ -493,7 +506,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 39,
       "id": "Nitzan_Steinberg",
       "name": "Nitzan Steinberg",
       "value": 2685.0,
@@ -506,7 +519,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 40,
       "id": "ClydeHillKid",
       "name": "Joseph Levine",
       "value": 2683.0,
@@ -515,19 +528,6 @@
         "username": "ClydeHillKid",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 40,
-      "id": "WIDBIFS",
-      "name": "Erik Obgolts",
-      "value": 2681.0,
-      "unit": "rating",
-      "meta": {
-        "username": "WIDBIFS",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/XX",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-13T08:02:00Z",
+      "fetched_at": "2026-11-13T16:28:26Z",
       "http_status": 200
     }
   ]
