@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-11-13T01:07:10Z",
-  "as_of": "2026-11-13T01:07:10Z",
+  "generated_at": "2026-11-13T08:02:00Z",
+  "as_of": "2026-11-13T08:02:00Z",
   "period": {
     "label": "live_blitz"
   },
@@ -15,7 +15,7 @@
       "rank": 1,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
-      "value": 3459.0,
+      "value": 3465.0,
       "unit": "rating",
       "meta": {
         "username": "Hikaru",
@@ -93,7 +93,7 @@
       "rank": 7,
       "id": "Parhamov",
       "name": "Parham Maghsoodloo",
-      "value": 3319.0,
+      "value": 3315.0,
       "unit": "rating",
       "meta": {
         "username": "Parhamov",
@@ -106,7 +106,7 @@
       "rank": 8,
       "id": "jefferyx",
       "name": "Jeffery Xiong",
-      "value": 3298.0,
+      "value": 3314.0,
       "unit": "rating",
       "meta": {
         "username": "jefferyx",
@@ -377,19 +377,6 @@
     },
     {
       "rank": 29,
-      "id": "wonderfultime",
-      "name": "Tuan Minh Le",
-      "value": 3242.0,
-      "unit": "rating",
-      "meta": {
-        "username": "wonderfultime",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/VN",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 30,
       "id": "Duhless",
       "name": "Daniil Dubov",
       "value": 3242.0,
@@ -402,7 +389,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 30,
       "id": "vi_pranav",
       "name": "Pranav V",
       "value": 3236.0,
@@ -415,7 +402,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 31,
       "id": "PursuitOfHappyness2",
       "name": "Abhimanyu Mishra",
       "value": 3235.0,
@@ -428,7 +415,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 32,
       "id": "TRadjabov",
       "name": "Teimour Radjabov",
       "value": 3235.0,
@@ -437,6 +424,19 @@
         "username": "TRadjabov",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/AZ",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 33,
+      "id": "wonderfultime",
+      "name": "Tuan Minh Le",
+      "value": 3231.0,
+      "unit": "rating",
+      "meta": {
+        "username": "wonderfultime",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/VN",
         "category": "live_blitz"
       }
     },
@@ -535,7 +535,7 @@
       "rank": 41,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
-      "value": 3215.0,
+      "value": 3214.0,
       "unit": "rating",
       "meta": {
         "username": "ChristopherYoo",
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-13T01:07:10Z",
+      "fetched_at": "2026-11-13T08:02:00Z",
       "http_status": 200
     }
   ]
