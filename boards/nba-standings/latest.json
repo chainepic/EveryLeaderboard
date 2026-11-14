@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "nba-standings",
-  "generated_at": "2026-11-13T22:40:26Z",
-  "as_of": "2026-11-13T22:40:26Z",
+  "generated_at": "2026-11-14T03:19:58Z",
+  "as_of": "2026-11-14T03:19:58Z",
   "period": {
     "label": "2026-27"
   },
@@ -223,23 +223,23 @@
     },
     {
       "rank": 15,
-      "id": "18",
-      "name": "New York Knicks",
-      "value": 0.5455,
+      "id": "5",
+      "name": "Cleveland Cavaliers",
+      "value": 0.5,
       "unit": "ratio",
       "meta": {
         "conference": "Eastern Conference",
         "conference_rank": 5,
         "wins": 6.0,
-        "losses": 5.0,
-        "games_behind": 3.5,
+        "losses": 6.0,
+        "games_behind": 4.0,
         "playoff_seed": 5.0
       }
     },
     {
       "rank": 16,
-      "id": "5",
-      "name": "Cleveland Cavaliers",
+      "id": "18",
+      "name": "New York Knicks",
       "value": 0.5,
       "unit": "ratio",
       "meta": {
@@ -300,36 +300,36 @@
       "rank": 20,
       "id": "19",
       "name": "Orlando Magic",
-      "value": 0.3636,
+      "value": 0.4167,
       "unit": "ratio",
       "meta": {
         "conference": "Eastern Conference",
         "conference_rank": 9,
-        "wins": 4.0,
+        "wins": 5.0,
         "losses": 7.0,
-        "games_behind": 5.5,
+        "games_behind": 5.0,
         "playoff_seed": 9.0
       }
     },
     {
       "rank": 21,
-      "id": "30",
-      "name": "Charlotte Hornets",
-      "value": 0.3333,
+      "id": "11",
+      "name": "Indiana Pacers",
+      "value": 0.3846,
       "unit": "ratio",
       "meta": {
         "conference": "Eastern Conference",
         "conference_rank": 10,
-        "wins": 4.0,
+        "wins": 5.0,
         "losses": 8.0,
-        "games_behind": 6.0,
+        "games_behind": 5.5,
         "playoff_seed": 10.0
       }
     },
     {
       "rank": 22,
-      "id": "11",
-      "name": "Indiana Pacers",
+      "id": "30",
+      "name": "Charlotte Hornets",
       "value": 0.3333,
       "unit": "ratio",
       "meta": {
@@ -433,21 +433,6 @@
     },
     {
       "rank": 29,
-      "id": "15",
-      "name": "Milwaukee Bucks",
-      "value": 0.0833,
-      "unit": "ratio",
-      "meta": {
-        "conference": "Eastern Conference",
-        "conference_rank": 15,
-        "wins": 1.0,
-        "losses": 11.0,
-        "games_behind": 9.0,
-        "playoff_seed": 15.0
-      }
-    },
-    {
-      "rank": 30,
       "id": "26",
       "name": "Utah Jazz",
       "value": 0.0833,
@@ -460,13 +445,28 @@
         "games_behind": 9.5,
         "playoff_seed": 15.0
       }
+    },
+    {
+      "rank": 30,
+      "id": "15",
+      "name": "Milwaukee Bucks",
+      "value": 0.0769,
+      "unit": "ratio",
+      "meta": {
+        "conference": "Eastern Conference",
+        "conference_rank": 15,
+        "wins": 1.0,
+        "losses": 12.0,
+        "games_behind": 9.5,
+        "playoff_seed": 15.0
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/basketball/nba/standings",
-      "fetched_at": "2026-11-13T22:40:26Z",
+      "fetched_at": "2026-11-14T03:19:58Z",
       "http_status": 200
     }
   ]
