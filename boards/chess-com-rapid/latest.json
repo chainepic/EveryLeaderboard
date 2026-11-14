@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-14T03:19:56Z",
-  "as_of": "2026-11-14T03:19:56Z",
+  "generated_at": "2026-11-14T11:31:07Z",
+  "as_of": "2026-11-14T11:31:07Z",
   "period": {
     "label": "live_rapid"
   },
@@ -208,6 +208,19 @@
     },
     {
       "rank": 16,
+      "id": "linlin1812",
+      "name": "Patrick Liu",
+      "value": 2743.0,
+      "unit": "rating",
+      "meta": {
+        "username": "linlin1812",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 17,
       "id": "alexboy14",
       "name": "Oleksii Nakonechnyi",
       "value": 2740.0,
@@ -216,19 +229,6 @@
         "username": "alexboy14",
         "title": "FM",
         "country_url": "https://api.chess.com/pub/country/PL",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 17,
-      "id": "linlin1812",
-      "name": "Patrick Liu",
-      "value": 2739.0,
-      "unit": "rating",
-      "meta": {
-        "username": "linlin1812",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-14T03:19:56Z",
+      "fetched_at": "2026-11-14T11:31:07Z",
       "http_status": 200
     }
   ]
