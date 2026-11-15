@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-15T17:44:58Z",
-  "as_of": "2026-11-15T17:44:58Z",
+  "generated_at": "2026-11-15T22:51:45Z",
+  "as_of": "2026-11-15T22:51:45Z",
   "period": {
     "label": "live_rapid"
   },
@@ -442,6 +442,19 @@
     },
     {
       "rank": 34,
+      "id": "R1outer",
+      "name": "R1outer",
+      "value": 2690.0,
+      "unit": "rating",
+      "meta": {
+        "username": "R1outer",
+        "title": null,
+        "country_url": "https://api.chess.com/pub/country/ES",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 35,
       "id": "JohnDanielBryantIII",
       "name": "John Daniel Bryant",
       "value": 2689.0,
@@ -454,7 +467,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 36,
       "id": "RaunakSadhwani2005",
       "name": "Raunak Sadhwani",
       "value": 2686.0,
@@ -467,7 +480,20 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 37,
+      "id": "Swiss_Fighter",
+      "name": "Gabriel Gähwiler",
+      "value": 2686.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Swiss_Fighter",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/CH",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 38,
       "id": "chessdude",
       "name": "Daniel Sadzikowski",
       "value": 2686.0,
@@ -480,20 +506,7 @@
       }
     },
     {
-      "rank": 37,
-      "id": "R1outer",
-      "name": "R1outer",
-      "value": 2685.0,
-      "unit": "rating",
-      "meta": {
-        "username": "R1outer",
-        "title": null,
-        "country_url": "https://api.chess.com/pub/country/ES",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 38,
+      "rank": 39,
       "id": "ClydeHillKid",
       "name": "Joseph Levine",
       "value": 2683.0,
@@ -502,19 +515,6 @@
         "username": "ClydeHillKid",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 39,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2680.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-15T17:44:58Z",
+      "fetched_at": "2026-11-15T22:51:45Z",
       "http_status": 200
     }
   ]
