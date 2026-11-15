@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-11-14T22:28:19Z",
-  "as_of": "2026-11-14T22:28:19Z",
+  "generated_at": "2026-11-15T02:42:43Z",
+  "as_of": "2026-11-15T02:42:43Z",
   "period": {
     "label": "live_blitz"
   },
@@ -286,19 +286,6 @@
     },
     {
       "rank": 22,
-      "id": "Konavets",
-      "name": "Sam Sevian",
-      "value": 3253.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Konavets",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 23,
       "id": "gurelediz",
       "name": "Ediz Gürel",
       "value": 3250.0,
@@ -311,7 +298,7 @@
       }
     },
     {
-      "rank": 24,
+      "rank": 23,
       "id": "amintabatabaei",
       "name": "Amin Tabatabaei",
       "value": 3250.0,
@@ -320,6 +307,19 @@
         "username": "amintabatabaei",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 24,
+      "id": "Konavets",
+      "name": "Sam Sevian",
+      "value": 3249.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Konavets",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-14T22:28:19Z",
+      "fetched_at": "2026-11-15T02:42:43Z",
       "http_status": 200
     }
   ]

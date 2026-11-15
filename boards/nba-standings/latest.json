@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "nba-standings",
-  "generated_at": "2026-11-14T22:28:23Z",
-  "as_of": "2026-11-14T22:28:23Z",
+  "generated_at": "2026-11-15T02:42:45Z",
+  "as_of": "2026-11-15T02:42:45Z",
   "period": {
     "label": "2026-27"
   },
@@ -148,23 +148,23 @@
     },
     {
       "rank": 10,
-      "id": "9",
-      "name": "Golden State Warriors",
-      "value": 0.6154,
+      "id": "7",
+      "name": "Denver Nuggets",
+      "value": 0.6364,
       "unit": "ratio",
       "meta": {
         "conference": "Western Conference",
         "conference_rank": 7,
-        "wins": 8.0,
-        "losses": 5.0,
+        "wins": 7.0,
+        "losses": 4.0,
         "games_behind": 3.0,
         "playoff_seed": 7.0
       }
     },
     {
       "rank": 11,
-      "id": "25",
-      "name": "Oklahoma City Thunder",
+      "id": "9",
+      "name": "Golden State Warriors",
       "value": 0.6154,
       "unit": "ratio",
       "meta": {
@@ -178,16 +178,16 @@
     },
     {
       "rank": 12,
-      "id": "7",
-      "name": "Denver Nuggets",
-      "value": 0.6,
+      "id": "25",
+      "name": "Oklahoma City Thunder",
+      "value": 0.6154,
       "unit": "ratio",
       "meta": {
         "conference": "Western Conference",
         "conference_rank": 9,
-        "wins": 6.0,
-        "losses": 4.0,
-        "games_behind": 3.5,
+        "wins": 8.0,
+        "losses": 5.0,
+        "games_behind": 3.0,
         "playoff_seed": 9.0
       }
     },
@@ -360,14 +360,14 @@
       "rank": 24,
       "id": "3",
       "name": "New Orleans Pelicans",
-      "value": 0.3077,
+      "value": 0.2857,
       "unit": "ratio",
       "meta": {
         "conference": "Western Conference",
         "conference_rank": 12,
         "wins": 4.0,
-        "losses": 9.0,
-        "games_behind": 7.0,
+        "losses": 10.0,
+        "games_behind": 7.5,
         "playoff_seed": 12.0
       }
     },
@@ -466,7 +466,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/basketball/nba/standings",
-      "fetched_at": "2026-11-14T22:28:23Z",
+      "fetched_at": "2026-11-15T02:42:45Z",
       "http_status": 200
     }
   ]
