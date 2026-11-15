@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-15T02:42:43Z",
-  "as_of": "2026-11-15T02:42:43Z",
+  "generated_at": "2026-11-15T10:59:11Z",
+  "as_of": "2026-11-15T10:59:11Z",
   "period": {
     "label": "live_rapid"
   },
@@ -377,6 +377,19 @@
     },
     {
       "rank": 29,
+      "id": "Nitzan_Steinberg",
+      "name": "Nitzan Steinberg",
+      "value": 2694.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Nitzan_Steinberg",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IL",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 30,
       "id": "Aoitsukibluemoon",
       "name": "Wang Hao",
       "value": 2694.0,
@@ -389,7 +402,7 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 31,
       "id": "WIDBIFS",
       "name": "Erik Obgolts",
       "value": 2693.0,
@@ -402,7 +415,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": "LikeWater",
       "name": "Alexander Velikanov",
       "value": 2693.0,
@@ -415,7 +428,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": "kontosnik1",
       "name": "Νik kontos",
       "value": 2692.0,
@@ -428,7 +441,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 34,
       "id": "JohnDanielBryantIII",
       "name": "John Daniel Bryant",
       "value": 2689.0,
@@ -441,7 +454,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 35,
       "id": "RaunakSadhwani2005",
       "name": "Raunak Sadhwani",
       "value": 2686.0,
@@ -454,7 +467,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 36,
       "id": "chessdude",
       "name": "Daniel Sadzikowski",
       "value": 2686.0,
@@ -463,19 +476,6 @@
         "username": "chessdude",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/PL",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 36,
-      "id": "Nitzan_Steinberg",
-      "name": "Nitzan Steinberg",
-      "value": 2685.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Nitzan_Steinberg",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-15T02:42:43Z",
+      "fetched_at": "2026-11-15T10:59:11Z",
       "http_status": 200
     }
   ]
