@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "slug": "box-office-weekend-us",
-  "generated_at": "2026-11-16T22:08:26Z",
+  "generated_at": "2026-11-17T04:31:13Z",
   "as_of": "2026W46",
   "period": {
     "label": "2026W46"
@@ -15,7 +15,7 @@
       "rank": 1,
       "id": "Ebenezer",
       "name": "Ebenezer",
-      "value": 19000000.0,
+      "value": 19012017.0,
       "unit": "USD",
       "meta": {}
     },
@@ -23,7 +23,7 @@
       "rank": 2,
       "id": "The Cat in the Hat",
       "name": "The Cat in the Hat",
-      "value": 11400000.0,
+      "value": 11300531.0,
       "unit": "USD",
       "meta": {}
     },
@@ -31,12 +31,20 @@
       "rank": 3,
       "id": "Godzilla Minus Zero",
       "name": "Godzilla Minus Zero",
-      "value": 5870000.0,
+      "value": 8509392.0,
       "unit": "USD",
       "meta": {}
     },
     {
       "rank": 4,
+      "id": "Ramayana",
+      "name": "Ramayana",
+      "value": 5802929.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
+      "rank": 5,
       "id": "You Can See Everything",
       "name": "You Can See Everything",
       "value": 5470790.0,
@@ -44,42 +52,34 @@
       "meta": {}
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "How to Rob a Bank",
       "name": "How to Rob a Bank",
-      "value": 5175000.0,
-      "unit": "USD",
-      "meta": {}
-    },
-    {
-      "rank": 6,
-      "id": "Wild Horse Nine",
-      "name": "Wild Horse Nine",
-      "value": 4600000.0,
+      "value": 5186118.0,
       "unit": "USD",
       "meta": {}
     },
     {
       "rank": 7,
-      "id": "Wildwood",
-      "name": "Wildwood",
-      "value": 4372404.0,
+      "id": "Ghost Soldier",
+      "name": "Ghost Soldier",
+      "value": 5103780.0,
       "unit": "USD",
       "meta": {}
     },
     {
       "rank": 8,
-      "id": "Ramayana",
-      "name": "Ramayana",
-      "value": 3820000.0,
+      "id": "Wild Horse Nine",
+      "name": "Wild Horse Nine",
+      "value": 4525465.0,
       "unit": "USD",
       "meta": {}
     },
     {
       "rank": 9,
-      "id": "Ghost Soldier",
-      "name": "Ghost Soldier",
-      "value": 3740000.0,
+      "id": "Wildwood",
+      "name": "Wildwood",
+      "value": 4428692.0,
       "unit": "USD",
       "meta": {}
     },
@@ -87,7 +87,7 @@
       "rank": 10,
       "id": "Clayface",
       "name": "Clayface",
-      "value": 3725000.0,
+      "value": 3700314.0,
       "unit": "USD",
       "meta": {}
     },
@@ -95,7 +95,7 @@
       "rank": 11,
       "id": "Drummer Boy",
       "name": "Drummer Boy",
-      "value": 3509226.0,
+      "value": 3414299.0,
       "unit": "USD",
       "meta": {}
     },
@@ -103,20 +103,12 @@
       "rank": 12,
       "id": "Wicker",
       "name": "Wicker",
-      "value": 1505000.0,
+      "value": 1489656.0,
       "unit": "USD",
       "meta": {}
     },
     {
       "rank": 13,
-      "id": "Verity",
-      "name": "Verity",
-      "value": 1300000.0,
-      "unit": "USD",
-      "meta": {}
-    },
-    {
-      "rank": 14,
       "id": "Victorian Psycho",
       "name": "Victorian Psycho",
       "value": 1081419.0,
@@ -124,23 +116,23 @@
       "meta": {}
     },
     {
+      "rank": 14,
+      "id": "Jimmy",
+      "name": "Jimmy",
+      "value": 909412.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
       "rank": 15,
       "id": "God with Us",
       "name": "God with Us",
-      "value": 885000.0,
+      "value": 860488.0,
       "unit": "USD",
       "meta": {}
     },
     {
       "rank": 16,
-      "id": "Street Fighter",
-      "name": "Street Fighter",
-      "value": 760000.0,
-      "unit": "USD",
-      "meta": {}
-    },
-    {
-      "rank": 17,
       "id": "Club Kid",
       "name": "Club Kid",
       "value": 756060.0,
@@ -148,26 +140,34 @@
       "meta": {}
     },
     {
+      "rank": 17,
+      "id": "Street Fighter",
+      "name": "Street Fighter",
+      "value": 755061.0,
+      "unit": "USD",
+      "meta": {}
+    },
+    {
       "rank": 18,
-      "id": "Jimmy",
-      "name": "Jimmy",
-      "value": 637491.0,
+      "id": "Other Mommy",
+      "name": "Other Mommy",
+      "value": 618290.0,
       "unit": "USD",
       "meta": {}
     },
     {
       "rank": 19,
-      "id": "Other Mommy",
-      "name": "Other Mommy",
-      "value": 600000.0,
+      "id": "Heart of the Beast",
+      "name": "Heart of the Beast",
+      "value": 532223.0,
       "unit": "USD",
       "meta": {}
     },
     {
       "rank": 20,
-      "id": "Heart of the Beast",
-      "name": "Heart of the Beast",
-      "value": 550000.0,
+      "id": "La bola negra",
+      "name": "La bola negra",
+      "value": 509014.0,
       "unit": "USD",
       "meta": {}
     },
@@ -175,15 +175,15 @@
       "rank": 21,
       "id": "I Play Rocky",
       "name": "I Play Rocky",
-      "value": 503818.0,
+      "value": 493707.0,
       "unit": "USD",
       "meta": {}
     },
     {
       "rank": 22,
-      "id": "La bola negra",
-      "name": "La bola negra",
-      "value": 500000.0,
+      "id": "Resident Evil",
+      "name": "Resident Evil",
+      "value": 427412.0,
       "unit": "USD",
       "meta": {}
     },
@@ -191,7 +191,7 @@
       "rank": 23,
       "id": "The Only Living Pickpocket in New York",
       "name": "The Only Living Pickpocket in New York",
-      "value": 290000.0,
+      "value": 305191.0,
       "unit": "USD",
       "meta": {}
     },
@@ -199,15 +199,15 @@
       "rank": 24,
       "id": "Paper Tiger",
       "name": "Paper Tiger",
-      "value": 215009.0,
+      "value": 219007.0,
       "unit": "USD",
       "meta": {}
     },
     {
       "rank": 25,
-      "id": "Sense and Sensibility",
-      "name": "Sense and Sensibility",
-      "value": 152000.0,
+      "id": "Heated Rivalry",
+      "name": "Heated Rivalry",
+      "value": 150000.0,
       "unit": "USD",
       "meta": {}
     }
@@ -216,7 +216,7 @@
     {
       "name": "Box Office Mojo",
       "url": "https://www.boxofficemojo.com/weekend/2026W46/",
-      "fetched_at": "2026-11-16T22:08:26Z",
+      "fetched_at": "2026-11-17T04:31:13Z",
       "http_status": 200
     }
   ]
