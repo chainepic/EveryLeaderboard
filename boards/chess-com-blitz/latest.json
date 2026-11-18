@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-11-17T22:54:46Z",
-  "as_of": "2026-11-17T22:54:46Z",
+  "generated_at": "2026-11-18T04:25:25Z",
+  "as_of": "2026-11-18T04:25:25Z",
   "period": {
     "label": "live_blitz"
   },
@@ -520,6 +520,19 @@
     },
     {
       "rank": 40,
+      "id": "Njal28",
+      "name": "Aram Hakobyan",
+      "value": 3212.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Njal28",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/AM",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 41,
       "id": "Baag4Life",
       "name": "Tugstumur Yesuntumur",
       "value": 3211.0,
@@ -532,7 +545,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "frederiksvane",
       "name": "Frederik Svane",
       "value": 3209.0,
@@ -545,7 +558,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 43,
       "id": "Dolphin_2010",
       "name": "Aleksandr Usov",
       "value": 3207.0,
@@ -558,7 +571,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 44,
       "id": "Salem-AR",
       "name": "Salem AR Saleh",
       "value": 3207.0,
@@ -571,7 +584,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": "LumenGM",
       "name": "Nikoloz Petriashvili",
       "value": 3203.0,
@@ -584,7 +597,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "RaunakSadhwani2005",
       "name": "Raunak Sadhwani",
       "value": 3202.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "spicycaterpillar",
       "name": "Ray Robson",
       "value": 3202.0,
@@ -610,7 +623,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "GroovyKettle",
       "name": "Robby Kevlishvili",
       "value": 3201.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "jlucasvf",
       "name": "Lucas van Foreest",
       "value": 3201.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "Msb2",
       "name": "Matthias Bluebaum",
       "value": 3201.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/DE",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "TRadjabov",
-      "name": "Teimour Radjabov",
-      "value": 3200.0,
-      "unit": "rating",
-      "meta": {
-        "username": "TRadjabov",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/AZ",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-17T22:54:46Z",
+      "fetched_at": "2026-11-18T04:25:25Z",
       "http_status": 200
     }
   ]
