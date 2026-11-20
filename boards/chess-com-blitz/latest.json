@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-11-20T12:57:40Z",
-  "as_of": "2026-11-20T12:57:40Z",
+  "generated_at": "2026-11-20T21:09:13Z",
+  "as_of": "2026-11-20T21:09:13Z",
   "period": {
     "label": "live_blitz"
   },
@@ -52,14 +52,14 @@
     },
     {
       "rank": 4,
-      "id": "FairChess_on_YouTube",
-      "name": "Dmitry Andreikin",
-      "value": 3342.0,
+      "id": "DenLaz",
+      "name": "Denis Lazavik",
+      "value": 3370.0,
       "unit": "rating",
       "meta": {
-        "username": "FairChess_on_YouTube",
+        "username": "DenLaz",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/GE",
+        "country_url": "https://api.chess.com/pub/country/BY",
         "category": "live_blitz"
       }
     },
@@ -67,7 +67,7 @@
       "rank": 5,
       "id": "nihalsarin",
       "name": "Nihal Sarin",
-      "value": 3339.0,
+      "value": 3338.0,
       "unit": "rating",
       "meta": {
         "username": "nihalsarin",
@@ -78,14 +78,14 @@
     },
     {
       "rank": 6,
-      "id": "DenLaz",
-      "name": "Denis Lazavik",
-      "value": 3333.0,
+      "id": "FairChess_on_YouTube",
+      "name": "Dmitry Andreikin",
+      "value": 3305.0,
       "unit": "rating",
       "meta": {
-        "username": "DenLaz",
+        "username": "FairChess_on_YouTube",
         "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/BY",
+        "country_url": "https://api.chess.com/pub/country/GE",
         "category": "live_blitz"
       }
     },
@@ -208,19 +208,6 @@
     },
     {
       "rank": 16,
-      "id": "legendisback1",
-      "name": "Yagiz Kaan Erdogmus",
-      "value": 3274.0,
-      "unit": "rating",
-      "meta": {
-        "username": "legendisback1",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/TR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 17,
       "id": "artin10862",
       "name": "Artin Ashraf",
       "value": 3273.0,
@@ -228,6 +215,19 @@
       "meta": {
         "username": "artin10862",
         "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/TR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 17,
+      "id": "legendisback1",
+      "name": "Yagiz Kaan Erdogmus",
+      "value": 3271.0,
+      "unit": "rating",
+      "meta": {
+        "username": "legendisback1",
+        "title": "GM",
         "country_url": "https://api.chess.com/pub/country/TR",
         "category": "live_blitz"
       }
@@ -559,6 +559,19 @@
     },
     {
       "rank": 43,
+      "id": "TRadjabov",
+      "name": "Teimour Radjabov",
+      "value": 3213.0,
+      "unit": "rating",
+      "meta": {
+        "username": "TRadjabov",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/AZ",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 44,
       "id": "Parakon1",
       "name": "Kazybek Nogerbek",
       "value": 3212.0,
@@ -571,7 +584,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": "Harmonized_kakophonia",
       "name": "Dau Khuong Duy",
       "value": 3212.0,
@@ -584,7 +597,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "spicycaterpillar",
       "name": "Ray Robson",
       "value": 3211.0,
@@ -597,7 +610,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "Sargsyan_Shant",
       "name": "Shant Sargsyan",
       "value": 3208.0,
@@ -606,19 +619,6 @@
         "username": "Sargsyan_Shant",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/AM",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 47,
-      "id": "TRadjabov",
-      "name": "Teimour Radjabov",
-      "value": 3208.0,
-      "unit": "rating",
-      "meta": {
-        "username": "TRadjabov",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/AZ",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-20T12:57:40Z",
+      "fetched_at": "2026-11-20T21:09:13Z",
       "http_status": 200
     }
   ]
