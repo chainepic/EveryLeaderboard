@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-21T02:20:23Z",
-  "as_of": "2026-11-21T02:20:23Z",
+  "generated_at": "2026-11-21T11:09:44Z",
+  "as_of": "2026-11-21T11:09:44Z",
   "period": {
     "label": "live_rapid"
   },
@@ -273,6 +273,19 @@
     },
     {
       "rank": 21,
+      "id": "Nitzan_Steinberg",
+      "name": "Nitzan Steinberg",
+      "value": 2708.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Nitzan_Steinberg",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IL",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 22,
       "id": "Swiss_Fighter",
       "name": "Gabriel Gähwiler",
       "value": 2707.0,
@@ -281,19 +294,6 @@
         "username": "Swiss_Fighter",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/CH",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 22,
-      "id": "Nitzan_Steinberg",
-      "name": "Nitzan Steinberg",
-      "value": 2706.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Nitzan_Steinberg",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
         "category": "live_rapid"
       }
     },
@@ -338,19 +338,6 @@
     },
     {
       "rank": 26,
-      "id": "LSChess",
-      "name": "Logan Clark Shafer",
-      "value": 2700.0,
-      "unit": "rating",
-      "meta": {
-        "username": "LSChess",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 27,
       "id": "AnthonyWirig",
       "name": "Anthony Wirig",
       "value": 2700.0,
@@ -363,7 +350,7 @@
       }
     },
     {
-      "rank": 28,
+      "rank": 27,
       "id": "Aoitsukibluemoon",
       "name": "Wang Hao",
       "value": 2694.0,
@@ -376,7 +363,7 @@
       }
     },
     {
-      "rank": 29,
+      "rank": 28,
       "id": "WIDBIFS",
       "name": "Erik Obgolts",
       "value": 2693.0,
@@ -389,7 +376,7 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 29,
       "id": "LikeWater",
       "name": "Alexander Velikanov",
       "value": 2693.0,
@@ -402,7 +389,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 30,
       "id": "dual_flurry",
       "name": "Jerad Docena",
       "value": 2692.0,
@@ -415,7 +402,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 31,
       "id": "kontosnik1",
       "name": "Νik kontos",
       "value": 2692.0,
@@ -428,7 +415,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 32,
       "id": "JohnDanielBryantIII",
       "name": "John Daniel Bryant",
       "value": 2691.0,
@@ -441,7 +428,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 33,
       "id": "SpartanKing85",
       "name": "SpartanKing85",
       "value": 2688.0,
@@ -454,7 +441,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 34,
       "id": "RaunakSadhwani2005",
       "name": "Raunak Sadhwani",
       "value": 2686.0,
@@ -467,7 +454,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 35,
       "id": "chessdude",
       "name": "Daniel Sadzikowski",
       "value": 2686.0,
@@ -476,6 +463,19 @@
         "username": "chessdude",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/PL",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 36,
+      "id": "LSChess",
+      "name": "Logan Clark Shafer",
+      "value": 2684.0,
+      "unit": "rating",
+      "meta": {
+        "username": "LSChess",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-21T02:20:23Z",
+      "fetched_at": "2026-11-21T11:09:44Z",
       "http_status": 200
     }
   ]
