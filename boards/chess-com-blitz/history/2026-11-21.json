@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-11-21T17:59:39Z",
-  "as_of": "2026-11-21T17:59:39Z",
+  "generated_at": "2026-11-21T23:21:20Z",
+  "as_of": "2026-11-21T23:21:20Z",
   "period": {
     "label": "live_blitz"
   },
@@ -26,6 +26,19 @@
     },
     {
       "rank": 2,
+      "id": "MagnusCarlsen",
+      "name": "Magnus Carlsen",
+      "value": 3397.0,
+      "unit": "rating",
+      "meta": {
+        "username": "MagnusCarlsen",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/NO",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 3,
       "id": "Firouzja2003",
       "name": "Alireza Firouzja",
       "value": 3391.0,
@@ -34,19 +47,6 @@
         "username": "Firouzja2003",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/FR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 3,
-      "id": "MagnusCarlsen",
-      "name": "Magnus Carlsen",
-      "value": 3375.0,
-      "unit": "rating",
-      "meta": {
-        "username": "MagnusCarlsen",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/NO",
         "category": "live_blitz"
       }
     },
@@ -611,6 +611,19 @@
     },
     {
       "rank": 47,
+      "id": "Duhless",
+      "name": "Daniil Dubov",
+      "value": 3208.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Duhless",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/RU",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 48,
       "id": "Salem-AR",
       "name": "Salem AR Saleh",
       "value": 3207.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "bubeliang",
       "name": "Havard Haug",
       "value": 3204.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "LumenGM",
       "name": "Nikoloz Petriashvili",
       "value": 3203.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/GE",
         "category": "live_blitz"
       }
-    },
-    {
-      "rank": 50,
-      "id": "RaunakSadhwani2005",
-      "name": "Raunak Sadhwani",
-      "value": 3202.0,
-      "unit": "rating",
-      "meta": {
-        "username": "RaunakSadhwani2005",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IN",
-        "category": "live_blitz"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-21T17:59:39Z",
+      "fetched_at": "2026-11-21T23:21:20Z",
       "http_status": 200
     }
   ]

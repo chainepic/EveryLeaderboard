@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-21T17:59:39Z",
-  "as_of": "2026-11-21T17:59:39Z",
+  "generated_at": "2026-11-21T23:21:20Z",
+  "as_of": "2026-11-21T23:21:20Z",
   "period": {
     "label": "live_rapid"
   },
@@ -54,7 +54,7 @@
       "rank": 4,
       "id": "LPSupi",
       "name": "Luis Paulo Supi",
-      "value": 2843.0,
+      "value": 2846.0,
       "unit": "rating",
       "meta": {
         "username": "LPSupi",
@@ -247,6 +247,19 @@
     },
     {
       "rank": 19,
+      "id": "Nitzan_Steinberg",
+      "name": "Nitzan Steinberg",
+      "value": 2713.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Nitzan_Steinberg",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IL",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 20,
       "id": "Berardino",
       "name": "Diego Berardino",
       "value": 2712.0,
@@ -259,7 +272,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 21,
       "id": "Swiss_Fighter",
       "name": "Gabriel Gähwiler",
       "value": 2707.0,
@@ -268,19 +281,6 @@
         "username": "Swiss_Fighter",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/CH",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 21,
-      "id": "Nitzan_Steinberg",
-      "name": "Nitzan Steinberg",
-      "value": 2706.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Nitzan_Steinberg",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
         "category": "live_rapid"
       }
     },
@@ -611,6 +611,19 @@
     },
     {
       "rank": 47,
+      "id": "last8pawns",
+      "name": "William Summerfield",
+      "value": 2671.0,
+      "unit": "rating",
+      "meta": {
+        "username": "last8pawns",
+        "title": "NM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 48,
       "id": "nakajo",
       "name": "Mateus Nakajo de Mendonça",
       "value": 2669.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "MKRasljechess",
       "name": "I R",
       "value": 2664.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "levente_k",
       "name": "levente_k",
       "value": 2663.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/HU",
         "category": "live_rapid"
       }
-    },
-    {
-      "rank": 50,
-      "id": "MikhailChess2011-12-23",
-      "name": "Mikhail Volkov",
-      "value": 2662.0,
-      "unit": "rating",
-      "meta": {
-        "username": "MikhailChess2011-12-23",
-        "title": null,
-        "country_url": "https://api.chess.com/pub/country/XX",
-        "category": "live_rapid"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-21T17:59:39Z",
+      "fetched_at": "2026-11-21T23:21:20Z",
       "http_status": 200
     }
   ]
