@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-11-21T11:09:43Z",
-  "as_of": "2026-11-21T11:09:43Z",
+  "generated_at": "2026-11-21T17:59:39Z",
+  "as_of": "2026-11-21T17:59:39Z",
   "period": {
     "label": "live_blitz"
   },
@@ -15,7 +15,7 @@
       "rank": 1,
       "id": "Hikaru",
       "name": "Hikaru Nakamura",
-      "value": 3465.0,
+      "value": 3449.0,
       "unit": "rating",
       "meta": {
         "username": "Hikaru",
@@ -143,6 +143,19 @@
     },
     {
       "rank": 11,
+      "id": "Sina-Movahed",
+      "name": "Sina Movahed",
+      "value": 3280.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Sina-Movahed",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 12,
       "id": "GHANDEEVAM2003",
       "name": "Arjun Erigaisi",
       "value": 3279.0,
@@ -155,7 +168,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "id": "Polish_fighter3000",
       "name": "Jan-Krzysztof Duda",
       "value": 3277.0,
@@ -164,19 +177,6 @@
         "username": "Polish_fighter3000",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/PL",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 13,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
-      "value": 3276.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sina-Movahed",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -520,6 +520,19 @@
     },
     {
       "rank": 40,
+      "id": "TRadjabov",
+      "name": "Teimour Radjabov",
+      "value": 3218.0,
+      "unit": "rating",
+      "meta": {
+        "username": "TRadjabov",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/AZ",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 41,
       "id": "Baag4Life",
       "name": "Tugstumur Yesuntumur",
       "value": 3217.0,
@@ -532,7 +545,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "rednova1729",
       "name": "Awonder Liang",
       "value": 3214.0,
@@ -541,19 +554,6 @@
         "username": "rednova1729",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 42,
-      "id": "TRadjabov",
-      "name": "Teimour Radjabov",
-      "value": 3213.0,
-      "unit": "rating",
-      "meta": {
-        "username": "TRadjabov",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/AZ",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-21T11:09:43Z",
+      "fetched_at": "2026-11-21T17:59:39Z",
       "http_status": 200
     }
   ]
