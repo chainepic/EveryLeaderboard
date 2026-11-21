@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-20T21:09:13Z",
-  "as_of": "2026-11-20T21:09:13Z",
+  "generated_at": "2026-11-21T02:20:23Z",
+  "as_of": "2026-11-21T02:20:23Z",
   "period": {
     "label": "live_rapid"
   },
@@ -54,7 +54,7 @@
       "rank": 4,
       "id": "LPSupi",
       "name": "Luis Paulo Supi",
-      "value": 2841.0,
+      "value": 2843.0,
       "unit": "rating",
       "meta": {
         "username": "LPSupi",
@@ -442,6 +442,19 @@
     },
     {
       "rank": 34,
+      "id": "SpartanKing85",
+      "name": "SpartanKing85",
+      "value": 2688.0,
+      "unit": "rating",
+      "meta": {
+        "username": "SpartanKing85",
+        "title": null,
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 35,
       "id": "RaunakSadhwani2005",
       "name": "Raunak Sadhwani",
       "value": 2686.0,
@@ -454,7 +467,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 36,
       "id": "chessdude",
       "name": "Daniel Sadzikowski",
       "value": 2686.0,
@@ -467,7 +480,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 37,
       "id": "ClydeHillKid",
       "name": "Joseph Levine",
       "value": 2683.0,
@@ -475,19 +488,6 @@
       "meta": {
         "username": "ClydeHillKid",
         "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 37,
-      "id": "SpartanKing85",
-      "name": "SpartanKing85",
-      "value": 2682.0,
-      "unit": "rating",
-      "meta": {
-        "username": "SpartanKing85",
-        "title": null,
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-20T21:09:13Z",
+      "fetched_at": "2026-11-21T02:20:23Z",
       "http_status": 200
     }
   ]

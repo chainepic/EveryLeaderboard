@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "nba-standings",
-  "generated_at": "2026-11-20T21:09:17Z",
-  "as_of": "2026-11-20T21:09:17Z",
+  "generated_at": "2026-11-21T02:20:25Z",
+  "as_of": "2026-11-21T02:20:25Z",
   "period": {
     "label": "2026-27"
   },
@@ -148,6 +148,21 @@
     },
     {
       "rank": 10,
+      "id": "1",
+      "name": "Atlanta Hawks",
+      "value": 0.625,
+      "unit": "ratio",
+      "meta": {
+        "conference": "Eastern Conference",
+        "conference_rank": 4,
+        "wins": 10.0,
+        "losses": 6.0,
+        "games_behind": 3.0,
+        "playoff_seed": 4.0
+      }
+    },
+    {
+      "rank": 11,
       "id": "7",
       "name": "Denver Nuggets",
       "value": 0.6154,
@@ -162,24 +177,9 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "id": "14",
       "name": "Miami Heat",
-      "value": 0.6,
-      "unit": "ratio",
-      "meta": {
-        "conference": "Eastern Conference",
-        "conference_rank": 4,
-        "wins": 9.0,
-        "losses": 6.0,
-        "games_behind": 3.5,
-        "playoff_seed": 4.0
-      }
-    },
-    {
-      "rank": 12,
-      "id": "1",
-      "name": "Atlanta Hawks",
       "value": 0.6,
       "unit": "ratio",
       "meta": {
@@ -358,8 +358,8 @@
     },
     {
       "rank": 24,
-      "id": "30",
-      "name": "Charlotte Hornets",
+      "id": "4",
+      "name": "Chicago Bulls",
       "value": 0.2857,
       "unit": "ratio",
       "meta": {
@@ -373,21 +373,6 @@
     },
     {
       "rank": 25,
-      "id": "4",
-      "name": "Chicago Bulls",
-      "value": 0.2857,
-      "unit": "ratio",
-      "meta": {
-        "conference": "Eastern Conference",
-        "conference_rank": 13,
-        "wins": 4.0,
-        "losses": 10.0,
-        "games_behind": 8.0,
-        "playoff_seed": 13.0
-      }
-    },
-    {
-      "rank": 26,
       "id": "12",
       "name": "LA Clippers",
       "value": 0.2857,
@@ -398,6 +383,21 @@
         "wins": 4.0,
         "losses": 10.0,
         "games_behind": 8.0,
+        "playoff_seed": 13.0
+      }
+    },
+    {
+      "rank": 26,
+      "id": "30",
+      "name": "Charlotte Hornets",
+      "value": 0.2667,
+      "unit": "ratio",
+      "meta": {
+        "conference": "Eastern Conference",
+        "conference_rank": 13,
+        "wins": 4.0,
+        "losses": 11.0,
+        "games_behind": 8.5,
         "playoff_seed": 13.0
       }
     },
@@ -466,7 +466,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/basketball/nba/standings",
-      "fetched_at": "2026-11-20T21:09:17Z",
+      "fetched_at": "2026-11-21T02:20:25Z",
       "http_status": 200
     }
   ]

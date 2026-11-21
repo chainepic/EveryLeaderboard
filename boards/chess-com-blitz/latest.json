@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-11-20T21:09:13Z",
-  "as_of": "2026-11-20T21:09:13Z",
+  "generated_at": "2026-11-21T02:20:23Z",
+  "as_of": "2026-11-21T02:20:23Z",
   "period": {
     "label": "live_blitz"
   },
@@ -67,7 +67,7 @@
       "rank": 5,
       "id": "nihalsarin",
       "name": "Nihal Sarin",
-      "value": 3338.0,
+      "value": 3333.0,
       "unit": "rating",
       "meta": {
         "username": "nihalsarin",
@@ -195,6 +195,19 @@
     },
     {
       "rank": 15,
+      "id": "legendisback1",
+      "name": "Yagiz Kaan Erdogmus",
+      "value": 3276.0,
+      "unit": "rating",
+      "meta": {
+        "username": "legendisback1",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/TR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 16,
       "id": "rpragchess",
       "name": "Praggnanandhaa Rameshbabu",
       "value": 3275.0,
@@ -207,7 +220,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": "artin10862",
       "name": "Artin Ashraf",
       "value": 3273.0,
@@ -215,19 +228,6 @@
       "meta": {
         "username": "artin10862",
         "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/TR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 17,
-      "id": "legendisback1",
-      "name": "Yagiz Kaan Erdogmus",
-      "value": 3271.0,
-      "unit": "rating",
-      "meta": {
-        "username": "legendisback1",
-        "title": "GM",
         "country_url": "https://api.chess.com/pub/country/TR",
         "category": "live_blitz"
       }
@@ -546,19 +546,6 @@
     },
     {
       "rank": 42,
-      "id": "Duhless",
-      "name": "Daniil Dubov",
-      "value": 3214.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Duhless",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 43,
       "id": "TRadjabov",
       "name": "Teimour Radjabov",
       "value": 3213.0,
@@ -571,7 +558,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 43,
       "id": "Parakon1",
       "name": "Kazybek Nogerbek",
       "value": 3212.0,
@@ -584,7 +571,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 44,
       "id": "Harmonized_kakophonia",
       "name": "Dau Khuong Duy",
       "value": 3212.0,
@@ -597,7 +584,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 45,
       "id": "spicycaterpillar",
       "name": "Ray Robson",
       "value": 3211.0,
@@ -610,7 +597,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": "Sargsyan_Shant",
       "name": "Shant Sargsyan",
       "value": 3208.0,
@@ -623,7 +610,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "id": "Salem-AR",
       "name": "Salem AR Saleh",
       "value": 3207.0,
@@ -636,7 +623,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 48,
       "id": "bubeliang",
       "name": "Havard Haug",
       "value": 3204.0,
@@ -649,7 +636,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "LumenGM",
       "name": "Nikoloz Petriashvili",
       "value": 3203.0,
@@ -660,13 +647,26 @@
         "country_url": "https://api.chess.com/pub/country/GE",
         "category": "live_blitz"
       }
+    },
+    {
+      "rank": 50,
+      "id": "RaunakSadhwani2005",
+      "name": "Raunak Sadhwani",
+      "value": 3202.0,
+      "unit": "rating",
+      "meta": {
+        "username": "RaunakSadhwani2005",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IN",
+        "category": "live_blitz"
+      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-20T21:09:13Z",
+      "fetched_at": "2026-11-21T02:20:23Z",
       "http_status": 200
     }
   ]
