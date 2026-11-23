@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-22T21:49:01Z",
-  "as_of": "2026-11-22T21:49:01Z",
+  "generated_at": "2026-11-23T02:49:18Z",
+  "as_of": "2026-11-23T02:49:18Z",
   "period": {
     "label": "live_rapid"
   },
@@ -195,6 +195,19 @@
     },
     {
       "rank": 15,
+      "id": "Szparu",
+      "name": "Miłosz Szpar",
+      "value": 2733.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Szparu",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/PL",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 16,
       "id": "FandiMazen",
       "name": "Mazen Fandi",
       "value": 2733.0,
@@ -207,20 +220,20 @@
       }
     },
     {
-      "rank": 16,
-      "id": "Szparu",
-      "name": "Miłosz Szpar",
-      "value": 2731.0,
+      "rank": 17,
+      "id": "linlin1812",
+      "name": "Patrick Liu",
+      "value": 2721.0,
       "unit": "rating",
       "meta": {
-        "username": "Szparu",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/PL",
+        "username": "linlin1812",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "Liindseeyy",
       "name": "Liindseeyy",
       "value": 2716.0,
@@ -229,19 +242,6 @@
         "username": "Liindseeyy",
         "title": null,
         "country_url": "https://api.chess.com/pub/country/FR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 18,
-      "id": "linlin1812",
-      "name": "Patrick Liu",
-      "value": 2716.0,
-      "unit": "rating",
-      "meta": {
-        "username": "linlin1812",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
     },
@@ -470,7 +470,7 @@
       "rank": 36,
       "id": "ClydeHillKid",
       "name": "Joseph Levine",
-      "value": 2683.0,
+      "value": 2682.0,
       "unit": "rating",
       "meta": {
         "username": "ClydeHillKid",
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-22T21:49:01Z",
+      "fetched_at": "2026-11-23T02:49:18Z",
       "http_status": 200
     }
   ]
