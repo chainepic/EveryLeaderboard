@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-24T00:55:27Z",
-  "as_of": "2026-11-24T00:55:27Z",
+  "generated_at": "2026-11-24T10:58:39Z",
+  "as_of": "2026-11-24T10:58:39Z",
   "period": {
     "label": "live_rapid"
   },
@@ -364,6 +364,19 @@
     },
     {
       "rank": 28,
+      "id": "LSChess",
+      "name": "Logan Clark Shafer",
+      "value": 2694.0,
+      "unit": "rating",
+      "meta": {
+        "username": "LSChess",
+        "title": "FM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 29,
       "id": "Aoitsukibluemoon",
       "name": "Wang Hao",
       "value": 2694.0,
@@ -376,7 +389,7 @@
       }
     },
     {
-      "rank": 29,
+      "rank": 30,
       "id": "dual_flurry",
       "name": "Jerad Docena",
       "value": 2692.0,
@@ -389,7 +402,7 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 31,
       "id": "SpartanKing85",
       "name": "SpartanKing85",
       "value": 2692.0,
@@ -402,7 +415,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": "kontosnik1",
       "name": "Νik kontos",
       "value": 2692.0,
@@ -415,7 +428,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": "69360420obama",
       "name": "69360420obama",
       "value": 2689.0,
@@ -428,7 +441,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 34,
       "id": "ClydeHillKid",
       "name": "Joseph Levine",
       "value": 2687.0,
@@ -441,7 +454,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 35,
       "id": "RaunakSadhwani2005",
       "name": "Raunak Sadhwani",
       "value": 2686.0,
@@ -454,7 +467,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 36,
       "id": "chessdude",
       "name": "Daniel Sadzikowski",
       "value": 2686.0,
@@ -467,20 +480,20 @@
       }
     },
     {
-      "rank": 36,
-      "id": "LSChess",
-      "name": "Logan Clark Shafer",
+      "rank": 37,
+      "id": "PocketPivot",
+      "name": "Michael de Verdier",
       "value": 2684.0,
       "unit": "rating",
       "meta": {
-        "username": "LSChess",
+        "username": "PocketPivot",
         "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/US",
+        "country_url": "https://api.chess.com/pub/country/SE",
         "category": "live_rapid"
       }
     },
     {
-      "rank": 37,
+      "rank": 38,
       "id": "GeneralZod",
       "name": "Joshua Alexander",
       "value": 2683.0,
@@ -489,19 +502,6 @@
         "username": "GeneralZod",
         "title": "NM",
         "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 38,
-      "id": "PocketPivot",
-      "name": "Michael de Verdier",
-      "value": 2680.0,
-      "unit": "rating",
-      "meta": {
-        "username": "PocketPivot",
-        "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/SE",
         "category": "live_rapid"
       }
     },
@@ -652,7 +652,7 @@
       "rank": 50,
       "id": "Semper-Vincit-100",
       "name": "Semper-Vincit-100",
-      "value": 2667.0,
+      "value": 2666.0,
       "unit": "rating",
       "meta": {
         "username": "Semper-Vincit-100",
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-24T00:55:27Z",
+      "fetched_at": "2026-11-24T10:58:39Z",
       "http_status": 200
     }
   ]
