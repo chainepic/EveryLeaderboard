@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "soccer-pl-table",
-  "generated_at": "2026-11-23T12:52:54Z",
-  "as_of": "2026-11-23T12:52:54Z",
+  "generated_at": "2026-11-24T00:55:30Z",
+  "as_of": "2026-11-24T00:55:30Z",
   "period": {
     "label": "2026-27 English Premier League"
   },
@@ -93,6 +93,22 @@
     },
     {
       "rank": 6,
+      "id": "337",
+      "name": "Brentford",
+      "value": 17.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 4.0,
+        "losses": 2.0,
+        "ties": 5.0,
+        "games_played": 11.0,
+        "goal_diff": 9.0,
+        "season": "2026-27 English Premier League"
+      }
+    },
+    {
+      "rank": 7,
       "id": "357",
       "name": "Leeds United",
       "value": 17.0,
@@ -104,22 +120,6 @@
         "ties": 5.0,
         "games_played": 11.0,
         "goal_diff": 5.0,
-        "season": "2026-27 English Premier League"
-      }
-    },
-    {
-      "rank": 7,
-      "id": "368",
-      "name": "Everton",
-      "value": 16.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 4.0,
-        "losses": 2.0,
-        "ties": 4.0,
-        "games_played": 10.0,
-        "goal_diff": 2.0,
         "season": "2026-27 English Premier League"
       }
     },
@@ -141,6 +141,22 @@
     },
     {
       "rank": 9,
+      "id": "368",
+      "name": "Everton",
+      "value": 16.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 4.0,
+        "losses": 3.0,
+        "ties": 4.0,
+        "games_played": 11.0,
+        "goal_diff": -2.0,
+        "season": "2026-27 English Premier League"
+      }
+    },
+    {
+      "rank": 10,
       "id": "367",
       "name": "Tottenham Hotspur",
       "value": 15.0,
@@ -152,22 +168,6 @@
         "ties": 3.0,
         "games_played": 11.0,
         "goal_diff": 1.0,
-        "season": "2026-27 English Premier League"
-      }
-    },
-    {
-      "rank": 10,
-      "id": "337",
-      "name": "Brentford",
-      "value": 14.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 3.0,
-        "losses": 2.0,
-        "ties": 5.0,
-        "games_played": 10.0,
-        "goal_diff": 5.0,
         "season": "2026-27 English Premier League"
       }
     },
@@ -336,7 +336,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/soccer/eng.1/standings",
-      "fetched_at": "2026-11-23T12:52:54Z",
+      "fetched_at": "2026-11-24T00:55:30Z",
       "http_status": 200
     }
   ]

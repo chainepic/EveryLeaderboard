@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-23T12:52:47Z",
-  "as_of": "2026-11-23T12:52:47Z",
+  "generated_at": "2026-11-24T00:55:27Z",
+  "as_of": "2026-11-24T00:55:27Z",
   "period": {
     "label": "live_rapid"
   },
@@ -130,6 +130,19 @@
     },
     {
       "rank": 10,
+      "id": "GigaQuparadze",
+      "name": "Giga Quparadze",
+      "value": 2769.0,
+      "unit": "rating",
+      "meta": {
+        "username": "GigaQuparadze",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/GE",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 11,
       "id": "GMKrikor",
       "name": "Krikor Sevag Mekhitarian",
       "value": 2769.0,
@@ -138,19 +151,6 @@
         "username": "GMKrikor",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/BR",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 11,
-      "id": "GigaQuparadze",
-      "name": "Giga Quparadze",
-      "value": 2766.0,
-      "unit": "rating",
-      "meta": {
-        "username": "GigaQuparadze",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/GE",
         "category": "live_rapid"
       }
     },
@@ -247,6 +247,19 @@
     },
     {
       "rank": 19,
+      "id": "Berardino",
+      "name": "Diego Berardino",
+      "value": 2715.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Berardino",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/BR",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 20,
       "id": "Nitzan_Steinberg",
       "name": "Nitzan Steinberg",
       "value": 2713.0,
@@ -255,19 +268,6 @@
         "username": "Nitzan_Steinberg",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IL",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 20,
-      "id": "Berardino",
-      "name": "Diego Berardino",
-      "value": 2712.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Berardino",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/BR",
         "category": "live_rapid"
       }
     },
@@ -353,7 +353,7 @@
       "rank": 27,
       "id": "LikeWater",
       "name": "Alexander Velikanov",
-      "value": 2698.0,
+      "value": 2699.0,
       "unit": "rating",
       "meta": {
         "username": "LikeWater",
@@ -390,6 +390,19 @@
     },
     {
       "rank": 30,
+      "id": "SpartanKing85",
+      "name": "SpartanKing85",
+      "value": 2692.0,
+      "unit": "rating",
+      "meta": {
+        "username": "SpartanKing85",
+        "title": null,
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 31,
       "id": "kontosnik1",
       "name": "Νik kontos",
       "value": 2692.0,
@@ -402,7 +415,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": "69360420obama",
       "name": "69360420obama",
       "value": 2689.0,
@@ -415,20 +428,20 @@
       }
     },
     {
-      "rank": 32,
-      "id": "SpartanKing85",
-      "name": "SpartanKing85",
-      "value": 2688.0,
+      "rank": 33,
+      "id": "ClydeHillKid",
+      "name": "Joseph Levine",
+      "value": 2687.0,
       "unit": "rating",
       "meta": {
-        "username": "SpartanKing85",
-        "title": null,
+        "username": "ClydeHillKid",
+        "title": "IM",
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
     },
     {
-      "rank": 33,
+      "rank": 34,
       "id": "RaunakSadhwani2005",
       "name": "Raunak Sadhwani",
       "value": 2686.0,
@@ -441,7 +454,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 35,
       "id": "chessdude",
       "name": "Daniel Sadzikowski",
       "value": 2686.0,
@@ -454,7 +467,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 36,
       "id": "LSChess",
       "name": "Logan Clark Shafer",
       "value": 2684.0,
@@ -467,7 +480,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 37,
       "id": "GeneralZod",
       "name": "Joshua Alexander",
       "value": 2683.0,
@@ -475,19 +488,6 @@
       "meta": {
         "username": "GeneralZod",
         "title": "NM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 37,
-      "id": "ClydeHillKid",
-      "name": "Joseph Levine",
-      "value": 2682.0,
-      "unit": "rating",
-      "meta": {
-        "username": "ClydeHillKid",
-        "title": "IM",
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
@@ -652,7 +652,7 @@
       "rank": 50,
       "id": "Semper-Vincit-100",
       "name": "Semper-Vincit-100",
-      "value": 2664.0,
+      "value": 2667.0,
       "unit": "rating",
       "meta": {
         "username": "Semper-Vincit-100",
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-23T12:52:47Z",
+      "fetched_at": "2026-11-24T00:55:27Z",
       "http_status": 200
     }
   ]
