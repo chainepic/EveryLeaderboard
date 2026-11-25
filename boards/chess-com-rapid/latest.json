@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-24T21:15:26Z",
-  "as_of": "2026-11-24T21:15:26Z",
+  "generated_at": "2026-11-25T04:18:07Z",
+  "as_of": "2026-11-25T04:18:07Z",
   "period": {
     "label": "live_rapid"
   },
@@ -416,19 +416,6 @@
     },
     {
       "rank": 32,
-      "id": "SpartanKing85",
-      "name": "SpartanKing85",
-      "value": 2692.0,
-      "unit": "rating",
-      "meta": {
-        "username": "SpartanKing85",
-        "title": null,
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 33,
       "id": "kontosnik1",
       "name": "Νik kontos",
       "value": 2692.0,
@@ -441,7 +428,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 33,
       "id": "Chenitha201583",
       "name": "Chenitha Karunasena",
       "value": 2690.0,
@@ -450,6 +437,19 @@
         "username": "Chenitha201583",
         "title": "CM",
         "country_url": "https://api.chess.com/pub/country/LK",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 34,
+      "id": "ClydeHillKid",
+      "name": "Joseph Levine",
+      "value": 2690.0,
+      "unit": "rating",
+      "meta": {
+        "username": "ClydeHillKid",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
     },
@@ -468,12 +468,12 @@
     },
     {
       "rank": 36,
-      "id": "ClydeHillKid",
-      "name": "Joseph Levine",
+      "id": "JohnDanielBryantIII",
+      "name": "John Daniel Bryant",
       "value": 2687.0,
       "unit": "rating",
       "meta": {
-        "username": "ClydeHillKid",
+        "username": "JohnDanielBryantIII",
         "title": "IM",
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
@@ -520,13 +520,13 @@
     },
     {
       "rank": 40,
-      "id": "GeneralZod",
-      "name": "Joshua Alexander",
-      "value": 2683.0,
+      "id": "SpartanKing85",
+      "name": "SpartanKing85",
+      "value": 2681.0,
       "unit": "rating",
       "meta": {
-        "username": "GeneralZod",
-        "title": "NM",
+        "username": "SpartanKing85",
+        "title": null,
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-24T21:15:26Z",
+      "fetched_at": "2026-11-25T04:18:07Z",
       "http_status": 200
     }
   ]
