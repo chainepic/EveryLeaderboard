@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-25T15:38:59Z",
-  "as_of": "2026-11-25T15:38:59Z",
+  "generated_at": "2026-11-26T00:24:33Z",
+  "as_of": "2026-11-26T00:24:33Z",
   "period": {
     "label": "live_rapid"
   },
@@ -260,6 +260,19 @@
     },
     {
       "rank": 20,
+      "id": "Swiss_Fighter",
+      "name": "Gabriel Gähwiler",
+      "value": 2713.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Swiss_Fighter",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/CH",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 21,
       "id": "Nitzan_Steinberg",
       "name": "Nitzan Steinberg",
       "value": 2713.0,
@@ -268,19 +281,6 @@
         "username": "Nitzan_Steinberg",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IL",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 21,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2710.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
         "category": "live_rapid"
       }
     },
@@ -507,19 +507,6 @@
     },
     {
       "rank": 39,
-      "id": "SpartanKing85",
-      "name": "SpartanKing85",
-      "value": 2681.0,
-      "unit": "rating",
-      "meta": {
-        "username": "SpartanKing85",
-        "title": null,
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 40,
       "id": "Tchebytchev",
       "name": "Tchebytchev",
       "value": 2680.0,
@@ -532,7 +519,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 40,
       "id": "TenisMaster",
       "name": "Yuniesky Quesada",
       "value": 2680.0,
@@ -545,7 +532,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 41,
       "id": "grandmastergauri",
       "name": "Gauri Shankar",
       "value": 2680.0,
@@ -553,6 +540,19 @@
       "meta": {
         "username": "grandmastergauri",
         "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 42,
+      "id": "knighthunter2026",
+      "name": "Vidip Kona",
+      "value": 2679.0,
+      "unit": "rating",
+      "meta": {
+        "username": "knighthunter2026",
+        "title": "NM",
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-25T15:38:59Z",
+      "fetched_at": "2026-11-26T00:24:33Z",
       "http_status": 200
     }
   ]

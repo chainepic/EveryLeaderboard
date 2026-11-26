@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "soccer-ucl-table",
-  "generated_at": "2026-11-25T15:39:04Z",
-  "as_of": "2026-11-25T15:39:04Z",
+  "generated_at": "2026-11-26T00:24:35Z",
+  "as_of": "2026-11-26T00:24:35Z",
   "period": {
     "label": "2026-27 UEFA Champions League"
   },
@@ -31,14 +31,14 @@
       "rank": 2,
       "id": "160",
       "name": "Paris Saint-Germain",
-      "value": 12.0,
+      "value": 13.0,
       "unit": "pts",
       "meta": {
         "group": "League Phase",
         "wins": 4.0,
         "losses": 0.0,
-        "ties": 0.0,
-        "games_played": 4.0,
+        "ties": 1.0,
+        "games_played": 5.0,
         "goal_diff": 15.0,
         "season": "2026-27 UEFA Champions League"
       }
@@ -61,6 +61,38 @@
     },
     {
       "rank": 4,
+      "id": "83",
+      "name": "Barcelona",
+      "value": 12.0,
+      "unit": "pts",
+      "meta": {
+        "group": "League Phase",
+        "wins": 4.0,
+        "losses": 1.0,
+        "ties": 0.0,
+        "games_played": 5.0,
+        "goal_diff": 11.0,
+        "season": "2026-27 UEFA Champions League"
+      }
+    },
+    {
+      "rank": 5,
+      "id": "364",
+      "name": "Liverpool",
+      "value": 12.0,
+      "unit": "pts",
+      "meta": {
+        "group": "League Phase",
+        "wins": 4.0,
+        "losses": 1.0,
+        "ties": 0.0,
+        "games_played": 5.0,
+        "goal_diff": 7.0,
+        "season": "2026-27 UEFA Champions League"
+      }
+    },
+    {
+      "rank": 6,
       "id": "244",
       "name": "Real Betis",
       "value": 12.0,
@@ -76,7 +108,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 7,
       "id": "359",
       "name": "Arsenal",
       "value": 11.0,
@@ -92,7 +124,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 8,
       "id": "382",
       "name": "Manchester City",
       "value": 10.0,
@@ -108,7 +140,23 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 9,
+      "id": "2250",
+      "name": "Sporting CP",
+      "value": 10.0,
+      "unit": "pts",
+      "meta": {
+        "group": "League Phase",
+        "wins": 3.0,
+        "losses": 1.0,
+        "ties": 1.0,
+        "games_played": 5.0,
+        "goal_diff": 4.0,
+        "season": "2026-27 UEFA Champions League"
+      }
+    },
+    {
+      "rank": 10,
       "id": "124",
       "name": "Borussia Dortmund",
       "value": 10.0,
@@ -124,23 +172,7 @@
       }
     },
     {
-      "rank": 8,
-      "id": "83",
-      "name": "Barcelona",
-      "value": 9.0,
-      "unit": "pts",
-      "meta": {
-        "group": "League Phase",
-        "wins": 3.0,
-        "losses": 1.0,
-        "ties": 0.0,
-        "games_played": 4.0,
-        "goal_diff": 8.0,
-        "season": "2026-27 UEFA Champions League"
-      }
-    },
-    {
-      "rank": 9,
+      "rank": 11,
       "id": "362",
       "name": "Aston Villa",
       "value": 9.0,
@@ -156,23 +188,23 @@
       }
     },
     {
-      "rank": 10,
-      "id": "364",
-      "name": "Liverpool",
+      "rank": 12,
+      "id": "110",
+      "name": "Internazionale",
       "value": 9.0,
       "unit": "pts",
       "meta": {
         "group": "League Phase",
         "wins": 3.0,
-        "losses": 1.0,
+        "losses": 2.0,
         "ties": 0.0,
-        "games_played": 4.0,
+        "games_played": 5.0,
         "goal_diff": 4.0,
         "season": "2026-27 UEFA Champions League"
       }
     },
     {
-      "rank": 11,
+      "rank": 13,
       "id": "570",
       "name": "Club Brugge",
       "value": 9.0,
@@ -180,31 +212,15 @@
       "meta": {
         "group": "League Phase",
         "wins": 3.0,
-        "losses": 1.0,
+        "losses": 2.0,
         "ties": 0.0,
-        "games_played": 4.0,
-        "goal_diff": 4.0,
+        "games_played": 5.0,
+        "goal_diff": 1.0,
         "season": "2026-27 UEFA Champions League"
       }
     },
     {
-      "rank": 12,
-      "id": "2250",
-      "name": "Sporting CP",
-      "value": 9.0,
-      "unit": "pts",
-      "meta": {
-        "group": "League Phase",
-        "wins": 3.0,
-        "losses": 1.0,
-        "ties": 0.0,
-        "games_played": 4.0,
-        "goal_diff": 4.0,
-        "season": "2026-27 UEFA Champions League"
-      }
-    },
-    {
-      "rank": 13,
+      "rank": 14,
       "id": "432",
       "name": "Galatasaray",
       "value": 9.0,
@@ -220,7 +236,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "id": "132",
       "name": "Bayern Munich",
       "value": 8.0,
@@ -228,15 +244,31 @@
       "meta": {
         "group": "League Phase",
         "wins": 2.0,
-        "losses": 0.0,
+        "losses": 1.0,
         "ties": 2.0,
-        "games_played": 4.0,
-        "goal_diff": 7.0,
+        "games_played": 5.0,
+        "goal_diff": 6.0,
         "season": "2026-27 UEFA Champions League"
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
+      "id": "436",
+      "name": "Fenerbahce",
+      "value": 8.0,
+      "unit": "pts",
+      "meta": {
+        "group": "League Phase",
+        "wins": 2.0,
+        "losses": 1.0,
+        "ties": 2.0,
+        "games_played": 5.0,
+        "goal_diff": -4.0,
+        "season": "2026-27 UEFA Champions League"
+      }
+    },
+    {
+      "rank": 17,
       "id": "134",
       "name": "VfB Stuttgart",
       "value": 7.0,
@@ -244,15 +276,47 @@
       "meta": {
         "group": "League Phase",
         "wins": 2.0,
-        "losses": 1.0,
+        "losses": 2.0,
         "ties": 1.0,
-        "games_played": 4.0,
-        "goal_diff": 3.0,
+        "games_played": 5.0,
+        "goal_diff": 1.0,
         "season": "2026-27 UEFA Champions League"
       }
     },
     {
-      "rank": 16,
+      "rank": 18,
+      "id": "1068",
+      "name": "Atlético Madrid",
+      "value": 7.0,
+      "unit": "pts",
+      "meta": {
+        "group": "League Phase",
+        "wins": 2.0,
+        "losses": 2.0,
+        "ties": 1.0,
+        "games_played": 5.0,
+        "goal_diff": 1.0,
+        "season": "2026-27 UEFA Champions League"
+      }
+    },
+    {
+      "rank": 19,
+      "id": "360",
+      "name": "Manchester United",
+      "value": 7.0,
+      "unit": "pts",
+      "meta": {
+        "group": "League Phase",
+        "wins": 2.0,
+        "losses": 2.0,
+        "ties": 1.0,
+        "games_played": 5.0,
+        "goal_diff": 0.0,
+        "season": "2026-27 UEFA Champions League"
+      }
+    },
+    {
+      "rank": 20,
       "id": "2980",
       "name": "Bodo/Glimt",
       "value": 7.0,
@@ -268,23 +332,7 @@
       }
     },
     {
-      "rank": 17,
-      "id": "110",
-      "name": "Internazionale",
-      "value": 6.0,
-      "unit": "pts",
-      "meta": {
-        "group": "League Phase",
-        "wins": 2.0,
-        "losses": 2.0,
-        "ties": 0.0,
-        "games_played": 4.0,
-        "goal_diff": 2.0,
-        "season": "2026-27 UEFA Champions League"
-      }
-    },
-    {
-      "rank": 18,
+      "rank": 21,
       "id": "4411",
       "name": "LASK Linz",
       "value": 6.0,
@@ -300,23 +348,7 @@
       }
     },
     {
-      "rank": 19,
-      "id": "360",
-      "name": "Manchester United",
-      "value": 6.0,
-      "unit": "pts",
-      "meta": {
-        "group": "League Phase",
-        "wins": 2.0,
-        "losses": 2.0,
-        "ties": 0.0,
-        "games_played": 4.0,
-        "goal_diff": 0.0,
-        "season": "2026-27 UEFA Champions League"
-      }
-    },
-    {
-      "rank": 20,
+      "rank": 22,
       "id": "437",
       "name": "FC Porto",
       "value": 6.0,
@@ -332,7 +364,7 @@
       }
     },
     {
-      "rank": 21,
+      "rank": 23,
       "id": "11420",
       "name": "RB Leipzig",
       "value": 6.0,
@@ -348,39 +380,39 @@
       }
     },
     {
-      "rank": 22,
-      "id": "436",
-      "name": "Fenerbahce",
-      "value": 5.0,
+      "rank": 24,
+      "id": "102",
+      "name": "Villarreal",
+      "value": 6.0,
       "unit": "pts",
       "meta": {
         "group": "League Phase",
-        "wins": 1.0,
-        "losses": 1.0,
-        "ties": 2.0,
-        "games_played": 4.0,
+        "wins": 2.0,
+        "losses": 3.0,
+        "ties": 0.0,
+        "games_played": 5.0,
         "goal_diff": -5.0,
         "season": "2026-27 UEFA Champions League"
       }
     },
     {
-      "rank": 23,
+      "rank": 25,
       "id": "104",
       "name": "AS Roma",
-      "value": 4.0,
+      "value": 5.0,
       "unit": "pts",
       "meta": {
         "group": "League Phase",
         "wins": 1.0,
         "losses": 2.0,
-        "ties": 1.0,
-        "games_played": 4.0,
+        "ties": 2.0,
+        "games_played": 5.0,
         "goal_diff": 2.0,
         "season": "2026-27 UEFA Champions League"
       }
     },
     {
-      "rank": 24,
+      "rank": 26,
       "id": "493",
       "name": "Shakhtar Donetsk",
       "value": 4.0,
@@ -388,15 +420,15 @@
       "meta": {
         "group": "League Phase",
         "wins": 1.0,
-        "losses": 2.0,
+        "losses": 3.0,
         "ties": 1.0,
-        "games_played": 4.0,
-        "goal_diff": 0.0,
+        "games_played": 5.0,
+        "goal_diff": -1.0,
         "season": "2026-27 UEFA Champions League"
       }
     },
     {
-      "rank": 25,
+      "rank": 27,
       "id": "510",
       "name": "Viking FK",
       "value": 4.0,
@@ -404,31 +436,15 @@
       "meta": {
         "group": "League Phase",
         "wins": 1.0,
-        "losses": 2.0,
+        "losses": 3.0,
         "ties": 1.0,
-        "games_played": 4.0,
-        "goal_diff": -1.0,
+        "games_played": 5.0,
+        "goal_diff": -3.0,
         "season": "2026-27 UEFA Champions League"
       }
     },
     {
-      "rank": 26,
-      "id": "1068",
-      "name": "Atlético Madrid",
-      "value": 4.0,
-      "unit": "pts",
-      "meta": {
-        "group": "League Phase",
-        "wins": 1.0,
-        "losses": 2.0,
-        "ties": 1.0,
-        "games_played": 4.0,
-        "goal_diff": -1.0,
-        "season": "2026-27 UEFA Champions League"
-      }
-    },
-    {
-      "rank": 27,
+      "rank": 28,
       "id": "114",
       "name": "Napoli",
       "value": 4.0,
@@ -444,9 +460,9 @@
       }
     },
     {
-      "rank": 28,
-      "id": "148",
-      "name": "PSV Eindhoven",
+      "rank": 29,
+      "id": "166",
+      "name": "Lille",
       "value": 4.0,
       "unit": "pts",
       "meta": {
@@ -460,34 +476,18 @@
       }
     },
     {
-      "rank": 29,
-      "id": "102",
-      "name": "Villarreal",
-      "value": 3.0,
-      "unit": "pts",
-      "meta": {
-        "group": "League Phase",
-        "wins": 1.0,
-        "losses": 3.0,
-        "ties": 0.0,
-        "games_played": 4.0,
-        "goal_diff": -6.0,
-        "season": "2026-27 UEFA Champions League"
-      }
-    },
-    {
       "rank": 30,
-      "id": "21922",
-      "name": "Sabah FK",
-      "value": 3.0,
+      "id": "148",
+      "name": "PSV Eindhoven",
+      "value": 4.0,
       "unit": "pts",
       "meta": {
         "group": "League Phase",
         "wins": 1.0,
         "losses": 3.0,
-        "ties": 0.0,
-        "games_played": 4.0,
-        "goal_diff": -6.0,
+        "ties": 1.0,
+        "games_played": 5.0,
+        "goal_diff": -5.0,
         "season": "2026-27 UEFA Champions League"
       }
     },
@@ -525,6 +525,22 @@
     },
     {
       "rank": 33,
+      "id": "21922",
+      "name": "Sabah FK",
+      "value": 3.0,
+      "unit": "pts",
+      "meta": {
+        "group": "League Phase",
+        "wins": 1.0,
+        "losses": 4.0,
+        "ties": 0.0,
+        "games_played": 5.0,
+        "goal_diff": -9.0,
+        "season": "2026-27 UEFA Champions League"
+      }
+    },
+    {
+      "rank": 34,
       "id": "175",
       "name": "Lens",
       "value": 3.0,
@@ -540,7 +556,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 35,
       "id": "494",
       "name": "Slavia Prague",
       "value": 1.0,
@@ -548,26 +564,10 @@
       "meta": {
         "group": "League Phase",
         "wins": 0.0,
-        "losses": 3.0,
+        "losses": 4.0,
         "ties": 1.0,
-        "games_played": 4.0,
-        "goal_diff": -4.0,
-        "season": "2026-27 UEFA Champions League"
-      }
-    },
-    {
-      "rank": 35,
-      "id": "166",
-      "name": "Lille",
-      "value": 1.0,
-      "unit": "pts",
-      "meta": {
-        "group": "League Phase",
-        "wins": 0.0,
-        "losses": 3.0,
-        "ties": 1.0,
-        "games_played": 4.0,
-        "goal_diff": -6.0,
+        "games_played": 5.0,
+        "goal_diff": -5.0,
         "season": "2026-27 UEFA Champions League"
       }
     },
@@ -592,7 +592,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/soccer/uefa.champions/standings",
-      "fetched_at": "2026-11-25T15:39:04Z",
+      "fetched_at": "2026-11-26T00:24:35Z",
       "http_status": 200
     }
   ]
