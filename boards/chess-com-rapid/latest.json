@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-26T00:24:33Z",
-  "as_of": "2026-11-26T00:24:33Z",
+  "generated_at": "2026-11-26T09:33:37Z",
+  "as_of": "2026-11-26T09:33:37Z",
   "period": {
     "label": "live_rapid"
   },
@@ -546,19 +546,6 @@
     },
     {
       "rank": 42,
-      "id": "knighthunter2026",
-      "name": "Vidip Kona",
-      "value": 2679.0,
-      "unit": "rating",
-      "meta": {
-        "username": "knighthunter2026",
-        "title": "NM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 43,
       "id": "GMBenjaminBok",
       "name": "Benjamin Bok",
       "value": 2679.0,
@@ -567,6 +554,19 @@
         "username": "GMBenjaminBok",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/NL",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 43,
+      "id": "knighthunter2026",
+      "name": "Vidip Kona",
+      "value": 2677.0,
+      "unit": "rating",
+      "meta": {
+        "username": "knighthunter2026",
+        "title": "NM",
+        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
     },
@@ -605,12 +605,25 @@
       "meta": {
         "username": "gabber2011",
         "title": "FM",
-        "country_url": "https://api.chess.com/pub/country/RO",
+        "country_url": "https://api.chess.com/pub/country/IT",
         "category": "live_rapid"
       }
     },
     {
       "rank": 47,
+      "id": "masruri_rahman",
+      "name": "Masruri Rahman",
+      "value": 2674.0,
+      "unit": "rating",
+      "meta": {
+        "username": "masruri_rahman",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/ID",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 48,
       "id": "SharathRk6",
       "name": "Sharath Radhakrishnan",
       "value": 2673.0,
@@ -623,7 +636,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "Chenitha201583",
       "name": "Chenitha Karunasena",
       "value": 2673.0,
@@ -636,7 +649,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "BLITZMASTER",
       "name": "Robby Adamson",
       "value": 2672.0,
@@ -647,26 +660,13 @@
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
-    },
-    {
-      "rank": 50,
-      "id": "Galileo22",
-      "name": "Owen McCoy",
-      "value": 2672.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Galileo22",
-        "title": "NM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
     }
   ],
   "source_fetched": [
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-26T00:24:33Z",
+      "fetched_at": "2026-11-26T09:33:37Z",
       "http_status": 200
     }
   ]
