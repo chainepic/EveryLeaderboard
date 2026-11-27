@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-rapid",
-  "generated_at": "2026-11-26T19:38:45Z",
-  "as_of": "2026-11-26T19:38:45Z",
+  "generated_at": "2026-11-27T02:52:50Z",
+  "as_of": "2026-11-27T02:52:50Z",
   "period": {
     "label": "live_rapid"
   },
@@ -221,6 +221,19 @@
     },
     {
       "rank": 17,
+      "id": "Swiss_Fighter",
+      "name": "Gabriel Gähwiler",
+      "value": 2721.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Swiss_Fighter",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/CH",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 18,
       "id": "linlin1812",
       "name": "Patrick Liu",
       "value": 2721.0,
@@ -233,7 +246,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": "Liindseeyy",
       "name": "Liindseeyy",
       "value": 2716.0,
@@ -246,7 +259,20 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
+      "id": "Nitzan_Steinberg",
+      "name": "Nitzan Steinberg",
+      "value": 2716.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Nitzan_Steinberg",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IL",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 21,
       "id": "Berardino",
       "name": "Diego Berardino",
       "value": 2715.0,
@@ -259,33 +285,20 @@
       }
     },
     {
-      "rank": 20,
-      "id": "Swiss_Fighter",
-      "name": "Gabriel Gähwiler",
-      "value": 2713.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Swiss_Fighter",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/CH",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 21,
-      "id": "Nitzan_Steinberg",
-      "name": "Nitzan Steinberg",
-      "value": 2713.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Nitzan_Steinberg",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IL",
-        "category": "live_rapid"
-      }
-    },
-    {
       "rank": 22,
+      "id": "JohnDanielBryantIII",
+      "name": "John Daniel Bryant",
+      "value": 2706.0,
+      "unit": "rating",
+      "meta": {
+        "username": "JohnDanielBryantIII",
+        "title": "IM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 23,
       "id": "1800_strength",
       "name": "Dachey Lin",
       "value": 2702.0,
@@ -298,7 +311,7 @@
       }
     },
     {
-      "rank": 23,
+      "rank": 24,
       "id": "Semper-Vincit-100",
       "name": "Semper-Vincit-100",
       "value": 2701.0,
@@ -311,7 +324,7 @@
       }
     },
     {
-      "rank": 24,
+      "rank": 25,
       "id": "WIDBIFS",
       "name": "Erik Obgolts",
       "value": 2701.0,
@@ -324,7 +337,7 @@
       }
     },
     {
-      "rank": 25,
+      "rank": 26,
       "id": "KNVB",
       "name": "Aman Hambleton",
       "value": 2701.0,
@@ -337,7 +350,7 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 27,
       "id": "koziororo",
       "name": "Michal Koziorowicz",
       "value": 2700.0,
@@ -350,7 +363,7 @@
       }
     },
     {
-      "rank": 27,
+      "rank": 28,
       "id": "69360420obama",
       "name": "69360420obama",
       "value": 2700.0,
@@ -363,7 +376,7 @@
       }
     },
     {
-      "rank": 28,
+      "rank": 29,
       "id": "AnthonyWirig",
       "name": "Anthony Wirig",
       "value": 2700.0,
@@ -376,7 +389,7 @@
       }
     },
     {
-      "rank": 29,
+      "rank": 30,
       "id": "LikeWater",
       "name": "Alexander Velikanov",
       "value": 2699.0,
@@ -389,7 +402,7 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 31,
       "id": "LSChess",
       "name": "Logan Clark Shafer",
       "value": 2694.0,
@@ -402,7 +415,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": "Aoitsukibluemoon",
       "name": "Wang Hao",
       "value": 2694.0,
@@ -415,7 +428,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": "dual_flurry",
       "name": "Jerad Docena",
       "value": 2692.0,
@@ -428,7 +441,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 34,
       "id": "kontosnik1",
       "name": "Νik kontos",
       "value": 2692.0,
@@ -441,7 +454,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 35,
       "id": "ClydeHillKid",
       "name": "Joseph Levine",
       "value": 2690.0,
@@ -454,7 +467,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 36,
       "id": "PocketPivot",
       "name": "Michael de Verdier",
       "value": 2687.0,
@@ -463,19 +476,6 @@
         "username": "PocketPivot",
         "title": "FM",
         "country_url": "https://api.chess.com/pub/country/SE",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 36,
-      "id": "JohnDanielBryantIII",
-      "name": "John Daniel Bryant",
-      "value": 2687.0,
-      "unit": "rating",
-      "meta": {
-        "username": "JohnDanielBryantIII",
-        "title": "IM",
-        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
       }
     },
@@ -507,6 +507,19 @@
     },
     {
       "rank": 39,
+      "id": "last8pawns",
+      "name": "William Summerfield",
+      "value": 2681.0,
+      "unit": "rating",
+      "meta": {
+        "username": "last8pawns",
+        "title": "NM",
+        "country_url": "https://api.chess.com/pub/country/US",
+        "category": "live_rapid"
+      }
+    },
+    {
+      "rank": 40,
       "id": "Tchebytchev",
       "name": "Tchebytchev",
       "value": 2680.0,
@@ -519,7 +532,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": "TenisMaster",
       "name": "Yuniesky Quesada",
       "value": 2680.0,
@@ -532,7 +545,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "grandmastergauri",
       "name": "Gauri Shankar",
       "value": 2680.0,
@@ -545,7 +558,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 43,
       "id": "GMBenjaminBok",
       "name": "Benjamin Bok",
       "value": 2679.0,
@@ -558,7 +571,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 44,
       "id": "knighthunter2026",
       "name": "Vidip Kona",
       "value": 2677.0,
@@ -571,26 +584,13 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": "Adept",
       "name": "Vladyslav Khil",
       "value": 2675.0,
       "unit": "rating",
       "meta": {
         "username": "Adept",
-        "title": "NM",
-        "country_url": "https://api.chess.com/pub/country/US",
-        "category": "live_rapid"
-      }
-    },
-    {
-      "rank": 45,
-      "id": "last8pawns",
-      "name": "William Summerfield",
-      "value": 2675.0,
-      "unit": "rating",
-      "meta": {
-        "username": "last8pawns",
         "title": "NM",
         "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_rapid"
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-26T19:38:45Z",
+      "fetched_at": "2026-11-27T02:52:50Z",
       "http_status": 200
     }
   ]
