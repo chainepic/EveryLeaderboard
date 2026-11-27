@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "chess-com-blitz",
-  "generated_at": "2026-11-27T02:52:50Z",
-  "as_of": "2026-11-27T02:52:50Z",
+  "generated_at": "2026-11-27T12:28:24Z",
+  "as_of": "2026-11-27T12:28:24Z",
   "period": {
     "label": "live_blitz"
   },
@@ -104,6 +104,19 @@
     },
     {
       "rank": 8,
+      "id": "Sina-Movahed",
+      "name": "Sina Movahed",
+      "value": 3288.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Sina-Movahed",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/IR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 9,
       "id": "jefferyx",
       "name": "Jeffery Xiong",
       "value": 3288.0,
@@ -116,7 +129,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "Micki-taryan",
       "name": "Haik Martirosyan",
       "value": 3286.0,
@@ -129,7 +142,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "id": "bubeliang",
       "name": "Havard Haug",
       "value": 3282.0,
@@ -142,7 +155,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "id": "legendisback1",
       "name": "Yagiz Kaan Erdogmus",
       "value": 3280.0,
@@ -155,7 +168,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "id": "rpragchess",
       "name": "Praggnanandhaa Rameshbabu",
       "value": 3279.0,
@@ -168,7 +181,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": "GHANDEEVAM2003",
       "name": "Arjun Erigaisi",
       "value": 3279.0,
@@ -177,19 +190,6 @@
         "username": "GHANDEEVAM2003",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/IN",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 14,
-      "id": "Sina-Movahed",
-      "name": "Sina Movahed",
-      "value": 3276.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Sina-Movahed",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/IR",
         "category": "live_blitz"
       }
     },
@@ -234,6 +234,19 @@
     },
     {
       "rank": 18,
+      "id": "FaustinoOro",
+      "name": "Faustino Oro",
+      "value": 3264.0,
+      "unit": "rating",
+      "meta": {
+        "username": "FaustinoOro",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/AR",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 19,
       "id": "Sibelephant",
       "name": "Vladislav Artemiev",
       "value": 3264.0,
@@ -246,7 +259,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": "FabianoCaruana",
       "name": "Fabiano Caruana",
       "value": 3261.0,
@@ -259,7 +272,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 21,
       "id": "Andreikka",
       "name": "Andrey Esipenko",
       "value": 3259.0,
@@ -272,7 +285,7 @@
       }
     },
     {
-      "rank": 21,
+      "rank": 22,
       "id": "Grischuk",
       "name": "Alexander Grischuk",
       "value": 3252.0,
@@ -281,19 +294,6 @@
         "username": "Grischuk",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/RU",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 22,
-      "id": "Philippians46",
-      "name": "Andy Woodward",
-      "value": 3251.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Philippians46",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
@@ -338,19 +338,6 @@
     },
     {
       "rank": 26,
-      "id": "FaustinoOro",
-      "name": "Faustino Oro",
-      "value": 3242.0,
-      "unit": "rating",
-      "meta": {
-        "username": "FaustinoOro",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/AR",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 27,
       "id": "Msb2",
       "name": "Matthias Bluebaum",
       "value": 3240.0,
@@ -359,6 +346,19 @@
         "username": "Msb2",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/DE",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 27,
+      "id": "Philippians46",
+      "name": "Andy Woodward",
+      "value": 3240.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Philippians46",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/US",
         "category": "live_blitz"
       }
     },
@@ -481,6 +481,19 @@
     },
     {
       "rank": 37,
+      "id": "Jospem",
+      "name": "Jose Martinez",
+      "value": 3230.0,
+      "unit": "rating",
+      "meta": {
+        "username": "Jospem",
+        "title": "GM",
+        "country_url": "https://api.chess.com/pub/country/MX",
+        "category": "live_blitz"
+      }
+    },
+    {
+      "rank": 38,
       "id": "artooon",
       "name": "Pranesh M",
       "value": 3225.0,
@@ -493,7 +506,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 39,
       "id": "BillieKimbah",
       "name": "Maxim Matlakov",
       "value": 3224.0,
@@ -506,7 +519,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 40,
       "id": "lachesisQ",
       "name": "Ian Nepomniachtchi",
       "value": 3223.0,
@@ -519,7 +532,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": "LiemLe",
       "name": "Liem Le",
       "value": 3222.0,
@@ -532,7 +545,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "ChristopherYoo",
       "name": "Christopher Woojin Yoo",
       "value": 3221.0,
@@ -541,19 +554,6 @@
         "username": "ChristopherYoo",
         "title": "GM",
         "country_url": "https://api.chess.com/pub/country/TV",
-        "category": "live_blitz"
-      }
-    },
-    {
-      "rank": 42,
-      "id": "Jospem",
-      "name": "Jose Martinez",
-      "value": 3219.0,
-      "unit": "rating",
-      "meta": {
-        "username": "Jospem",
-        "title": "GM",
-        "country_url": "https://api.chess.com/pub/country/MX",
         "category": "live_blitz"
       }
     },
@@ -666,7 +666,7 @@
     {
       "name": "Chess.com",
       "url": "https://api.chess.com/pub/leaderboards",
-      "fetched_at": "2026-11-27T02:52:50Z",
+      "fetched_at": "2026-11-27T12:28:24Z",
       "http_status": 200
     }
   ]
