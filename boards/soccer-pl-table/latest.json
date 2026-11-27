@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "slug": "soccer-pl-table",
-  "generated_at": "2026-11-27T12:28:28Z",
-  "as_of": "2026-11-27T12:28:28Z",
+  "generated_at": "2026-11-27T21:59:30Z",
+  "as_of": "2026-11-27T21:59:30Z",
   "period": {
     "label": "2026-27 English Premier League"
   },
@@ -132,10 +132,10 @@
       "meta": {
         "group": "2026-27 English Premier League",
         "wins": 5.0,
-        "losses": 5.0,
+        "losses": 6.0,
         "ties": 1.0,
-        "games_played": 11.0,
-        "goal_diff": 0.0,
+        "games_played": 12.0,
+        "goal_diff": -1.0,
         "season": "2026-27 English Premier League"
       }
     },
@@ -221,6 +221,22 @@
     },
     {
       "rank": 14,
+      "id": "393",
+      "name": "Nottingham Forest",
+      "value": 12.0,
+      "unit": "pts",
+      "meta": {
+        "group": "2026-27 English Premier League",
+        "wins": 3.0,
+        "losses": 6.0,
+        "ties": 3.0,
+        "games_played": 12.0,
+        "goal_diff": -5.0,
+        "season": "2026-27 English Premier League"
+      }
+    },
+    {
+      "rank": 15,
       "id": "388",
       "name": "Coventry City",
       "value": 12.0,
@@ -236,7 +252,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": "370",
       "name": "Fulham",
       "value": 11.0,
@@ -252,7 +268,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": "373",
       "name": "Ipswich Town",
       "value": 11.0,
@@ -264,22 +280,6 @@
         "ties": 2.0,
         "games_played": 11.0,
         "goal_diff": -7.0,
-        "season": "2026-27 English Premier League"
-      }
-    },
-    {
-      "rank": 17,
-      "id": "393",
-      "name": "Nottingham Forest",
-      "value": 9.0,
-      "unit": "pts",
-      "meta": {
-        "group": "2026-27 English Premier League",
-        "wins": 2.0,
-        "losses": 6.0,
-        "ties": 3.0,
-        "games_played": 11.0,
-        "goal_diff": -6.0,
         "season": "2026-27 English Premier League"
       }
     },
@@ -336,7 +336,7 @@
     {
       "name": "ESPN",
       "url": "https://site.web.api.espn.com/apis/v2/sports/soccer/eng.1/standings",
-      "fetched_at": "2026-11-27T12:28:28Z",
+      "fetched_at": "2026-11-27T21:59:30Z",
       "http_status": 200
     }
   ]
